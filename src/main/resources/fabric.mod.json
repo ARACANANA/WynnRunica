@@ -7,7 +7,7 @@
   "authors": ["shiiu"],
   "contact": {},
   "license": "All-Rights-Reserved",
-  "icon": "assets/wynn_runica/icon.png",
+  "icon": "assets/wynnrunica/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [

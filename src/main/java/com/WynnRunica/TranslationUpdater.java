@@ -57,9 +57,8 @@ public class TranslationUpdater {
 
             }
 
-
         } catch (IOException e) {
-            System.out.println("Oshibka auto updeyta: " + e.getMessage());
+            System.out.println("Oshibka auto updeyta questov: " + e.getMessage());
         }
 
     }

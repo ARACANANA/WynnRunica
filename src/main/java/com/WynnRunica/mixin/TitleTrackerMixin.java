@@ -18,6 +18,8 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.WynnRunica.WynnRunicaClient.enabled;
+
 @Mixin(InGameHud.class)
 public class TitleTrackerMixin {
 
@@ -36,6 +38,7 @@ public class TitleTrackerMixin {
 
     @Inject(method = "setOverlayMessage", at = @At("HEAD"), cancellable = true)
     private void onSetOverlay(Text message, boolean tinted, CallbackInfo ci) {
+        if (!enabled) return;
         if (isModifying) return;
 
         try {
@@ -66,6 +69,7 @@ public class TitleTrackerMixin {
 
             String key = keyBuilder.toString().trim().replaceAll(" +", " ");
             if (key.isEmpty()) return;
+
 
             String playerName = MinecraftClient.getInstance().getSession().getUsername();
             key = key.replace(playerName, "<playername>");
@@ -102,10 +106,12 @@ public class TitleTrackerMixin {
                     int spaces = (adjust + 3) / 4;
                     int modulo = adjust % 4;
                     StringBuilder sb = new StringBuilder(" ".repeat(spaces));
+
                     if (modulo != 0) {
                         sb.append(SPECIAL_CHAR).append((char)(ZERO_WIDTH_CHAR - (4 - modulo)));
                     }
                     copy.append(Text.literal(sb.toString()).setStyle(bodyStyles[0]));
+
                 } else if (adjust < 0) {
                     int backUp = -adjust;
                     copy.append(Text.literal("" + SPECIAL_CHAR + (char)(ZERO_WIDTH_CHAR - backUp)).setStyle(bodyStyles[0]));
@@ -119,6 +125,7 @@ public class TitleTrackerMixin {
                 TextColor originalColor = textSibs.get(0).getStyle().getColor();
                 Style line0Style = originalColor != null ? bodyStyles[0].withColor(originalColor) : bodyStyles[0];
                 MutableText copy = parseBrackets(lines.get(0), line0Style);
+
                 for (int i = 1; i < lines.size() && i < 5; i++) {
                     copy = manageWidth(copy);
                     Style lineStyle = originalColor != null ? bodyStyles[i].withColor(originalColor) : bodyStyles[i];
@@ -132,9 +139,11 @@ public class TitleTrackerMixin {
                 int cursorResetIdx = -1;
                 for (int i = lastTextIdx + 1; i < siblings.size(); i++) {
                     Text sib = siblings.get(i);
+                    String sibStr = sib.getString();
+                    boolean hasSurrogate = sibStr.chars().anyMatch(c -> c >= 0xD800 && c <= 0xDFFF);
                     if (sib.getStyle().getFont() != null &&
                             sib.getStyle().getFont().toString().contains("body_") &&
-                            sib.getString().length() <= 2) {
+                            sibStr.length() <= 2 && hasSurrogate) {
                         cursorResetIdx = i;
                         break;
                     }
@@ -151,6 +160,7 @@ public class TitleTrackerMixin {
 
                 int newTotalWidth = getRenderWidth(messageCopy);
                 int diff = originalTotalWidth - newTotalWidth;
+
                 if (diff > 0) {
                     int spaces = (diff + 3) / 4;
                     int modulo = diff % 4;
@@ -160,6 +170,7 @@ public class TitleTrackerMixin {
                     }
                     copy.append(Text.literal(sb.toString()).setStyle(bodyStyles[0]));
                     siblings.set(textIndices.get(0), copy);
+
                 } else if (diff < 0) {
                     int backUp = -diff;
                     copy.append(Text.literal("" + SPECIAL_CHAR + (char)(ZERO_WIDTH_CHAR - backUp)).setStyle(bodyStyles[0]));
@@ -182,6 +193,7 @@ public class TitleTrackerMixin {
         if (text.length() <= 2) return "";
         StringBuilder out = new StringBuilder();
         boolean skipNext = false;
+
         for (char c : text.toCharArray()) {
             if (skipNext) { skipNext = false; continue; }
             if (c == SPECIAL_CHAR) { out.append(" "); skipNext = true; continue; }
@@ -194,18 +206,23 @@ public class TitleTrackerMixin {
     }
 
     private ArrayList<String> splitTextIntoLines(String text, Style style, int adjustWidth) {
+
         ArrayList<String> lines = new ArrayList<>();
         String remaining = text;
+
         while (!remaining.isEmpty()) {
             if (lines.size() == 5) {
                 lines.set(4, lines.get(4) + " " + remaining);
                 break;
             }
+
             if (getRenderWidth(Text.literal(remaining).setStyle(style)) <= MAX_WIDTH - adjustWidth) {
                 lines.add(remaining);
                 break;
             }
+
             int splitIndex = findBestSplitIndex(remaining, style, MAX_WIDTH - adjustWidth);
+
             if (splitIndex <= 0) splitIndex = 1;
             lines.add(remaining.substring(0, splitIndex).stripTrailing());
             remaining = remaining.substring(splitIndex).stripLeading();
@@ -215,8 +232,10 @@ public class TitleTrackerMixin {
 
     private int findBestSplitIndex(String text, Style style, int maxWidth) {
         int low = 0, high = text.length();
+
         while (low < high) {
             int mid = (low + high + 1) >>> 1;
+
             if (getRenderWidth(Text.literal(text.substring(0, mid)).setStyle(style)) <= maxWidth)
                 low = mid;
             else
@@ -228,8 +247,10 @@ public class TitleTrackerMixin {
 
     private MutableText manageWidth(MutableText component) {
         int width = getRenderWidth(component);
+
         if (width == 0) return component;
         String specialChars;
+
         if (width > 0) {
             specialChars = SPECIAL_CHAR + "" + (char)(ZERO_WIDTH_CHAR - width);
         } else {
@@ -254,8 +275,10 @@ public class TitleTrackerMixin {
         MutableText result = Text.literal("").setStyle(baseStyle);
         int lastPos = 0;
         int startIdx = text.indexOf('[');
+
         while (startIdx != -1) {
             int endIdx = text.indexOf(']', startIdx);
+
             if (endIdx != -1) {
                 if (startIdx > lastPos) {
                     result.append(Text.literal(text.substring(lastPos, startIdx)).setStyle(baseStyle));

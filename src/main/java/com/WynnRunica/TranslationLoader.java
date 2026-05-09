@@ -42,15 +42,15 @@ public class TranslationLoader {
                         }
                     }
 
-
                 }
                 catch (IOException e) {
-                    throw new RuntimeException(e);
+                    System.out.println("Oshibka zagruzki iz jar: " + e.getMessage());
                 }
 
 
             } catch (IOException | URISyntaxException e) {
-                throw new RuntimeException(e);
+                System.out.println("Oshibka zagruzki iz jar: " + e.getMessage());
+
             }
         }
 

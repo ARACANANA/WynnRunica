@@ -19,7 +19,7 @@ public class WynnRunicaClient implements ClientModInitializer {
     private static KeyBinding toggleKey;
 
     private static final KeyBinding.Category WR_CATEGORY =
-            KeyBinding.Category.create(Identifier.of("WynnRunica"));
+            KeyBinding.Category.create(Identifier.of("wynnrunica"));
 
 
     @Override

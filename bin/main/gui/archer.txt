@@ -1,0 +1,578 @@
+# WynnRunica Archer Ability Tree Paragraph Translations
+Shoots a long-ranged arrow that explodes and deals high damage over a large area. (Self-damage for 10% of your DPS) @ Выпускает дальнобойную стрелу, которая взрывается и наносит высокий урон по большой площади. (Наносит вам урон в размере 10% от вашего DPS)
+Improve your Main Attack's damage and range when using a bow. @ Увеличивает урон и дальность вашей Основной Атаки при использовании лука.
+Reduce the Mana cost of Arrow Bomb. @ Снижает стоимость маны для Взрыва Стрелы.
+Hitting a mob directly with Arrow Bomb, will shatter its heart and deal additional damage. @ Прямое попадание Взрывом Стрелы по мобу раскалывает его сердце и наносит дополнительный урон.
+Doubles Main Attack arrows and reduces their damage. (Harder to hit distant enemies) @ Удваивает стрелы Основной Атаки и снижает их урон. (Сложнее попасть по далеким врагам)
+Throw yourself backward to avoid danger. (Hold shift while escaping to cancel) @ Отбрасывает вас назад, позволяя избежать опасности. (Зажмите Shift во время побега для отмены)
+Your Main Attack arrows have increased speed and knockback. @ Стрелы вашей Основной Атаки имеют увеличенную скорость и отбрасывание.
+Shoots a stream of 8 arrows, dealing significant damage to close mobs and pushing them away. @ Выпускает поток из 8 стрел, нанося значительный урон ближайшим мобам и отталкивая их.
+Reduce the Mana cost of Escape by 5. @ Снижает стоимость маны для Побега на 5.
+Forms a shield around you that slightly reduces the damage you take. Being hit will consume one charge of the shield. Enemies that get too close will take damage and be knocked away. (3 charges) @ Создает вокруг вас щит, который слегка снижает получаемый вами урон. Получение удара расходует один заряд щита. Враги, подошедшие слишком близко, получают урон и отбрасываются. (3 заряда)
+Casting Escape grants a speed buff to you and nearby players. @ Использование Побега дает бафф к скорости вам и ближайшим игрокам.
+Increase your base damage from all Air attacks. @ Увеличивает ваш базовый урон от всех атак Воздухом.
+Increase your base damage from all Thunder attacks. @ Увеличивает ваш базовый урон от всех атак Громом.
+Increase your base damage from all Fire attacks. @ Увеличивает ваш базовый урон от всех атак Огнем.
+Increase your base damage from all Water attacks. @ Увеличивает ваш базовый урон от всех атак Водой.
+Increase your base damage from all Earth attacks. @ Увеличивает ваш базовый урон от всех атак Землей.
+Doubles the speed of Arrow Storm and shoots +6 arrows per stream. @ Удваивает скорость Шторма Стрел и выпускает +6 стрел за поток.
+When Arrow Shield loses its last charge, spew 75 piercing arrows forth from your bow. @ Когда Щит из Стрел теряет свой последний заряд, ваш лук выпускает 75 пронзающих стрел.
+Hitting an enemy with Arrow Storm will create an area of effect that slows them down and deals damage every 0.4s. @ Попадание по врагу Штормом Стрел создает область эффекта, которая замедляет его и наносит урон каждые 0.4с.
+Arrow Bomb will leave a trail of fire for 6s. Enemies that walk into it take damage every 0.4s. @ Взрыв Стрелы оставляет огненный след на 6с. Враги, наступающие на него, получают урон каждые 0.4с.
+Condense Arrow Storm into a single ray that damages enemies 10 times per second. @ Сжимает Шторм Стрел в один луч, который наносит урон врагам 10 раз в секунду.
+Triples Main Attack arrows but they deal -10% of normal Main Attack arrow damage. @ Утраивает стрелы Основной Атаки, но они наносят на 10% меньше обычного урона стрел Основной Атаки.
+Hitting an enemy will give you a brief buff of +3% Walk Speed. (Max +70%) -5% of the bonus decays every second. @ Попадание по врагу дает кратковременный бафф к скорости ходьбы +3%. (Макс. +70%) Бонус уменьшается на 5% каждую секунду.
+Your Arrow Shield turns into 2 sentient bows that fire at nearby enemies every 0.45s, each with 10 ammunition. (Arrow Shield will no longer push enemies away or provide resistance) @ Ваш Щит из Стрел превращается в 2 парящих лука, которые стреляют по ближайшим врагам каждые 0.45с, каждый с 10 стрелами боезапаса. (Щит из Стрел больше не отталкивает врагов и не дает сопротивление)
+When you hit the ground with Arrow Bomb, leave a Trap that damages enemies. (Max 2 Traps) @ При попадании Взрывом Стрелы по земле оставляет Ловушку, наносящую урон врагам. (Макс. 2 ловушки)
+When hitting an aggressive enemy 5+ blocks away, gain +1 Focus. (Max 3) (Lose 50% Focus if you miss once) Damage Bonus: +15% (per focus) @ При попадании по агрессивному врагу на расстоянии 5+ блоков дает +1 Фокус. (Макс. 3) (Теряет 50% Фокуса при одном промахе) Бонус к урону: +15% (за фокус)
+Arrow Storm will shoot +1 stream of arrows and +2 extra arrows per stream. Arrow Storm gains recoil while midair. @ Шторм Стрел выпускает +1 поток стрел и +2 дополнительные стрелы за поток. Шторм Стрел получает отдачу в воздухе.
+Reduce the Mana cost of Arrow Storm by 5. @ Снижает стоимость маны для Шторма Стрел на 5.
+Arrow Bomb pulls enemies towards you. If a Trap is nearby, it will pull them towards it instead. Increases Heart Shatter's damage. @ Взрыв Стрелы притягивает врагов к вам. Если рядом есть Ловушка, вместо этого он притянет их к ней. Увеличивает урон Разбивания Сердца.
+Gives Arrow Shield +2 extra charges. Guardian Angels will deal -40% damage. @ Дает Щиту из Стрел +2 дополнительных заряда. Ангелы-Хранители наносят на 40% меньше урона.
+Your Traps will deal +20% more damage for every second it's active. (Max +100%) Increase your maximum Traps by +1. @ Ваши Ловушки наносят на 20% больше урона за каждую секунду активности. (Макс. +100%) Увеличивает макс. количество Ловушек на 1.
+When casting Escape, throw a hook that pulls you when hitting a block. (Escape will not throw you backward anymore) Holding Shift while casting will pull any enemy you hit. @ При использовании Побега выпускает крюк, который притягивает вас при попадании в блок. (Побег больше не отбрасывает вас назад) Зажатие Shift при использовании притянет любого врага, в которого вы попадете.
+Increase your maximum Focus by +2. @ Увеличивает ваш максимальный Фокус на 2.
+Phantom Ray gains extra forward range, and becomes wider. @ Фантомный Луч получает увеличенную дальность вперед и становится шире.
+Windy Feet will last longer and grant a stronger speed buff. @ Ветряные Ноги длятся дольше и дают более сильный бафф к скорости.
+For every 16 arrows shot by Arrow Storm, your Main Attacks will additionally fire a flint arrow that damages enemies. (Max 5) @ За каждые 16 стрел, выпущенных Штормом Стрел, ваша Основная Атака дополнительно выстреливает кремниевую стрелу, которая наносит урон врагам. (Макс. 5)
+Arrow Shield summons a Hound that will attack aggressive enemies every 0.25s and drag them towards your traps. @ Щит из Стрел призывает Гончую, которая атакует агрессивных врагов каждые 0.25с и тащит их к вашим ловушкам.
+Leap forwards when you double jump. The distance scales with your Walk Speed. @ Совершает прыжок вперед при двойном прыжке. Дальность зависит от вашей скорости ходьбы.
+For every 1% Walk Speed you have from items, gain +1 Raw Spell Damage (Max 100) @ За каждый 1% скорости ходьбы от предметов дает +1 к чистому урону заклинаний (Макс. 100)
+Arrow Bomb will bounce once when hitting a block or enemy. @ Взрыв Стрелы отскакивает один раз при попадании в блок или врага.
+Bryophyte Roots summons a Snake after disappearing that will spit weakening venom at aggressive enemies every 1s. (Max 1) Enemies will be weakened for 1.5s. @ Моховые Корни после исчезновения призывают Змею, которая плюет ослабляющим ядом в агрессивных врагов каждую 1с. (Макс. 1) Враги ослабляются на 1.5с.
+Effects: -15% Damage Bonus to Enemies @ Эффекты: -15% урона врагам
+If you have 2+ Focus, holding shift will summon Twain's Arc. Charge it up to shoot a destructive long-range beam. @ Если у вас есть 2+ Фокуса , зажатие Shift призовет Дугу Твейна. Зарядите ее, чтобы выпустить разрушительный дальнобойный луч.
+Arrow Bomb's recoil is increased, and its self-damage is reduced to 1%. @ Отдача Взрыва Стрелы увеличена, а наносимый себе урон снижен до 1%.
+Fire Creep becomes much stronger. @ Огненный След становится намного сильнее.
+Increase your maximum Traps by +3. @ Увеличивает ваше максимальное количество Ловушек на 3.
+Guardian Angels gain +8 additional ammunition. Whenever you cast a spell, your Guardian Angels become briefly empowered. Casting Arrow Storm will cause them to shoot 2.25x faster. @ Ангелы-Хранители получают +8 дополнительных стрел боезапаса. Каждый раз, когда вы применяете заклинание, ваши Ангелы-Хранители на короткое время усиливаются. Использование Шторма Стрел заставит их стрелять в 2.25 раза быстрее.
+Casting Arrow Bomb will cause them to shoot explosive shots, dealing +20% damage. @ Использование Взрыва Стрелы заставит их стрелять взрывными выстрелами, наносящими +20% урона.
+When using Escape, hold shift to quickly drop down to deal damage and blind enemies. @ При использовании Побега зажмите Shift, чтобы быстро приземлиться, нанести урон и ослепить врагов.
+Reduce the Mana cost of Arrow Shield by 5. @ Снижает стоимость маны для Щита из Стрел на 5.
+Arrow Shield's radius, knockback, and damage is increased. Guardian Angels' damage is increased. @ Радиус, отбрасывание и урон Щита из Стрел увеличены. Урон Ангелов-Хранителей увеличен.
+Arrow Bomb will be unaffected by gravity and increase its explosion damage. @ Взрыв Стрелы перестает подвергаться гравитации, а его урон от взрыва увеличивается.
+Reduce Leap's cooldown by 2s. @ Снижает время перезарядки Прыжка на 2с.
+Your Main Attack arrows will follow nearby enemies and will be unaffected by gravity. @ Стрелы вашей Основной Атаки будут преследовать ближайших врагов и перестанут подвергаться гравитации.
+Your Traps will give you 0.5 Mana per second and 10 Mana when they explode. Increase your maximum Traps by +1. @ Ваши Ловушки дают вам 0.5 маны в секунду и 10 маны при взрыве. Увеличивает максимальное количество Ловушек на 1.
+Reduce the Mana cost of Arrow Storm. @ Снижает стоимость маны для Шторма Стрел.
+If you do not damage an enemy for 4s or more, your next successful hit will deal +60% damage and add +1 Focus. @ Если вы не наносили урон врагу 4 секунды или дольше, ваше следующее успешное попадание нанесет +60% урона и добавит +1 Фокус.
+Increase Guardian Angels' range and damage. Casting Arrow Shield while Guardian Angels are active will also cast Buckshot. Increase Buckshot's damage. @ Увеличивает дальность и урон Ангелов-Хранителей. Использование Щита из Стрел при активных Ангелах-Хранителях также активирует Картечь. Увеличивает урон Картечи.
+When casting Escape, release a cluster bomb mid-air that explodes, sending a payload of 150 arrows to your previous location. (Each enemy can only be hit by one arrow) @ При использовании Побега выпускает в воздухе кассетную бомбу, которая взрывается, отправляя 150 стрел в вашу предыдущую локацию. (Каждый враг может быть поражен только одной стрелой)
+Basaltic Trap summons a Crow upon detonation that will peck at aggressive enemies every 0.9s. (Max 2) Damaged enemies will be distracted for 0.2s. @ Базальтовая Ловушка при детонации призывает Ворону, которая клюет агрессивных врагов каждые 0.9с. (Макс. 2) Пораженные враги отвлекаются на 0.2с.
+Phantom Ray will increase its damage by 15% every time you do not miss with it. (Max 90%) Phantom Ray gains extra forward range. @ Фантомный Луч увеличивает свой урон на 15% каждый раз, когда вы не промахиваетесь им. (Макс. 90%) Фантомный Луч получает увеличенную дальность вперед.
+Slow Falling is applied upon using Escape. Crouching at any point will cancel this effect. @ При использовании Побега накладывается Медленное Падение. Приседание в любой момент отменяет этот эффект.
+Twain's Arc charges 25% faster, and can now pierce through up to 5 enemies, dealing reduced damage after piercing. (Damage is dealt as Main Attack Damage) @ Дуга Твейна заряжается на 25% быстрее и теперь может пробивать до 5 врагов, нанося сниженный урон после пробивания. (Урон наносится как урон Основной Атаки)
+When any of your projectiles miss, gain +0.1 Mana. @ При промахе любого из ваших снарядов вы получаете +0.1 маны.
+Arrow Bomb's explosion will fling 25 shrapnel, dealing damage in a large area. (Each enemy can only be hit by one shrapnel) @ Взрыв Взрыва Стрелы разбрасывает 25 осколков, нанося урон по большой площади. (Каждый враг может быть поражен только одним осколком)
+Reduce the Mana cost of Escape. @ Снижает стоимость маны для Побега.
+Reduce the Mana cost of Arrow Shield. @ Снижает стоимость маны для Щита из Стрел.
+Increases your Grappling Hook's range, speed and strength. @ Увеличивает дальность, скорость и силу вашего Крюка-Кошки.
+Shocking Bomb will temporarily shock enemies, reducing their defences. @ Шокирующая Бомба временно поражает врагов шоком, снижая их защиту.
+Arrow Storm will shoot +2 extra streams of arrows. Arrow Storm's recoil is doubled. @ Шторм Стрел выпускает +2 дополнительных потока стрел. Отдача Шторма Стрел удваивается.
+Your Traps will be connected by a rope that deals damage to enemies every 0.2s. Increase your maximum Traps by +1. @ Ваши Ловушки соединяются веревкой, которая наносит урон врагам каждые 0.2с. Увеличивает максимальное количество Ловушек на 1.
+Increase your maximum Snakes by +1. Increase your maximum Crows by +2. Increase the damage of your Hound. @ Увеличивает максимальное количество Змей на 1. Увеличивает максимальное количество Ворон на 2. Увеличивает урон вашей Гончей.
+If you have 5+ Focus, casting Arrow Storm while 4+ blocks above the ground will cause you to levitate and shoot 20 homing arrows per second until you run out of Focus. While in this state, lose 1 Focus every 0.5s. @ Если у вас есть 5+ Фокуса , использование Шторма Стрел на высоте 4+ блоков над землей заставит вас левитировать и выпускать по 20 самонаводящихся стрел в секунду, пока не закончится Фокус . В этом состоянии вы теряете 1 Фокус  каждые 0.5с.
+Attach an icy snare to Basaltic Trap, drastically inhibiting and damaging nearby enemies every 0.2s after it detonates. Increase your maximum Traps by +1. @ Прикрепляет ледяную ловушку к Базальтовой Ловушке, сильно замедляя и нанося урон ближайшим врагам каждые 0.2с после ее взрыва. Увеличивает максимальное количество Ловушек на 1.
+Effects: 10% Slowness to Enemies, per hit (Max 90%) @ Эффекты: 10% Замедление врагов за удар (Макс. 90%)
+Arrow Bomb and Grape Bomb become much hotter, increasing the damage of their explosion. @ Взрыв Стрелы и Виноградная Бомба становятся намного горячее, увеличивая урон от их взрыва.
+Patient Hunter will increase its damage by +10% per second, and increase its Max Damage by +100%. Increase your maximum Traps by +1. @ Терпеливый Охотник увеличивает свой урон на 10% в секунду, а также увеличивает максимальный урон на +100%. Увеличивает максимальное количество Ловушек на 1.
+Enemies near you will be slowed down. @ Ближайшие к вам враги будут замедлены.
+While airborne after casting Escape, your next 3 Main Attacks can be fired in quick succession regardless of attack speed, and will instantly fire from Twain's Arc. @ Находясь в воздухе после использования Побега, ваши следующие 3 Основные Атаки могут быть произведены в быстрой последовательности независимо от скорости атаки, и будут мгновенно выпущены из Дуги Твейна.
+§nArrow Bomb§7 and §7§nArrow Storm§7 will no longer have recoil, and your §7§nArrow Bombs§7 will not deal self-damage. @ §nВзрыв Стрелы§7 и §7§nШторм Стрел§7 больше не имеют отдачи, а ваши §7§nВзрывы Стрелы§7 не наносят урона вам.
+Arrow Bomb will throw 3 additional smaller bombs when exploding. @ Взрыв Стрелы разбрасывает 3 дополнительные меньшие бомбы при взрыве.
+
+
+# --- 1:1 Server GUI Translations --- 
+Arrow Bomb @ Взрыв Стрелы
+§7§6Click Combo: §d§lLEFT§7-§d§lRIGHT§7-§d§lRIGHT @ §7§6Комбо: §d§lЛКМ§7-§d§lПКМ§7-§d§lПКМ
+§7§7Shoots a long-ranged arrow that explodes @ §7§7Выпускает дальнобойную стрелу, которая взрывается
+§7§7and deals high damage over a large area. @ §7§7и наносит высокий урон по большой площади.
+§7§8(Self-damage for <num>% of your DPS) @ §7§8(Наносит вам урон в размере <num>% от вашего DPS)
+§7<em> §7Mana Cost: §f<num> @ §7<em> §7Затраты маны: §f<num>
+§7<em> §7Total Damage: §f<num>% §8(of your DPS) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS)
+§7  ÀÀÀÀ§8(<em> §8Damage: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Урон: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Fire: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Огонь: §8<num>%§8)
+§7<em> §7Range: §f±<num> Blocks @ §7<em> §7Дальность: §f±<num> блоков
+§7<em> §7Area of Effect: §f<num> Blocks §7(Circle-Shaped) @ §7<em> §7Зона поражения: §f<num> блоков §7(Круг)
+§7§a✔ §7Ability Points: §f§f<num> @ §7§a✔ §7Очки способностей: §f§f<num>
+Bow Proficiency @ Мастерство Лука
+§7§7Improve your §nMain Attack§7's damage @ §7§7Увеличивает урон вашей §nОсновной Атаки§7
+§7§7and range when using a bow. @ §7§7и её дальность при использовании лука.
+§7<em> §7Main Attack Damage: §f+<num>% @ §7<em> §7Урон Осн. Атаки: §f+<num>%
+§7<em> §7Main Attack Range: §f+<num> Blocks @ §7<em> §7Main Attack Дальность: §f+<num> блоков
+Cheaper Arrow Bomb @ Дешевый Взрыв Стрелы
+§7§7Reduce the Mana cost of §nArrow Bomb§7. @ §7§7Снижает затраты маны для §nВзрыва Стрелы§7.
+§7<em> §7Mana Cost: §f-<num> @ §7<em> §7Затраты маны: §f-<num>
+§7§a✔ §7Required Ability: §fArrow Bomb @ §7§a✔ §7Требуется способность: §fArrow Bomb
+Heart Shatter @ Разбитое Сердце
+§7§7Hitting a mob directly with §nArrow Bomb§7, @ §7§7Прямое попадание по мобу §nВзрывом Стрелы§7
+§7will shatter its heart and deal additional damage. @ §7расколет его сердце и нанесет дополнительный урон.
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS)
+§7  ÀÀÀÀ§8(<em> §8Damage: §8+<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Урон: §8+<num>%§8)
+Ability Points @ Очки Способностей
+§7Ability Points are used @ §7Очки способностей используются
+§7to unlock new abilities @ §7для открытия новых способностей
+§7Next Page @ §7Следующая страница
+§7Back to Character Info @ §7Назад к Информации о персонаже
+Boltslinger Archetype @ Архетип: Болтслингер
+§7Boltslingers deal massive @ §7Болтслингеры наносят огромное
+§7amounts of hits and excel at @ §7количество ударов и превосходны на
+§7close range. §8(Speed, Damage @ §7ближней дистанции. §8(Скорость, Взрывной
+§8Burst) @ §8Урон)
+§7§a✔ §7Unlocked Abilities: §f<num>§7/<num> @ §7§a✔ §7Открыто способностей: §f<num>§7/<num>
+Trapper Archetype @ Архетип: Траппер
+§7Trappers can trap enemies and @ §7Трапперы могут ловить врагов в ловушки
+§7use beasts. §8(Delayed Damage, @ §7и использовать зверей. §8(Отложенный урон,
+§8CC) @ §8Контроль)
+Sharpshooter Archetype @ Архетип: Снайпер
+§7Sharpshooters excel at aiming @ §7Снайперы превосходны в прицеливании
+§7and can deal brutal hits. @ §7и могут наносить жесточайшие удары.
+§7§8(Range, Power Shots) @ §7§8(Дальность, Мощные выстрелы)
+§7Archer Abilities @ §7Способности Лучника
+§7Unlock abilities for your @ §7Открывайте способности для вашего
+§7class and become stronger @ §7класса и становитесь сильнее
+§7Currently Selected @ §7В данный момент выбрано
+§7Reset your Tree @ §7Сбросить Дерево
+§7Use Ability Shards to reset @ §7Используйте Осколки Способностей, чтобы
+§7and modify your Ability Tree @ §7сбросить и изменить ваше Дерево Способностей
+§7Aspects @ §7Аспекты
+§7View and equip collected Aspects @ §7View and equip collected Аспекты
+§7that buff your abilities @ §7которые усиливают ваши способности
+Double Shots @ Двойные Выстрелы
+§7§7Doubles §nMain Attack§7 arrows @ §7§7Удваивает количество стрел §nОсновной Атаки§7
+§7§7and reduces their damage. @ §7§7и снижает их урон.
+§7§8(Harder to hit distant enemies) @ §7§8(Сложнее попасть по далеким врагам)
+§7<em> §7Main Attack Damage: §c-<num>% §8(per arrow) @ §7<em> §7Урон Осн. Атаки: §c-<num>% §8(за стрелу)
+§r§cUnlocking will block: @ §r§cРазблокировка заблокирует:
+§r§c- §7Power Shots @ §r§c- §7Power Shots
+§7Boltslinger Archetype @ §7Архетип: Болтслингер
+§aUnlock Escape§a ability @ §aОткрыть способность Escape§a
+§7§6Click Combo: §d§lLEFT§7-§d§lLEFT§7-§d§lLEFT @ §7§6Комбо: §d§lЛКМ§7-§d§lЛКМ§7-§d§lЛКМ
+§7Throw yourself backward to avoid danger. @ §7Отбрасывает вас назад, избегая опасности.
+§7§8(Hold shift while escaping to cancel) @ §7§8(Зажмите Shift во время побега для отмены)
+§7<em> Click to unlock this ability @ §7<em> Нажмите, чтобы разблокировать эту способность
+Power Shots @ Мощные Выстрелы
+§7§7§7Your §nMain Attack§7 arrows have @ §7§7Стрелы вашей §nОсновной Атаки§7 получают
+§7increased speed and knockback. @ §7увеличенную скорость и отбрасывание.
+§r§c- §7Double Shots @ §r§c- §7Double Shots
+§7Sharpshooter Archetype @ §7Архетип: Снайпер
+Arrow Storm @ Шторм Стрел
+§7§6Click Combo: §d§lLEFT§7-§d§lRIGHT§7-§d§lLEFT @ §7§6Комбо: §d§lЛКМ§7-§d§lПКМ§7-§d§lЛКМ
+§7§7Shoots a stream of §f<num> §7arrows, @ §7§7Выпускает поток из §f<num> §7стрел,
+§7§7dealing significant damage to close @ §7§7нанося значительный урон ближайшим
+§7§7mobs and pushing them away. @ §7§7мобам и отталкивая их.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per arrow) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS, за стрелу)
+§7  ÀÀÀÀ§8(<em> §8Thunder: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8<num>%§8)
+Cheaper Escape @ Дешевый Побег
+§7§7Reduce the Mana cost of §nEscape§7. @ §7§7Снижает затраты маны для §nПобега§7.
+§7§c✖ §7Required Ability: §fEscape @ §7§c✖ §7Требуется способность: §fEscape
+Arrow Shield @ Щит из Стрел
+§7§6Click Combo: §d§lLEFT§7-§d§lLEFT§7-§d§lRIGHT @ §7§6Комбо: §d§lЛКМ§7-§d§lЛКМ§7-§d§lПКМ
+§7§7Forms a shield around you that slightly reduces @ §7§7Создает вокруг вас щит, который слегка снижает
+§7§7the damage you take. Being hit will consume one @ §7§7получаемый вами урон. Получение удара расходует один
+§7§7charge of the shield. Enemies that get too close @ §7§7заряд щита. Враги, подошедшие слишком близко,
+§7§7will take damage and be knocked away. (<num> charges) @ §7§7получат урон и будут отброшены. (<num> зарядов)
+§7  ÀÀÀÀ§8(<em> §8Air: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Воздух: §8<num>%§8)
+§7<em> §7Effect: §f<num>% §7Resistance Bonus (§a❁§7) @ §7<em> §7Эффект: §f<num>% §7Сопротивление (§a❁§7)
+§7<em> §7Duration: §f<num>s @ §7<em> §7Длительность: §f<num>с
+Windy Feet @ Ветряные Ноги
+§7§7Casting §nEscape§7 grants a speed buff @ §7§7Использование §nПобега§7 дает бафф скорости
+§7§7to you and nearby players. @ §7§7вам и ближайшим игрокам.
+§7<em> §7Effect: §f+<num>% §7Speed Bonus (§3➲§7) to Allies @ §7<em> §7Эффект: §f+<num>% §7Скорость (§3➲§7) к союзникам
+§7Previous Page @ §7Предыдущая страница
+Air Mastery @ Мастерство Воздуха
+§7Increase your base damage @ §7Увеличивает ваш базовый урон
+§7from all Air attacks. @ §7от всех атак Воздухом.
+§7<em> §7Air Damage: §f+<num>-<num> @ §7<em> §7Урон Воздухом: §f+<num>-<num>
+§7<em> §7Air Damage: §f+<num>% @ §7<em> §7Урон Воздухом: §f+<num>%
+Thunder Mastery @ Мастерство Грома
+§7from all Thunder attacks. @ §7от всех атак Громом.
+§7<em> §7Thunder Damage: §f+<num>-<num> @ §7<em> §7Урон Громом: §f+<num>-<num>
+§7<em> §7Thunder Damage: §f+<num>% @ §7<em> §7Урон Громом: §f+<num>%
+Fire Mastery @ Мастерство Огня
+§7from all Fire attacks. @ §7от всех атак Огнем.
+§7<em> §7Fire Damage: §f+<num>-<num> @ §7<em> §7Урон Огнем: §f+<num>-<num>
+§7<em> §7Fire Damage: §f+<num>% @ §7<em> §7Урон Огнем: §f+<num>%
+Water Mastery @ Мастерство Воды
+§7from all Water attacks. @ §7от всех атак Водой.
+§7<em> §7Water Damage: §f+<num>-<num> @ §7<em> §7Урон Водой: §f+<num>-<num>
+§7<em> §7Water Damage: §f+<num>% @ §7<em> §7Урон Водой: §f+<num>%
+Earth Mastery @ Мастерство Земли
+§7from all Earth attacks. @ §7от всех атак Землей.
+§7<em> §7Earth Damage: §f+<num>-<num> @ §7<em> §7Урон Землей: §f+<num>-<num>
+§7<em> §7Earth Damage: §f+<num>% @ §7<em> §7Урон Землей: §f+<num>%
+§7Trapper Archetype @ §7Архетип: Траппер
+Buckshot @ Картечь
+§7§7When §nArrow Shield§7 loses its last charge, spew @ §7§7Когда §nЩит из Стрел§7 теряет последний заряд, извергает
+§7§f<num>§7 piercing arrows forth from your bow. @ §7§f<num>§7 пронзающих стрел из вашего лука.
+§7§c✖ §7Required Ability: §fArrow Shield @ §7§c✖ §7Требуется способность: §fArrow Shield
+Nimble String @ Ловкая Тетива
+§7§7Doubles the speed of §nArrow Storm§7 and @ §7§7Удваивает скорость §nШторма Стрел§7 и
+§7§7shoots §f+<num>§7 arrows per stream. @ §7§7выпускает §f+<num>§7 стрел за поток.
+§7<em> §7Total Damage: §c-<num>% §8(of your DPS, per arrow) @ §7<em> §7Общий урон: §c-<num>% §8(от вашего DPS, за стрелу)
+§7  ÀÀÀÀ§8(<em> §8Damage: §8-<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Урон: §8-<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Thunder: §8-<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8-<num>%§8)
+§r§c- §7Phantom Ray @ §r§c- §7Phantom Ray
+§7§c✖ §7Required Ability: §fArrow Storm @ §7§c✖ §7Требуется способность: §fArrow Storm
+Bryophyte Roots @ Моховые Корни
+§7§7Hitting an enemy with §nArrow Storm§7 will @ §7§7Попадание по врагу §nШтормом Стрел§7
+§7create an area of effect that slows them @ §7создаст область эффекта, которая замедлит их
+§7§7down and deals damage every §f<num>s§7. @ §7§7и будет наносить урон каждые §f<num>с§7.
+§7  ÀÀÀÀ§8(<em> §8Earth: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Земля: §8<num>%§8)
+§7<em> §7Effect: §f<num>% §7Slowness (<em>§7) to Enemies @ §7<em> §7Эффект: §f<num>% §7Slowness (<em>§7) к врагам
+§7§c✖ §7Min Trapper Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Траппер: §f§c<num>§7/<num>
+Fire Creep @ Огненный След
+§7§7§nArrow Bomb§7 will leave a trail of @ §7§7§nВзрыв Стрелы§7 оставит след из
+§7fire for §f<num>s§7. Enemies that walk @ §7огня на §f<num>с§7. Враги, наступающие
+§7into it take damage every §f<num>s§7. @ §7на него, получают урон каждые §f<num>с§7.
+§7<em> §7Cooldown: §f<num>s @ §7<em> §7Перезарядка: §f<num>с
+Phantom Ray @ Фантомный Луч
+§7§7Condense §nArrow Storm§7 into a single ray @ §7§7Сжимает §nШторм Стрел§7 в один луч,
+§7§7that damages enemies §f<num> §7times per second. @ §7§7который наносит урон врагам §f<num> §7раз в секунду.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per hit) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS, за попадание)
+§7  ÀÀÀÀ§8(<em> §8Water: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Вода: §8<num>%§8)
+§7<em> §7Range: §f<num> Blocks @ §7<em> §7Дальность: §f<num> блоков
+§r§c- §7Arrow Hurricane @ §r§c- §7Arrow Hurricane
+§r§c- §7Nimble String @ §r§c- §7Nimble String
+§r§c- §7Windstorm @ §r§c- §7Windstorm
+§r§c- §7Transience @ §r§c- §7Transience
+Frenzy @ Бешенство
+§7§7Hitting an enemy will give you a brief buff @ §7§7Попадание по врагу даст вам кратковременный бафф
+§7§7of §f+<num>% §7Walk Speed, up to §f<num>%§7 per second. (Max +<num>%) @ §7§7в §f+<num>% §7к Скорости Ходьбы, до §f<num>%§7 в секунду. (Макс. +<num>%)
+§7§f-<num>%§7 of §7the bonus decays every second. @ §7§f-<num>%§7 от §7этого бонуса пропадает каждую секунду.
+Triple Shots @ Тройные Выстрелы
+§7§7Triples §nMain Attack§7 arrows but they deal @ §7§7Утраивает количество стрел §nОсновной Атаки§7, но они наносят
+§7§f-<num>% §7of normal §nMain Attack§7 arrow damage. @ §7на §f-<num>% §7меньше обычного урона §nОсновной Атаки§7.
+§7<em> §7Main Attack Damage: §c-<num>% @ §7<em> §7Урон Осн. Атаки: §c-<num>%
+§7§c✖ §7Required Ability: §fDouble Shots @ §7§c✖ §7Требуется способность: §fDouble Shots
+Guardian Angels @ Ангелы-Хранители
+§7§7Your §nArrow Shield§7 turns into §f<num>§7 sentient bows @ §7§7Ваш §nЩит из Стрел§7 превращается в §f<num>§7 разумных лука,
+§7§7that fire at nearby enemies every §f<num>s§7, each @ §7§7которые стреляют по ближайшим врагам каждые §f<num>с§7,
+§7§7with §f<num>§7 ammunition. §8(Arrow Shield will no longer @ §7§7имея §f<num>§7 стрел в запасе. §8(Щит из Стрел больше не
+§7§8push enemies away or provide resistance) @ §7§8будет отталкивать врагов или давать сопротивление)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per shot) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS, за выстрел)
+§7§c✖ §7Min Boltslinger Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Болтслингер: §f§c<num>§7/<num>
+Basaltic Trap @ Базальтовая Ловушка
+§7§7When you hit the ground with §nArrow Bomb§7, leave @ §7§7При попадании §nВзрывом Стрелы§7 по земле, оставляет
+§7§7a §bTrap§7 that damages enemies. §7(Max <num> Traps) @ §7§7§bЛовушку§7, которая наносит урон врагам. §7(Макс. <num> Ловушки)
+§7<em> §7Range: §f<num> Blocks §7(Circle-Shaped) @ §7<em> §7Дальность: §f<num> блоков §7(Круг)
+Focus @ Фокус
+§7§7When hitting an aggressive enemy §f<num>+ @ §7§7При попадании по агрессивному врагу на расстоянии §f<num>+
+§7§7blocks away, gain §b+<num> Focus <em>§7. (Max <num>) @ §7§7блоков, дает §b+<num> к Фокусу <em>§7. (Макс. <num>)
+§7§8(Lose <num>% Focus if you miss once) @ §7§8(Теряет <num>% Фокуса при одном промахе)
+§7<em> §7Damage Bonus: §f+<num>% §8(per focus) @ §7<em> §7Бонус к урону: §f+<num>% §8(за фокус)
+§r§c- §7Beast Lore @ §r§c- §7Beast Lore
+§7§c✖ §7Min Sharpshooter Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Снайпер: §f§c<num>§7/<num>
+Windstorm @ Ураган
+§7§7§nArrow Storm§7 will shoot §f+<num> §7stream @ §7§7§nШторм Стрел§7 выпустит §f+<num> §7поток
+§7of arrows and §f+<num>§7 extra arrows per stream. @ §7стрел и §f+<num>§7 дополнительных стрел в каждом потоке.
+§7§7§nArrow Storm§7 gains recoil while midair. @ §7§7§nШторм Стрел§7 получает отдачу в воздухе.
+§7  ÀÀÀÀ§8(<em> §8Air: §8+<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Воздух: §8+<num>%§8)
+Cheaper Arrow Storm @ Дешевый Шторм Стрел
+§7§7Reduce the Mana cost of §nArrow Storm§7. @ §7§7Снижает затраты маны для §nШторма Стрел§7.
+Implosion @ Имплозия
+§7§7§nArrow Bomb§7 pulls enemies @ §7§7§nВзрыв Стрелы§7 притягивает врагов
+§7§7towards you. If a §bTrap§7 is nearby, @ §7§7к вам. Если рядом есть §bЛовушка§7,
+§7§7it will pull them towards it instead. @ §7§7он притянет их к ней вместо этого.
+§7§7Increases §nHeart Shatter§7's damage. @ §7§7Увеличивает урон §nРазбитого Сердца§7.
+Arrow Wall @ Стена Стрел
+§7§7Gives §nArrow Shield§7 §f+<num> §7extra charges. @ §7§7Дает §nЩиту из Стрел§7 §f+<num> §7дополнительных зарядов.
+§7§7§nGuardian Angels§7 will deal §c-<num>%§7 damage. @ §7§7§nАнгелы-Хранители§7 будут наносить на §c-<num>%§7 меньше урона.
+Stormy Feet @ Штормовые Ноги
+§7§7§nWindy Feet§7 will last longer and grant a stronger @ §7§7§nВетряные Ноги§7 будут длиться дольше и давать более сильный
+§7§7speed buff. @ §7§7бафф скорости.
+§7<em> §7Duration: §f+<num>s @ §7<em> §7Длительность: §f+<num>с
+§7§c✖ §7Required Ability: §fWindy Feet @ §7§c✖ §7Требуется способность: §fWindy Feet
+Arsenal Synergy @ Синергия Арсенала
+§7§7For every §f<num>§7 arrows shot by §nArrow Storm§7 @ §7§7За каждые §f<num>§7 стрел, выпущенных §nШтормом Стрел§7
+§7§7recently, your §nMain Attacks§7 will additionally @ §7§7недавно, ваши §nОсновные Атаки§7 будут дополнительно
+§7§7fire a flint arrow that damages enemies. @ §7§7выстреливать кремневую стрелу, наносящую урон врагам.
+§7§8(Max <num> flints per main attack) @ §7§8(Макс. <num> кремень за основную атаку)
+§7<em> §7Total Damage: §f<num>% §8(Main Attack Damage, per arrow) @ §7<em> §7Общий урон: §f<num>% §8(Main Attack Damage, per arrow)
+Patient Hunter @ Терпеливый Охотник
+§7§7Your §bTraps§7 will deal §f+<num>%§7 more damage @ §7§7Ваши §bЛовушки§7 будут наносить на §f+<num>%§7 больше урона
+§7§7for every second it's active. (Max +<num>%) @ §7§7за каждую секунду активности. (Макс. +<num>%)
+§7§7Increase your maximum §bTraps§7 by §f+<num>§7. @ §7§7Увеличивает ваше максимальное количество §bЛовушек§7 на §f+<num>§7.
+§7§c✖ §7Required Ability: §fBasaltic Trap @ §7§c✖ §7Требуется способность: §fBasaltic Trap
+Grappling Hook @ Абордажный Крюк
+§7§7When casting §nEscape§7, throw a hook @ §7§7При использовании §nПобега§7 бросает крюк,
+§7that pulls you when hitting a block. @ §7который притягивает вас при попадании в блок.
+§7§8(Escape will not throw you backward anymore) @ §7§8(Побег больше не будет отбрасывать вас назад)
+§7Holding §nShift§7 while casting @ §7Удержание §nShift§7 при использовании
+§7will pull any enemy you hit. @ §7притянет любого врага, в которого вы попадете.
+More Focus @ Больше Фокуса
+§7§7Increase your maximum §bFocus <em> §7by §f+<num>§7. @ §7§7Увеличивает ваш максимальный §bФокус <em> §7на §f+<num>§7.
+§7§c✖ §7Required Ability: §fFocus @ §7§c✖ §7Требуется способность: §fFocus
+Murder Flock @ Убийственная Стая
+§7§7§nBasaltic Trap§7 summons a §bCrow§7 upon detonation that @ §7§7§nБазальтовая Ловушка§7 призывает §bВорону§7 при детонации, которая
+§7§7will peck at aggressive enemies every §f<num>s§7. (Max <num>) @ §7§7будет клевать агрессивных врагов каждые §f<num>с§7. (Макс. <num>)
+§7§7Damaged enemies will be distracted for §f<num>s§7. @ §7§7Получившие урон враги будут отвлечены на §f<num>с§7.
+§7<em> §7Effect: §fBlindness (<em>§f) to Enemies @ §7<em> §7Эффект: §fBlindness (<em>§f) к врагам
+§7<em> §7Vision: §f<num> Blocks §7(Circle-Shaped) @ §7<em> §7Обзор: §f<num> блоков §7(Круг)
+Refined Gunpowder @ Очищенный Порох
+§7§7Increase the damage of §nArrow Bomb§7. @ §7§7Увеличивает урон §nВзрыва Стрелы§7.
+Phantom Force @ Фантомная Сила
+§7§7§nPhantom Ray§7 gains extra forward @ §7§7§nФантомный Луч§7 получает увеличенную
+§7§7range, and becomes wider. @ §7§7дальность вперед, и становится шире.
+§7<em> §7Range: §f+<num> Blocks @ §7<em> §7Дальность: §f+<num> блоков
+§7<em> §7Area of Effect: §f+<num> Blocks @ §7<em> §7Зона поражения: §f+<num> блоков
+§7§c✖ §7Required Ability: §fPhantom Ray @ §7§c✖ §7Требуется способность: §fPhantom Ray
+Leap @ Прыжок
+§7§7Leap in the direction of your movement @ §7§7Прыжок в направлении вашего движения
+§7§7when you double jump. @ §7§7при двойном прыжке.
+§7§7The distance scales with your Walk Speed. @ §7§7Дальность зависит от вашей Скорости Ходьбы.
+Grape Bomb @ Шрапнельная Бомба
+§7§7§nArrow Bomb§7 will throw §f<num> §7additional @ §7§7§nВзрыв Стрелы§7 выбросит §f<num> §7дополнительных
+§7§7smaller bombs when exploding. @ §7§7маленьких бомб при взрыве.
+Ivyroot Mamba @ Плющевая Мамба
+§7§7§nBryophyte Roots§7 summons a §bSnake§7 after @ §7§7§nМоховые Корни§7 призывают §bЗмею§7 после
+§7§7disappearing that will spit weakening @ §7§7исчезновения, которая будет плевать ослабляющим
+§7§7venom at aggressive enemies every §f<num>s§7. (Max <num>) @ §7§7ядом в агрессивных врагов каждые §f<num>с§7. (Макс. <num>)
+§7§7Enemies will be weakened for §f<num>s§7. @ §7§7Враги будут ослаблены на §f<num>с§7.
+§7<em> §7Effects: §f-<num>%§f §7Damage Bonus (<em>§7) to Enemies @ §7<em> §7Эффекты: §f-<num>%§f §7Урон (<em>§7) к врагам
+§7§c✖ §7Required Ability: §fBryophyte Roots @ §7§c✖ §7Требуется способность: §fBryophyte Roots
+Twain's Arc @ Дуга Твейна
+§7§7If you have §b<num>+ Focus <em>§7, holding shift will @ §7§7Если у вас есть §b<num>+ Фокуса <em>§7, зажатие Shift
+§7§7summon Twain's Arc. Charge it up to @ §7§7призовет Дугу Твейна. Зарядите ее, чтобы
+§7shoot a destructive long-range beam. @ §7выстрелить разрушительным дальнобойным лучом.
+§7<em> §7Total Damage: §f<num>% §8(Main Attack Damage) @ §7<em> §7Общий урон: §f<num>% §8(Урон Осн. Атаки)
+Shrapnel Bomb @ Осколочная Бомба
+§7§7§nArrow Bomb§7's explosion will fling §f<num>§7 @ §7§7Взрыв §nВзрыва Стрелы§7 разбросает §f<num>§7
+§7shrapnel, dealing damage in a large area. @ §7осколков, наносящих урон по большой площади.
+§7§8(Each enemy can only be hit by five shrapnel) @ §7§8(В каждого врага может попасть только 5 осколков)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per shrapnel) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS, за осколок)
+Fierce Stomp @ Свирепый Топот
+§7§7When using §nEscape§7, hold shift to @ §7§7При использовании §nПобега§7, зажмите Shift, чтобы
+§7quickly drop down to deal damage @ §7быстро упасть вниз для нанесения урона
+§7and blind enemies. @ §7и ослепления врагов.
+§7<em> §7Effect: §fBlindness §7(<em>§7) to Enemies @ §7<em> §7Effect: §fBlindness §7(<em>§7) to Enemies [UNTRANSLATED]
+Rocket Jump @ Рокетджамп
+§7§7§nArrow Bomb§7's recoil is increased, and @ §7§7Отдача §nВзрыва Стрелы§7 увеличена, а
+§7§7its self-damage is reduced to §f<num>%§7. @ §7§7наносимый ей себе урон снижен до §f<num>%§7.
+Scorched Earth @ Выжженная Земля
+§7§7§nFire Creep§7 becomes much stronger. @ §7§7§nОгненный След§7 становится намного сильнее.
+§7  ÀÀÀÀ§8(<em> §8Fire: §8+<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Огонь: §8+<num>%§8)
+§7§c✖ §7Required Ability: §fFire Creep @ §7§c✖ §7Требуется способность: §fFire Creep
+More Traps @ Больше Ловушек
+Divine Intervention @ Божественное Вмешательство
+§7§7§nGuardian Angels§7 gain §f+<num>§7 additional ammunition. @ §7§7§nАнгелы-Хранители§7 получают §f+<num>§7 дополнительных стрел.
+§7§7Whenever you cast a spell, your §nGuardian Angels§7 @ §7§7Каждый раз, когда вы применяете заклинание, ваши §nАнгелы-Хранители§7
+§7§7become briefly empowered. @ §7§7на короткое время усиливаются.
+§7§7Casting §nArrow Storm§7 will cause them to @ §7§7Использование §nШторма Стрел§7 заставит их
+§7shoot §f<num>x §7faster. @ §7стрелять в §f<num> раз §7быстрее.
+§7§7Casting §nArrow Bomb§7 will cause them to @ §7§7Использование §nВзрыва Стрелы§7 заставит их
+§7§7shoot explosive shots, dealing §f+<num>%§7 damage. @ §7§7стрелять взрывными выстрелами, наносящими на §f+<num>%§7 больше урона.
+§7§c✖ §7Required Ability: §fGuardian Angels @ §7§c✖ §7Требуется способность: §fGuardian Angels
+Cheaper Arrow Shield @ Дешевый Щит из Стрел
+§7§7Reduce the Mana cost of §nArrow Shield§7. @ §7§7Снижает затраты маны для §nЩита из Стрел§7.
+Honed Shield @ Отточенный Щит
+§7§7§nArrow Shield§7's radius, knockback, @ §7§7Радиус, отбрасывание и урон §nЩита из Стрел§7
+§7§7and damage is increased. @ §7§7увеличены.
+§7§7§nGuardian Angels§7' damage is increased. @ §7§7Урон §nАнгелов-Хранителей§7 увеличен.
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, for §nArrow Shield§8) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS, для §nArrow Shield§8)
+§7<em> §7Area of Effect: §f+<num> Blocks §7(Circle-Shaped) @ §7<em> §7Зона поражения: §f+<num> блоков §7(Круг)
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, for §nGuardian Angels§8, per shot) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS, для §nGuardian Angels§8, за выстрел)
+Shocking Bomb @ Шокирующая Бомба
+§7§7§nArrow Bomb§7 will be unaffected by @ §7§7§nВзрыв Стрелы§7 больше не подвержен
+§7§7gravity and increase its explosion damage. @ §7§7гравитации, а урон от его взрыва увеличен.
+§7  ÀÀÀÀ§8(<em> §8Thunder: §8+<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8+<num>%§8)
+Bounding Stride @ Размашистый Шаг
+§7§7Reduce §nLeap§7's cooldown by §f<num>s§7. @ §7§7Уменьшает перезарядку §nПрыжка§7 на §f<num>с§7.
+§7§c✖ §7Required Ability: §fLeap @ §7§c✖ §7Требуется способность: §fLeap
+Homing Shots @ Самонаводящиеся Выстрелы
+§7§7Your §nMain Attack§7 arrows will follow nearby @ §7§7Стрелы вашей §nОсновной Атаки§7 будут преследовать
+§7§7enemies and will be unaffected by gravity. @ §7§7ближайших врагов и не будут подвержены гравитации.
+Recycling @ Переработка
+§7§7When any of your projectiles miss, gain §f+<num> §7Mana. @ §7§7При промахе любым снарядом дает §f+<num> §7Маны.
+Mana Trap @ Ловушка Маны
+§7§7Your §bTraps§7 will give you §f<num> §7Mana @ §7§7Ваши §bЛовушки§7 будут давать вам §f<num> §7Маны
+§7§7per second and §f<num> §7Mana @ §7§7в секунду и §f<num> §7Маны
+§7§7when they explode. @ §7§7при взрыве.
+§7<em> §7Mana Cost: §c+<num> @ §7<em> §7Затраты маны: §c+<num>
+Cheaper Escape II @ Дешевый Побег II
+Initiator @ Инициатор
+§7§7If you do not damage an enemy for @ §7§7Если вы не наносите урон врагу
+§7§f<num>s§7 or more, your next successful hit @ §7§f<num>с§7 или больше, ваше следующее успешное попадание
+§7§7will deal §f+<num>%§7 damage and add §b+<num> Focus <em>§7. @ §7§7нанесет на §f+<num>%§7 больше урона и даст §b+<num> к Фокусу <em>§7.
+Courier's Edict @ Эдикт Курьера
+§7Fierce Stomp sends out a wave of @ §7Свирепый Топот выпускает волну
+§7heavenly light in front of you. @ §7небесного света перед вами.
+§7Landing after Leap triggers Fierce Stomp. @ §7Приземление после Прыжка активирует Свирепый Топот.
+§7§c✖ §7Required Ability: §fFierce Stomp @ §7§c✖ §7Требуется способность: §fFierce Stomp
+Vigilant Sentinels @ Бдительные Стражи
+§7§7Increase §nGuardian Angels'§7 range and damage. @ §7§7Увеличивает дальность и урон §nАнгелов-Хранителей§7.
+§7§7Casting §nArrow Shield§7 while §nGuardian Angels§7 are active @ §7§7Применение §nЩита из Стрел§7 пока активны §nАнгелы-Хранители§7
+§7§7will also cast §nBuckshot§7. Increase §nBuckshot§7's damage. @ §7§7также применит §nКартечь§7. Увеличивает урон §nКартечи§7.
+
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, for §nBuckshot§8, per arrow) @ §7<em> §7Total Damage: §f+<num>% §8(of your DPS, for §nBuckshot§8, per arrow)
+Call of the Hound @ Зов Гончей
+§7§7§nArrow Shield§7 summons a §bHound§7 that will @ §7§7§nЩит из Стрел§7 призывает §bГончую§7, которая
+§7§7attack aggressive enemies every §f<num>s @ §7§7будет атаковать агрессивных врагов каждые §f<num>с
+§7§7and drag them towards your traps. @ §7§7и тащить их к вашим ловушкам.
+Decimator @ Опустошитель
+§7§7§nPhantom Ray§7 will increase its damage by §f<num>% @ §7§7Урон §nФантомного Луча§7 будет увеличиваться на §f<num>%
+§7every time you do not miss with it. (Max <num>%) @ §7за каждый успешный выстрел подряд. (Макс. <num>%)
+§7§7§nPhantom Ray§7 gains extra forward range. @ §7§7§nФантомный Луч§7 получает увеличенную дальность вперед.
+Phasing Beam @ Фазирующий Луч
+§7§7§nTwain's Arc§7 charges §f<num>%§7 faster, and @ §7§7§nДуга Твейна§7 заряжается на §f<num>%§7 быстрее, и
+§7§7can now pierce through up to §f<num>§7 enemies, @ §7§7теперь может пронзить до §f<num>§7 врагов,
+§7§7dealing reduced damage after piercing. @ §7§7нанося сниженный урон после пронзания.
+§7§8(Damage is dealt as §nMain Attack§8 Damage) @ §7§8(Урон наносится как урон §nОсновной Атаки§8)
+§7<em> §7Total Damage: §c-<num>% §8(after piercing) @ §7<em> §7Общий урон: §c-<num>% §8(после пронзания)
+§7§c✖ §7Required Ability: §fTwain's Arc @ §7§c✖ §7Требуется способность: §fTwain's Arc
+Spectral Hover @ Призрачное Парение
+§7§fSlow Falling §7is applied upon using §nEscape§7. @ §7При использовании §nПобега§7 применяется §fПлавное Падение§7.
+§7§7Crouching at any point will cancel this effect. @ §7§7Приседание в любой момент отменит этот эффект.
+Parting Gift @ Прощальный Подарок
+§7When casting §7§nEscape§7, release a @ §7При использовании §7§nПобега§7, выпускает
+§7§7cluster bomb mid-air that explodes, @ §7§7кассетную бомбу в воздухе, которая взрывается,
+§7§7sending a payload of §f<num> §7arrows @ §7§7отправляя залп из §f<num> §7стрел
+§7§7to your previous location. @ §7§7в ваше предыдущее местоположение.
+§7§8(Each enemy can only be hit by one arrow) @ §7§8(В каждого врага может попасть только одна стрела)
+Bouncing Bomb @ Прыгающая Бомба
+§7§7§nArrow Bomb§7 will bounce once @ §7§7§nВзрыв Стрелы§7 отскочит один раз
+§7§7when hitting a block or enemy. @ §7§7при попадании в блок или врага.
+Cheaper Arrow Storm II @ Дешевый Шторм Стрел II
+Cheaper Arrow Shield II @ Дешевый Щит из Стрел II
+Hookshot @ Хукшот
+§7§7Increases your §nGrappling Hook§7's @ §7§7Увеличивает дальность, скорость
+§7§7range, speed and strength. @ §7§7и силу вашего §nАбордажного Крюка§7.
+§7§c✖ §7Required Ability: §fGrappling Hook @ §7§c✖ §7Требуется способность: §fGrappling Hook
+Ghostly Trigger @ Призрачный Курок
+§7§7While airborne after casting §nEscape§7, your @ §7§7Пока вы в воздухе после §nПобега§7, ваши
+§7§7next §f<num> §7§nMain Attacks§7 can be fired in quick @ §7§7следующие §f<num> §7§nОсновных Атак§7 можно выпустить
+§7§7succession regardless of attack speed, @ §7§7быстро, независимо от скорости атаки,
+§7§7and will instantly fire from §nTwain's Arc§7. @ §7§7и они мгновенно выстрелят из §nДуги Твейна§7.
+Coursing Restraints @ Струящиеся Оковы
+§7§7§nShocking Bomb§7 will temporarily shock @ §7§7§nШокирующая Бомба§7 временно шокирует
+§7§7enemies, reducing their defences. @ §7§7врагов, снижая их защиту.
+§7<em> §7Effect: §f-<num>% §7Resistance Bonus (<em>§7) to Enemies @ §7<em> §7Эффект: §f-<num>% §7Сопротивление (<em>§7) to Enemies
+§7§c✖ §7Required Ability: §fShocking Bomb @ §7§c✖ §7Требуется способность: §fShocking Bomb
+Arrow Hurricane @ Ураган Стрел
+§7§7§nArrow Storm§7 will shoot §f+<num>§7 extra streams of arrows. @ §7§7§nШторм Стрел§7 выпустит §f+<num>§7 дополнительных потока стрел.
+§7§7§nArrow Storm§7's recoil is doubled. @ §7§7Отдача §nШторма Стрел§7 удвоена.
+§7§c✖ §7Required Ability: §fWindstorm @ §7§c✖ §7Требуется способность: §fWindstorm
+Beast Lore @ Знание Зверей
+§7§7Increase your maximum §bSnakes§7 by §f+<num>§7. @ §7§7Увеличивает ваше макс. количество §bЗмей§7 на §f+<num>§7.
+§7§7Increase your maximum §bCrows§7 by §f+<num>§7. @ §7§7Увеличивает ваше макс. количество §bВорон§7 на §f+<num>§7.
+§7§7Increase the damage of your §bHound§7. @ §7§7Увеличивает урон вашей §bГончей§7.
+§r§c- §7Focus @ §r§c- §7Focus
+§7§c✖ §7Required Ability: §fCall of the Hound @ §7§c✖ §7Требуется способность: §fCall of the Hound
+Tangled Traps @ Спутанные Ловушки
+§7§7Your §bTraps§7 will be connected by a rope @ §7§7Ваши §bЛовушки§7 будут соединены веревкой,
+§7§7that deals damage to enemies every §f<num>s§7. @ §7§7которая наносит урон врагам каждые §f<num>с§7.
+§7§7§nGrape Bomb§7 gains §f+<num>§7 grape. @ §7§7§nШрапнельная Бомба§7 получает §f+<num>§7 шрапнель.
+Elusive @ Неуловимый
+§7Arrow Bomb and Arrow Storm will no longer have @ §7Взрыв Стрелы и Шторм Стрел больше не имеют
+§7recoil, and your Arrow Bombs will not deal self-damage. @ §7отдачи, а Взрывы Стрелы не наносят вам урон.
+Chilling Snare @ Леденящие Силки
+§7§7Attach an icy snare to §7§nBasaltic Trap§7, @ §7§7Прикрепляет ледяные силки к §7§nБазальтовой Ловушке§7,
+§7§7drastically inhibiting and damaging nearby @ §7§7значительно замедляя и нанося урон ближайшим
+§7§7enemies every §f<num>s§7 after it detonates. @ §7§7врагам каждые §f<num>с§7 после её детонации.
+§7<em> §7Effects: §f<num>% §7Slowness (<em>§7) to Enemies, per hit §8(Max <num>%) @ §7<em> §7Эффекты: §f<num>% §7Замедление (<em>§7) к врагам, per hit §8(Max <num>%)
+Feedback Loop @ Петля Обратной Связи
+§7§7Hitting §f<num>§7 flint arrow will make your next @ §7§7Попадание §f<num>§7 кремневыми стрелами заставит ваш
+§7§7§nArrow Storm§7 shoot §f+<num>§7 arrow per stream. @ §7§7следующий §nШторм Стрел§7 выпустить §f+<num>§7 стрелу за поток.
+§7§c✖ §7Required Ability: §fArsenal Synergy @ §7§c✖ §7Требуется способность: §fArsenal Synergy
+Swift Primer @ Быстрый Запал
+§7§7§nPatient Hunter§7 will increase its damage by §f+<num>% @ §7§7Урон §nТерпеливого Охотника§7 будет увеличиваться на §f+<num>%
+§7§7per second, and increase its Max Damage by §f+<num>%§7. @ §7§7в секунду, а Макс. Урон будет увеличен на §f+<num>%§7.
+§7§c✖ §7Required Ability: §fPatient Hunter @ §7§c✖ §7Требуется способность: §fPatient Hunter
+Crepuscular Ray @ Сумеречный Луч
+§7§7If you have §b<num>+ Focus <em>§7, casting §nArrow Storm @ §7§7Если у вас есть §b<num>+ Фокуса <em>§7, применение §nШторма Стрел
+§7§7while §f<num>+ §7blocks above the ground will cause @ §7§7находясь на высоте §f<num>+ §7блоков над землей, заставит
+§7§7you to levitate and shoot §f<num>§7 homing arrows @ §7§7вас парить и выпускать §f<num>§7 самонаводящихся стрел
+§7§7per second until you run out of §bFocus <em>§7. @ §7§7в секунду, пока у вас не закончится §bФокус <em>§7.
+§7§7While in this state, lose §c<num> §bFocus <em> §7every §f<num>s§7. @ §7§7В этом состоянии вы теряете §c<num> §bФокуса <em> §7каждые §f<num>с§7.
+Transience @ Мимолетность
+§7Arrow Storm will pierce enemies. @ §7Шторм Стрел будет пронзать врагов.
+Snow Storm @ Снежная Буря
+§7§7Enemies near you will be slowed down. @ §7§7Враги рядом с вами будут замедлены.
+Cheaper Arrow Bomb II @ Дешевый Взрыв Стрелы II
+More Focus II @ Больше Фокуса II
+Wild Light @ Дикий Свет
+§7§7Increase your §nMain Attack§7's damage by §f+<num>%§7 @ §7§7Увеличивает урон вашей §nОсновной Атаки§7 на §f+<num>%§7
+§7§7for every §f+<num>%§7 Walk Speed you gain from §nFrenzy§7. @ §7§7за каждые §f+<num>%§7 Скорости Ходьбы, получаемые от §nБешенства§7.
+§7§c✖ §7Required Ability: §fFrenzy @ §7§c✖ §7Требуется способность: §fFrenzy
+Fimbulwinter @ Фимбулвинтер
+§7§7Enemies take additional damage after standing @ §7§7Враги получают дополнительный урон после того, как простоят
+§7§7inside of §nChilling Snare§7 for §f<num>s§7. @ §7§7внутри §nЛеденящих Силков§7 в течение §f<num>с§7.
+§7  ÀÀÀÀ§8(<em> §8Water: §8+<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Вода: §8+<num>%§8)
+§7§c✖ §7Required Ability: §fChilling Snare @ §7§c✖ §7Требуется способность: §fChilling Snare
+Warding Wisps @ Оберегающие Огоньки
+§7§7When §nArrow Shield§7 loses a charge,  @ §7§7Когда §nЩит из Стрел§7 теряет заряд, 
+§7§7summon a §bWisp§7 that follows and  @ §7§7призывает §bОгонек§7, который следует за вами и 
+§7protects you. (Max <num>) @ §7защищает вас. (Макс. <num>)
+§7§7Your §bWisps§7 can possess nearby @ §7§7Ваши §bОгоньки§7 могут вселяться в ближайших
+§7§7enemies for §f<num>s§7, dealing damage @ §7§7врагов на §f<num>с§7, нанося урон
+§7every §f<num>s§7 and slowing them. @ §7каждые §f<num>с§7 и замедляя их.
+§7  ÀÀÀÀ§8(<em> §8Neutral: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Нейтральный: §8<num>%§8)
+§7<em> §7Effects: §f<num>% §7Slowness (<em>§7) to Enemies @ §7<em> §7Эффекты: §f<num>% §7Замедление (<em>§7) к врагам
+Shrieking Arrows @ Визжащие Стрелы
+§7Arrow Storm and Phantom Ray will deal additional damage. @ §7Шторм Стрел и Фантомный Луч наносят дополнительный урон.
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, per arrow) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS, за стрелу)
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, per ray) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS, за луч)
+Overgrowth @ Заросли
+§7§7§nBryophyte Roots§7 spreads further @ §7§7§nМоховые Корни§7 распространяются дальше
+§7§7and deals damage §f<num>%§7 faster. @ §7§7и наносят урон на §f<num>%§7 быстрее.
+Quick Draw @ Быстрая Доставалка
+§7Not missing with Phantom Ray <num> times @ §7Попадание Фантомным Лучом <num> раз
+§7in a row will transform your next @ §7подряд превратит вашу следующую
+§7Main Attack into a Twain's Arc beam. @ §7Основную Атаку в луч Дуги Твейна.
+Sniffer Dog @ Собака-Ищейка
+§7§7Your §bHound§7 has a §f<num>%§7 chance to @ §7§7Ваша §bГончая§7 имеет §f<num>%§7 шанс
+§7§7dig up a §nTrap§7 when attacking enemies. @ §7§7выкопать §nЛовушку§7 при атаке врагов.
+Repel @ Отталкивание
+§7§7Casting §nArrow Shield§7 will push back nearby @ §7§7Применение §nЩита из Стрел§7 оттолкнет ближайших
+§7enemies and provide a brief burst of resistance. @ §7врагов и даст кратковременный всплеск сопротивления.
+§7§7Reduce this ability's cooldown by §f<num>s§7 @ §7§7Уменьшает перезарядку этой способности на §f<num>с§7
+§7§7every time §nArrow Shield§7 loses a charge. @ §7§7каждый раз, когда §nЩит из Стрел§7 теряет заряд.
+Pyrotechnics @ Пиротехника
+§7§7§nArrow Bomb§7 and §nGrape Bomb§7 @ §7§7§nВзрыв Стрелы§7 и §nШрапнельная Бомба§7
+§7§7become much hotter, increasing @ §7§7становятся намного горячее, увеличивая
+§7§7the damage of their explosion. @ §7§7урон от их взрыва.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, for §nArrow Bomb§8) @ §7<em> §7Общий урон: §f<num>% §8(of your DPS, for §nArrow Bomb§8)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, for §nGrape Bomb§8) @ §7<em> §7Общий урон: §f<num>% §8(of your DPS, for §nGrape Bomb§8)
+Canine Colleague @ Собачий Коллега
+§7§7Increase your maximum §bHounds§7 by §f+<num>§7. @ §7§7Increase your maximum §bHounds§7 by §f+<num>§7. [UNTRANSLATED]
+Mael's Quiver @ Колчан Маэля
+§7§7Increase the damage of §7§nCrepuscular Ray @ §7§7Увеличивает урон §7§nСумеречного Луча
+§7§c✖ §7Required Ability: §fCrepuscular Ray @ §7§c✖ §7Требуется способность: §fCrepuscular Ray
+Repositioning @ Перестановка
+§7§7Gain a brief speed boost @ §7§7Дает кратковременное ускорение
+§7after shooting §nTwain's Arc§7. @ §7после выстрела из §nДуги Твейна§7.
+§7<em> §7Effect: §f+<num>% §7Walk Speed (§3➲§7) to Self @ §7<em> §7Эффект: §f+<num>% §7Скорость ходьбы (§3➲§7) к себе
+Angelic Ascension @ Ангельское Вознесение
+§7Click Combo: F @ §7Комбо: F
+§7Call upon the power of the Light @ §7Взывает к силе Света,
+§7to empower your attacks for <num>s @ §7чтобы усилить ваши атаки на <num>с
+§7and make Leap have no cooldown. @ §7и сделать Прыжок без перезарядки.
+§7Main Attack will instead shoot Light Arrows, @ §7Основная Атака вместо этого выпускает Стрелы Света,
+§7that deal <num>% more damage over <num>s. @ §7которые наносят на <num>% больше урона в течение <num>с.
+§7Arrow Storm and Divine Intervention @ §7Шторм Стрел и Божественное Вмешательство
+§7will last §f<num> §7times as long. @ §7будут длиться в §f<num> §7раза дольше.
+§7Arrow Bomb will smite enemies it hits @ §7Взрыв Стрелы будет поражать врагов, в которых он попал,
+§7directly with a bolt from the heavens. @ §7прямым ударом молнии с небес.
+§7Guardian Angels will have unlimited ammunition, @ §7Ангелы-Хранители получат бесконечные стрелы,
+§7and trigger Buckshot after firing <num> volleys. @ §7и активируют Картечь после выстрела <num> залпов.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, Arrow Bomb's smite) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS, кара Взрыва Стрелы)
+§7Activate abilities to charge @ §7Используйте способности, чтобы зарядить
+§7your Ultimate Meter <em> to <num>% @ §7ваш Индикатор Ульты <em> до <num>%
+§7§a✔ §7Combat Lv. Min: §f<num> @ §7§a✔ §7Мин. Боевой Ур.: §f<num>
+The Twilight Zone @ Сумеречная Зона
+§7Enter a focused state for <num>s. @ §7Вводит в состояние концентрации на <num>с.
+§7While in this state, you jump higher, fall slower, @ §7В этом состоянии вы прыгаете выше, падаете медленнее,
+§7and all enemies within your line of sight are @ §7и все враги в поле вашего зрения
+§7marked by Twilight <em> every <num>s. §8(Max <num>) @ §7помечаются Сумерками <em> каждые <num>с. §8(Макс. <num>)
+§7At the end of its duration, or by casting F, fire a Spell @ §7По окончании действия или при нажатии F, выпускает Заклинание
+§7and a Main Attack arrow at every marked enemy. @ §7и стрелу Основной Атаки в каждого помеченного врага.
+§7Arrows will deal bonus damage for @ §7Стрелы будут наносить дополнительный урон за
+§7each Twilight <em> stack on a target. @ §7каждый заряд Сумерек <em> на цели.
+§7<em> §7Total Damage: §f+<num>% §8(of your DPS, per Twilight) @ §7<em> §7Общий урон: §f+<num>% §8(от вашего DPS, за Сумерки)
+§7<em> §7Total Damage: §f+<num>% §8(Main Attack Damage, per Twilight) @ §7<em> §7Общий урон: §f+<num>% §8(Урон Осн. Атаки, за Сумерки)
+Extinction Event @ Угроза Вымирания
+§7Calls forth a flock of tactical crows @ §7Призывает стаю тактических ворон,
+§7which will perform a carpet bombing of @ §7которые проведут ковровую бомбардировку
+§7a large area in front of you. @ §7большой площади перед вами.
+§7Bombs will leave behind Basaltic Traps @ §7Бомбы оставят после себя Базальтовые Ловушки
+§7and occasionally Chilling Snares. @ §7и иногда Леденящие Силки.

@@ -1,0 +1,133 @@
+# ══════════════════════════════════════════════════════════════════════
+# WynnRunica - Общие шаблоны (статы, иконки, UI). Делятся всеми классами.
+# ══════════════════════════════════════════════════════════════════════
+
+§6You are free to edit your @ §6Можешь свободно редачить дерево,
+§6leave a safe zone @ §6безопасную зону
+§6tree as you wish until you @ §6пока не покинешь
+§7You do not meet the requirements @ §cТы не соответствуешь требованиям
+§r§cUnlocking will block: @ §cОткроет, но заблокирует:
+§r§c§lBlocked by: @ §r§c§lЗаблокировано:
+§7Blocked by another ability @ §cЗаблокировано другой способностью
+§cUnlocking will block: @ §cОткроет, но заблокирует:
+§7Connect ability nodes to unlock them @ §7Соедините узлы способностей чтобы открыть их
+§7Connect Ability Nodes to unlock them @ §7Соедините Узлы Способностей чтобы открыть их
+§eShift Click to reset your tree @ §eShift+ЛКМ чтобы сбросить дерево
+§6Next Ability Points: @ §6Следующие очки способностей:
+§7Spend your Ability Points @ §7Потратьте свои очки способностей
+§7and unlock new abilities! @ §7и откройте новые способности!
+§7§6Click Combo: §d§lLEFT§7-§d§lRIGHT§7-§d§lRIGHT @ §7§6Комбо: §d§lЛКМ§7-§d§lПКМ§7-§d§lПКМ
+§7§7Improve your §nMain Attack§7's damage @ §7Усиливает урон §nОсновной Атаки§r§7
+§7§6Click Combo: §d§lLEFT§7-§d§lLEFT§7-§d§lLEFT @ §7§6Комбо: §d§lЛКМ§7-§d§lЛКМ§7-§d§lЛКМ
+§7§6Click Combo: §d§lLEFT§7-§d§lRIGHT§7-§d§lLEFT @ §7§6Комбо: §d§lЛКМ§7-§d§lПКМ§7-§d§lЛКМ
+§7§6Click Combo: §d§lLEFT§7-§d§lLEFT§7-§d§lRIGHT @ §7§6Комбо: §d§lЛКМ§7-§d§lЛКМ§7-§d§lПКМ
+§7Increase your base damage @ §7Увеличивает ваш базовый урон
+§7from all Air attacks. @ §7от всех атак Воздухом.
+§7from all Thunder attacks. @ §7от всех атак Громом.
+§7from all Fire attacks. @ §7от всех атак Огнём.
+§7from all Water attacks. @ §7от всех атак Водой.
+§7from all Earth attacks. @ §7от всех атак Землёй.
+§7§8(Damage is dealt as §nMain Attack§8 Damage) @ §8(Урон считается как урон §nОсновной Атаки§r§8)
+§7Activate abilities to charge @ §7Используйте способности, чтобы зарядить
+§7§6Click Combo: §d§lF @ §7§6Комбо: §d§lF
+§6Click Combo: §d§lF @ §6Комбо: §d§lF
+§7<em> §7Air Damage: §f<num>% @ <em> §7Урон Воздухом: §f<num>%
+§7<em> §7Air Damage: §f<num><num> @ <em> §7Урон Воздухом: §f<num><num>
+§7<em> §7Area of Effect: §f<num> Blocks @ <em> §7Зона поражения: §f<num> блоков
+§7<em> §7Area of Effect: §f<num> Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f<num> блоков §7(Круг)
+§7<em> §7Cooldown: §f<num>s @ <em> §7Перезарядка: §f<num>с
+§7<em> §7Duration: §f<num>s @ <em> §7Длительность: §f<num>с
+§8<em> §8Duration: §7<num>s @ §8<em> §8Длительность: §7<num>с
+§7<em> §7Earth Damage: §f<num>% @ <em> §7Урон Землёй: §f<num>%
+§7<em> §7Earth Damage: §f<num><num> @ <em> §7Урон Землёй: §f<num><num>
+§7<em> §7Effect: §f<num>% §7Resistance Bonus (§a❁§7) @ <em> §7Эффект: §f<num>% §7Сопротивление (§a❁§7)
+§7<em> §7Effect: §f<num>% §7Slowness (<em>§7) to Enemies @ <em> §7Эффект: §f<num>% §7Замедление (<em>§7) к врагам
+§7<em> §7Effect: §fBlindness (<em>§f) to Enemies @ <em> §7Эффект: §fСлепота (<em>§f) к врагам
+§7<em> §7Effect: §fBlindness §7(<em>§7) to Enemies @ <em> §7Эффект: §fСлепота §7(<em>§7) к врагам
+§7<em> §7Effects: §f<num>% §7Slowness (<em>§7) to Enemies, per hit §8(Max <num>%) @ <em> §7Эффекты: §f<num>% §7Замедление (<em>§7) к врагам, за попадание §8(Максимум <num>%)
+§7<em> §7Effects: §f<num>%§f §7Damage Bonus (<em>§7) to Enemies @ <em> §7Эффекты: §f<num>%§f §7Бонус к урону (<em>§7) врагам
+§7<em> §7Fire Damage: §f<num>% @ <em> §7Урон Огнём: §f<num>%
+§7<em> §7Fire Damage: §f<num><num> @ <em> §7Урон Огнём: §f<num><num>
+§7<em> §7Main Attack Damage: §c<num>% @ <em> §7Урон Осн. Атаки: §c<num>%
+§7<em> §7Main Attack Damage: §f<num>% @ <em> §7Урон Осн. Атаки: §f<num>%
+§7<em> §7Main Attack Range: §f<num> Blocks @ <em> §7Дальность Осн. Атаки: §f<num> блоков
+§7<em> §7Mana Cost: §c<num> @ <em> §7Затраты маны: §c<num>
+§7<em> §7Mana Cost: §f<num> @ <em> §7Затраты маны: §f<num>
+§8<em> §8Mana Cost: §7<num> @ §8<em> §8Затраты маны: §7<num>
+§7<em> §7Range: §f<num> Blocks @ <em> §7Дальность: §f<num> блоков
+§7<em> §7Range: §f<num> Blocks §7(Circle-Shaped) @ <em> §7Дальность: §f<num> блоков §7(Круг)
+§8<em> §8Range: §7<num> Blocks @ §8<em> §8Дальность: §7<num> блоков
+§7<em> §7Thunder Damage: §f<num>% @ <em> §7Урон Громом: §f<num>%
+§7<em> §7Thunder Damage: §f<num><num> @ <em> §7Урон Громом: §f<num><num>
+§7<em> §7Total Damage: §f<num>% §8(Main Attack Damage) @ <em> §7Общий урон: §f<num>% §8(Урон Осн. Атаки)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS) @ <em> §7Общий урон: §f<num>% §8(от вашего DPS)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per hit) @ <em> §7Общий урон: §f<num>% §8(от вашего DPS, за попадание)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS) @ §8<em> §8Общий урон: §7<num>% §8(от вашего DPS)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, per hit) @ §8<em> §8Общий урон: §7<num>% §8(от вашего DPS, за попадание)
+§7<em> §7Vision: §f<num> Blocks §7(Circle-Shaped) @ <em> §7Обзор: §f<num> блоков §7(Круг)
+§7<em> §7Water Damage: §f<num>% @ <em> §7Урон Водой: §f<num>%
+§7<em> §7Water Damage: §f<num><num> @ <em> §7Урон Водой: §f<num><num>
+§7Click Combo:  @ §7Комбо: 
+§7your Ultimate Meter <em> to <num>% @ §7§bШкалу Ульты §e<em> §r§7до <num>%
+
+§7<em> Click to Unlock @ §a<em> §aНажмите чтобы открыть
+§7<em> Click to unlock this ability @ §a<em> §aНажмите чтобы открыть способность
+§7<em> Right-Click to undo @ §7<em> §7ПКМ чтобы отменить
+
+# ── Сведено из классовых файлов (общие шаблоны) ──
+Air Mastery @ Мастерство Воздуха
+Thunder Mastery @ Мастерство Грома
+Fire Mastery @ Мастерство Огня
+Water Mastery @ Мастерство Воды
+Earth Mastery @ Мастерство Земли
+§7§7down and deals damage every §f<num>s§7. @ §7вниз и наносит урон каждые §f<num>с§r§7.
+§7fire for §f<num>s§7. Enemies that walk @ §7горящего §f<num>с§r§7. Враги наступившие
+§7into it take damage every §f<num>s§7. @ §7в него получают урон каждые §f<num>с§r§7.
+§7§7that damages enemies §f<num> §7times per second. @ §7нанося урон врагам §f<num>§r§7 раз в секунду.
+§8§8that damages enemies §7<num> §8times per second. @ §8нанося урон врагам §7<num>§r§8 раз в секунду.
+§7§a✔ §7Required Ability: §fAir Mastery @ §7§a✔ §7Требуется способность: §fМастерство Воздуха
+§7§a✔ §7Required Ability: §fEarth Mastery @ §7§a✔ §7Требуется способность: §fМастерство Земли
+§7§a✔ §7Required Ability: §fFire Mastery @ §7§a✔ §7Требуется способность: §fМастерство Огня
+§7§a✔ §7Required Ability: §fThunder Mastery @ §7§a✔ §7Требуется способность: §fМастерство Грома
+§7§a✔ §7Required Ability: §fWater Mastery @ §7§a✔ §7Требуется способность: §fМастерство Воды
+§7§c✖ §7Required Ability: §fAir Mastery @ §7§c✖ §7Требуется способность: §fМастерство Воздуха
+§7§c✖ §7Required Ability: §fEarth Mastery @ §7§c✖ §7Требуется способность: §fМастерство Земли
+§7§c✖ §7Required Ability: §fFire Mastery @ §7§c✖ §7Требуется способность: §fМастерство Огня
+§7§c✖ §7Required Ability: §fThunder Mastery @ §7§c✖ §7Требуется способность: §fМастерство Грома
+§7§c✖ §7Required Ability: §fWater Mastery @ §7§c✖ §7Требуется способность: §fМастерство Воды
+§7§a✔ §7Ability Points: §f§f<num> @ §7§a✔ §7Очки способностей: §f§f<num>
+§7§c✖ §7Ability Points: §f§f<num> @ §7§c✖ §7Очки способностей: §f§f<num>
+§aUnlock Air Mastery§a ability @ §aРазблокировать способность §f§lМастерство Воздуха
+§aUnlock Earth Mastery§a ability @ §aРазблокировать способность §f§lМастерство Земли
+§aUnlock Fire Mastery§a ability @ §aРазблокировать способность §f§lМастерство Огня
+§aUnlock Thunder Mastery§a ability @ §aРазблокировать способность §f§lМастерство Грома
+§aUnlock Water Mastery§a ability @ §aРазблокировать способность §f§lМастерство Воды
+§7  ÀÀÀÀ§8(<em> §8Air: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Воздух: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Damage: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Физический: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Earth: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Земля: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Fire: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Огонь: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Thunder: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8<num>%§8)
+§7  ÀÀÀÀ§8(<em> §8Water: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Вода: §8<num>%§8)
+§8  ÀÀÀÀ§8(<em> §8Air: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Воздух: §8<num>%§8)
+§8  ÀÀÀÀ§8(<em> §8Damage: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Физический: §8<num>%§8)
+§8  ÀÀÀÀ§8(<em> §8Water: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Вода: §8<num>%§8)
+§8  ÀÀÀÀ§8(<em> §8Earth: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Земля: §8<num>%§8)
+§7§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lRIGHT @ §7§6Комбо: §d§lПКМ§7-§d§lПКМ§7-§d§lПКМ
+§7§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lLEFT @ §7§6Комбо: §d§lПКМ§7-§d§lЛКМ§7-§d§lЛКМ
+§7§6Click Combo: §d§lRIGHT§7-§d§lRIGHT§7-§d§lLEFT @ §7§6Комбо: §d§lПКМ§7-§d§lПКМ§7-§d§lЛКМ
+§7Increase your damage @ §7Увеличивает ваш урон
+§7§8(Damage is dealt as §nMain Attack Damage§8) @ §8(Урон наносится как §nУрон Осн. Атаки§r§8)
+§8<em> §8Area of Effect: §7<num> Blocks §8(Circle-Shaped) @ §8<em> §8Зона поражения: §7<num> блоков §8(Круг)
+§7<em> §7Cooldown: §f<num>m @ <em> §7Перезарядка: §f<num>мин
+§8<em> §8Cooldown: §7<num>s @ §8<em> §8Перезарядка: §7<num>с
+§8<em> §8Range: §7<num> Block @ §8<em> §8Дальность: §7<num> блок
+§7<em> §7Total Damage: §c<num>% §8(of your DPS) @ §7<em> §7Общий урон: §c<num>% §8(от вашего DPS)
+§7<em> §7Total Damage: §f<num>% @ §7<em> §7Общий урон: §f<num>%
+§7an attack, and casting  switches them  @ §7удар, а §d§lF§r§7 переключает их
+§7an attack, and casting  switches them @ §7удар, а §d§lF§r§7 переключает их
+§8fire for §7<num>s§8. Enemies that walk @ §8горящего §7<num>с§r§8. Враги наступившие
+§8into it take damage every §7<num>s§8. @ §8в него получают урон каждые §7<num>с§r§8.
+§8§8down and deals damage every §7<num>s§8. @ §8вниз и наносит урон каждые §7<num>с§r§8.
+
+§7§a✔ §7Current Players: §f<num> @ §a✔ §7Текущие игроки: §f<num>
+§7§c✖ §7Current Players: §f<num> @ §c✖ §7Текущие игроки: §f<num>

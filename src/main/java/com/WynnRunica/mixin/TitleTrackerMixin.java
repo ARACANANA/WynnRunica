@@ -18,6 +18,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.WynnRunica.TextUtils.extractCleanText;
 import static com.WynnRunica.WynnRunicaClient.enabled;
 
 @Mixin(InGameHud.class)
@@ -28,6 +29,8 @@ public class TitleTrackerMixin {
     private static final char SPECIAL_CHAR = '\uDAFF';
     private static final char ZERO_WIDTH_CHAR = '\uE000';
     private static final Style[] bodyStyles = new Style[5];
+    private static String lastCleanKey = "";
+    private static int consecutiveCount = 0;
 
     static {
         for (int i = 0; i < 5; i++) {
@@ -60,6 +63,7 @@ public class TitleTrackerMixin {
             }
             if (textSibs.isEmpty()) return;
 
+            boolean originalBold = textSibs.get(0).getStyle().isBold();
 
             StringBuilder keyBuilder = new StringBuilder();
             for (Text sib : textSibs) {
@@ -70,16 +74,25 @@ public class TitleTrackerMixin {
             String key = keyBuilder.toString().trim().replaceAll(" +", " ");
             if (key.isEmpty()) return;
 
+            String cleanKey = key.replace(" ", "").toLowerCase();
+            if (cleanKey.equals(lastCleanKey)) {
+                consecutiveCount++;
+            } else {
+                consecutiveCount = 1;
+                lastCleanKey = cleanKey;
+            }
+            boolean isStabilized = consecutiveCount >= 3;
 
             String playerName = MinecraftClient.getInstance().getSession().getUsername();
             key = key.replace(playerName, "<playername>");
 
-            String translation = TranslationPrinter.getTranslation(key);
+            String translation = TranslationPrinter.getTranslation(key, isStabilized);
             if (translation.equals(key)) return;
 
             translation = translation.replace("<playername>", playerName);
 
-            ArrayList<String> lines = splitTextIntoLines(translation, bodyStyles[0], 0);
+            Style splitStyle = originalBold ? bodyStyles[0].withBold(true) : bodyStyles[0];
+            ArrayList<String> lines = splitTextIntoLines(translation, splitStyle, 0);
             if (lines.isEmpty()) return;
 
             if (textSibs.size() == 1) {
@@ -95,6 +108,7 @@ public class TitleTrackerMixin {
                 MutableText copy = Text.literal(isRealStartPos ? startPos : "").setStyle(bodyStyles[0]);
                 for (int i = 0; i < lines.size() && i < 5; i++) {
                     Style lineStyle = originalColor != null ? bodyStyles[i].withColor(originalColor) : bodyStyles[i];
+                    if (originalBold) lineStyle = lineStyle.withBold(true);
                     MutableText line = parseBrackets(lines.get(i), lineStyle);
                     line = manageWidth(line);
                     copy.append(line);
@@ -124,11 +138,13 @@ public class TitleTrackerMixin {
                 // multi-sibling mode (с Wynntils)
                 TextColor originalColor = textSibs.get(0).getStyle().getColor();
                 Style line0Style = originalColor != null ? bodyStyles[0].withColor(originalColor) : bodyStyles[0];
+                if (originalBold) line0Style = line0Style.withBold(true);
                 MutableText copy = parseBrackets(lines.get(0), line0Style);
 
                 for (int i = 1; i < lines.size() && i < 5; i++) {
                     copy = manageWidth(copy);
                     Style lineStyle = originalColor != null ? bodyStyles[i].withColor(originalColor) : bodyStyles[i];
+                    if (originalBold) lineStyle = lineStyle.withBold(true);
                     copy.append(parseBrackets(lines.get(i), lineStyle));
                 }
 
@@ -189,21 +205,6 @@ public class TitleTrackerMixin {
         }
     }
 
-    private String extractCleanText(String text) {
-        if (text.length() <= 2) return "";
-        StringBuilder out = new StringBuilder();
-        boolean skipNext = false;
-
-        for (char c : text.toCharArray()) {
-            if (skipNext) { skipNext = false; continue; }
-            if (c == SPECIAL_CHAR) { out.append(" "); skipNext = true; continue; }
-            if (c >= '\uD800' && c <= '\uDBFF') { skipNext = true; continue; }
-            if (c >= '\uDC00' && c <= '\uDFFF') { continue; }
-            if (c >= '\uE000' && c <= '\uF8FF') { continue; }
-            out.append(c);
-        }
-        return out.toString();
-    }
 
     private ArrayList<String> splitTextIntoLines(String text, Style style, int adjustWidth) {
 
@@ -283,7 +284,7 @@ public class TitleTrackerMixin {
                 if (startIdx > lastPos) {
                     result.append(Text.literal(text.substring(lastPos, startIdx)).setStyle(baseStyle));
                 }
-                Style bracketStyle = baseStyle.withColor(Formatting.AQUA);
+                Style bracketStyle = baseStyle.withColor(Formatting.LIGHT_PURPLE);
                 result.append(Text.literal(text.substring(startIdx, endIdx + 1)).setStyle(bracketStyle));
                 lastPos = endIdx + 1;
                 startIdx = text.indexOf('[', lastPos);

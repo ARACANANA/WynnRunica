@@ -3,7 +3,7 @@
   "id": "wynn_runica",
   "version": "${version}",
   "name": "WynnRunica",
-  "description": "Клиентский мод для перевода диалогов на сервере Wynncraft",
+  "description": "Полноценный русский перевод диалогов Wynncraft в стиле оригинала. Кириллица нарисована вручную в стиле оригинальна",
   "authors": ["shiiu"],
   "contact": {},
   "license": "All-Rights-Reserved",

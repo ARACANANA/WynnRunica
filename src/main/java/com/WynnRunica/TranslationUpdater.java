@@ -29,31 +29,41 @@ public class TranslationUpdater {
 
             JsonObject root = JsonParser.parseString(sb.toString()).getAsJsonObject();
             JsonArray tree = root.getAsJsonArray("tree");
-            Path questsPath = FabricLoader.getInstance().getConfigDir().resolve("WynnRunica").resolve("quests");
+            Path configPath = FabricLoader.getInstance().getConfigDir().resolve("WynnRunica");
+            Path questsPath = configPath.resolve("quests");
+            Path guiPath    = configPath.resolve("gui");
+
+            Files.createDirectories(questsPath);
+            Files.createDirectories(guiPath);
 
             for (int i = 0; i < tree.size(); i++) {
 
                 JsonObject item = tree.get(i).getAsJsonObject();
-                String path =item.get("path").getAsString();
+                String path = item.get("path").getAsString();
                 path = path.replace(" ", "%20");
                 String type = item.get("type").getAsString();
 
+                Path destDir;
                 if (path.startsWith("src/main/resources/quests/") && type.equals("blob")) {
-
-                    URL fileAdress = new URL("https://raw.githubusercontent.com/Hayoumi/WynnRunica/main/" + path);
-                    BufferedReader Filereader = new BufferedReader(new InputStreamReader(fileAdress.openStream()));
-
-                    StringBuilder textInFile = new StringBuilder();
-                    String text;
-                    String questName = path.substring(path.lastIndexOf('/') + 1).replace("%20", " ");
-
-                    while ((text = Filereader.readLine()) != null) {
-                        textInFile.append(text).append("\n");
-                    }
-
-                    Files.writeString(questsPath.resolve(questName), textInFile);
-
+                    destDir = questsPath;
+                } else if (path.startsWith("src/main/resources/gui/") && type.equals("blob")) {
+                    destDir = guiPath;
+                } else {
+                    continue;
                 }
+
+                URL fileAdress = new URL("https://raw.githubusercontent.com/Hayoumi/WynnRunica/main/" + path);
+                BufferedReader Filereader = new BufferedReader(new InputStreamReader(fileAdress.openStream()));
+
+                StringBuilder textInFile = new StringBuilder();
+                String text;
+                String fileName = path.substring(path.lastIndexOf('/') + 1).replace("%20", " ");
+
+                while ((text = Filereader.readLine()) != null) {
+                    textInFile.append(text).append("\n");
+                }
+
+                Files.writeString(destDir.resolve(fileName), textInFile);
 
             }
 

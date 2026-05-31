@@ -1,0 +1,1243 @@
+# ══════════════════════════════════════════════════════════════════════
+# WynnRunica - Дерево умений (assassin) (RU)
+# ══════════════════════════════════════════════════════════════════════
+
+# ══════════════════════════════════════════════════════════════════════
+# АРХЕТИПЫ
+# ══════════════════════════════════════════════════════════════════════
+§6§lShadestepper @ §6§lШагающий в Тени
+§d§lTrickster @ §d§lТрикстер
+§7§lAcrobat @ §7§lАкробат
+§6§lShadestepper Archetype @ §6§lАрхетип: Шагающий в Тени
+§d§lTrickster Archetype @ §d§lАрхетип: Трикстер
+§7§lAcrobat Archetype @ §7§lАрхетип: Акробат
+§7Shadestepper Archetype @ §6§lАрхетип: Шагающий в Тени
+§7Trickster Archetype @ §d§lАрхетип: Трикстер
+§7Acrobat Archetype @ §7§lАрхетип: Акробат
+Shadestepper Archetype @ Архетип: Шагающий в Тени
+Trickster Archetype @ Архетип: Трикстер
+Acrobat Archetype @ Архетип: Акробат
+
+# ══════════════════════════════════════════════════════════════════════
+# СПОСОБНОСТИ
+# Каждый блок: имя + описание (активное и заблокированное)
+# ══════════════════════════════════════════════════════════════════════
+
+# ─── Spin Attack ───────────────────────────────────────────────────────
+Spin Attack @ Вихревая Атака
+§7§6Click Combo: §d§lRIGHT§7-§d§lLEFT§7-§d§lRIGHT @ §7§6Комбо: §d§lПКМ§7-§d§lЛКМ§7-§d§lПКМ
+§7§7Slashes rapidly around you, @ §7Быстро рубит вокруг вас,
+§7§7damaging enemies over a large area. @ §7нанося урон врагам по большой области.
+
+# ─── Cheaper Spin Attack ───────────────────────────────────────────────
+Cheaper Spin Attack @ Экономная Вихревая Атака
+§7§7Reduce the Mana cost of §nSpin Attack§7. @ §7Снижает затраты маны для §nВихревой Атаки§r§7.
+
+# ─── Dagger Proficiency I ──────────────────────────────────────────────
+Dagger Proficiency I @ Владение Кинжалом I
+§7§7Increases your Walk Speed and @ §7Увеличивает Скорость Ходьбы и
+§7§7§7§nMain Attack§7's damage by §f<num>%§7. @ §7урон §nОсновной Атаки§r§7 на §f<num>%§r§7.
+§8§8§8§nMain Attack§8's damage by §7<num>%§8. @ §8урон §nОсновной Атаки§r§8 на §7<num>%§r§8.
+
+# ─── Double Spin ───────────────────────────────────────────────────────
+Double Spin @ Двойное Вращение
+§7§7§nSpin Attack§7 will activate twice, with a @ §7§nВихревая Атака§r§7 срабатывает дважды, с
+§7§7larger area of effect on the second spin. @ §7большую зону на втором вращении.
+
+# ─── Poisoned Blade ────────────────────────────────────────────────────
+Poisoned Blade @ Отравленный Клинок
+§7For every §f<num>%§7 or §f<num> Raw §7Main Attack Damage you have @ §7За каждый §f<num>%§r§7 или §f<num> в чистом виде§r§7 Урона Осн. Атаки от предметов
+§7§lPoisoned Blade @ Отравленный Клинок
+§7§7Your §nMain Attack§7 gains additional range. @ §7Ваша §nОсновная Атака§r§7 получает дополнительную дальность.
+§7from items, gain §f<num>/<num>s§7 Poison Damage. (Max <num>/<num>s) @ §7от предметов получаете §f<num>/<num>с§r§7 Урона Ядом. (Максимум <num>/<num>с)
+§8For every §8<num>%§8 or §8<num> Raw §8Main Attack Damage you have @ §8За каждый §8<num>%§r§8 или §8<num> в чистом виде§r§8 Урон Осн. Атаки от предметов
+§8For every §7<num>%§8 or §7<num> Raw §8Main Attack Damage you have @ §8За каждый §7<num>%§r§8 или §7<num> в чистом виде§r§8 Урона Осн. Атаки от предметов
+§8§8Your §nMain Attack§8 gains additional range. @ §8Ваша §nОсновная Атака§r§8 получает дополнительную дальность.
+§8from items, gain §7<num>/<num>s§8 Poison Damage. (Max <num>/<num>s) @ §8от предметов получаете §7<num>/<num>с§r§8 Урона Ядом. (Максимум <num>/<num>с)
+§8from items, gain §8<num>/<num>s§8 Poison Damage. (Max <num>/<num>s) @ §8от предметов получаете §8<num>/<num>с§r§8 Урона Ядом. (Максимум <num>/<num>с)
+
+# ─── Dash ──────────────────────────────────────────────────────────────
+Dash @ Рывок
+§7§7Dash in the direction @ §7Рывок в направлении
+§7§7you're facing. @ §7вы смотрите.
+§8§8Dash in the direction @ §8Рывок в направлении
+§8§8you're facing. @ §8вы смотрите.
+
+# ─── Double Slice ──────────────────────────────────────────────────────
+Double Slice @ Двойной Срез
+§7§lDouble Slice @ Двойной Срез
+§7§7Your §nMain Attack§7 will hit twice, @ §7Ваша §nОсновная Атака§r§7 ударяет дважды,
+§7§7but deal §f<num>% §7damage per hit. @ §7но наносит §f<num>%§r§7 урона за удар.
+§8§8Your §nMain Attack§8 will hit twice, @ §8Ваша §nОсновная Атака§r§8 ударяет дважды,
+§8§8but deal §7<num>% §8damage per hit. @ §8но наносит §7<num>%§r§8 урона за удар.
+
+# ─── Smoke Bomb ────────────────────────────────────────────────────────
+Smoke Bomb @ Дымовая Бомба
+§7§7Throws a bomb that slowly emanates smoke, @ §7Бросает бомбу, медленно выпускающую дым,
+§7§7damaging all enemies in it every §f<num>s§7. @ §7нанося урон всем врагам в нём каждые §f<num>с§r§7.
+§8§8Throws a bomb that slowly emanates smoke, @ §8Бросает бомбу, медленно выпускающую дым,
+§8§8damaging all enemies in it every §7<num>s§8. @ §8нанося урон всем врагам в нём каждые §7<num>с§r§8.
+
+# ─── Cheaper Dash ──────────────────────────────────────────────────────
+Cheaper Dash @ Экономный Рывок
+§7§7Reduce the Mana cost of §nDash§7. @ §7Снижает затраты маны для §nРывка§r§7.
+
+# ─── Multihit ──────────────────────────────────────────────────────────
+Multihit @ Мультиудар
+§7§7Unleashes a rapid flurry of §f<num> §7hits to enemies @ §7Высвобождает шквал из §f<num>§r§7 ударов по врагам
+§7facing you, dealing heavy damage. @ §7перед вами, нанося огромный урон.
+§8§8Unleashes a rapid flurry of §7<num> §8hits to enemies @ §8Высвобождает шквал из §7<num>§r§8 ударов по врагам
+§8facing you, dealing heavy damage. @ §8перед вами, нанося огромный урон.
+
+# ─── Sticky Bomb ───────────────────────────────────────────────────────
+Sticky Bomb @ Липкая Бомба
+§7§7§nSmoke Bomb§7 will stick to enemies @ §7§nДымовая Бомба§r§7 прилипает к врагам
+§7§7and deal additional damage. @ §7и наносит дополнительный урон.
+
+# ─── Earth Mastery ─────────────────────────────────────────────────────
+
+# ─── Thunder Mastery ───────────────────────────────────────────────────
+
+# ─── Water Mastery ─────────────────────────────────────────────────────
+
+# ─── Air Mastery ───────────────────────────────────────────────────────
+
+# ─── Fire Mastery ──────────────────────────────────────────────────────
+
+# ─── Ripple ────────────────────────────────────────────────────────────
+Ripple @ Волна
+§7§7Falling §f<num>§7 blocks or more deals @ §7Падение с §f<num>§r§7 блоков и более наносит
+§7This damage is increased by §f<num>%§7 @ §7Этот урон увеличен на §f<num>%§r§7
+§7afterwards, up to §f<num>§7 blocks. @ §7после, до §f<num>§r§7 блоков.
+§7§7damage around you when you land. @ §7урона вокруг вас при приземлении.
+§7for every additional block you fall @ §7за каждый дополнительный блок падения
+§8§8Falling §7<num>§8 blocks or more deals @ §8Падение с §7<num>§r§8 блоков и более наносит
+§8This damage is increased by §7<num>%§8 @ §8Этот урон увеличен на §7<num>%§r§8
+§8afterwards, up to §7<num>§8 blocks. @ §8после, до §7<num>§r§8 блоков.
+
+# ─── Backstab ──────────────────────────────────────────────────────────
+Backstab @ Удар в Спину
+§7§lBackstab @ Удар в Спину
+§7§7If you strike an enemy from behind, it @ §7При ударе врага сзади он
+§7§7Makes §nMultihit§7 a single devastating hit. @ §7Превращает §nМультиудар§r§7 в один мощный удар.
+§7§7deals §fdouble §7the damage. @ §7наносит §fдвойной§r§7 урон.
+§8§8If you strike an enemy from behind, it @ §8При ударе врага сзади он
+§8§8Makes §nMultihit§8 a single devastating hit. @ §8Превращает §nМультиудар§r§8 в один мощный удар.
+§8§8deals §7double §8the damage. @ §8наносит §7двойной§r§8 урон.
+
+# ─── Vanish ────────────────────────────────────────────────────────────
+Vanish @ Исчезновение
+§7§8(Attack or get hit to cancel) @ §8(Атакуйте или получите удар для отмены)
+§7§7§nDash§7 will hide you into the shadows. You @ §7§nРывок§r§7 скрывает вас в тенях. Вы
+§7§7cannot heal or gain mana while in this state. @ §7не можете лечиться или получать ману в этом состоянии.
+
+# ─── Bamboozle ─────────────────────────────────────────────────────────
+Bamboozle @ Финт
+§7§7§nMultihit§7 will instead teleport you forward @ §7§nМультиудар§r§7 вместо этого телепортирует вас вперёд
+§7§7and strike with a brutal fiery slash. @ §7и наносит жестокий огненный удар.
+
+# ─── Hop ───────────────────────────────────────────────────────────────
+Hop @ Прыжок
+§7§7Leap in the direction of your @ §7Прыгает в направлении вашего
+§7§7movement when you double jump. @ §7движения при двойном прыжке.
+
+# ─── Surprise Strike ───────────────────────────────────────────────────
+Surprise Strike @ Внезапный Удар
+§7§7Your first hit after casting §nVanish @ §7Ваш первый удар после §nИсчезновения
+§7§7will deal §f<num>%§7 more damage. @ §7наносит §f<num>%§r§7 больше урона.
+§8§8will deal §7<num>%§8 more damage. @ §8наносит §7<num>%§r§8 больше урона.
+
+# ─── Mirror Image ──────────────────────────────────────────────────────
+Mirror Image @ Зеркальный Образ
+§7§f<num>%§7 of incoming damage and granting you @ §7§f<num>%§r§7 входящего урона и даёт вам
+§7§lMirror Image @ Зеркальный Образ
+§7§7When hit, lose a §bMirror Clone <em>§7, reducing @ §7При получении удара теряет §bЗеркального Двойника §9<em>§r§7, уменьшая
+§7§7a damage bonus for §f<num>s§7. (<num>s cooldown) @ §7бонус к урону на §f<num>с§r§7. (перезарядка <num>с)
+§7§7from §nVanish§7 that will follow and protect you. @ §7из §nИсчезновения§r§7, который следует и защищает вас.
+§8§7<num>%§8 of incoming damage and granting you @ §8§7<num>%§r§8 входящего урона и даёт вам
+§8§8When hit, lose a §7Mirror Clone <em>§8, reducing @ §8При получении удара теряет §7Зеркального Двойника §8<em>§r§8, уменьшая
+§8§8a damage bonus for §7<num>s§8. (<num>s cooldown) @ §8бонус к урону на §7<num>с§r§8. (перезарядка <num>с)
+§8§8from §nVanish§8 that will follow and protect you. @ §8из §nИсчезновения§r§8, который следует и защищает вас.
+
+# ─── Lacerate ──────────────────────────────────────────────────────────
+Lacerate @ Разрыв
+§7§lLacerate @ Разрыв
+§7§7§nSpin Attack§7 will lunge you forward, @ §7§nВихревая Атака§r§7 бросает вас вперёд,
+§7Using §nHop§7 while §nLacerate§7 is active launches you further. @ §7Использование §nПрыжка§r§7 во время активного §nРазрыва§r§7 запускает вас дальше.
+§7§7deal §f<num> §7strikes and then lunge you upward. @ §7наносит §f<num>§r§7 ударов и подбрасывает вас вверх.
+§8§8§nSpin Attack§8 will lunge you forward, @ §8§nВихревая Атака§r§8 бросает вас вперёд,
+§8Using §nHop§8 while §nLacerate§8 is active launches you further. @ §8Использование §nПрыжка§r§8 во время активного §nРазрыва§r§8 запускает вас дальше.
+§8§8deal §7<num> §8strikes and then lunge you upward. @ §8наносит §7<num>§r§8 ударов и подбрасывает вас вверх.
+
+# ─── Silent Killer ─────────────────────────────────────────────────────
+Silent Killer @ Тихий Убийца
+§7§7Resets §nVanish§7's cooldown @ §7Сбрасывает перезарядку §nИсчезновения§r§7
+§7§7after killing an enemy. @ §7после убийства врага.
+§8§8Resets §nVanish§8's cooldown @ §8Сбрасывает перезарядку §nИсчезновения§r§8
+§8§8after killing an enemy. @ §8после убийства врага.
+
+# ─── Foul Play ─────────────────────────────────────────────────────────
+Foul Play @ Грязный Приём
+§7§nBamboozle§7 will slay a §bMirror Clone <em>§7 @ §7§nФинт§r§7 убивает §bЗеркального Двойника §9<em>§r§7
+§7§7Reduce the Mana cost of §nMultihit§7. @ §7Снижает затраты маны для §nМультиудара§r§7.
+§7§7While §nMirror Image§7 is active, @ §7Пока §nЗеркальный Образ§r§7 активен,
+§7instead of having a cooldown. @ §7вместо перезарядки.
+§8§nBamboozle§8 will slay a §7Mirror Clone <em>§8 @ §8§nФинт§r§8 убивает §7Зеркального Двойника §8<em>§r§8
+§8§8Reduce the Mana cost of §nMultihit§8. @ §8Снижает затраты маны для §nМультиудара§r§8.
+
+# ─── Wall of Smoke ─────────────────────────────────────────────────────
+Wall of Smoke @ Стена Дыма
+§7§7§nSmoke Bomb§7 will throw §f<num>§7 bombs. @ §7§nДымовая Бомба§r§7 бросает §f<num>§r§7 бомб.
+§7§lWall of Smoke @ Стена Дыма
+§8§8§nSmoke Bomb§8 will throw §7<num>§8 bombs. @ §8§nДымовая Бомба§r§8 бросает §7<num>§r§8 бомб.
+
+# ─── Last Laugh ────────────────────────────────────────────────────────
+Last Laugh @ Последний Смех
+§7§7When losing any §bClone <em><em><em>§7, it will cast @ §7При потере любого §bДвойника §9<em><em><em>§r§7, он кастует
+§7§7before dying. @ §7перед смертью.
+§7§7one of your spells before dying. @ §7одно из ваших заклинаний перед смертью.
+§8§8When losing any §7Clone <em><em><em>§8, it will cast @ §8При потере любого §7Двойника §8<em><em><em>§r§8, он кастует
+§8§8before dying. @ §8перед смертью.
+§8§8one of your spells before dying. @ §8одно из ваших заклинаний перед смертью.
+
+# ─── Psithurism ────────────────────────────────────────────────────────
+Psithurism @ Шёпот Листвы
+§7§7Increase your Walk Speed by §f<num>%§7 @ §7Увеличивает Скорость Ходьбы на §f<num>%§r§7
+§7§7and your Jump Height by §f<num>§7. @ §7и Высоту Прыжка на §f<num>§r§7.
+§7and your Jump Height by §f<num>§7. @ §7и Высоту Прыжка на §f<num>§r§7.
+§8§8Increase your Walk Speed by §7<num>%§8 @ §8Увеличивает Скорость Ходьбы на §7<num>%§r§8
+§8§8and your Jump Height by §7<num>§8. @ §8и Высоту Прыжка на §7<num>§r§8.
+§8and your Jump Height by §7<num>§8. @ §8и Высоту Прыжка на §7<num>§r§8.
+
+# ─── Rolling Fog ───────────────────────────────────────────────────────
+Rolling Fog @ Стелющийся Туман
+§7§7Increase §nSmoke Bomb§7's range @ §7Увеличивает дальность §nДымовой Бомбы§r§7
+§7and area of effect. @ §7и зону поражения.
+
+# ─── Shadow Travel ─────────────────────────────────────────────────────
+Shadow Travel @ Путь в Тенях
+§7§7Gain §f<num>% §7Walk Speed (§3➲§7) @ §7Получаете §f<num>%§r§7 Скорости Ходьбы (§3➲§r§7)
+§7when in §nVanish§7. @ §7в §nИсчезновении§r§7.
+§8§8Gain §7<num>% §8Walk Speed (§8➲§8) @ §8Получаете §7<num>%§r§8 Скорости Ходьбы (§8➲§r§8)
+
+# ─── Cheaper Multihit ──────────────────────────────────────────────────
+Cheaper Multihit @ Экономный Мультиудар
+
+# ─── Finality ──────────────────────────────────────────────────────────
+Finality @ Финал
+§7§7Damage bonus caps at §f<num>§7 hits. @ §7Бонус к урону ограничен §f<num>§r§7 ударами.
+§7§lFinality @ Финал
+§7§7§nMultihit§7's damage ramps up every  @ §7Урон §nМультиудара§r§7 нарастает каждые 
+§7§7hit, dealing additional damage. @ §7удар, нанося дополнительный урон.
+§8§8Damage bonus caps at §7<num>§8 hits. @ §8Бонус к урону ограничен §7<num>§r§8 ударами.
+§8§8§nMultihit§8's damage ramps up every  @ §8Урон §nМультиудара§r§8 нарастает каждые 
+§8§8hit, dealing additional damage. @ §8удар, нанося дополнительный урон.
+
+# ─── Shadow Siphon ─────────────────────────────────────────────────────
+Shadow Siphon @ Истощение Тенью
+§7§7Reduces §nVanish§7's cooldown by §f<num>s §7after @ §7Снижает перезарядку §nИсчезновения§r§7 на §f<num>с§r§7 после
+§7§7striking an enemy from behind with §nBackstab§7. @ §7удара врага сзади §nУдаром в Спину§r§7.
+§8§8Reduces §nVanish§8's cooldown by §7<num>s §8after @ §8Снижает перезарядку §nИсчезновения§r§8 на §7<num>с§r§8 после
+
+# ─── Mirage ────────────────────────────────────────────────────────────
+Mirage @ Мираж
+§7§7After using §nBamboozle§7 or §nShadow Projection @ §7После §nФинта§r§7 или §nПроекции Тени§r§7
+§7§7and will cast §nSmoke Bomb§7 with §nLast Laugh§7. @ §7и кастует §nДымовую Бомбу§r§7 §nПоследним Смехом§r§7.
+§7§7is within §f<num> §7blocks or when they expire, @ §7в радиусе §f<num>§r§7 блоков или истекает,
+§7§7to teleport, leave behind a §bMirage Clone <em> @ §7для телепорта, оставляет §bДвойника-Мираж §9<em>
+§7§7which draws mobs within §f<num> §7blocks towards it. @ §7притягивающего мобов в радиусе §f<num>§r§7 блоков.
+§8§8and will cast §nSmoke Bomb§8 with §nLast Laugh§8. @ §8и кастует §nДымовую Бомбу§r§8 §nПоследним Смехом§r§8.
+§8§8is within §7<num> §8blocks or when they expire, @ §8в радиусе §7<num>§r§8 блоков или истекает,
+§8§8to teleport, leave behind a §7Mirage Clone <em> @ §8для телепорта, оставляет §7Двойника-Мираж §8<em>
+§8§8which draws mobs within §7<num> §8blocks towards it. @ §8притягивающего мобов в радиусе §7<num>§r§8 блоков.
+
+# ─── Cheaper Smoke Bomb ────────────────────────────────────────────────
+Cheaper Smoke Bomb @ Экономная Дымовая Бомба
+§7§7Reduce the Mana cost of §nSmoke Bomb§7. @ §7Снижает затраты маны для §nДымовой Бомбы§r§7.
+
+# ─── Blazing Powder ────────────────────────────────────────────────────
+Blazing Powder @ Пылающий Порошок
+§7§7§nSpin Attack§7 and §nLacerate§7 will @ §7§nВихревая Атака§r§7 и §nРазрыв§r§7 будут
+§7§7deal additional damage. @ §7наносит дополнительный урон.
+
+# ─── Weightless ────────────────────────────────────────────────────────
+Weightless @ Невесомость
+§7§8(<num>+ blocks off the @ §8(<num>+ блоков от
+§7§7You gain §f<num> §7Mana if you @ §7Получаете §f<num>§r§7 Маны если
+§7§8ground to be airborne) @ §8земли чтобы быть в воздухе)
+§7§7hit an enemy while airborne. @ §7удар врага в воздухе.
+§8§8(<num>+ blocks off the @ §8(<num>+ блоков от
+§8§8You gain §7<num> §8Mana if you @ §8Получаете §7<num>§r§8 Маны если
+
+# ─── Black Hole ────────────────────────────────────────────────────────
+Black Hole @ Чёрная Дыра
+§7§7§nSmoke Bomb§7 will pull nearby enemies. @ §7§nДымовая Бомба§r§7 притягивает ближайших врагов.
+
+# ─── Sandbagging ───────────────────────────────────────────────────────
+Sandbagging @ Притворство
+§7§7Reduce the cooldown on all of your @ §7Снижает перезарядку всех ваших
+§7§7abilities by §f<num>% §7every time you get hit @ §7способностей на §f<num>%§r§7 каждый раз когда вас ударяют
+§7§7for less than §f<num>% §7of your max health or @ §7менее чем §f<num>%§r§7 вашего максимального здоровья или
+§8§8abilities by §7<num>% §8every time you get hit @ §8способностей на §7<num>%§r§8 каждый раз когда вас ударяют
+§8§8for less than §7<num>% §8of your max health or @ §8менее чем §7<num>%§r§8 вашего максимального здоровья или
+
+# ─── Mutilate ──────────────────────────────────────────────────────────
+Mutilate @ Увечье
+§7§7Increase §nFinality§7's damage cap by §f<num>§7 hits. @ §7Увеличивает порог урона §nФинала§r§7 на §f<num>§r§7 ударов.
+§7§7Increase §nMultihit§7's amount of hits by §f<num>§7. @ §7Увеличивает количество ударов §nМультиудара§r§7 на §f<num>§r§7.
+§7§lMutilate @ Увечье
+§8§8Increase §nFinality§8's damage cap by §7<num>§8 hits. @ §8Увеличивает порог урона §nФинала§r§8 на §7<num>§r§8 ударов.
+§8§8Increase §nMultihit§8's amount of hits by §7<num>§8. @ §8Увеличивает количество ударов §nМультиудара§r§8 на §7<num>§r§8.
+
+# ─── Swan Dive ─────────────────────────────────────────────────────────
+Swan Dive @ Лебединый Прыжок
+§7§7For each stack of §bMomentum <em>§7, this @ §7За каждый стак §bИмпульса §9<em>§r§7 это
+§7§7Landing §f<num> §7hits against an enemy while @ §7§f<num>§r§7 попаданий по врагу пока
+§7§nRipple§7 consumes your §bMomentum <em>§7, @ §7§nВолна§r§7 расходует ваш §bИмпульс §9<em>§r§7,
+§7§7While midair, hold shift to quickly drop down. @ §7В воздухе зажмите Shift для быстрого падения.
+§7§7explosion deals §f<num>% §7more damage. @ §7взрыв наносит §f<num>%§r§7 больше урона.
+§7§7massive damage and briefly blinds enemies. @ §7огромный урон и кратко ослепляет врагов.
+§7§7midair grants you §f<num> §bMomentum <em>§7. §8(Max <num>) @ §7в воздухе даёт §f<num> §bИмпульса §9<em>§r§7. §8(Максимум <num>)
+§7§7releasing a powerful explosion that deals @ §7высвобождая мощный взрыв, наносящий
+§8§8For each stack of §7Momentum <em>§8, this @ §8За каждый стак §7Импульса §8<em>§r§8 это
+§8§8Landing §7<num> §8hits against an enemy while @ §8§7<num>§r§8 попаданий по врагу пока
+§8§nRipple§8 consumes your §7Momentum <em>§8, @ §8§nВолна§r§8 расходует ваш §7Импульс §8<em>§r§8,
+§8§8While midair, hold shift to quickly drop down. @ §8В воздухе зажмите Shift для быстрого падения.
+§8§8explosion deals §7<num>% §8more damage. @ §8взрыв наносит §7<num>%§r§8 больше урона.
+§8§8massive damage and briefly blinds enemies. @ §8огромный урон и кратко ослепляет врагов.
+§8§8midair grants you §7<num> §7Momentum <em>§8. §8(Max <num>) @ §8в воздухе даёт §7<num> §7Импульса §8<em>§r§8. §8(Максимум <num>)
+§8§8releasing a powerful explosion that deals @ §8высвобождая мощный взрыв, наносящий
+
+# ─── Violent Vortex ────────────────────────────────────────────────────
+Violent Vortex @ Яростный Вихрь
+§7§7Dealing over §f<num>x§7 of your max health as @ §7Нанесение более §f<num>x§r§7 максимального здоровья
+§7§7damage in a single hit will deal §f<num>%§7 of @ §7урона за один удар нанесёт §f<num>%§r§7 от
+§7§7the damage to other nearby enemies. @ §7урона другим ближайшим врагам.
+§8§8Dealing over §7<num>x§8 of your max health as @ §8Нанесение более §7<num>x§r§8 максимального здоровья
+§8§8damage in a single hit will deal §7<num>%§8 of @ §8урона за один удар нанесёт §7<num>%§r§8 от
+
+# ─── Duplicity ─────────────────────────────────────────────────────────
+Duplicity @ Двуличие
+§7§lDuplicity @ Двуличие
+§7§7with §nMirror Image§7. @ §7вместе с §nЗеркальным Образом§r§7.
+§8§8Summon §7<num> §8additional §7Mirror Clones <em>§8 @ §8Призывает §7<num>§r§8 доп. §7Зеркальных Двойников §8<em>§r§8
+§8§8Summon §8<num> §8additional §8Mirror Clones <em>§8 @ §8Призывает §8<num>§r§8 доп. §8Зеркальных Двойников §8<em>§r§8
+§8§8with §nMirror Image§8. @ §8вместе с §nЗеркальным Образом§r§8.
+
+# ─── Righting Reflex ───────────────────────────────────────────────────
+Righting Reflex @ Рефлекс Восстановления
+§7§7When you hold shift while airborne, slowly @ §7Зажмите shift в воздухе, чтобы медленно
+§7§7glide and become immune to fall damage. (Max <num>s) @ §7планировать и стать неуязвимым к урону от падения. (Максимум <num>с)
+§8§8glide and become immune to fall damage. (Max <num>s) @ §8планировать и стать неуязвимым к урону от падения. (Максимум <num>с)
+
+# ─── Marked ────────────────────────────────────────────────────────────
+Marked @ Метка
+§7§lMarked @ Метка
+§7enemies it hits. (Max <num>, <num>s Cooldown) @ §7поражённым врагам. (Максимум <num>, <num>с Перезарядка)
+§7from attacks for each mark they have. @ §7от атак за каждую метку на них.
+§7§7from attacks for each mark they have. @ §7от атак за каждую метку на них.
+§8enemies it hits. (Max <num>, <num>s Cooldown) @ §8поражённым врагам. (Максимум <num>, <num>с Перезарядка)
+§8from attacks for each mark they have. @ §8от атак за каждую метку на них.
+
+# ─── Malicious Mockery ─────────────────────────────────────────────────
+Malicious Mockery @ Злая Насмешка
+§7(Max <num>) @ §7(Максимум <num>)
+§7§7Casting §nDash§7 while sneaking will detonate @ §7§nРывок§r§7 в приседе подрывает
+§7§7all nearby stored §bTricks <em>§7, dealing damage @ §7все находящиеся рядом §bУловки §9<em>§r§7, нанося урон
+§7§7based on how many stacks were consumed. @ §7в зависимости от количества потраченных стаков.
+§7§7enemies based on the type of §bClone <em><em><em>§7. @ §7врагам в зависимости от типа §bДвойника §9<em><em><em>§r§7.
+§8(Max <num>) @ §8(Максимум <num>)
+§8§8all nearby stored §7Tricks <em>§8, dealing damage @ §8все находящиеся рядом §7Уловки §8<em>§r§8, нанося урон
+§8§8enemies based on the type of §7Clone <em><em><em>§8. @ §8врагам в зависимости от типа §7Двойника §8<em><em><em>§r§8.
+
+# ─── Shurikens ─────────────────────────────────────────────────────────
+Shurikens @ Сюрикены
+§7§f<num>§7 shurikens. §8(Max <num>)§7 @ §7§f<num>§r§7 сюрикенов. §8(Максимум <num>)
+§7After using §nDash§7, you prepare @ §7После §nРывка§r§7 вы готовите
+§7§7Your next §nMain Attack§7 will throw all @ §7Ваша следующая §nОсновная Атака§r§7 бросает все
+§7your prepared shurikens. @ §7ваши подготовленные сюрикены.
+§8§7<num>§8 shurikens. §8(Max <num>)§8 @ §8§7<num>§r§8 сюрикенов. §8(Максимум <num>)
+§8your prepared shurikens. @ §8ваши подготовленные сюрикены.
+
+# ─── Blade Fury ────────────────────────────────────────────────────────
+Blade Fury @ Ярость Клинка
+§7<em> §7Multihit Damage: §f<num>% §8(of your DPS, per hit) @ <em> §7Урон Мультиудара: §f<num>%§r §8(от вашего DPS, за удар)
+§7§7§nMultihit§7 gains extra damage and @ §7§nМультиудар§r§7 получает доп. урон и
+§7§7can be aimed in all directions. @ §7можно нацелить во все стороны.
+§8<em> §8Multihit Damage: §7<num>% §8(of your DPS, per hit) @ §8<em> §8Урон Мультиудара: §7<num>%§r §8(от вашего DPS, за удар)
+
+# ─── Hoodwink ──────────────────────────────────────────────────────────
+Hoodwink @ Морок
+§7§7After killing an enemy, salvage §f<num>%§7 of @ §7После убийства врага собирает §f<num>%§r§7
+§7§7Casting §nSpin Attack§7 while sneaking will @ §7§nВихревая Атака§r§7 в приседе будет
+§7§7and immediately detonate them. @ §7и мгновенно их подрывает.
+§7§7their §bTricks <em>§7. (Max <num> per mob, <num> total) @ §7их §bУловки §9<em>§r§7. (Максимум <num> на моба, <num> всего)
+§8§8After killing an enemy, salvage §7<num>%§8 of @ §8После убийства врага собирает §7<num>%§r§8
+§8§8their §7Tricks <em>§8. (Max <num> per mob, <num> total) @ §8их §7Уловки §8<em>§r§8. (Максимум <num> на моба, <num> всего)
+
+# ─── Dancing Blade ─────────────────────────────────────────────────────
+Dancing Blade @ Танцующий Клинок
+§7§7When using §nSwan Dive§7 with §f<num>+ §bMomentum <em>§7, you @ §7Использование §nЛебединого Прыжка§r§7 с §f<num>+ §bИмпульса §9<em>§r§7, вы
+§7§7will leap back into the air §f<num>s §7after landing. @ §7подпрыгивает в воздух §f<num>с§r§7 после приземления.
+§8§8When using §nSwan Dive§8 with §7<num>+ §7Momentum <em>§8, you @ §8Использование §nЛебединого Прыжка§r§8 с §7<num>+ §7Импульса §8<em>§r§8, вы
+§8§8will leap back into the air §7<num>s §8after landing. @ §8подпрыгивает в воздух §7<num>с§r§8 после приземления.
+
+# ─── Ambush ────────────────────────────────────────────────────────────
+Ambush @ Засада
+§7§7Increases §nSurprise Strike§7's @ §7Увеличивает §nВнезапный Удар§r§7
+§7damage by §f<num>%§7. @ §7урона на §f<num>%§r§7.
+§8damage by §7<num>%§8. @ §8урона на §7<num>%§r§8.
+
+# ─── Death Magnet ──────────────────────────────────────────────────────
+Death Magnet @ Магнит Смерти
+§7§7When exiting §nVanish§7, pull all @ §7При выходе из §nИсчезновения§r§7 притягивает все
+§7§7where you entered §nVanish§7. @ §7где вы вошли в §nИсчезновение§r§7.
+
+# ─── Distraction ───────────────────────────────────────────────────────
+Distraction @ Отвлечение
+§7§f<num>s§7 longer for each extra §bTrick <em>§7 @ §7§f<num>с§r§7 дольше за каждую доп. §bУловку §9<em>§r§7
+§7§7detonated beyond the requirement. @ §7подорванных сверх требования.
+§7§7temporarily reduce their damage. @ §7временно снижает их урон.
+§8§7<num>s§8 longer for each extra §7Trick <em>§8 @ §8§7<num>с§r§8 дольше за каждую доп. §7Уловку §8<em>§r§8
+
+# ─── Wall Jump ─────────────────────────────────────────────────────────
+Wall Jump @ Прыжок от Стены
+§7§8(Hold shift to cancel) @ §8(Зажмите shift для отмены)
+§7§f<num>s§7. §7Using §nHop§7 into a wall @ §7§f<num>с§r§7. Использование §nПрыжка§r§7 в стену
+§7§7Reduces §nHop§7's cooldown by @ §7Снижает перезарядку §nПрыжка§r§7 на
+§7§7will bounce you backward. @ §7отбрасывает вас назад.
+§8§7<num>s§8. §8Using §nHop§8 into a wall @ §8§7<num>с§r§8. Использование §nПрыжка§r§8 в стену
+
+# ─── Cheaper Dash II ───────────────────────────────────────────────────
+Cheaper Dash II @ Экономный Рывок II
+
+# ─── Misdirection ──────────────────────────────────────────────────────
+Misdirection @ Уловка
+§7<em> Thunder §7damage from you and @ §e<em> §7Урона Грома от вас и
+§7§7will make them §bConfused <em>§7. @ §7делает их §bСбитыми с Толку §9<em>§r§7.
+§7§7will take damage whenever they attack. @ §7получают урон каждый раз когда атакуют.
+§8<em> Thunder §8damage from you and @ §7<em> §8Урона Грома от вас и
+§8§8will make them §7Confused <em>§8. @ §8делает их §7Сбитыми с Толку §8<em>§r§8.
+
+# ─── Nightcloak Knives ─────────────────────────────────────────────────
+Nightcloak Knives @ Ножи Ночного Плаща
+§7§7Dealing damage will send your @ §7Нанесение урона отправляет вашего
+§7§7If cast while in §nVanish§7, @ §7Если использовать в §nИсчезновении§r§7,
+§7§bKnives §7to your target, dealing §f<num>% @ §7§bНожей§r§7 в цель, нанося §f<num>%
+§7§nSpin Attack§7 will consume all @ §7§nВихревая Атака§r§7 расходует все
+§7§7of the damage you dealt per §bKnife§7. @ §7от нанесённого вами урона за каждый §bНож§r§7.
+§7§7summon a §bKnife§7. (Max <num> Knives) @ §7призывает §bНож§r§7. (Максимум <num> Ножей)
+§8§7Knives §8to your target, dealing §7<num>% @ §8§7Ножей§r§8 в цель, нанося §7<num>%
+§8§8summon a §7Knife§8. (Max <num> Knives) @ §8призывает §7Нож§r§8. (Максимум <num> Ножей)
+
+# ─── Cheaper Multihit II ───────────────────────────────────────────────
+Cheaper Multihit II @ Экономный Мультиудар II
+
+# ─── Shadow Projection ─────────────────────────────────────────────────
+Shadow Projection @ Проекция Тени
+§7§7Double jump again while sneaking to @ §7Двойной прыжок в приседе чтобы
+§7§7When you double jump, throw a §bShadow Clone <em> @ §7При двойном прыжке бросает §bТеневого Двойника §9<em>
+§7§7in the direction you are facing. @ §7в сторону которой вы смотрите.
+§7§7teleport to the clone, detonating it. @ §7телепортирует к двойнику, подрывая его.
+§7§7with §nLast Laugh§7. @ §7вместе с §nПоследним Смехом§r§7.
+§8§8When you double jump, throw a §7Shadow Clone <em> @ §8При двойном прыжке бросает §7Теневого Двойника §8<em>
+
+# ─── Cheaper Spin Attack II ────────────────────────────────────────────
+Cheaper Spin Attack II @ Экономная Вихревая Атака II
+
+# ─── Aerial Ace ────────────────────────────────────────────────────────
+Aerial Ace @ Воздушный Ас
+§7Hitting an enemy with §nSwan Dive§7 @ §7Удар врага §nЛебединым Прыжком§r§7
+§7gives you a damage boost. @ §7даёт бонус к урону.
+
+# ─── Fatal Spin ────────────────────────────────────────────────────────
+Fatal Spin @ Роковое Вращение
+§7§7Increases §nSpin Attack§7 and §nLacerate§7's range @ §7Увеличивает дальность §nВихревой Атаки§r§7 и §nРазрыва§r§7
+
+# ─── Toxic Sludge ──────────────────────────────────────────────────────
+Toxic Sludge @ Токсичный Шлам
+§7<em> Earth §7damage from you and will explode @ §2<em> §7Урона Земли от вас и взрывается
+§7§7enemies. @ §7врагов.
+§7enemies. @ §7врагов.
+§7§7on death, damaging nearby enemies. @ §7при смерти, нанося урон ближайшим врагам.
+§8<em> Earth §8damage from you and will explode @ §8<em> §8Урона Земли от вас и взрывается
+
+# ─── Echo ──────────────────────────────────────────────────────────────
+Echo @ Эхо
+§7§c<num>%§7 damage. @ §7§c<num>%§r§7 урона.
+§7§7After losing a §bMirror Clone <em>§7, your @ §7После потери §bЗеркального Двойника §9<em>§r§7, ваш
+§7§7copied by all active §bClones <em><em><em>§7, but deal @ §7копируется всеми активными §bДвойниками §9<em><em><em>§r§7, но наносит
+§7§7next §7§nSpin Attack§7 or §nSmoke Bomb§7 will be @ §7следующая §nВихревая Атака§r§7 или §nДымовая Бомба§r§7 будет
+§8§c<num>%§8 damage. @ §8§c<num>%§r§8 урона.
+§8§8After losing a §7Mirror Clone <em>§8, your @ §8После потери §7Зеркального Двойника §8<em>§r§8, ваш
+§8§8copied by all active §7Clones <em><em><em>§8, but deal @ §8копируется всеми активными §7Двойниками §8<em><em><em>§r§8, но наносит
+
+# ─── Eviscerate ────────────────────────────────────────────────────────
+Eviscerate @ Потрошение
+§7§7§nLacerate§7 deals more damage, @ §7§nРазрыв§r§7 наносит больше урона,
+§7§7Lacerate has increased range. @ §7Разрыв имеет увеличенную дальность.
+§7§7and will slash §f<num> §7more time. @ §7и наносит §f<num>§r§7 дополнительный удар.
+§8§8and will slash §7<num> §8more time. @ §8и наносит §7<num>§r§8 дополнительный удар.
+
+# ─── Bladestorm ────────────────────────────────────────────────────────
+Bladestorm @ Шторм Клинков
+§7§7Increases §nViolent Vortex§7's damage  @ §7Увеличивает урон §nЯростного Вихря§r§7 
+§7§7by §f<num>%§7 and increases the damage @ §7на §f<num>%§r§7 и увеличивает урон
+§7§7requirement to be §f<num>x§7 your max health. @ §7требование до §f<num>x§r§7 максимального здоровья.
+§8§8by §7<num>%§8 and increases the damage @ §8на §7<num>%§r§8 и увеличивает урон
+§8§8requirement to be §7<num>x§8 your max health. @ §8требование до §7<num>x§r§8 максимального здоровья.
+
+# ─── Dissolution ───────────────────────────────────────────────────────
+Dissolution @ Растворение
+§7§7When entering and exiting §nVanish§7, become immune to @ §7При входе и выходе из §nИсчезновения§r§7 даёт иммунитет к
+§7§7knockback and gain resistance for a brief moment. @ §7отбрасывания и даёт сопротивление на короткое время.
+
+# ─── Harvester ─────────────────────────────────────────────────────────
+Harvester @ Жнец
+§7§7Gain §f<num> §7Mana for every leftover §bMark <em> @ §7Получаете §f<num>§r§7 Маны за каждую неиспользованную §bМетку §9<em>
+§7§7when killing an enemy, and for every §bMark <em>§7 @ §7при убийстве врага, и за каждую §bМетку §9<em>§r§7
+§7§7you consume with your abilities. @ §7потраченных способностями.
+§8§8Gain §7<num> §8Mana for every leftover §7Mark <em> @ §8Получаете §7<num>§r§8 Маны за каждую неиспользованную §7Метку §8<em>
+§8§8when killing an enemy, and for every §7Mark <em>§8 @ §8при убийстве врага, и за каждую §7Метку §8<em>§r§8
+
+# ─── Cheaper Smoke Bomb II ─────────────────────────────────────────────
+Cheaper Smoke Bomb II @ Экономная Дымовая Бомба II
+
+# ─── Far Reach ─────────────────────────────────────────────────────────
+Far Reach @ Длинная Рука
+§7§7Increase the range of §nMultihit§7. @ §7Увеличивает дальность §nМультиудара§r§7.
+
+# ─── More Marks ────────────────────────────────────────────────────────
+More Marks @ Больше Меток
+
+# ─── Deflagrate ────────────────────────────────────────────────────────
+Deflagrate @ Воспламенение
+§7§7§nBamboozle§7 coats enemies struck with a @ §7§nФинт§r§7 покрывает поражённых врагов
+§7<em> Fire§7 damage from you. @ §c<em> §7Урона Огня от вас.
+§7§7The catalyst flares up when it reaches §f<num>% @ §7Катализатор вспыхивает при достижении §f<num>%
+§7§7flammable catalyst, making them §f<num>% §bEnkindled <em> @ §7горючий катализатор, делая их §f<num>% §bВоспламенёнными §9<em>
+§7§7or at the end of its duration, dealing damage @ §7или в конце действия, нанося урон
+§7§7whenever you strike them. @ §7каждый раз когда вы их ударяете.
+§8<em> Fire§8 damage from you. @ §c<em> §8Урона Огня от вас.
+§8§8The catalyst flares up when it reaches §7<num>% @ §8Катализатор вспыхивает при достижении §7<num>%
+§8§8flammable catalyst, making them §7<num>% §7Enkindled <em> @ §8горючий катализатор, делая их §7<num>% §7Воспламенёнными §8<em>
+
+# ─── Ricochets ─────────────────────────────────────────────────────────
+Ricochets @ Рикошеты
+§7§7Your §nShurikens§7 will bounce §f<num> §7times @ §7Ваши §nСюрикены§r§7 отскакивают §f<num>§r§7 раз
+§7§7between enemies upon impact. @ §7между врагами при попадании.
+§8§8Your §nShurikens§8 will bounce §7<num> §8times @ §8Ваши §nСюрикены§r§8 отскакивают §7<num>§r§8 раз
+§8§8between enemies upon impact. @ §8между врагами при попадании.
+
+# ─── Satsujin ──────────────────────────────────────────────────────────
+Satsujin @ Сацудзин
+§7§nBackstab§7 §7will deal §f<num>%§7 damage, or your next @ §7§nУдар в Спину§r§7 наносит §f<num>%§r§7 урона, или ваш следующий
+§7§7If an enemy has §b<num>+ Marks <em>§7, your next @ §7Если у врага §b<num>+ Меток §9<em>§r§7, ваш следующий
+§7§nPowder Special§7 §7will deal §f<num>%§7 damage. @ §7§nСпец. Порошок§r§7 наносит §f<num>%§r§7 урона.
+§8§nBackstab§8 §8will deal §7<num>%§8 damage, or your next @ §8§nУдар в Спину§r§8 наносит §7<num>%§r§8 урона, или ваш следующий
+§8§8If an enemy has §7<num>+ Marks <em>§8, your next @ §8Если у врага §7<num>+ Меток §8<em>§r§8, ваш следующий
+§8§nPowder Special§8 §8will deal §7<num>%§8 damage. @ §8§nСпец. Порошок§r§8 наносит §7<num>%§r§8 урона.
+
+# ─── Noxious Haze ──────────────────────────────────────────────────────
+Noxious Haze @ Ядовитый Туман
+§7§7Allies only receive §c<num>%§7 of the bonus. @ §7Союзники получают только §c<num>%§r§7 бонуса.
+§7§lNoxious Haze @ Ядовитый Туман
+§7§7§nSmoke Bomb§7 makes you and any allies @ §7§nДымовая Бомба§r§7 делает вас и союзников
+§7§7While §bNoxious <em>§7, deal §f<num>% §7damage to @ §7Пока §bОтравлены §9<em>§r§7, наносят §f<num>%§r§7 урона
+§7§7enemies for every debuff they have. §8(Max <num>) @ §7врагов за каждый их дебафф. §8(Максимум <num>)
+§7§7which lingers after leaving the area. @ §7остающегося после выхода из области.
+§8§8Allies only receive §c<num>%§8 of the bonus. @ §8Союзники получают только §c<num>%§r§8 бонуса.
+§8§8§nSmoke Bomb§8 makes you and any allies @ §8§nДымовая Бомба§r§8 делает вас и союзников
+§8§8While §7Noxious <em>§8, deal §7<num>% §8damage to @ §8Пока §7Отравлены §8<em>§r§8, наносят §7<num>%§r§8 урона
+§8§8enemies for every debuff they have. §8(Max <num>) @ §8врагов за каждый их дебафф. §8(Максимум <num>)
+§8§8which lingers after leaving the area. @ §8остающегося после выхода из области.
+
+# ─── Jasmine Bloom ─────────────────────────────────────────────────────
+Jasmine Bloom @ Цветение Жасмина
+§7§7After spending §f<num> §7Mana or gaining §f<num> §bMomentum <em>§7, @ §7После траты §f<num>§r§7 Маны или получения §f<num>§r§7 §bИмпульса §9<em>§r§7,
+§7§7The duration is reset and the radius is @ §7Длительность сбрасывается, а радиус
+§7§7an area underneath you blooms and damages @ §7область под вами расцветает и наносит урон
+§7§7enemies below it every §f<num>s§7. @ §7врагам под собой каждые §f<num>с§r§7.
+§7§7increased after every bloom. (Max <num> Blooms) @ §7растёт за каждое цветение. (Максимум <num> Цветений)
+§8§8After spending §7<num> §8Mana or gaining §7<num> §7Momentum <em>§8, @ §8После траты §7<num>§r§8 Маны или получения §7<num>§r§8 §7Импульса §8<em>§r§8,
+§8§8The duration is reset and the radius is @ §8Длительность сбрасывается, а радиус
+§8§8an area underneath you blooms and damages @ §8область под вами расцветает и наносит урон
+§8§8enemies below it every §7<num>s§8. @ §8врагам под собой каждые §7<num>с§r§8.
+§8§8increased after every bloom. (Max <num> Blooms) @ §8растёт за каждое цветение. (Максимум <num> Цветений)
+
+# ─── Soul Siphon ───────────────────────────────────────────────────────
+Soul Siphon @ Истощение Души
+§7§lSoul Siphon @ Истощение Души
+§7§7Whenever you or an ally attacks a @ §7Когда вы или союзник атакуете
+§7§7converting it into §f<num>% §bOverhealth §6❤§7 @ §7превращая его в §f<num>%§r§7 §bСверхздоровья §6❤§r§7
+§7§7that decays over §f<num>s§7. (Max <num>%) @ §7которая спадает за §f<num>с§r§7. (Максимум <num>%)
+§8§8Whenever you or an ally attacks a @ §8Когда вы или союзник атакуете
+§8§8converting it into §7<num>% §7Overhealth §8❤§8 @ §8превращая его в §7<num>%§r§8 §7Сверхздоровья §8❤§r§8
+§8§8that decays over §7<num>s§8. (Max <num>%) @ §8которая спадает за §7<num>с§r§8. (Максимум <num>%)
+
+# ─── Braced Impact ─────────────────────────────────────────────────────
+Braced Impact @ Подготовленный Удар
+§7§7Landing with §nSwan Dive§7 briefly @ §7Приземление с §nЛебединым Прыжком§r§7 кратко
+§7grants you resistance. @ §7даёт сопротивление.
+§8grants you resistance. @ §8даёт сопротивление.
+
+# ─── Devour ────────────────────────────────────────────────────────────
+Devour @ Пожирание
+§7§7§nHarvester§7 will give §f<num> §7Mana. @ §7§nЖнец§r§7 даёт §f<num>§r§7 Маны.
+§8§8§nHarvester§8 will give §7<num> §8Mana. @ §8§nЖнец§r§8 даёт §7<num>§r§8 Маны.
+
+# ─── Marked for Death ──────────────────────────────────────────────────
+Marked for Death @ Помечен для Смерти
+§7§7Increases §nMarked§7's damage @ §7Увеличивает урон §nМетки§r§7
+§7bonus by §f<num>%§7. @ §7бонус на §f<num>%§r§7.
+§8bonus by §7<num>%§8. @ §8бонус на §7<num>%§r§8.
+
+# ─── Thrill ────────────────────────────────────────────────────────────
+Thrill @ Кураж
+§7after hitting a successful §nBackstab§7. @ §7после успешного §nУдара в Спину§r§7.
+
+# ─── Doppelganger ──────────────────────────────────────────────────────
+Doppelganger @ Доппельгангер
+§7§7Summon §f<num> §7additional §bMirror Clone <em>§7 @ §7Призывает §f<num>§r§7 дополнительного §bЗеркального Двойника §9<em>§r§7
+§8§8Summon §7<num> §8additional §7Mirror Clone <em>§8 @ §8Призывает §7<num>§r§8 дополнительного §7Зеркального Двойника §8<em>§r§8
+
+# ─── Celerity ──────────────────────────────────────────────────────────
+Celerity @ Стремительность
+§7§7§nDash§7's horizontal velocity is increased by §f<num>%§7. @ §7Горизонтальная скорость §nРывка§r§7 увеличена на §f<num>%§r§7.
+§7§7more damage to §nSwan Dive§7. @ §7больше урона §nЛебединым Прыжком§r§7.
+§8§8§nDash§8's horizontal velocity is increased by §7<num>%§8. @ §8Горизонтальная скорость §nРывка§r§8 увеличена на §7<num>%§r§8.
+
+# ─── Shadow Dance ──────────────────────────────────────────────────────
+Shadow Dance @ Танец Теней
+§7§nVanish§7 will deal §f<num>%§7 damage. @ §7§nИсчезновение§r§7 наносит §f<num>%§r§7 урона.
+§7§7Your second hit after casting @ §7Ваш второй удар после применения
+§8§nVanish§8 will deal §7<num>%§8 damage. @ §8§nИсчезновение§r§8 наносит §7<num>%§r§8 урона.
+
+# ─── Paranoia ──────────────────────────────────────────────────────────
+Paranoia @ Паранойя
+§7after losing a §bMirror Clone <em>§7. @ §7после потери §bЗеркального Двойника §9<em>§r§7.
+§8after losing a §7Mirror Clone <em>§8. @ §8после потери §7Зеркального Двойника §8<em>§r§8.
+
+# ─── Petal Storm ───────────────────────────────────────────────────────
+Petal Storm @ Лепестковый Шторм
+§7§7A maximum sized §nJasmine Bloom§7 will transform @ §7§nЦветение Жасмина§r§7 максимального размера превращает
+§7<em> §7Explosion Damage: §f<num>% @ <em> §7Урон Взрыва: §f<num>%
+§7§7§nSwan Dive§7 into a huge petal storm, consuming @ §7§nЛебединый Прыжок§r§7 в огромный лепестковый шторм, расходуя
+§7§7your bloom to give it increased damage and range @ §7ваше цветение, давая ему больше урона и дальности
+§8<em> §8Explosion Damage: §7<num>% @ §8<em> §8Урон Взрыва: §7<num>%
+
+# ─── Billowing Death ───────────────────────────────────────────────────
+Billowing Death @ Клубящаяся Смерть
+§7§7When you hit an enemy with §f<num>+ §bMarks <em>§7 @ §7Когда вы ударяете врага с §f<num>+ §bМеток §9<em>§r§7
+§7§7a cloud of smoke which applies §f<num>%§7 @ §7облако дыма, накладывающее §f<num>%§r§7
+§7§7with a successful §nBackstab§7, send out @ §7при успешном §nУдаре в Спину§r§7 высвобождает
+§8§8When you hit an enemy with §7<num>+ §7Marks <em>§8 @ §8Когда вы ударяете врага с §7<num>+ §7Меток §8<em>§r§8
+§8§8a cloud of smoke which applies §7<num>%§8 @ §8облако дыма, накладывающее §7<num>%§r§8
+
+# ─── Looming Presence ──────────────────────────────────────────────────
+Looming Presence @ Тень Угрозы
+§7§7Increases the range of §nBackstab§7. @ §7Увеличивает дальность §nУдара в Спину§r§7.
+
+# ─── Disappearing Act ──────────────────────────────────────────────────
+Disappearing Act @ Акт Исчезновения
+§7§7After losing all of your §bMirror Clones <em>§7, create @ §7После потери всех §bЗеркальных Двойников §9<em>§r§7, создаёт
+§7§7an explosion the next time you enter §nVanish§7. @ §7взрыв в следующий вход в §nИсчезновение§r§7.
+§8§8After losing all of your §7Mirror Clones <em>§8, create @ §8После потери всех §7Зеркальных Двойников §8<em>§r§8, создаёт
+
+# ─── Dextrous Hands ────────────────────────────────────────────────────
+Dextrous Hands @ Ловкие Руки
+§7Hop will now prepare <num> shurikens. @ §7Прыжок теперь готовит <num> сюрикенов.
+§7You can prepare <num> total shurikens. (Max <num>) @ §7Можно подготовить <num> сюрикенов всего. (Максимум <num>)
+§8Hop will now prepare <num> shurikens. @ §8Прыжок теперь готовит <num> сюрикенов.
+§8You can prepare <num> total shurikens. (Max <num>) @ §8Можно подготовить <num> сюрикенов всего. (Максимум <num>)
+
+# ─── Thermobaric Smoke ─────────────────────────────────────────────────
+Thermobaric Smoke @ Термобарический Дым
+§7Inject volatile chemicals into your @ §7Вводит летучие химикаты в ваш
+§7Reduce Smoke Bomb's duration by <num>s. @ §7Снижает длительность Дымовой Бомбы на <num>с.
+§7Smoke Bomb, causing it to combust @ §7Дымовую Бомбу, заставляя её сгореть
+§7dealing its damage <num>s faster. @ §7нанося её урон на <num>с быстрее.
+§7instantaneously upon landing, @ §7мгновенно при приземлении,
+§8Reduce Smoke Bomb's duration by <num>s. @ §8Снижает длительность Дымовой Бомбы на <num>с.
+§8dealing its damage <num>s faster. @ §8нанося её урон на <num>с быстрее.
+
+# ─── Choke Bomb ────────────────────────────────────────────────────────
+Choke Bomb @ Удушающая Бомба
+§7(Max <num>s) @ §7(Максимум <num>с)
+§7§7Enemies suffering from §bHypoxia <em>§7 @ §7Враги с §bГипоксией §9<em>§r§7
+§7§7§nSmoke Bomb§7 releases a cloud of dust @ §7§nДымовая Бомба§r§7 выпускает облако пыли
+§7§7are slowed by §f<num>%§7 and take §f<num>% @ §7замедлены на §f<num>%§r§7 и получают §f<num>%
+§8(Max <num>s) @ §8(Максимум <num>с)
+§8§8Enemies suffering from §7Hypoxia <em>§8 @ §8Враги с §7Гипоксией §8<em>§r§8
+§8§8are slowed by §7<num>%§8 and take §7<num>% @ §8замедлены на §7<num>%§r§8 и получают §7<num>%
+
+# ─── Pierce the Veil ───────────────────────────────────────────────────
+Pierce the Veil @ Прорыв Завесы
+§7Cloak yourself in shadow, gaining all @ §7Окутывает вас тенью, давая все
+§7Health and mana will still generate, and @ §7Здоровье и мана продолжают восстанавливаться, и
+§7While cloaked, nearby enemies will @ §7В укрытии ближайшие враги будут
+§7benefits of Vanish for the duration. @ §7эффекты Исчезновения на время действия.
+§7this state cannot be canceled. @ §7это состояние нельзя отменить.
+
+# ─── Serpent's Garden ──────────────────────────────────────────────────
+Serpent's Garden @ Сад Змея
+§7<num> maximum stacks. @ §7<num> максимальных стаков.
+§7Leap into the air before plummeting  @ §7Прыгает в воздух перед стремительным падением 
+§7While above your garden, your Momentum <em> @ §7Пока вы над своим садом, ваш Импульс <em>
+§7back to earth, spurring a garden of @ §7обратно на землю, порождая сад
+§7charges twice as fast and gains @ §7заряжается вдвое быстрее и получает
+§7damage to enemies every <num>s. @ §7урона врагам каждые <num>с.
+§7flowers to grow at your feet, dealing @ §7цветам расти у ваших ног, нанося
+§8<num> maximum stacks. @ §8<num> максимальных стаков.
+§8While above your garden, your Momentum <em> @ §8Пока вы над своим садом, ваш Импульс <em>
+§8damage to enemies every <num>s. @ §8урона врагам каждые <num>с.
+
+# ─── Another Self ──────────────────────────────────────────────────────
+Another Self @ Иное Я
+§7Create a perfect clone of yourself to @ §7Создаёт идеального двойника для
+§7The clone's health is proportional to your  @ §7Здоровье двойника пропорционально вашему 
+§7every spell you cast. @ §7каждого заклинания.
+§7in the swap, the clone loses <num> health. However, @ §7при обмене двойник теряет <num> здоровья. Однако,
+§7own effective health, and while it lives, @ §7эффективному здоровью, и пока он жив,
+§7the effectiveness of your debuffs is doubled. @ §7эффективность ваших дебаффов удваивается.
+§7those Damage Spells deal <num>% more damage. @ §7эти Атакующие Заклинания наносят <num>% больше урона.
+§7work with as a united duet, it copying @ §7работать как единый дуэт, он копирует
+§7your clone cast all available Damage Spells. @ §7ваш двойник кастует все доступные Атакующие Заклинания.
+§8in the swap, the clone loses <num> health. However, @ §8при обмене двойник теряет <num> здоровья. Однако,
+§8those Damage Spells deal <num>% more damage. @ §8эти Атакующие Заклинания наносят <num>% больше урона.
+
+# ══════════════════════════════════════════════════════════════════════
+# ШАБЛОНЫ - общие статы (Mana Cost, Total Damage, Range, …)
+# ══════════════════════════════════════════════════════════════════════
+
+# ─── Air Damage ────────────────────────────────────────────────────────
+
+# ─── Area of Effect ────────────────────────────────────────────────────
+§7<em> §7Area of Effect: §f<num> Block §7(Circle-Shaped) @ §3<em> §7Зона поражения: §f<num> блок §7(Круг)
+§7<em> §7Area of Effect: §f<num> Blocks §8(per bloom) @ §3<em> §7Зона поражения: §f<num> блоков §8(за цветение)
+§8<em> §8Area of Effect: §7<num> Block §8(Circle-Shaped) @ §8<em> §8Зона поражения: §7<num> блок §8(Круг)
+§8<em> §8Area of Effect: §7<num> Blocks §8(per bloom) @ §8<em> §8Зона поражения: §7<num> блоков §8(за цветение)
+
+# ─── Cooldown ──────────────────────────────────────────────────────────
+§8<em> §8Cooldown: §7<num>m @ §8<em> §8Перезарядка: §7<num>мин
+§8<em> §8Cooldown: §8<num>s @ §8<em> §8Перезарядка: §8<num>с
+
+# ─── Duration ──────────────────────────────────────────────────────────
+
+# ─── Earth Damage ──────────────────────────────────────────────────────
+
+# ─── Effect ────────────────────────────────────────────────────────────
+§7<em> §7Effect: §f<num>% §7Damage Bonus (§a⚔§7) to self @ §e<em> §7Эффект: §f<num>%§r§7 Бонус к урону (§a⚔§7) себе
+§7<em> §7Effect: §f<num>% §7Damage Bonus (§c⚔§7) to Self @ §7<em> §7Эффект: §f<num>% §7Бонус к урону (§c⚔§7) себе
+§7<em> §7Effect: §f<num>% §7Resistance Bonus (§8✾§7) to Self @ §7<em> §7Эффект: §f<num>% §7Сопротивление (§8✾§7) к себе
+§7<em> §7Effect: §f<num>% §7Resistance Bonus (§a❁§7) to Self @ §7<em> §7Эффект: §f<num>% §7Сопротивление (§a❁§7) к себе
+§7<em> §7Effect: §fInvisibility to Self @ §e<em> §7Эффект: §fНевидимость к себе
+§8<em> §8Effect: §7<num>% §8Damage Bonus (§7⚔§8) to self @ §7<em> §8Эффект: §7<num>%§r§8 Бонус к урону (§7⚔§8) себе
+§8<em> §8Effect: §7<num>% §8Resistance Bonus (§7❁§8) to Self @ §8<em> §8Эффект: §7<num>% §8Сопротивление (§7❁§8) к себе
+§8<em> §8Effect: §7Invisibility to Self @ §7<em> §8Эффект: §7Невидимость к себе
+
+# ─── Fire Damage ───────────────────────────────────────────────────────
+
+# ─── Mana Cost ─────────────────────────────────────────────────────────
+
+# ─── Range ─────────────────────────────────────────────────────────────
+§7<em> §7Range: §f<num> Blocks §7(Cone-Shaped) @ §2<em> §7Дальность: §f<num> блоков §7(Конус)
+§8<em> §8Range: §7<num> Blocks §8(Cone-Shaped) @ §8<em> §8Дальность: §7<num> блоков §8(Конус)
+§8<em> §8Range: §8<num> Block @ §8<em> §8Дальность: §8<num> блок
+
+# ─── Thunder Damage ────────────────────────────────────────────────────
+
+# ─── Total Damage ──────────────────────────────────────────────────────
+§7<em> §7Total Damage: <num>% §8(of your DPS) @ §7<em> §7Общий урон: <num>% §8(от вашего DPS)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, from bloom) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за цветение)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per <num>% Enkindle) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за <num>% Воспламенения)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per Trick) @ §c<em> §7Общий урон: §f<num>%§r §8(от вашего DPS, за §bУловку §9<em>§8)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per shuriken) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за сюрикен)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per strike) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за удар)
+§7<em> §7Total Damage: §f<num>%§8 (of your DPS) @ §7<em> §7Общий урон: §f<num>%§8 (от вашего DPS)
+§7<em> §7Total Damage: §f<num>%§8 (of your DPS, over <num> hits) @ §c<em> §7Общий урон: §f<num>%§r §8(от вашего DPS, за <num> ударов)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, from bloom) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за цветение)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, per <num>% Enkindle) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за <num>% Воспламенения)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, per Trick) @ §c<em> §8Общий урон: §7<num>%§r §8(от вашего DPS, за §7Уловку §8<em>§8)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, per shuriken) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за сюрикен)
+§8<em> §8Total Damage: §7<num>% §8(of your DPS, per strike) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за удар)
+§8<em> §8Total Damage: §7<num>%§8 (of your DPS, over <num> hits) @ §c<em> §8Общий урон: §7<num>%§r §8(от вашего DPS, за <num> ударов)
+§8<em> §8Total Damage: §c<num>% §8(of your DPS) @ §8<em> §8Общий урон: §c<num>% §8(от вашего DPS)
+
+# ─── Water Damage ──────────────────────────────────────────────────────
+
+# ══════════════════════════════════════════════════════════════════════
+# УСЛОВИЕ - Required Ability ✔/✖
+# ══════════════════════════════════════════════════════════════════════
+§7§a✔ §7Required Ability: §fAerial Ace @ §7§a✔ §7Требуется способность: §fВоздушный Ас
+§7§a✔ §7Required Ability: §fAmbush @ §7§a✔ §7Требуется способность: §fЗасада
+§7§a✔ §7Required Ability: §fAnother Self @ §7§a✔ §7Требуется способность: §fИное Я
+§7§a✔ §7Required Ability: §fBackstab @ §7§a✔ §7Требуется способность: §fУдар в Спину
+§7§a✔ §7Required Ability: §fBamboozle @ §7§a✔ §7Требуется способность: §fФинт
+§7§a✔ §7Required Ability: §fBillowing Death @ §7§a✔ §7Требуется способность: §fКлубящаяся Смерть
+§7§a✔ §7Required Ability: §fBlack Hole @ §7§a✔ §7Требуется способность: §fЧёрная Дыра
+§7§a✔ §7Required Ability: §fBlade Fury @ §7§a✔ §7Требуется способность: §fЯрость Клинка
+§7§a✔ §7Required Ability: §fBladestorm @ §7§a✔ §7Требуется способность: §fШторм Клинков
+§7§a✔ §7Required Ability: §fBlazing Powder @ §7§a✔ §7Требуется способность: §fПылающий Порошок
+§7§a✔ §7Required Ability: §fBraced Impact @ §7§a✔ §7Требуется способность: §fПодготовленный Удар
+§7§a✔ §7Required Ability: §fCelerity @ §7§a✔ §7Требуется способность: §fСтремительность
+§7§a✔ §7Required Ability: §fCheaper Dash @ §7§a✔ §7Требуется способность: §fЭкономный Рывка
+§7§a✔ §7Required Ability: §fCheaper Dash II @ §7§a✔ §7Требуется способность: §fЭкономная Рывка II
+§7§a✔ §7Required Ability: §fCheaper Multihit @ §7§a✔ §7Требуется способность: §fЭкономный Мультиудара
+§7§a✔ §7Required Ability: §fCheaper Multihit II @ §7§a✔ §7Требуется способность: §fЭкономная Мультиудара II
+§7§a✔ §7Required Ability: §fCheaper Smoke Bomb @ §7§a✔ §7Требуется способность: §fЭкономный Дымовой Бомбы
+§7§a✔ §7Required Ability: §fCheaper Smoke Bomb II @ §7§a✔ §7Требуется способность: §fЭкономный Дымовой Бомбы II
+§7§a✔ §7Required Ability: §fCheaper Spin Attack @ §7§a✔ §7Требуется способность: §fЭкономный Вихревой Атаки
+§7§a✔ §7Required Ability: §fCheaper Spin Attack II @ §7§a✔ §7Требуется способность: §fЭкономный Вихревой Атаки II
+§7§a✔ §7Required Ability: §fChoke Bomb @ §7§a✔ §7Требуется способность: §fУдушающая Бомба
+§7§a✔ §7Required Ability: §fDagger Proficiency I @ §7§a✔ §7Требуется способность: §fВладение Кинжалом I
+§7§a✔ §7Required Ability: §fDancing Blade @ §7§a✔ §7Требуется способность: §fТанцующий Клинок
+§7§a✔ §7Required Ability: §fDash @ §7§a✔ §7Требуется способность: §fРывок
+§7§a✔ §7Required Ability: §fDeath Magnet @ §7§a✔ §7Требуется способность: §fМагнит Смерти
+§7§a✔ §7Required Ability: §fDeflagrate @ §7§a✔ §7Требуется способность: §fВоспламенение
+§7§a✔ §7Required Ability: §fDevour @ §7§a✔ §7Требуется способность: §fПожирание
+§7§a✔ §7Required Ability: §fDextrous Hands @ §7§a✔ §7Требуется способность: §fЛовкие Руки
+§7§a✔ §7Required Ability: §fDisappearing Act @ §7§a✔ §7Требуется способность: §fАкт Исчезновения
+§7§a✔ §7Required Ability: §fDissolution @ §7§a✔ §7Требуется способность: §fРастворение
+§7§a✔ §7Required Ability: §fDistraction @ §7§a✔ §7Требуется способность: §fОтвлечение
+§7§a✔ §7Required Ability: §fDoppelganger @ §7§a✔ §7Требуется способность: §fДоппельгангер
+§7§a✔ §7Required Ability: §fDouble Slice @ §7§a✔ §7Требуется способность: §fДвойной Срез
+§7§a✔ §7Required Ability: §fDouble Spin @ §7§a✔ §7Требуется способность: §fДвойное Вращение
+§7§a✔ §7Required Ability: §fDuplicity @ §7§a✔ §7Требуется способность: §fДвуличие
+§7§a✔ §7Required Ability: §fEcho @ §7§a✔ §7Требуется способность: §fЭхо
+§7§a✔ §7Required Ability: §fEviscerate @ §7§a✔ §7Требуется способность: §fПотрошение
+§7§a✔ §7Required Ability: §fFar Reach @ §7§a✔ §7Требуется способность: §fДлинная Рука
+§7§a✔ §7Required Ability: §fFatal Spin @ §7§a✔ §7Требуется способность: §fРоковое Вращение
+§7§a✔ §7Required Ability: §fFinality @ §7§a✔ §7Требуется способность: §fФинал
+§7§a✔ §7Required Ability: §fFoul Play @ §7§a✔ §7Требуется способность: §fГрязный Приём
+§7§a✔ §7Required Ability: §fHarvester @ §7§a✔ §7Требуется способность: §fЖнец
+§7§a✔ §7Required Ability: §fHoodwink @ §7§a✔ §7Требуется способность: §fМорок
+§7§a✔ §7Required Ability: §fHop @ §7§a✔ §7Требуется способность: §fПрыжок
+§7§a✔ §7Required Ability: §fJasmine Bloom @ §7§a✔ §7Требуется способность: §fЦветение Жасмина
+§7§a✔ §7Required Ability: §fLacerate @ §7§a✔ §7Требуется способность: §fРазрыв
+§7§a✔ §7Required Ability: §fLast Laugh @ §7§a✔ §7Требуется способность: §fПоследний Смех
+§7§a✔ §7Required Ability: §fLooming Presence @ §7§a✔ §7Требуется способность: §fТень Угрозы
+§7§a✔ §7Required Ability: §fMalicious Mockery @ §7§a✔ §7Требуется способность: §fЗлая Насмешка
+§7§a✔ §7Required Ability: §fMarked @ §7§a✔ §7Требуется способность: §fМетка
+§7§a✔ §7Required Ability: §fMarked for Death @ §7§a✔ §7Требуется способность: §fПомечен для Смерти
+§7§a✔ §7Required Ability: §fMirage @ §7§a✔ §7Требуется способность: §fМираж
+§7§a✔ §7Required Ability: §fMirror Image @ §7§a✔ §7Требуется способность: §fЗеркальный Образ
+§7§a✔ §7Required Ability: §fMisdirection @ §7§a✔ §7Требуется способность: §fУловка
+§7§a✔ §7Required Ability: §fMore Marks @ §7§a✔ §7Требуется способность: §fБольше Меток
+§7§a✔ §7Required Ability: §fMultihit @ §7§a✔ §7Требуется способность: §fМультиудар
+§7§a✔ §7Required Ability: §fMutilate @ §7§a✔ §7Требуется способность: §fУвечье
+§7§a✔ §7Required Ability: §fNightcloak Knives @ §7§a✔ §7Требуется способность: §fНожи Ночного Плаща
+§7§a✔ §7Required Ability: §fNoxious Haze @ §7§a✔ §7Требуется способность: §fЯдовитый Туман
+§7§a✔ §7Required Ability: §fParanoia @ §7§a✔ §7Требуется способность: §fПаранойя
+§7§a✔ §7Required Ability: §fPetal Storm @ §7§a✔ §7Требуется способность: §fЛепестковый Шторм
+§7§a✔ §7Required Ability: §fPierce the Veil @ §7§a✔ §7Требуется способность: §fПрорыв Завесы
+§7§a✔ §7Required Ability: §fPoisoned Blade @ §7§a✔ §7Требуется способность: §fОтравленный Клинок
+§7§a✔ §7Required Ability: §fPsithurism @ §7§a✔ §7Требуется способность: §fШёпот Листвы
+§7§a✔ §7Required Ability: §fRicochets @ §7§a✔ §7Требуется способность: §fРикошеты
+§7§a✔ §7Required Ability: §fRighting Reflex @ §7§a✔ §7Требуется способность: §fРефлекс Восстановления
+§7§a✔ §7Required Ability: §fRipple @ §7§a✔ §7Требуется способность: §fВолна
+§7§a✔ §7Required Ability: §fRolling Fog @ §7§a✔ §7Требуется способность: §fСтелющийся Туман
+§7§a✔ §7Required Ability: §fSandbagging @ §7§a✔ §7Требуется способность: §fПритворство
+§7§a✔ §7Required Ability: §fSatsujin @ §7§a✔ §7Требуется способность: §fСацудзин
+§7§a✔ §7Required Ability: §fSerpent's Garden @ §7§a✔ §7Требуется способность: §fСад Змея
+§7§a✔ §7Required Ability: §fShadow Dance @ §7§a✔ §7Требуется способность: §fТанец Теней
+§7§a✔ §7Required Ability: §fShadow Projection @ §7§a✔ §7Требуется способность: §fПроекция Тени
+§7§a✔ §7Required Ability: §fShadow Siphon @ §7§a✔ §7Требуется способность: §fИстощение Тенью
+§7§a✔ §7Required Ability: §fShadow Travel @ §7§a✔ §7Требуется способность: §fПуть в Тенях
+§7§a✔ §7Required Ability: §fShurikens @ §7§a✔ §7Требуется способность: §fСюрикены
+§7§a✔ §7Required Ability: §fSilent Killer @ §7§a✔ §7Требуется способность: §fТихий Убийца
+§7§a✔ §7Required Ability: §fSmoke Bomb @ §7§a✔ §7Требуется способность: §fДымовая Бомба
+§7§a✔ §7Required Ability: §fSoul Siphon @ §7§a✔ §7Требуется способность: §fИстощение Души
+§7§a✔ §7Required Ability: §fSpin Attack @ §7§a✔ §7Требуется способность: §fВихревая Атака
+§7§a✔ §7Required Ability: §fSticky Bomb @ §7§a✔ §7Требуется способность: §fЛипкая Бомба
+§7§a✔ §7Required Ability: §fSurprise Strike @ §7§a✔ §7Требуется способность: §fВнезапный Удар
+§7§a✔ §7Required Ability: §fSwan Dive @ §7§a✔ §7Требуется способность: §fЛебединый Прыжок
+§7§a✔ §7Required Ability: §fThermobaric Smoke @ §7§a✔ §7Требуется способность: §fТермобарический Дым
+§7§a✔ §7Required Ability: §fThrill @ §7§a✔ §7Требуется способность: §fКураж
+§7§a✔ §7Required Ability: §fToxic Sludge @ §7§a✔ §7Требуется способность: §fТоксичный Шлам
+§7§a✔ §7Required Ability: §fVanish @ §7§a✔ §7Требуется способность: §fИсчезновение
+§7§a✔ §7Required Ability: §fViolent Vortex @ §7§a✔ §7Требуется способность: §fЯростный Вихрь
+§7§a✔ §7Required Ability: §fWall Jump @ §7§a✔ §7Требуется способность: §fПрыжок от Стены
+§7§a✔ §7Required Ability: §fWall of Smoke @ §7§a✔ §7Требуется способность: §fСтена Дыма
+§7§a✔ §7Required Ability: §fWeightless @ §7§a✔ §7Требуется способность: §fНевесомость
+§7§c✖ §7Required Ability: §fAerial Ace @ §7§c✖ §7Требуется способность: §fВоздушный Ас
+§7§c✖ §7Required Ability: §fAmbush @ §7§c✖ §7Требуется способность: §fЗасада
+§7§c✖ §7Required Ability: §fAnother Self @ §7§c✖ §7Требуется способность: §fИное Я
+§7§c✖ §7Required Ability: §fBackstab @ §7§c✖ §7Требуется способность: §fУдар в Спину
+§7§c✖ §7Required Ability: §fBamboozle @ §7§c✖ §7Требуется способность: §fФинт
+§7§c✖ §7Required Ability: §fBillowing Death @ §7§c✖ §7Требуется способность: §fКлубящаяся Смерть
+§7§c✖ §7Required Ability: §fBlack Hole @ §7§c✖ §7Требуется способность: §fЧёрная Дыра
+§7§c✖ §7Required Ability: §fBlade Fury @ §7§c✖ §7Требуется способность: §fЯрость Клинка
+§7§c✖ §7Required Ability: §fBladestorm @ §7§c✖ §7Требуется способность: §fШторм Клинков
+§7§c✖ §7Required Ability: §fBlazing Powder @ §7§c✖ §7Требуется способность: §fПылающий Порошок
+§7§c✖ §7Required Ability: §fBraced Impact @ §7§c✖ §7Требуется способность: §fПодготовленный Удар
+§7§c✖ §7Required Ability: §fCelerity @ §7§c✖ §7Требуется способность: §fСтремительность
+§7§c✖ §7Required Ability: §fCheaper Dash @ §7§c✖ §7Требуется способность: §fЭкономный Рывка
+§7§c✖ §7Required Ability: §fCheaper Dash II @ §7§c✖ §7Требуется способность: §fЭкономная Рывка II
+§7§c✖ §7Required Ability: §fCheaper Multihit @ §7§c✖ §7Требуется способность: §fЭкономный Мультиудара
+§7§c✖ §7Required Ability: §fCheaper Multihit II @ §7§c✖ §7Требуется способность: §fЭкономная Мультиудара II
+§7§c✖ §7Required Ability: §fCheaper Smoke Bomb @ §7§c✖ §7Требуется способность: §fЭкономный Дымовой Бомбы
+§7§c✖ §7Required Ability: §fCheaper Smoke Bomb II @ §7§c✖ §7Требуется способность: §fЭкономный Дымовой Бомбы II
+§7§c✖ §7Required Ability: §fCheaper Spin Attack @ §7§c✖ §7Требуется способность: §fЭкономный Вихревой Атаки
+§7§c✖ §7Required Ability: §fCheaper Spin Attack II @ §7§c✖ §7Требуется способность: §fЭкономный Вихревой Атаки II
+§7§c✖ §7Required Ability: §fChoke Bomb @ §7§c✖ §7Требуется способность: §fУдушающая Бомба
+§7§c✖ §7Required Ability: §fDagger Proficiency I @ §7§c✖ §7Требуется способность: §fВладение Кинжалом I
+§7§c✖ §7Required Ability: §fDancing Blade @ §7§c✖ §7Требуется способность: §fТанцующий Клинок
+§7§c✖ §7Required Ability: §fDash @ §7§c✖ §7Требуется способность: §fРывок
+§7§c✖ §7Required Ability: §fDeath Magnet @ §7§c✖ §7Требуется способность: §fМагнит Смерти
+§7§c✖ §7Required Ability: §fDeflagrate @ §7§c✖ §7Требуется способность: §fВоспламенение
+§7§c✖ §7Required Ability: §fDevour @ §7§c✖ §7Требуется способность: §fПожирание
+§7§c✖ §7Required Ability: §fDextrous Hands @ §7§c✖ §7Требуется способность: §fЛовкие Руки
+§7§c✖ §7Required Ability: §fDisappearing Act @ §7§c✖ §7Требуется способность: §fАкт Исчезновения
+§7§c✖ §7Required Ability: §fDissolution @ §7§c✖ §7Требуется способность: §fРастворение
+§7§c✖ §7Required Ability: §fDistraction @ §7§c✖ §7Требуется способность: §fОтвлечение
+§7§c✖ §7Required Ability: §fDoppelganger @ §7§c✖ §7Требуется способность: §fДоппельгангер
+§7§c✖ §7Required Ability: §fDouble Slice @ §7§c✖ §7Требуется способность: §fДвойной Срез
+§7§c✖ §7Required Ability: §fDouble Spin @ §7§c✖ §7Требуется способность: §fДвойное Вращение
+§7§c✖ §7Required Ability: §fDuplicity @ §7§c✖ §7Требуется способность: §fДвуличие
+§7§c✖ §7Required Ability: §fEcho @ §7§c✖ §7Требуется способность: §fЭхо
+§7§c✖ §7Required Ability: §fEviscerate @ §7§c✖ §7Требуется способность: §fПотрошение
+§7§c✖ §7Required Ability: §fFar Reach @ §7§c✖ §7Требуется способность: §fДлинная Рука
+§7§c✖ §7Required Ability: §fFatal Spin @ §7§c✖ §7Требуется способность: §fРоковое Вращение
+§7§c✖ §7Required Ability: §fFinality @ §7§c✖ §7Требуется способность: §fФинал
+§7§c✖ §7Required Ability: §fFoul Play @ §7§c✖ §7Требуется способность: §fГрязный Приём
+§7§c✖ §7Required Ability: §fHarvester @ §7§c✖ §7Требуется способность: §fЖнец
+§7§c✖ §7Required Ability: §fHoodwink @ §7§c✖ §7Требуется способность: §fМорок
+§7§c✖ §7Required Ability: §fHop @ §7§c✖ §7Требуется способность: §fПрыжок
+§7§c✖ §7Required Ability: §fJasmine Bloom @ §7§c✖ §7Требуется способность: §fЦветение Жасмина
+§7§c✖ §7Required Ability: §fLacerate @ §7§c✖ §7Требуется способность: §fРазрыв
+§7§c✖ §7Required Ability: §fLast Laugh @ §7§c✖ §7Требуется способность: §fПоследний Смех
+§7§c✖ §7Required Ability: §fLooming Presence @ §7§c✖ §7Требуется способность: §fТень Угрозы
+§7§c✖ §7Required Ability: §fMalicious Mockery @ §7§c✖ §7Требуется способность: §fЗлая Насмешка
+§7§c✖ §7Required Ability: §fMarked @ §7§c✖ §7Требуется способность: §fМетка
+§7§c✖ §7Required Ability: §fMarked for Death @ §7§c✖ §7Требуется способность: §fПомечен для Смерти
+§7§c✖ §7Required Ability: §fMirage @ §7§c✖ §7Требуется способность: §fМираж
+§7§c✖ §7Required Ability: §fMirror Image @ §7§c✖ §7Требуется способность: §fЗеркальный Образ
+§7§c✖ §7Required Ability: §fMisdirection @ §7§c✖ §7Требуется способность: §fУловка
+§7§c✖ §7Required Ability: §fMore Marks @ §7§c✖ §7Требуется способность: §fБольше Меток
+§7§c✖ §7Required Ability: §fMultihit @ §7§c✖ §7Требуется способность: §fМультиудар
+§7§c✖ §7Required Ability: §fMutilate @ §7§c✖ §7Требуется способность: §fУвечье
+§7§c✖ §7Required Ability: §fNightcloak Knives @ §7§c✖ §7Требуется способность: §fНожи Ночного Плаща
+§7§c✖ §7Required Ability: §fNoxious Haze @ §7§c✖ §7Требуется способность: §fЯдовитый Туман
+§7§c✖ §7Required Ability: §fParanoia @ §7§c✖ §7Требуется способность: §fПаранойя
+§7§c✖ §7Required Ability: §fPetal Storm @ §7§c✖ §7Требуется способность: §fЛепестковый Шторм
+§7§c✖ §7Required Ability: §fPierce the Veil @ §7§c✖ §7Требуется способность: §fПрорыв Завесы
+§7§c✖ §7Required Ability: §fPoisoned Blade @ §7§c✖ §7Требуется способность: §fОтравленный Клинок
+§7§c✖ §7Required Ability: §fPsithurism @ §7§c✖ §7Требуется способность: §fШёпот Листвы
+§7§c✖ §7Required Ability: §fRicochets @ §7§c✖ §7Требуется способность: §fРикошеты
+§7§c✖ §7Required Ability: §fRighting Reflex @ §7§c✖ §7Требуется способность: §fРефлекс Восстановления
+§7§c✖ §7Required Ability: §fRipple @ §7§c✖ §7Требуется способность: §fВолна
+§7§c✖ §7Required Ability: §fRolling Fog @ §7§c✖ §7Требуется способность: §fСтелющийся Туман
+§7§c✖ §7Required Ability: §fSandbagging @ §7§c✖ §7Требуется способность: §fПритворство
+§7§c✖ §7Required Ability: §fSatsujin @ §7§c✖ §7Требуется способность: §fСацудзин
+§7§c✖ §7Required Ability: §fSerpent's Garden @ §7§c✖ §7Требуется способность: §fСад Змея
+§7§c✖ §7Required Ability: §fShadow Dance @ §7§c✖ §7Требуется способность: §fТанец Теней
+§7§c✖ §7Required Ability: §fShadow Projection @ §7§c✖ §7Требуется способность: §fПроекция Тени
+§7§c✖ §7Required Ability: §fShadow Siphon @ §7§c✖ §7Требуется способность: §fИстощение Тенью
+§7§c✖ §7Required Ability: §fShadow Travel @ §7§c✖ §7Требуется способность: §fПуть в Тенях
+§7§c✖ §7Required Ability: §fShurikens @ §7§c✖ §7Требуется способность: §fСюрикены
+§7§c✖ §7Required Ability: §fSilent Killer @ §7§c✖ §7Требуется способность: §fТихий Убийца
+§7§c✖ §7Required Ability: §fSmoke Bomb @ §7§c✖ §7Требуется способность: §fДымовая Бомба
+§7§c✖ §7Required Ability: §fSoul Siphon @ §7§c✖ §7Требуется способность: §fИстощение Души
+§7§c✖ §7Required Ability: §fSpin Attack @ §7§c✖ §7Требуется способность: §fВихревая Атака
+§7§c✖ §7Required Ability: §fSticky Bomb @ §7§c✖ §7Требуется способность: §fЛипкая Бомба
+§7§c✖ §7Required Ability: §fSurprise Strike @ §7§c✖ §7Требуется способность: §fВнезапный Удар
+§7§c✖ §7Required Ability: §fSwan Dive @ §7§c✖ §7Требуется способность: §fЛебединый Прыжок
+§7§c✖ §7Required Ability: §fThermobaric Smoke @ §7§c✖ §7Требуется способность: §fТермобарический Дым
+§7§c✖ §7Required Ability: §fThrill @ §7§c✖ §7Требуется способность: §fКураж
+§7§c✖ §7Required Ability: §fToxic Sludge @ §7§c✖ §7Требуется способность: §fТоксичный Шлам
+§7§c✖ §7Required Ability: §fVanish @ §7§c✖ §7Требуется способность: §fИсчезновение
+§7§c✖ §7Required Ability: §fViolent Vortex @ §7§c✖ §7Требуется способность: §fЯростный Вихрь
+§7§c✖ §7Required Ability: §fWall Jump @ §7§c✖ §7Требуется способность: §fПрыжок от Стены
+§7§c✖ §7Required Ability: §fWall of Smoke @ §7§c✖ §7Требуется способность: §fСтена Дыма
+§7§c✖ §7Required Ability: §fWeightless @ §7§c✖ §7Требуется способность: §fНевесомость
+
+# ══════════════════════════════════════════════════════════════════════
+# УСЛОВИЕ - Min Archetype ✔/✖
+# ══════════════════════════════════════════════════════════════════════
+§7§a✔ §7Min Acrobat Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Акробат: §f§f<num>§7/<num>
+§7§a✔ §7Min Acrobat Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Акробат: §f§a<num>§7/<num>
+§7§a✔ §7Min Shadestepper Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Шагающий в Тени: §f§f<num>§7/<num>
+§7§a✔ §7Min Shadestepper Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Шагающий в Тени: §f§a<num>§7/<num>
+§7§a✔ §7Min Trickster Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Трикстер: §f§f<num>§7/<num>
+§7§a✔ §7Min Trickster Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Трикстер: §f§a<num>§7/<num>
+§7§c✖ §7Min Acrobat Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Акробат: §f§c<num>§7/<num>
+§7§c✖ §7Min Shadestepper Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Шагающий в Тени: §f§c<num>§7/<num>
+§7§c✖ §7Min Trickster Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Трикстер: §f§c<num>§7/<num>
+
+# ══════════════════════════════════════════════════════════════════════
+# УСЛОВИЕ - Ability Points ✔/✖
+# ══════════════════════════════════════════════════════════════════════
+§8§c✖ §8Ability Points: §7§7<num> @ §8§c✖ §8Очки способностей: §7§7<num>
+
+# ══════════════════════════════════════════════════════════════════════
+# UNLOCK - подсказки клика
+# ══════════════════════════════════════════════════════════════════════
+§aUnlock Aerial Ace§a ability @ §aРазблокировать способность §b§lВоздушный Ас
+§aUnlock Ambush§a ability @ §aРазблокировать способность §f§lЗасада
+§aUnlock Another Self§a ability @ §aРазблокировать способность §5§lИное Я
+§aUnlock Backstab§a ability @ §aРазблокировать способность §d§lУдар в Спину
+§aUnlock Bamboozle§a ability @ §aРазблокировать способность §b§lФинт
+§aUnlock Billowing Death§a ability @ §aРазблокировать способность §b§lКлубящаяся Смерть
+§aUnlock Black Hole§a ability @ §aРазблокировать способность §e§lЧёрная Дыра
+§aUnlock Blade Fury§a ability @ §aРазблокировать способность §e§lЯрость Клинка
+§aUnlock Bladestorm§a ability @ §aРазблокировать способность §f§lШторм Клинков
+§aUnlock Blazing Powder§a ability @ §aРазблокировать способность §f§lПылающий Порошок
+§aUnlock Braced Impact§a ability @ §aРазблокировать способность §e§lПодготовленный Удар
+§aUnlock Celerity§a ability @ §aРазблокировать способность §f§lСтремительность
+§aUnlock Cheaper Dash II§a ability @ §aРазблокировать способность §f§lЭкономная Рывка II
+§aUnlock Cheaper Dash§a ability @ §aРазблокировать способность §f§lЭкономный Рывка
+§aUnlock Cheaper Multihit II§a ability @ §aРазблокировать способность §f§lЭкономная Мультиудара II
+§aUnlock Cheaper Multihit§a ability @ §aРазблокировать способность §f§lЭкономный Мультиудара
+§aUnlock Cheaper Smoke Bomb II§a ability @ §aРазблокировать способность §f§lЭкономный Дымовой Бомбы II
+§aUnlock Cheaper Smoke Bomb§a ability @ §aРазблокировать способность §f§lЭкономный Дымовой Бомбы
+§aUnlock Cheaper Spin Attack II§a ability @ §aРазблокировать способность §f§lЭкономный Вихревой Атаки II
+§aUnlock Cheaper Spin Attack§a ability @ §aРазблокировать способность §f§lЭкономный Вихревой Атаки
+§aUnlock Choke Bomb§a ability @ §aРазблокировать способность §e§lУдушающая Бомба
+§aUnlock Dagger Proficiency I§a ability @ §aРазблокировать способность §f§lВладение Кинжалом I
+§aUnlock Dancing Blade§a ability @ §aРазблокировать способность §e§lТанцующий Клинок
+§aUnlock Dash§a ability @ §aРазблокировать способность §a§lРывок
+§aUnlock Death Magnet§a ability @ §aРазблокировать способность §e§lМагнит Смерти
+§aUnlock Deflagrate§a ability @ §aРазблокировать способность §d§lВоспламенение
+§aUnlock Devour§a ability @ §aРазблокировать способность §f§lПожирание
+§aUnlock Dextrous Hands§a ability @ §aРазблокировать способность §d§lЛовкие Руки
+§aUnlock Disappearing Act§a ability @ §aРазблокировать способность §e§lАкт Исчезновения
+§aUnlock Dissolution§a ability @ §aРазблокировать способность §e§lРастворение
+§aUnlock Distraction§a ability @ §aРазблокировать способность §e§lОтвлечение
+§aUnlock Doppelganger§a ability @ §aРазблокировать способность §f§lДоппельгангер
+§aUnlock Double Slice§a ability @ §aРазблокировать способность §e§lДвойной Срез
+§aUnlock Double Spin§a ability @ §aРазблокировать способность §e§lДвойное Вращение
+§aUnlock Duplicity§a ability @ §aРазблокировать способность §f§lДвуличие
+§aUnlock Echo§a ability @ §aРазблокировать способность §b§lЭхо
+§aUnlock Eviscerate§a ability @ §aРазблокировать способность §f§lПотрошение
+§aUnlock Far Reach§a ability @ §aРазблокировать способность §f§lДлинная Рука
+§aUnlock Fatal Spin§a ability @ §aРазблокировать способность §d§lРоковое Вращение
+§aUnlock Finality§a ability @ §aРазблокировать способность §d§lФинал
+§aUnlock Foul Play§a ability @ §aРазблокировать способность §e§lГрязный Приём
+§aUnlock Harvester§a ability @ §aРазблокировать способность §b§lЖнец
+§aUnlock Hoodwink§a ability @ §aРазблокировать способность §e§lМорок
+§aUnlock Hop§a ability @ §aРазблокировать способность §d§lПрыжок
+§aUnlock Jasmine Bloom§a ability @ §aРазблокировать способность §c§lЦветение Жасмина
+§aUnlock Lacerate§a ability @ §aРазблокировать способность §c§lРазрыв
+§aUnlock Last Laugh§a ability @ §aРазблокировать способность §e§lПоследний Смех
+§aUnlock Looming Presence§a ability @ §aРазблокировать способность §f§lТень Угрозы
+§aUnlock Malicious Mockery§a ability @ §aРазблокировать способность §c§lЗлая Насмешка
+§aUnlock Marked for Death§a ability @ §aРазблокировать способность §f§lПомечен для Смерти
+§aUnlock Marked§a ability @ §aРазблокировать способность §c§lМетка
+§aUnlock Mirage§a ability @ §aРазблокировать способность §e§lМираж
+§aUnlock Mirror Image§a ability @ §aРазблокировать способность §c§lЗеркальный Образ
+§aUnlock Misdirection§a ability @ §aРазблокировать способность §e§lУловка
+§aUnlock More Marks§a ability @ §aРазблокировать способность §f§lБольше Меток
+§aUnlock Multihit§a ability @ §aРазблокировать способность §a§lМультиудар
+§aUnlock Mutilate§a ability @ §aРазблокировать способность §f§lУвечье
+§aUnlock Nightcloak Knives§a ability @ §aРазблокировать способность §b§lНожи Ночного Плаща
+§aUnlock Noxious Haze§a ability @ §aРазблокировать способность §c§lЯдовитый Туман
+§aUnlock Paranoia§a ability @ §aРазблокировать способность §e§lПаранойя
+§aUnlock Petal Storm§a ability @ §aРазблокировать способность §e§lЛепестковый Шторм
+§aUnlock Pierce the Veil§a ability @ §aРазблокировать способность §5§lПрорыв Завесы
+§aUnlock Poisoned Blade§a ability @ §aРазблокировать способность §e§lОтравленный Клинок
+§aUnlock Psithurism§a ability @ §aРазблокировать способность §f§lШёпот Листвы
+§aUnlock Ricochets§a ability @ §aРазблокировать способность §e§lРикошеты
+§aUnlock Righting Reflex§a ability @ §aРазблокировать способность §e§lРефлекс Восстановления
+§aUnlock Ripple§a ability @ §aРазблокировать способность §d§lВолна
+§aUnlock Rolling Fog§a ability @ §aРазблокировать способность §f§lСтелющийся Туман
+§aUnlock Sandbagging§a ability @ §aРазблокировать способность §d§lПритворство
+§aUnlock Satsujin§a ability @ §aРазблокировать способность §c§lСацудзин
+§aUnlock Serpent's Garden§a ability @ §aРазблокировать способность §5§lСад Змея
+§aUnlock Shadow Dance§a ability @ §aРазблокировать способность §d§lТанец Теней
+§aUnlock Shadow Projection§a ability @ §aРазблокировать способность §d§lПроекция Тени
+§aUnlock Shadow Siphon§a ability @ §aРазблокировать способность §e§lИстощение Тенью
+§aUnlock Shadow Travel§a ability @ §aРазблокировать способность §d§lПуть в Тенях
+§aUnlock Shurikens§a ability @ §aРазблокировать способность §b§lСюрикены
+§aUnlock Silent Killer§a ability @ §aРазблокировать способность §e§lТихий Убийца
+§aUnlock Smoke Bomb§a ability @ §aРазблокировать способность §a§lДымовая Бомба
+§aUnlock Soul Siphon§a ability @ §aРазблокировать способность §b§lИстощение Души
+§aUnlock Spin Attack§a ability @ §aРазблокировать способность §a§lВихревая Атака
+§aUnlock Sticky Bomb§a ability @ §aРазблокировать способность §e§lЛипкая Бомба
+§aUnlock Surprise Strike§a ability @ §aРазблокировать способность §c§lВнезапный Удар
+§aUnlock Swan Dive§a ability @ §aРазблокировать способность §c§lЛебединый Прыжок
+§aUnlock Thermobaric Smoke§a ability @ §aРазблокировать способность §b§lТермобарический Дым
+§aUnlock Thrill§a ability @ §aРазблокировать способность §e§lКураж
+§aUnlock Toxic Sludge§a ability @ §aРазблокировать способность §e§lТоксичный Шлам
+§aUnlock Vanish§a ability @ §aРазблокировать способность §b§lИсчезновение
+§aUnlock Violent Vortex§a ability @ §aРазблокировать способность §d§lЯростный Вихрь
+§aUnlock Wall Jump§a ability @ §aРазблокировать способность §d§lПрыжок от Стены
+§aUnlock Wall of Smoke§a ability @ §aРазблокировать способность §d§lСтена Дыма
+§aUnlock Weightless§a ability @ §aРазблокировать способность §b§lНевесомость
+
+# ══════════════════════════════════════════════════════════════════════
+# BLOCKED BY - список конфликтующих скиллов
+# ══════════════════════════════════════════════════════════════════════
+§c- §7Backstab @ §c- §7Удар в Спину
+§c- §7Double Slice @ §c- §7Двойной Срез
+§c- §7Duplicity @ §c- §7Двуличие
+§c- §7Finality @ §c- §7Финал
+§c- §7Lacerate @ §c- §7Разрыв
+§c- §7Marked @ §c- §7Метка
+§c- §7Mirror Image @ §c- §7Зеркальный Образ
+§c- §7Mutilate @ §c- §7Увечье
+§c- §7Noxious Haze @ §c- §7Ядовитый Туман
+§c- §7Poisoned Blade @ §c- §7Отравленный Клинок
+§c- §7Soul Siphon @ §c- §7Истощение Души
+§c- §7Wall of Smoke @ §c- §7Стена Дыма
+§c- §cBackstab @ §c- §cУдар в Спину
+§c- §cDouble Slice @ §c- §cДвойной Срез
+§c- §cDuplicity @ §c- §cДвуличие
+§c- §cFinality @ §c- §cФинал
+§c- §cLacerate @ §c- §cРазрыв
+§c- §cMarked @ §c- §cМетка
+§c- §cMirror Image @ §c- §cЗеркальный Образ
+§c- §cMutilate @ §c- §cУвечье
+§c- §cNoxious Haze @ §c- §cЯдовитый Туман
+§c- §cPoisoned Blade @ §c- §cОтравленный Клинок
+§c- §cSoul Siphon @ §c- §cИстощение Души
+§c- §cWall of Smoke @ §c- §cСтена Дыма
+§r§c- §7Backstab @ §r§c- §7Удар в Спину
+§r§c- §7Double Slice @ §r§c- §7Двойной Срез
+§r§c- §7Duplicity @ §r§c- §7Двуличие
+§r§c- §7Finality @ §r§c- §7Финал
+§r§c- §7Lacerate @ §r§c- §7Разрыв
+§r§c- §7Marked @ §r§c- §7Метка
+§r§c- §7Mirror Image @ §r§c- §7Зеркальный Образ
+§r§c- §7Mutilate @ §r§c- §7Увечье
+§r§c- §7Noxious Haze @ §r§c- §7Ядовитый Туман
+§r§c- §7Poisoned Blade @ §r§c- §7Отравленный Клинок
+§r§c- §7Soul Siphon @ §r§c- §7Истощение Души
+§r§c- §7Wall of Smoke @ §r§c- §7Стена Дыма
+§r§c- §8Backstab @ §r§c- §8Удар в Спину
+§r§c- §8Duplicity @ §r§c- §8Двуличие
+§r§c- §8Finality @ §r§c- §8Финал
+§r§c- §8Marked @ §r§c- §8Метка
+§r§c- §8Mutilate @ §r§c- §8Увечье
+§r§c- §8Noxious Haze @ §r§c- §8Ядовитый Туман
+§r§c- §8Poisoned Blade @ §r§c- §8Отравленный Клинок
+§r§c- §cBackstab @ §r§c- §cУдар в Спину
+§r§c- §cDouble Slice @ §r§c- §cДвойной Срез
+§r§c- §cDuplicity @ §r§c- §cДвуличие
+§r§c- §cFinality @ §r§c- §cФинал
+§r§c- §cLacerate @ §r§c- §cРазрыв
+§r§c- §cMarked @ §r§c- §cМетка
+§r§c- §cMirror Image @ §r§c- §cЗеркальный Образ
+§r§c- §cMutilate @ §r§c- §cУвечье
+§r§c- §cNoxious Haze @ §r§c- §cЯдовитый Туман
+§r§c- §cPoisoned Blade @ §r§c- §cОтравленный Клинок
+§r§c- §cSoul Siphon @ §r§c- §cИстощение Души
+§r§c- §cWall of Smoke @ §r§c- §cСтена Дыма
+
+# ══════════════════════════════════════════════════════════════════════
+# РАЗНОЕ (не классифицировано)
+# ══════════════════════════════════════════════════════════════════════
+§7Shadesteppers hide themselves @ §7Шагающие в Тени прячутся
+§7Tricksters summon clones and @ §7Трикстеры призывают двойников и
+§7Acrobats are agile and @ §7Акробаты ловкие и
+§7tricks. §8(CC, Tricks) @ §7обманывают. §8(КК, Трюки)
+§7Both consume all §bMarks <em>§7 on the enemy. @ §7Оба расходуют все §bМетки §9<em>§r§7 на враге.
+§7Casting  again swaps your positions, @ §7Повторное использование меняет ваши позиции,
+§7If no enemy had more than <num> §bTricks <em>§7 detonated @ §7Если ни у кого не было более <num> взорванных §bУловок §9<em>§r§7
+§7You may store §f<num>§7 more §bTricks <em> §7on @ §7Можете хранить ещё §f<num>§r§7 §bУловок §9<em>§r§7 на
+§7You may store §f<num>§7 more §bTricks <em> §7on enemies. @ §7Можете хранить ещё §f<num>§r§7 §bУловок §9<em>§r§7 на врагах.
+§7detonates §bTricks <em>§7 on nearby enemies, and makes  @ §7подрывает §bУловки §9<em>§r§7 на ближайших врагах и делает 
+§7for every §bTrick <em>§7 detonated over the threshold, @ §7за каждую §bУловку §9<em>§r§7 подорванную сверх порога,
+§7gain <num> Mark <em> every <num>s. @ §7получают §b<num> Метку §9<em>§r§7 каждые <num>с.
+§7your §bMirage Clone <em> §7lures an enemy. @ §7ваш §bДвойник-Мираж §9<em>§r§7 заманивает врага.
+§7§7Debuffs applied with §bTricks <em>§7 will last @ §7Дебаффы наложенные §bУловками §9<em>§r§7 длятся
+§7§7Detonating §f<num>+§7 §bTricks <em>§7 on enemies @ §7Подрыв §f<num>+§r§7 §bУловок §9<em>§r§7 на врагах
+§7§7Detonating §f<num>+§7 §bTricks <em>§7 on enemies will @ §7Подрыв §f<num>+§r§7 §bУловок §9<em>§r§7 на врагах
+§7§7Each §f<num> §bMomentum <em>§7 grants §f<num>%§7 @ §7Каждые §f<num> §bИмпульса §9<em>§r§7 дают §f<num>%§r§7
+§7§7For every §b<num> Marks <em> §7consumed, @ §7За каждые §b<num> Метки §9<em>§r§7,
+§7§7Increase your maximum §bMarks <em> §7by §f<num>§7. @ §7Увеличивает максимум §bМеток §9<em>§r§7 на §f<num>§r§7.
+§7§7Summon §f<num> §bMirror Clones <em>§7 after reappearing @ §7Призывает §f<num>§r§7 §bЗеркальных Двойников §9<em>§r§7 после возвращения
+§7§7and damage, and adds §b<num> §bMark <em> §7to enemies hit. @ §7и урон, и добавляет §b<num> §bМетку §9<em>§r§7 поражённым врагам.
+§7§7based on how §bEnkindled <em>§7 the target was. @ §7от уровня §bВоспламенения §9<em>§r§7 цели.
+§7§7become §bNoxious <em>§7 while standing in it, @ §7становятся §bОтравлены §9<em>§r§7 пока стоят в нём,
+§7§7every §f<num>s§7, applying Hypoxia <em> for <num>s. @ §7каждые §f<num>с§r§7, накладывая §bГипоксию §9<em>§r§7 на <num>с.
+§7§7make them §f<num>% §bDrained <em>§7 and take @ §7делает их §f<num>% §bИстощёнными §9<em>§r§7 и они получают
+§7§7more <em> Air§7 damage from you. @ §7больше §b<em> §7Урона Воздуха от вас.
+§7§7nearby §bMarked <em> §7mobs towards @ §7ближайших §bПомеченных §9<em>§r§7 мобов к
+§7§7of the enemy's §bMarks <em>§7 to other enemies. @ §7§bМеток §9<em>§r§7 врага другим врагам.
+§7§7transfer salvaged §bTricks <em>§7 onto enemies @ §7переносит собранные §bУловки §9<em>§r§7 на врагов
+§7§7§bMirage Clones <em>§7 disappear when an enemy @ §7§bДвойники-Миражи §9<em>§r§7 исчезают когда враг
+§7§7§nLast Laugh§7 stores a number of §bTricks <em> §7on @ §7§nПоследний Смех§r§7 хранит количество §bУловок §9<em>§r§7 на
+§7§7§nSmoke Bomb§7 will add §b<num> Mark <em> §7to @ §7§nДымовая Бомба§r§7 добавляет §b<num> Метку §9<em>§r§7
+§7§bConfused <em> §7enemies take §f<num>% §7more @ §7§bСбитые с Толку §9<em>§r§7 враги получают §f<num>%§r§7 больше
+§7§bContaminated <em>§7 enemies take §f<num>% §7more @ §7§bЗаражённые §9<em>§r§7 враги получают §f<num>%§r§7 больше
+§7§bContaminates <em>§7 them with toxic ooze. @ §7§bЗаражает §9<em>§r§7 их токсичной слизью.
+§7§bDrained <em>§7 enemy, siphon §f<num>% §7of it, @ §7§bИстощённого §9<em>§r§7 врага, вытягивает §f<num>%§r§7 этого,
+§7§bEnkindled <em> §7enemies take §f<num>% §7more @ §7§bВоспламенённые §9<em>§r§7 враги получают §f<num>%§r§7 больше
+§7§bMarked <em> §7enemies will take §f<num>% §7damage @ §7§bПомеченные §9<em>§r§7 враги получают §f<num>%§r§7 урона
+§7§bMarked <em> §7will decay once every §f<num>s§7. @ §7§bМетка §9<em>§r§7 спадает каждые §f<num>с§r§7.
+§7§bMarks <em> §7from nearby enemies. @ §7§bМетки §9<em>§r§7 с ближайших врагов.
+§7§bMirage Clones <em>§7 apply §f<num> §bTricks <em>§7 per hit. @ §7§bДвойники-Миражи §9<em>§r§7 накладывают §f<num> §bУловок §9<em>§r§7 за удар.
+§7§bMirror Clones <em>§7 apply §f<num> §bTrick <em>§7 per hit. @ §7§bЗеркальные Двойники §9<em>§r§7 накладывают §f<num> §bУловку §9<em>§r§7 за удар.
+§7§bMirror Clones <em>§7 will cast §nMultihit @ §7§bЗеркальные Двойники §9<em>§r§7 кастуют §nМультиудар
+§7§bShadow Clones <em>§7 apply §f<num> §bTricks <em>§7 per hit. @ §7§bТеневые Двойники §9<em>§r§7 накладывают §f<num> §bУловок §9<em>§r§7 за удар.
+§7§bShadow Clones <em>§7 will cast §nSpin Attack @ §7§bТеневые Двойники §9<em>§r§7 кастуют §nВихревую Атаку
+§7§f<num>% §7more <em> Water§7 damage from you. @ §7§f<num>%§r§7 больше §3<em> §7Урона Воды от вас.
+§7§7Both consume all §bMarks <em>§7 on the enemy. @ §7Оба расходуют все §bМетки §9<em>§r§7 на враге.
+§7§7and adds §b<num> §bMark <em> §7to enemies hit. @ §7и добавляет §b<num> §bМетку §9<em>§r§7 поражённым врагам.
+§7§7for every §bTrick <em>§7 detonated over the threshold, @ §7за каждую §bУловку §9<em>§r§7 подорванную сверх порога,
+§7in the swap, the clone loses -<num> health. However, @ §7при обмене двойник теряет -<num> здоровья. Однако,
+§7in the swap, the clone loses +<num> health. However, @ §7при обмене двойник теряет +<num> здоровья. Однако,
+§7those Damage Spells deal +<num>% more damage. @ §7эти Атакующие Заклинания наносят +<num>% больше урона.
+§7You can prepare +<num> total shurikens. (Max <num>) @ §7Можно подготовить +<num> сюрикенов всего. (Максимум <num>)
+§7§7every §f<num>s§7, applying Hypoxia <em> for +<num>s. @ §7каждые §f<num>с§r§7, накладывая Гипоксию <em> на +<num>с.
+§7§7Gain §f<num>% §7Walk Speed (§3⚲§7) @ §7Получаете §f<num>%§r§7 Скорости Ходьбы (§3⚲§r§7)
+§7from items, gain §f<num>s§7 Poison Damage. (Max <num>s) @ §7от предметов получаете §f<num>с§r§7 Урона Ядом. (Максимум <num>с)
+§8from items, gain §7<num>s§8 Poison Damage. (Max <num>s) @ §8от предметов получаете §7<num>с§r§8 Урона Ядом. (Максимум <num>с)
+§7enemies it hits. (Max <num> <num>s Cooldown) @ §7поражённым врагам. (Максимум <num>, <num>с Перезарядка)
+§7enemies it hits. (Max +<num> <num>s Cooldown) @ §7поражённым врагам. (Максимум +<num>, <num>с Перезарядка)
+§7enemies it hits. (Max +<num>, <num>s Cooldown) @ §7поражённым врагам. (Максимум +<num>, <num>с Перезарядка)
+§7gain +<num> Mark <em> every <num>s. @ §7получают §b<num> Метку §9<em>§r§7 каждые <num>с.
+§8§8§7Mirage Clones <em>§8 disappear when an enemy @ §8§7Двойники-Миражи §8<em>§r§8 исчезают когда враг
+§8§8§nSmoke Bomb§8 will add §7<num> Mark <em> §8to @ §8§nДымовая Бомба§r§8 добавляет §7<num> Метку §8<em>§r§8
+§8§7Marked <em> §8enemies will take §7<num>% §8damage @ §8§7Помеченные §8<em>§r§8 враги получают §7<num>%§r§8 урона
+§8§7Marked <em> §8will decay once every §7<num>s§8. @ §8§7Метка §8<em>§r§8 спадает каждые §7<num>с§r§8.
+§8§7Mirage Clones <em>§8 apply §7<num> §7Tricks <em>§8 per hit. @ §8§7Двойники-Миражи §8<em>§r§8 накладывают §7<num> §7Уловок §8<em>§r§8 за удар.
+§8§7Shadow Clones <em>§8 apply §7<num> §7Tricks <em>§8 per hit. @ §8§7Теневые Двойники §8<em>§r§8 накладывают §7<num> §7Уловок §8<em>§r§8 за удар.
+§8§8Summon §7<num> §7Mirror Clones <em>§8 after reappearing @ §8Призывает §7<num>§r§8 §7Зеркальных Двойников §8<em>§r§8 после возвращения
+§8§8become §7Noxious <em>§8 while standing in it, @ §8становятся §7Отравлены §8<em>§r§8 пока стоят в нём,
+§8You may store §7<num>§8 more §7Tricks <em> §8on enemies. @ §8Можете хранить ещё §7<num>§r§8 §7Уловок §8<em>§r§8 на врагах.
+§8§8Detonating §7<num>+§8 §7Tricks <em>§8 on enemies will @ §8Подрыв §7<num>+§r§8 §7Уловок §8<em>§r§8 на врагах
+§8§8make them §7<num>% §7Drained <em>§8 and take @ §8делает их §7<num>% §7Истощёнными §8<em>§r§8 и они получают
+§8§7Drained <em>§8 enemy, siphon §7<num>% §8of it, @ §8§7Истощённого §8<em>§r§8 врага, вытягивает §7<num>%§r§8 этого,
+§8§7<num>% §8more <em> Water§8 damage from you. @ §8§7<num>%§r§8 больше §8<em> §8Урона Воды от вас.
+§8§7Mirror Clones <em>§8 will cast §nMultihit @ §8§7Зеркальные Двойники §8<em>§r§8 кастуют §nМультиудар
+§8§7Marks <em> §8from nearby enemies. @ §8§7Метки §8<em>§r§8 с ближайших врагов.
+§8§8Both consume all §7Marks <em>§8 on the enemy. @ §8Оба расходуют все §7Метки §8<em>§r§8 на враге.
+§8§8For every §7<num> Marks <em> §8consumed, @ §8За каждые §7<num> Метки §8<em>§r§8,
+§8§8Increase your maximum §7Marks <em> §8by §7<num>§8. @ §8Увеличивает максимум §7Меток §8<em>§r§8 на §7<num>§r§8.
+§8§8of the enemy's §7Marks <em>§8 to other enemies. @ §8§7Меток §8<em>§r§8 врага другим врагам.
+§8§8and adds §7<num> §7Mark <em> §8to enemies hit. @ §8и добавляет §7<num> §7Метку §8<em>§r§8 поражённым врагам.
+§8§8nearby §7Marked <em> §8mobs towards @ §8ближайших §7Помеченных §8<em>§r§8 мобов к
+§8You may store §7<num>§8 more §7Tricks <em> §8on @ §8Можете хранить ещё §7<num>§r§8 §7Уловок §8<em>§r§8 на
+§8If no enemy had more than <num> §7Tricks <em>§8 detonated @ §8Если ни у кого не было более <num> взорванных §7Уловок §8<em>§r§8
+§8§8Detonating §7<num>+§8 §7Tricks <em>§8 on enemies @ §8Подрыв §7<num>+§r§8 §7Уловок §8<em>§r§8 на врагах
+§8§8Debuffs applied with §7Tricks <em>§8 will last @ §8Дебаффы наложенные §7Уловками §8<em>§r§8 длятся
+§8§8transfer salvaged §7Tricks <em>§8 onto enemies @ §8переносит собранные §7Уловки §8<em>§r§8 на врагов
+§8§8for every §7Trick <em>§8 detonated over the threshold, @ §8за каждую §7Уловку §8<em>§r§8 подорванную сверх порога,
+§8§8§nLast Laugh§8 stores a number of §7Tricks <em> §8on @ §8§nПоследний Смех§r§8 хранит количество §7Уловок §8<em>§r§8 на
+§8§8Each §7<num> §7Momentum <em>§8 grants §7<num>%§8 @ §8Каждые §7<num> §7Импульса §8<em>§r§8 дают §7<num>%§r§8
+§8§7Shadow Clones <em>§8 will cast §nSpin Attack @ §8§7Теневые Двойники §8<em>§r§8 кастуют §nВихревую Атаку
+§8your §7Mirage Clone <em> §8lures an enemy. @ §8ваш §7Двойник-Мираж §8<em>§r§8 заманивает врага.
+§8§7Confused <em> §8enemies take §7<num>% §8more @ §8§7Сбитые с Толку §8<em>§r§8 враги получают §7<num>%§r§8 больше
+§8§7Contaminated <em>§8 enemies take §7<num>% §8more @ §8§7Заражённые §8<em>§r§8 враги получают §7<num>%§r§8 больше
+§8§7Contaminates <em>§8 them with toxic ooze. @ §8§7Заражает §8<em>§r§8 их токсичной слизью.
+§8§7Enkindled <em> §8enemies take §7<num>% §8more @ §8§7Воспламенённые §8<em>§r§8 враги получают §7<num>%§r§8 больше
+§8§8based on how §7Enkindled <em>§8 the target was. @ §8от уровня §7Воспламенения §8<em>§r§8 цели.
+§8detonates §7Tricks <em>§8 on nearby enemies, and makes  @ §8подрывает §7Уловки §8<em>§r§8 на ближайших врагах и делает 
+§8in the swap, the clone loses -<num> health. However, @ §8при обмене двойник теряет -<num> здоровья. Однако,
+§8in the swap, the clone loses +<num> health. However, @ §8при обмене двойник теряет +<num> здоровья. Однако,
+§8those Damage Spells deal +<num>% more damage. @ §8эти Атакующие Заклинания наносят +<num>% больше урона.
+§8You can prepare +<num> total shurikens. (Max <num>) @ §8Можно подготовить +<num> сюрикенов всего. (Максимум <num>)
+§8§8every §7<num>s§8, applying Hypoxia <em> for +<num>s. @ §8каждые §7<num>с§r§8, накладывая Гипоксию <em> на +<num>с.
+§8§8Gain §7<num>% §8Walk Speed (§8⚲§8) @ §8Получаете §7<num>%§r§8 Скорости Ходьбы (§8⚲§r§8)
+§8from items, gain §8<num>s§8 Poison Damage. (Max <num>s) @ §8от предметов получаете §8<num>с§r§8 Урона Ядом. (Максимум <num>с)
+§8§8more <em> Air§8 damage from you. @ §8больше §7<em> §8Урона Воздуха от вас.
+§8§8every §7<num>s§8, applying Hypoxia <em> for <num>s. @ §8каждые §7<num>с§r§8, накладывая §7Гипоксию §8<em>§r§8 на <num>с.
+§8enemies it hits. (Max <num> <num>s Cooldown) @ §8поражённым врагам. (Максимум <num>, <num>с Перезарядка)
+§8enemies it hits. (Max +<num> <num>s Cooldown) @ §8поражённым врагам. (Максимум +<num>, <num>с Перезарядка)
+§8enemies it hits. (Max +<num>, <num>s Cooldown) @ §8поражённым врагам. (Максимум +<num>, <num>с Перезарядка)
+§8gain +<num> Mark <em> every <num>s. @ §8получают §7<num> Метку §8<em>§r§8 каждые <num>с.
+§8gain <num> Mark <em> every <num>s. @ §8получают §7<num> Метку §8<em>§r§8 каждые <num>с.
+§8§7Mirror Clones <em>§8 apply §7<num> §7Trick <em>§8 per hit. @ §8§7Зеркальные Двойники §8<em>§r§8 накладывают §7<num> §7Уловку §8<em>§r§8 за удар.
+§8§8and damage, and adds §7<num> §7Mark <em> §8to enemies hit. @ §8и урон, и добавляет §7<num> §7Метку §8<em>§r§8 поражённым врагам.

@@ -11,7 +11,7 @@ Good work. Seems that killing the king made the other creatures run off. We're l
 # Aledar
 Wait, <playername>, what's going on? Are you alright?@Погоди, <playername>, что с тобой? Ты в порядке?
 # Aledar
-Oh, no no! I have a potion for this, where is it, where is it, aha! Here, drink!@Ой, нет-нет! У меня есть зелье на такой случай, где оно, где оно... ага! Вот, пей!
+Oh, no no no! I have a potion for this, where is it, where is it, aha! Here, drink!@Ой, нет-нет-нет! У меня есть зелье на такой случай, где оно, где оно... ага! Вот, пей!
 # Aledar
 One of those things must have infected your wounds... Everything in this area looks completely hazardous and sickening.@Наверное, одна из этих тварей заразила твои раны... Тут вообще всё вокруг выглядит больным и ядовитым.
 # Aledar
@@ -43,7 +43,7 @@ Oh no, I think something is coming... <playername>! Fight it off, I don't think 
 # Aledar
 Huff... Not feeling totally better, but... At least I can still defend myself.@Фух... Совсем лучше не стало, но... по крайней мере, я ещё могу отбиваться.
 # Aledar
-My stomach is empty, I can't even vomit... Why so I still feel so dizzy? Maybe a potion will help...@Желудок пустой, меня даже вырвать не может... Почему тогда всё ещё так мутит? Может, зелье поможет...
+My stomach is empty, I can't even vomit... Why do I still feel so dizzy? Maybe a potion will help...@Желудок пустой, меня даже вырвать не может... Почему тогда всё ещё так мутит? Может, зелье поможет...
 # Aledar
 Hm. No, not that one...@Хм. Нет, не это...
 # Aledar
@@ -93,6 +93,10 @@ Just...be careful where you go. The void holes could lead anywhere. They might l
 # Aledar
 There's a void hole right there to try out first. Get going, now. You have to do this.@Вон там есть первый провал Бездны, с которого можно начать. Давай, иди. Ты должен это сделать.
 # Aledar
+# Note
+An explosion has occurred somewhere in the arena... @ Где-то на арене прогремел взрыв...
+# Note
+It appears the boulder that was once blocking the way is gone... @ Похоже, что валун, который когда-то преграждал путь, исчез...
 ...wait, <playername>? You got to the other side then...? Good...@...погоди, <playername>? Ты всё-таки добрался на ту сторону...? Хорошо...
 # Aledar
 I don't know what you did, but whatever it was, it's made cracks in the spikes that I can see from this side.@Не знаю, что именно ты сделал, но от этого в шипах пошли трещины, я их даже отсюда вижу.
@@ -113,7 +117,7 @@ In order to open the doors to the Outlook, we need to sacrifice a powerful soul.
 # Aledar
 We... we should have told you from the start. You and Lucio. Elphie and I, we knew. We knew this would be here.@Мы... мы должны были сказать тебе с самого начала. И тебе, и Люсио. Мы с Элфи знали. Мы знали, что это будет здесь.
 # Aledar
-We didn't have... we didn't have a sacrifice in mind. We decided that it would be best decided once we reached that point. And I think we both knew it would have to be one of us.@У нас не было... не было заранее выбранной жертвы. Мы решили, что это лучше решать уже на месте. И, думаю, мы оба понимали, что это должен будет быть кто-то из нас.
+We didn't have... we didn't have a sacrifice in mind. We decided that it would be best decided once we reached that point. And I think- we both knew it would have to be one of us.@У нас не было... не было заранее выбранной жертвы. Мы решили, что это лучше решать уже на месте. И, думаю, мы оба понимали, что это должен будет быть кто-то из нас.
 # Aledar
 ...I think she would have insisted it be her. Even though both of us had something we would be le...@...Думаю, она бы настояла, чтобы это была она. Хотя у нас обоих было ради чего бы-
 # Aledar

@@ -21,6 +21,14 @@ Hello- Welcome to Tempo Town, friend! Established only two months ago, I'm proud
 # Homeless Mayor
 Come to think of it, you look like a Ragni representative... Can I bother you to deliver some paperwork to the castle about getting officially established here?@Хотя знаешь, ты похож на представителя Рагни... Не мог бы ты потом закинуть в замок бумажки насчёт того, чтобы нас тут официально признали?
 # Homeless Mayor
+...Repeat that? ...OH! Oh, no wonder you- Agh, my mind's all over the place from stress, I'm so relieved he found help finally!@Бездомный мэр: ...Повтори-ка? ...А! О, теперь понятно, почему ты- Ага, у меня уже голова кругом от этого стресса... Слава богам, он всё-таки нашёл помощь!
+# Homeless Mayor
+Alright, Tyko told you about the monster, right? We were told by that old man Martyn to settle on this ridge because there weren't any dangerous creatures here!@Бездомный мэр: Так, Тайко ведь рассказал тебе про монстра, да? Тот старик, Мартин, уверял нас, что на этом хребте безопасно и никаких опасных тварей тут нет!
+# Homeless Mayor
+Oh, not that kind of soldier? That's too bad... But- oh, this is a shot in the dark, but... maybe you'd be the type of soldier to take out a monster for us?@Бездомный мэр: А, ты не такой солдат?.. Жаль... Но- эм, это, конечно, пальцем в небо, но... может, ты всё же из тех солдат, кто сможет прикончить монстра ради нас?
+# Homeless Mayor
+You- you would!? Oh, thank goodness you arrived when you did! You see- we were told by that old man Martyn to settle on this ridge because there apparently weren't any dangerous creatures here!@Бездомный мэр: Т-ты правда поможешь!? Ох, слава богам, что ты появился именно сейчас! Понимаешь... тот старик, Мартин, сказал нам селиться на этом хребте - это мол, никаких опасных существ здесь нет!
+# Homeless Mayor
 But every night, the same monster emerges from one of the ruins, and tries to smash the buildings down! Every single night, at the same time!@Но каждую ночь одна и та же тварь вылезает из каких-то руин и пытается разнести наши дома! Каждую. Одну. И ту же ночь, в одно и то же время!
 # Homeless Mayor
 The guards are getting run ragged, and I refuse to be responsible for any deaths when I'm trying to save these folks!@Стража уже на последнем издыхании, и я не хочу, чтобы кто-то погиб, пока я вообще-то пытаюсь этих людей спасти!

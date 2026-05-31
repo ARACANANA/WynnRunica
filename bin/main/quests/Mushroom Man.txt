@@ -1,5 +1,5 @@
 ﻿# Tasim
-<playername>, hello! This place is really nice, isn't it? I'd like to stay a while longer before moving on towards Detlas, but I'll be ready soon.@<playername>, привет! Тут ведь реально классно, да? Я бы ещё немного тут задержался, прежде чем идти дальше к Детласу, но скоро буду готов.
+<playername>, hello! This place really is nice, isn't it? I'd like to stay a while longer before moving on towards Detlas, but I'll be ready soon.@<playername>, привет! Тут ведь реально классно, да? Я бы ещё немного тут задержался, прежде чем идти дальше к Детласу, но скоро буду готов.
 # Tasim
 In the meantime, I've been thinking about what we could do to help this place... I've maybe got something.@Пока мы тут, я думал, чем бы мы могли помочь этому месту... Кажется, кое-что придумал.
 # Tasim
@@ -32,8 +32,12 @@ H-here we are. I- I can f-feel the m-m-mushrooms... from here. And the s-spiders
 S-so! Mushrooms. Those-... those bad c-creepy c-crawly s-s-spiders... Kill them. P-please?@Т-так! Грибы. Эти... эти жуткие п-ползучие с-с-с-пауки... Убейте их. П-пожалуйста?
 # Tasim
 We wouldn't have come here if we weren't planning to. Alright, <playername>, let's clear out some spiders!@Мы бы сюда не пришли, если бы не собирались это сделать. Ладно, <playername>, давай зачистим пауков!
+# Note
+You should report back to Yahya and tell him the spiders have been cleared out.@Надо бы вернуться к Яхье и сказать ему, что пауки уничтожены.
 # Yahya
 I-is it done? S-s-spiders... No m-more spiders? Is my m-m-mushroom patch cl-... cleared?@В-всё? П-п-пауков... больше нет? Моя г-г-грибная поляна ч-чистая?
+# Tasim
+Let's take a look.@Давайте посмотрим.
 # Tasim
 Looks cleared to me. These are... uh... some fine mushrooms!@Вроде всё чисто. Грибы тут... э... ну, вполне нормальные!
 # Yahya
@@ -51,7 +55,7 @@ Yahya! No!@Яхья! Нет!
 # Tasim
 ...@...
 # Tasim
-I-... This is bad. This is really bad. We need to tell the Mayor, now.@Я... Это плохо. Очень плохо. Нам надо срочно рассказать мэру.
+I-... this is bad. This is really bad. We need to tell the Mayor, now.@Я... Это плохо. Очень плохо. Нам надо срочно рассказать мэру.
 # Mayor Alvin
 Ah, hello travelers. You seem to be in a rush- has something happened?@А, здравствуйте, путники. Вы как будто торопитесь - что-то случилось?
 # Tasim

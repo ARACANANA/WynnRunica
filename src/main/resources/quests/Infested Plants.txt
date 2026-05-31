@@ -17,7 +17,7 @@ Perfect. I'll bring you to the cave, and you can do the rest from there. Follow 
 # Ope
 Well, here we are! The cave's right over there - just climb up the rocks and jump into it.@Ну вот и пришли! Вон там пещера - залезайте по камням и прыгайте внутрь.
 # Ope
-Hm... There's two of you. Good! One of your can climb up into that cave, and the other can protect me from the crawly spiders down here!@Хм... Вас двое. Отлично! Один может полезть в пещеру, а второй пока защитит меня от этих ползучих тварей внизу!
+Hm... There's two of you. Good! One of you can climb up into that cave, and the other can protect me from the crawly spiders down here!@Хм... Вас двое. Отлично! Один может полезть в пещеру, а второй пока защитит меня от этих ползучих тварей внизу!
 # Tasim
 Alright! <playername>, you can go into the cave, and I can defend Ope here while you do that.@Ладно! <playername>, иди в пещеру, а я пока прикрою тут Оупа.
 # Ope

@@ -127,3 +127,17 @@ You don't? Uhm... maybe you need glasses humie.@Не видишь? Эм... ну,
 # Dodegar
 As promised! Here you go! Always happy to practice the art of weapon creation.@Как и обещал! Держи! Я всегда рад попрактиковаться в искусстве создания оружия.
 
+
+# Достроено вручную по вики
+# NOTE
+These must be the Wood Sprites Dodegar was talking about...@Это, должно быть, те самые Лесные Духи, о которых говорил Додегар...
+# NOTE
+Dodegar carefully grabs the piece of wood and begins carving.@Додегар осторожно берёт кусок дерева и начинает его резать.
+# NOTE
+Dodegar takes the piece of metal and starts welding it.@Додегар берёт кусок металла и начинает его сваривать.
+# NOTE
+Since when do Beetles talk...@С каких это пор жуки разговаривают...
+# NOTE
+You should return to Dodegar with the blood, he should be nearby.@Стоит вернуться к Додегару с кровью, он должен быть где-то рядом.
+# NOTE
+Dodegar smears the weapon with the glowing blood.@Додегар смазывает оружие светящейся кровью.

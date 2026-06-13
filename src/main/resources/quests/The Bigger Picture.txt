@@ -35,3 +35,7 @@ Ah, I suppose that's alright. The mushroom will grow back over to cover it - and
 # Psilo
 Here, take some of our Gnome gold, we have plenty to go around. And sorry about the whole you-getting-shrunk thing, but hey, being small isn't so bad! See you around, human!@Держи немного нашего гномьего золота, у нас его хватает. И извини за всю эту историю с твоим уменьшением, но эй, быть маленьким не так уж и плохо! Ещё увидимся, человек!
 
+
+# Достроено вручную по вики
+# NOTE
+You've taken care of the Razorice problem, now you just have to find that blue mushroom Psilo was talking about...@Ты разобрался с проблемой Рейзорайс, теперь осталось лишь найти тот синий гриб, о котором говорил Псило...

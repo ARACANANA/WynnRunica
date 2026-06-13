@@ -69,3 +69,7 @@ You're a hero, lad! With the dragon out of our city, Thanos no longer has to liv
 # Coulmis
 I've prepared your reward. The people of Thanos will remember your contribution for years to come.@Я уже подготовил твою награду. Люди Тэноса ещё долго будут помнить, что ты для них сделал.
 
+
+# Достроено вручную по вики
+# NOTE
+Will you help Coulmis?@Ты поможешь Коулмису?

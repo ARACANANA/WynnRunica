@@ -38,7 +38,7 @@ public class WynnRunicaClient implements ClientModInitializer {
         toggleKey = KeyBindingHelper.registerKeyBinding(new KeyBinding(
                 "Включить / выключить перевод",
                 InputUtil.Type.KEYSYM,
-                GLFW.GLFW_KEY_H,
+                GLFW.GLFW_KEY_F8,
                 WR_CATEGORY
         ));
 
@@ -48,7 +48,6 @@ public class WynnRunicaClient implements ClientModInitializer {
                 GLFW.GLFW_KEY_F9,
                 WR_CATEGORY
         ));
-
 
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
 

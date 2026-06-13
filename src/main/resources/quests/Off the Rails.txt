@@ -1521,3 +1521,367 @@ HEY! HARVIN! Didn't I tell ya not to go and give 'em anything? Idiot!@
 # Harvin
 ...Shoot. Guess that's my cue to leave.@
 
+
+# Достроено вручную по вики
+# NOTE
+Looks like someone dropped their train ticket... You're sure they wouldn't mind if you kept it.@Похоже, кто-то обронил билет на поезд... Ты уверен, что они не будут против, если ты заберёшь его себе.
+# NOTE
+It's a train to Espren! Might be worth checking out.@Это поезд до Эспрена! Возможно, стоит взглянуть.
+# NOTE
+You should probably wait you turn.@Тебе, пожалуй, стоит дождаться своей очереди.
+# NOTE
+You might as well look around while you wait for the train to arrive.@Можешь осмотреться, пока ждёшь прибытия поезда.
+# NOTE
+Alternatively, you could find somewhere to sit to pass the time.@Или же можешь найти где присесть, чтобы скоротать время.
+# NOTE
+You can check how long is left at the top of the screen.@Сколько осталось времени, можно посмотреть вверху экрана.
+# Выбор
+Price of the trip@Цена поездки
+# Улика
+Malic, like most people in his region, is extremely poor, and had to save up for months to afford the trip.@Малик, как и большинство людей в его регионе, крайне беден, и ему пришлось копить месяцами, чтобы позволить себе эту поездку.
+# Выбор
+About your job@О твоей работе
+# Улика
+Malic works in a tool factory in the Roughworks, where he manufactures high-quality cutlery and tools for higher regions.@Малик работает на инструментальной фабрике в Рафуоркс, где изготавливает высококачественные столовые приборы и инструменты для регионов повыше.
+# Выбор
+You look tired@Ты выглядишь уставшим
+# Выбор
+Soda@Газировка
+# Выбор
+Auburn Forest@Янтарный лес
+# Выбор
+Other people in subway@Другие люди в метро
+# Выбор
+Just wanted to say hi!@Просто хотел поздороваться!
+# Выбор
+Just passing by!@Просто прохожу мимо!
+# Выбор
+I've got to go.@Мне пора идти.
+# Выбор
+Roughworks@Рафуоркс
+# Выбор
+Aelumia Citadel@Цитадель Аэлюмии
+# Выбор
+Your trip@Твоя поездка
+# Выбор
+What's wrong?@Что не так?
+# Выбор
+What's with your shirt?@Что с твоей рубашкой?
+# Сборщик билетов
+Hey... Didn't I just ask you to not cause trouble? Could you stop that, please?@Эй... Я же только что просил тебя не создавать проблем. Прекрати, пожалуйста.
+# Сборщик билетов
+Listen. I don't feel like calling the guards over, okay? I'm asking you to please stop.@Слушай. Мне не хочется звать стражу, ясно? Я прошу тебя прекратить.
+# Сборщик билетов
+You're really annoying everyone here, including me. Thanks.@Ты реально раздражаешь тут всех, включая меня. Спасибо.
+# Сборщик билетов
+Sigh... Whatever, it's not like they're paying me enough to care...@Эх... Да плевать, мне всё равно платят недостаточно, чтобы переживать...
+# NOTE
+This bench looks pretty comfortable. If you sat here, time would almost pass in an instant...@Эта скамейка выглядит весьма удобной. Если присядешь здесь, время пролетит почти мгновенно...
+# NOTE
+Would you like to sit in the bench? If you do this, it will skip the timer, and you may miss some interactions!@Хочешь присесть на скамейку? Если сделаешь это, таймер пропустится, и ты можешь упустить некоторые взаимодействия!
+# Выбор
+No@Нет
+# Выбор
+Other staff?@Другой персонал?
+# Выбор
+Your home@Твой дом
+# Выбор
+Cemor?@Семор?
+# Выбор
+Thoughts on train@Мысли о поезде
+# Выбор
+Locker Key@Ключ от шкафчика
+# NOTE
+The key is pretty small. You put it in your pocket.@Ключ довольно маленький. Ты кладёшь его в карман.
+# Выбор
+What's going on?@Что происходит?
+# Выбор
+General Levi@Генерал Леви
+# Выбор
+Any stories?@Есть какие-нибудь истории?
+# Выбор
+Sewage incident@Происшествие с канализацией
+# Выбор
+Military@Военные
+# Улика
+Flinn expressed to you that they do not trust the Crown's narrative about the province's quality of life, and are wondering what else it may have lied about.@Флинн не доверяет официальной версии Короны о качестве жизни в провинции и задаётся вопросом, в чём ещё она могла солгать.
+# Улика
+Flinn had mixed feelings about the Guard when asked about it, not completely trusting them due to their association with the Crown but not hating them either.@Флинн испытывает смешанные чувства к Страже: не до конца доверяет ей из-за связи с Короной, но и не питает к ней ненависти.
+# Выбор
+Train@Поезд
+# Улика
+Malic took notice of the fact that the train is very clean and much nicer than any train he'd ever experienced home in the Roughworks, and questioned why the Crown could not provide the same quality there.@Малик отметил, что поезд очень чистый и куда приятнее любого поезда, что он встречал дома в Рафуоркс, и задался вопросом, почему Корона не может обеспечить такое же качество там.
+# Выбор
+Other people on train@Другие люди в поезде
+# Выбор
+University@Университет
+# Улика
+Demma studies at the Aelumia University, in specifically the Blossom house, which studies biology, history, and fashion. She noted that she doesn't have much passion for history and fashion.@Демма учится в Университете Аэлюмии, конкретно в доме Блоссом, который изучает биологию, историю и моду. Она отметила, что не питает особой страсти к истории и моде.
+# Выбор
+Biology@Биология
+# Выбор
+Snails?@Улитки?
+# Выбор
+Book@Книга
+# Улика
+Cemor mentioned being part of a book club in the Highlands.@Семор упомянул, что состоит в книжном клубе в Хайлендс.
+# Выбор
+Highlands@Хайлендс
+# NOTE
+The sign says "Bathroom".@На табличке написано «Уборная».
+# Выбор
+Open the door?@Открыть дверь?
+# NOTE
+You didn't need the bathroom.@Уборная тебе не понадобилась.
+# NOTE
+The sign says "Staff Only".@На табличке написано «Только для персонала».
+# NOTE
+The door is locked, but you'd better not break the rules, anyway.@Дверь заперта, но тебе всё равно лучше не нарушать правила.
+# NOTE
+The sign says "Private Cabin 1".@На табличке написано «Личная каюта 1».
+# NOTE
+The door is locked.@Дверь заперта.
+# NOTE
+The sign says "Private Cabin 2".@На табличке написано «Личная каюта 2».
+# NOTE
+There's a hastily-scrawn note stuck to this lokcer, saying "Player"@К этому шкафчику приклеена наспех нацарапанная записка с надписью «<playername>»
+# NOTE
+...Telati did not mention that you had a locker when you were boarding the train, though he seemed in a hurry, so perhaps he forgot.@...Телати не упомянул, что у тебя есть шкафчик, когда ты садился в поезд, но он, кажется, спешил, так что, возможно, забыл.
+# NOTE
+...he also forgot to give you your key, so you couldn't use it even if you wanted to.@...он также забыл выдать тебе ключ, так что ты не смог бы им воспользоваться, даже если бы захотел.
+# NOTE
+You opened the locker...@Ты открыл шкафчик...
+# NOTE
+Nice! It looks like the previous owner left some things behind!@Отлично! Похоже, прежний владелец оставил здесь кое-какие вещи!
+# NOTE
+You're not going to store anything in here yourself, though. What if you forgot, too?@Сам ты, впрочем, ничего сюда складывать не станешь. А вдруг ты тоже забудешь?
+# NOTE
+It's empty. Nothing more to do here.@Пусто. Больше тут делать нечего.
+# NOTE
+It's locked, but it would be rude to look at his/her/their belongings, anyway.@Заперто, но было бы невежливо рыться в чужих вещах, в любом случае.
+# NOTE
+This locker doesn't seem to belong to anyone, but it's locked anyway.@Этот шкафчик, похоже, никому не принадлежит, но всё равно заперт.
+# NOTE
+The sign says "Kitchen, Staff Only".@На табличке написано «Кухня, только для персонала».
+# NOTE
+The door does not appear to be locked, but it'd be best not to break the rules.@Дверь, похоже, не заперта, но лучше не нарушать правила.
+# NOTE
+It seems that the cafe isn't open right now.@Похоже, кафе сейчас закрыто.
+# NOTE
+It's your seat.@Это твоё место.
+# NOTE
+Once you're done exploring the train, you should take a nap here.@Когда закончишь осматривать поезд, тебе стоит вздремнуть здесь.
+# NOTE
+Would you like to take a nap now? If you do this, you may miss some interactions!@Хочешь вздремнуть сейчас? Если сделаешь это, можешь упустить некоторые взаимодействия!
+# NOTE
+The train's pretty comfortable. You could get used to this as a mode of transport.@В поезде довольно уютно. К такому способу передвижения можно привыкнуть.
+# NOTE
+And to think, if that businessman back in Timasca had not been such a jerk to you, you wouldn't be here now...@И подумать только, если бы тот делец в Тимаске не повёл себя с тобой как мудак, тебя бы здесь сейчас не было...
+# NOTE
+It was all worth it, even if just to see that frustrated look on his face...@Всё это того стоило, хотя бы ради того раздосадованного выражения на его лице...
+# NOTE
+... hey... something wrong? ...@... эй... что-то не так? ...
+# NOTE
+... oh no ... dead? ...@... о нет ... мертва? ...
+# NOTE
+Something's wrong. You should go investigate.@Что-то не так. Тебе стоит пойти разобраться.
+# NOTE
+It sounded like they were headed towards the back of the train.@Судя по звуку, они направлялись в хвост поезда.
+# Выбор
+I didn't do it!@Это не я!
+# Выбор
+Evidence?@Улики?
+# NOTE
+Whenever you find potentially relevant info, it will be automatically recorded in the notebook, for you to check later.@Каждый раз, когда ты находишь потенциально важную информацию, она автоматически записывается в блокнот, чтобы ты мог свериться позже.
+# NOTE
+Text highlighted in yellow indicates case-relevant information, which will be recorded in your notebook.@Текст, выделенный жёлтым, обозначает важную для дела информацию, которая будет записана в твой блокнот.
+# NOTE
+What would you like to inspect first?@Что хочешь осмотреть первым?
+# NOTE
+What would you like to inspect next?@Что хочешь осмотреть дальше?
+# NOTE
+The knife is lodged deep in her neck. It seems to be the only wound present on her body.@Нож глубоко засел в её шее. Похоже, это единственная рана на её теле.
+# NOTE
+You pull out the knife. It seems to be of a high quality.@Ты вытаскиваешь нож. Похоже, он высокого качества.
+# NOTE
+Some kind of purple goo appears to be slathered on the blade, though not much remains, as it has been washed away by blood.@Какая-то фиолетовая слизь, похоже, размазана по лезвию, хотя осталось её немного - её смыло кровью.
+# Выбор
+Position@Положение
+# NOTE
+Though it seems that the victim did not struggle, there is blood all over the room...@Хотя похоже, что жертва не сопротивлялась, кровь по всей комнате...
+# NOTE
+Could it be possible the body was moved?@Возможно ли, что тело передвинули?
+# Улика
+Despite the lack of signs of a struggle, the body was in an unusual place given the amount of blood, suggesting the murderer may have moved it.@Несмотря на отсутствие следов борьбы, тело находилось в необычном месте, если судить по количеству крови, что наводит на мысль, что убийца мог его передвинуть.
+# Выбор
+Pockets@Карманы
+# NOTE
+You check her pockets...@Ты проверяешь её карманы...
+# NOTE
+From them you pull a card. It reads:@Из них ты достаёшь карточку. На ней написано:
+# NOTE
+"Possession of this pass entitles its bearer to a train ride anywhere they request, free of charge, by Her Majesty's orders."@«Обладание этим пропуском даёт его владельцу право на проезд на поезде в любое запрошенное место, бесплатно, по приказу Её Величества.»
+# NOTE
+"Rejection of such a request is considered obstruction of the Crown's will, and a serious crime."@«Отказ в подобной просьбе считается воспрепятствованием воле Короны и серьёзным преступлением.»
+# NOTE
+Seems you've inspected everything now. Time to speak to the guards.@Похоже, ты осмотрел всё. Время поговорить со стражей.
+# Улика
+On the surface, it seems that this murder was premediated and planned beforehand, though it is unclear how someone could have known the General would be here.@На первый взгляд кажется, что это убийство было умышленным и спланированным заранее, хотя неясно, как кто-то мог узнать, что Генерал будет здесь.
+# NOTE
+Fill every square of the board by placing the pieces from the right.@Заполни каждую клетку доски, расставляя фигуры справа.
+# NOTE
+Controls:@Управление:
+# NOTE
+Left-Click to pick up or drop pieces@ЛКМ - взять или положить фигуру
+# NOTE
+Right-Click to rotate the held piece@ПКМ - повернуть взятую фигуру
+# NOTE
+Fill out every square of the crossword by figuring out the riddles to find the required word.@Заполни каждую клетку кроссворда, разгадывая загадки, чтобы найти нужное слово.
+# NOTE
+Click to select a column or row@Нажми, чтобы выбрать столбец или строку
+# NOTE
+Type the answer to the selected space in chat (not case-sensitive)@Введи ответ для выбранного места в чат (без учёта регистра)
+# Выбор
+See anything before the murder?@Видел что-нибудь перед убийством?
+# Выбор
+Book in closet@Книга в шкафу
+# Выбор
+Cemor's request@Просьба Семора
+# Выбор
+What were you doing on the train?@Что ты делал в поезде?
+# Выбор
+Where were you during the murder?@Где ты был во время убийства?
+# NOTE
+Your takeaway from that... conversation... is that the General was completely unguarded.@Твой вывод из того... разговора... в том, что Генерал был полностью без охраны.
+# Улика
+Harvin was waiting to use the bathroom, and Maury was sleeping, leaving General Levi totally unguarded. This means the murderer could have entered the room using a variety of methods.@Харвин ждал своей очереди в уборную, а Мори спал, оставив генерала Леви совершенно без охраны. Это значит, что убийца мог проникнуть в комнату самыми разными способами.
+# Выбор
+Passengers@Пассажиры
+# Улика
+Cemor was in the bathroom at the time the murder happened.@Семор был в уборной в момент убийства.
+# Улика
+Flinn was notedly quiet when General Levi's body was discovered.@Флинн заметно притих, когда обнаружили тело генерала Леви.
+# Выбор
+You mentioned a Deraj earlier?@Ты упоминал какого-то Дераджа ранее?
+# Выбор
+Accusation@Обвинение
+# NOTE
+Are you sure you want to make an accusation? You will not be able to go back on this decision!@Ты уверен, что хочешь выдвинуть обвинение? Ты не сможешь отменить это решение!
+# Улика
+Flinn seemed scared about the murder, as well as frustrated that their trip was further ruined by it.@Флинна, похоже, напугало убийство, а также раздосадовало то, что оно ещё сильнее испортило поездку.
+# NOTE
+See above for the notes.@Заметки см. выше.
+# Показание
+Flinn said they were in their seat the entire time prior to the murder, and did not pay attention to movement throughout the train. They noted that Telati came by and tried to serve them, however.@Флинн сказал, что всё время до убийства был на своём месте и не следил за перемещениями по поезду. Впрочем, он отметил, что подходил Телати и пытался его обслужить.
+# Выбор
+What have you been doing?@Чем ты занимался?
+# Выбор
+Care to explain the key I just found behind you?@Не объяснишь ключ, который я только что нашёл позади тебя?
+# Улика
+Telati's master key was found on top of Flinn's seat.@Мастер-ключ Телати был найден на сиденье Флинна.
+# Улика
+Demma seemed quite afraid after the murder, and struggled to keep her composure.@Демма выглядела весьма напуганной после убийства и с трудом сохраняла самообладание.
+# Показание
+Demma first noted that Cemor passed through and took a while to come back, though speculates he was in the bathroom. After this, she got up to get her notebook from her locker, and didn't pay any attention to where anyone else was sat on the way. In the storage wagon, she ran into Telati who was walking towards the front of the train. On her way out of the wagon, she then encountered Malic, who entered from the seating room, though she did not pay attention to where he ended up going. She returned to her seat, and Cemor returned shortly after.@Демма сперва отметила, что Семор прошёл мимо и долго не возвращался, хотя предполагает, что он был в уборной. После этого она встала, чтобы взять блокнот из своего шкафчика, и не обращала внимания, кто где сидел по пути. В грузовом вагоне она столкнулась с Телати, который шёл в сторону головы поезда. Выходя из вагона, она затем встретила Малика, вошедшего из пассажирского зала, но не заметила, куда он направился. Она вернулась на своё место, и вскоре после этого вернулся Семор.
+# Выбор
+Slime@Слизь
+# Выбор
+Help with bag@Помочь с сумкой
+# Выбор
+Sure!@Конечно!
+# NOTE
+The luggage puzzle starts.@Начинается головоломка с багажом.
+# NOTE
+Are you sure you want to leave the minigame? If you do, your progress will be lost?@Ты уверен, что хочешь выйти из мини-игры? Если выйдешь, твой прогресс будет потерян.
+# NOTE
+The perspective returns to the train@Перспектива возвращается к поезду
+# NOTE
+A pile of various books Demma packed. Most of them seem to be about snails.@Куча разных книг, которые упаковала Демма. Большинство из них, похоже, про улиток.
+# NOTE
+"Due to the size of some of the Highlands' creatures, the toxin in these darts is extremely potent, to the point where it is often lethal to humans."@«Из-за размеров некоторых существ Хайлендс, токсин в этих дротиках чрезвычайно силён, вплоть до того, что часто смертелен для людей.»
+# NOTE
+"This toxin is also known to incapacitate and paralyse those affected by it, a property which has made it desirable to crooks and murderers."@«Также известно, что этот токсин обездвиживает и парализует тех, на кого попадает, - свойство, сделавшее его желанным для мошенников и убийц.»
+# NOTE
+"However, it has almost never been used in crime, as it is extremely difficult to collect from the Mollusc's fragile darts, which break on impact."@«Однако в преступлениях он почти никогда не использовался, так как его крайне трудно собрать с хрупких дротиков моллюска, которые ломаются при ударе.»
+# NOTE
+"It is known, however, that the slime trail left behind by Murex Molluscs contains traces of this toxin."@«Тем не менее известно, что слизистый след, оставляемый моллюсками мурекс, содержит следы этого токсина.»
+# NOTE
+"Raids on black markets have found containers of this slime, though the difficulty involved in collecting it has led to a high price."@«В ходе облав на чёрных рынках находили ёмкости с этой слизью, хотя сложность её сбора привела к высокой цене.»
+# NOTE
+"As such, fortunately, few have chosen to use it to these ends."@«А потому, к счастью, немногие решались использовать её в подобных целях.»
+# NOTE
+There's also an illustration of Murex Mollusc slime. It seems to match what you found on the blade perfectly. This must be it!@Здесь также есть иллюстрация слизи моллюска мурекс. Она, похоже, идеально совпадает с тем, что ты нашёл на лезвии. Должно быть, это оно!
+# Веская улика
+Demma's book describes Murex Mollusc slime, which seems to match well with the goo found on the blade. This slime contains a paralyzing toxin, possibly explaining why General Levi didn't struggle. The Murex Mollusc comes from the Highlands, but its slime is known to appear in black markets, too.@Книга Деммы описывает слизь моллюска мурекс, которая, похоже, хорошо совпадает со слизью, найденной на лезвии. Эта слизь содержит парализующий токсин, что, возможно, объясняет, почему генерал Леви не сопротивлялась. Моллюск мурекс водится в Хайлендс, но его слизь, как известно, появляется и на чёрных рынках.
+# Улика
+Malic seemd upset with what had happened, and said he was slightly nervous, though he seemed quite composed overall.@Малик выглядел расстроенным случившимся и сказал, что слегка нервничает, хотя в целом казался довольно спокойным.
+# Выбор
+Maddison@Мэддисон
+# Улика
+Malic has expressed a dislike for Highlanders due to the way they act when visiting the Roughworks as tourists.@Малик выразил неприязнь к жителям Хайлендс из-за того, как они себя ведут, приезжая в Рафуоркс туристами.
+# Выбор
+Thanks for helping@Спасибо за помощь
+# Улика
+Maddison seemed terrified about the murder, and wondered if the perpetrator could possibly endanger others.@Мэддисон выглядела в ужасе от убийства и задавалась вопросом, не может ли преступник навредить и другим.
+# Показание
+Maddison said she didn't pay too much attention to happenings on the train prior to the murder, but did see some things. First, she recalled that Cemor passed by on his way to the back of the train. Then, that Demma got up and walked in the same direction. After this, Telati came by to ask her if everything was okay, and then left, after which Demma returned, followed by Cemor.@Мэддисон сказала, что не особо следила за происходящим в поезде до убийства, но кое-что видела. Сперва она припомнила, что Семор прошёл мимо в сторону хвоста поезда. Затем что Демма встала и пошла в том же направлении. После этого подошёл Телати, спросил, всё ли в порядке, и ушёл, после чего вернулась Демма, а за ней Семор.
+# Выбор
+Crossword@Кроссворд
+# Веская улика
+Maddison told you that General Levi hails from the Highlands noble house House Takshah, and that some people have grudges against that specific house.@Мэддисон рассказала тебе, что генерал Леви происходит из благородного дома Хайлендс - дома Такшах, и что у некоторых людей есть зуб на этот конкретный дом.
+# Улика
+Cemor seemed quite calm but upset about the murder.@Семор казался довольно спокойным, но расстроенным из-за убийства.
+# Показание
+Cemor says he was in the bathroom for the duration of the murder, so he did not see much, but noticed that Telati was acting suspiciously on his way there, seeming to avoid being seen.@Семор говорит, что был в уборной всё время убийства, поэтому видел немного, но заметил, что Телати вёл себя подозрительно по пути туда, словно стараясь не попадаться на глаза.
+# Улика
+Cemor has expressed a dislike for his local governance, particularly Majin, feeling that he acts more in search of praise than out of genuine care.@Семор выразил неприязнь к местной власти, особенно к Маджину, считая, что тот действует скорее в поисках похвалы, чем из искренней заботы.
+# Выбор
+You seemed mad about something?@Ты, кажется, был чем-то рассержен?
+# Выбор
+Your meal, sir.@Ваше блюдо, сэр.
+# Веская улика
+Cemor told you that he had heard from gossip with friends, prior to boarding the train, that General Levi had been called to Fort Torann, meaning that that information had leaked to the public somehow. He suggested that whoever killed her was aware of this and boarded the train with the express intent of killing her.@Семор рассказал тебе, что перед посадкой на поезд слышал от друзей в разговоре, что генерала Леви вызвали в форт Торанн, а значит, эта информация как-то просочилась в народ. Он предположил, что убийца знал об этом и сел на поезд с прямым намерением убить её.
+# NOTE
+It seems that these rooms are all connected by vents... It's possible the murderer could have used them to travel between rooms.@Похоже, все эти комнаты соединены вентиляцией... Возможно, убийца использовал её, чтобы перемещаться между комнатами.
+# Улика
+The smaller rooms in carriages are connected with air vents. It's possible the murderer could have reached Levi by climbing through one.@Меньшие комнаты в вагонах соединены вентиляционными ходами. Возможно, убийца добрался до Леви, пролезв через один из них.
+# NOTE
+This would presumably belong to the caterer, so it is strange to find it here.@Это, предположительно, принадлежит работнику кейтеринга, так что странно найти его здесь.
+# NOTE
+You slip it into your pocket. You can now access locked rooms.@Ты суёшь его в карман. Теперь ты можешь попасть в запертые комнаты.
+# NOTE
+You're sure you can break that rule for the sake of the case, though. Open the door?@Впрочем, ты уверен, что можешь нарушить это правило ради дела. Открыть дверь?
+# NOTE
+It's a book with a knife on the cover, with no title to be seen. You try to read.@Это книга с ножом на обложке, без какого-либо заглавия. Ты пытаешься читать.
+# NOTE
+...Almost all of the pages are glued together, and a knife-shaped compartment is carved into them.@...Почти все страницы склеены, а внутри вырезан тайник в форме ножа.
+# NOTE
+This must be how the murderer smuggled the weapon onto the train!@Должно быть, именно так убийца пронёс оружие в поезд!
+# Веская улика
+In the staff closet, you found a fake book with a knife-shaped hole in it, almost definitely used to smuggle the weapon on-board.@В шкафу для персонала ты нашёл поддельную книгу с вырезом в форме ножа, почти наверняка использованную, чтобы пронести оружие на борт.
+# NOTE
+Remarkably, there's a prefectly-prepared platter of whole roast Grookiva on the kitchen counter, still warm, perfect for consumption.@Удивительно, но на кухонной стойке стоит идеально приготовленное блюдо - целиком зажаренная Грукива, ещё тёплая, идеальная к столу.
+# NOTE
+You accept this wonderful blessing from the gods. This will do nicely. Serve it to Cemor.@Ты принимаешь это чудесное благословение богов. Сгодится отлично. Подай это Семору.
+# NOTE
+...Looks like that's all over.@...Похоже, всё кончено.
+# NOTE
+It doesn't seem like you judged the killer's identity correctly. Hopefully, that doesn't end up being a problem.@Похоже, ты неверно определил личность убийцы. Будем надеяться, это не обернётся проблемой.
+# NOTE
+...And hopefully, the innocent person you just condemned to prison gets exonerated...@...И будем надеяться, что невиновного, которого ты только что отправил в тюрьму, оправдают...
+# NOTE
+At the very least, there is one silver lining. See, you snagged something pretty handy along the way.@По крайней мере, есть один светлый момент. Видишь ли, по пути ты прихватил кое-что довольно полезное.
+# NOTE
+How convenient!@Как удобно!
+# NOTE
+...Looks like that's all- Huh?.@...Похоже, на этом всё- А?.
+# NOTE
+...Nice.@...Славно.
+# NOTE
+Thank goodness he didn't stick around. After all, you wouldn't want him to see what you kept from the crime scene, would you?@Слава богу, он не стал задерживаться. В конце концов, ты ведь не хотел бы, чтобы он увидел то, что ты прихватил с места преступления, верно?
+# Сборщик билетов
+Got a ticket or train pass?@Есть билет или проездной?
+# Сборщик билетов
+A General's trian pass??? But... But you're not@Генеральский проездной??? Но... Но ты же не
+# Сборщик билетов
+Okay, okay... Sorry for questioning you, General. Where would you like to go today?@Ладно, ладно... Простите, что усомнился, генерал. Куда желаете отправиться сегодня?

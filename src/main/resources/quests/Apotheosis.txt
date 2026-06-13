@@ -5,9 +5,9 @@ Don't you dare speak, scum.@
 # Rex
 Great, backup's finally here!@
 # Rex
-Player, let's take him out together!@
+<playername>, let's take him out together!@
 # Rex
-Thanks for the support, Player! Not sure how much longer I could've held out on my own.@
+Thanks for the support, <playername>! Not sure how much longer I could've held out on my own.@
 # Rex
 We were about to regroup with the Canopy, but Cileon spotted soldiers approaching through the hotel windows.@
 # Rex
@@ -17,9 +17,9 @@ We all got split up in the commotion - the others are probably fighting their ow
 # Rex
 This way!!@
 # Zeph
-Player! Rex!! Per- perfect timing!@
+<playername>! Rex!! Per- perfect timing!@
 # Zeph
-Phew... th...that was close. Player, it's g- good to see you.@
+Phew... th...that was close. <playername>, it's g- good to see you.@
 # Rex
 Where are the others? Have you seen them?@
 # Zeph
@@ -29,7 +29,7 @@ Then what are we waiting for?! Let's get moving!@
 # Zeph
 O- o- okay!!@
 # Zeph
-...Player, if y...you're here, then... the Queen...?@
+...<playername>, if y...you're here, then... the Queen...?@
 # Rex
 Worry about our friends first, Queen second! Come one, move move move!@
 # Cileon
@@ -53,7 +53,7 @@ SUI!!!@
 # Sui
 Oh! You're all safe!@
 # Sui
-And Player, you're here too...@
+And <playername>, you're here too...@
 # Zeph
 Sui, that was i- in- incredible!! But, using that much m...magic... be careful not to use up all of your st- strength...@
 # Sui
@@ -277,7 +277,7 @@ You! You really did it!! People are...they're doing something!! It worked, I can
 # Bleeding Rose
 I'm going with them! We have to keep up the momentum, m-maybe I can direct them! You do whatever you have to- I trust you! We'll make it!@
 # Zeph
-Player!! Y...you're alive!! Then that means...?@
+<playername>!! Y...you're alive!! Then that means...?@
 # Cileon
 Mmn. Impressive.@
 # Rex
@@ -301,7 +301,7 @@ Ah! One moment, just, ha, allow me to catch my breath- let me tell you, those sp
 # Rurie
 ...ohohohoho, do my eyes decieve me?! I'd heard the townsfolk talking but I could hardly believe it- is it really true? Has the Sovereign Thalas truly been felled?!@
 # Sui
-...yeah. Player beat him.@
+...yeah. <playername> beat him.@
 # Rurie
 Ha. Ha! Hahahahahaha! Ahahahahahahahahaha!@
 # Rurie
@@ -327,7 +327,7 @@ Rurie, I'll g- go with you. I... I need to m...make sure Yuman's safe.@
 # Cileon
 Will go too.@
 # Zeph
-Rex, Sui, Player... I- I want to h...help you, but-@
+Rex, Sui, <playername>... I- I want to h...help you, but-@
 # Rex
 Hey, Zeph, it's alright. Make sure there's a resistance still standing for us to rejoin when it's all over, alright?@
 # Sui
@@ -386,8 +386,6 @@ I can't let you do that.@
 She holds the means to save the world. So, no matter what she does...@
 # Sovereign Tasim
 ...she's the only option. And if you stand against her, then you stand against the world.@
-# NOTE
-The dialogue ends here.@
 # Sovereign Tasim
 ...sigh. Far, far too much. I have no ground to stand on.@
 # Sovereign Tasim
@@ -413,7 +411,7 @@ Come on! Think, Rex... think!!!@
 # Rex
 COME ON!!!!@
 # Rex
-Player! Her spell's down, but- she'll get it back up if we don't keep her busy!@
+<playername>! Her spell's down, but- she'll get it back up if we don't keep her busy!@
 # Rex
 I'll handle Tasim! Go!! You're the only one of us who stands a chance against her!!@
 # Rex
@@ -449,7 +447,7 @@ But you will not live to see it, will you? No... no, you will not. The shell wil
 # Her Majesty
 One final satisfaction! Before all comes crashing down. I will enjoy it, the sounds of bones cracking, of flesh burning, of...-!@
 # Rex
-Player!!!@
+<playername>!!!@
 # Rex
 Come on Rex! FOCUS!!!@
 # Rex
@@ -561,7 +559,7 @@ Ohh that ice is cracking. Oookay, okay okay, not gonna hold much longer, let's s
 # Sovereign Soosu
 Erm. Might want to step back a 'lil. Z.@
 # Sui
-It's... done, it's done, it's done... I... I did it! I- I- I can't believe it, I DID IT!!! Player, Rex, we-@
+It's... done, it's done, it's done... I... I did it! I- I- I can't believe it, I DID IT!!! <playername>, Rex, we-@
 # Sui
 No. No, no no no no NO NO NO!!!!!!@
 # Sui
@@ -657,7 +655,7 @@ So. S-so I can help... um, however I'm able to. Just- just this once.@
 # Sui
 ...urgh. The... the ocean here, it's... drained. I... used too much of it. It needs to... um, flow back and... fill back in...@
 # Sovereign Tasim
-Player.@
+<playername>.@
 # Sovereign Tasim
 I... have no right to ask this of you. Not- not now, not after everything I've...@
 # Sovereign Tasim
@@ -695,7 +693,7 @@ Hm. Hm hm. If you're going up into that whole thing... you probably won't make i
 # Sui
 Yeah...@
 # Sui
-...I, um, should... stay with Rex. Un-until the S-Sovereign is... up. Player, go ahead to the safe zone. Make sure everyone's... everyone's okay, over there.@
+...I, um, should... stay with Rex. Un-until the S-Sovereign is... up. <playername>, go ahead to the safe zone. Make sure everyone's... everyone's okay, over there.@
 # Sui
 I'll... meet you later.@
 # Sovereign Tasim
@@ -725,7 +723,7 @@ The rift in the sky... it's all broken, havoc left in her wake, and... and it's 
 # Sovereign Tasim
 But you won't kill me. So I guess I have to keep going... don't I?@
 # Sovereign Tasim
-Good luck, Player. You'll need it.@
+Good luck, <playername>. You'll need it.@
 # Rurie
 ...and now all chaos has broken loose in the citadel, so some numbers truly would go a long way towards-@
 # Fuhue
@@ -733,9 +731,9 @@ Yes, Rurie, I know. Hold for just one minute, would you?!@
 # Rurie
 Fine, fine. Yes, please, take your time! It's not as though the world is ending or anything!!!@
 # Cileon
-Ahem. Player.@
+Ahem. <playername>.@
 # Rurie
-Hm? Player!! You're alive, that's a relief - if you wouldn't mind answering, what the - and excuse the language - HELL is going on?!@
+Hm? <playername>!! You're alive, that's a relief - if you wouldn't mind answering, what the - and excuse the language - HELL is going on?!@
 # Rurie
 The SKY ITSELF has cracked open, there's RED LIGHTNING up there - and I have seen storms before, that is not normal - everything is a MESS! Explain.@
 # Rurie
@@ -755,7 +753,7 @@ Ah! There we are! Twelve injured allies, five casualties, one bout of madness...
 # Fuhue
 Food rations will hold for another three and a half days, so we'll need to send a supply run tomorrow... at least armor and weapon supplies are still in surp-@
 # Fuhue
-Oh. Player, you're here. Good to see you're still standing. What are we talking about?@
+Oh. <playername>, you're here. Good to see you're still standing. What are we talking about?@
 # Cileon
 Queen. Rift.@
 # Fuhue
@@ -773,7 +771,7 @@ Right! Of course, how could I forget! We have you. Well, I suppose that's all so
 # Fuhue
 Hm. Leaves us more time to finalize the stabilizing plan for the province, to deal with the chaos that comes after this chaos concludes. Joy.@
 # Rurie
-Yes, yes... we can get to that. Player, before you set off on yet another dangerous mission, you'd best go speak to everyone here. Alleviate some concerns, yes?@
+Yes, yes... we can get to that. <playername>, before you set off on yet another dangerous mission, you'd best go speak to everyone here. Alleviate some concerns, yes?@
 # Yulie
 ...and you're alright? No injuries- nothing?@
 # Yuman
@@ -785,7 +783,7 @@ Well, a...at least the soldiers have b- ba- backed off a little... so, that's s-
 # Yulie
 Sigh... yeah, that is something. I'm almost out of electrical charges...@
 # Zeph
-...Player! Y- you're back!!@
+...<playername>! Y- you're back!!@
 # Yuman
 Ey, you made it!!!@
 # Zeph
@@ -819,7 +817,7 @@ It must've been! That explains some things! Hey, no wonder the soldiers were so 
 # Zeph
 Ha... y- yeah...@
 # Zeph
-...Player. The Queen isn't d...dead, is she?@
+...<playername>. The Queen isn't d...dead, is she?@
 # Zeph
 Then... y...you're going after her. Right?@
 # Yuman
@@ -835,11 +833,11 @@ I- I have to... Rex won't be in any sh- shape to fight, a- and- and it's my turn
 # Yulie
 Okay, lovebirds, that's my signal to get out of here. There's schedules I have to organize...@
 # Yulie
-...but yeah. Zeph, Player, I expect to see you two again. Understood?@
+...but yeah. Zeph, <playername>, I expect to see you two again. Understood?@
 # Yulie
 Good. Just making sure.@
 # Azael
-Player, I'm glad to see you're back.@
+<playername>, I'm glad to see you're back.@
 # Quill
 I heard from Zeph that you and the girls decided to challenge Her Majesty.@
 # Quill
@@ -957,15 +955,15 @@ I thought- I thought I was protecting the people of the Roughworks from the dang
 # Quill
 Fruma needs all the help it can get once this is all over. Everyone will need to cooperate to save the province from destroying itself without a ruler.@
 # Quill
-I'll see you around, Player.@
+I'll see you around, <playername>.@
 # Azael
 I might hand the responsibilities for liberating Fruma to the young ones.@
 # Azael
 I've lived long enough and honestly, retirement sounds rather nice.@
 # Azael
-Good bye, Player.@
+Good bye, <playername>.@
 # Sui
-...Player. Hey.@
+...<playername>. Hey.@
 # Sui
 I'm... ready to go.@
 # Sui
@@ -977,7 +975,7 @@ So... later. I'll think about it later. After we're d-@
 # Zeph
 Sui!!! I- I- I heard about what you g...guys did!! You st- st- stopped the Queen!!!@
 # Sui
-...yeah. Rex and Player did. I... didn't.@
+...yeah. Rex and <playername> did. I... didn't.@
 # Zeph
 What? Sui, you he- held back the lake's water from fl- fl- flooding the Auburn Forest!! If it wasn't for y...you, then-@
 # Sui
@@ -989,7 +987,7 @@ Rex. She... she died, Zeph, I felt it. For a minute, I was holding her- her cold
 # Zeph
 A- and if you were able to s...save Rex, but the dam broke... and all th- those people died instead... would that have been b- be- better?@
 # Zeph
-I've b...been thinking about it, ever since Player t- told me... if- if I had been th- there, a- and not here, could I have st...stopped it...? A- an extra pair of eyes...@
+I've b...been thinking about it, ever since <playername> t- told me... if- if I had been th- there, a- and not here, could I have st...stopped it...? A- an extra pair of eyes...@
 # Zeph
 B- but I was here, instead, a- a- and because of that, I was able to m...make sure Yuman survived! If it were the other way around... I'd feel the same!!@
 # Sui
@@ -1011,7 +1009,7 @@ Th- then let me join you! Things are c...calmer here, now, so- so they should be
 # Sui
 ...okay, Zeph. We could use the help.@
 # Yusanu
-Sui, Player, Zeph!@
+Sui, <playername>, Zeph!@
 # Yusanu
 I- I did it! I finally, finally, FINALLY did it!!!@
 # Sui
@@ -1087,7 +1085,7 @@ The gendarme won't listen to me... their commander's disappeared somewhere, and 
 # Sovereign Tasim
 The cracks are finally showing... I always knew they were there, I just. Told myself they weren't the end of the world. Ha.@
 # Sui
-YOU!!! Player, what is HE doing here?! After he- he- he KILLED Rex, so why is he HERE?!@
+YOU!!! <playername>, what is HE doing here?! After he- he- he KILLED Rex, so why is he HERE?!@
 # Sui
 I should... I should kill you. You- you'd DESERVE it, for everything!!!@
 # Sovereign Tasim
@@ -1107,7 +1105,7 @@ I don't want to hear it. I don't care what you have to say for yourself.@
 # Sui
 Come on. Let's go.@
 # Sovereign Tasim
-Player. I'm here, aren't I? Sigh... Look at it all. What a mess. The sky itself is cracked and broken!!@
+<playername>. I'm here, aren't I? Sigh... Look at it all. What a mess. The sky itself is cracked and broken!!@
 # Sovereign Tasim
 Everything she said... it was true. She had a plan to stop the end of the world. She had the method and the means...@
 # Sovereign Tasim
@@ -1129,7 +1127,7 @@ Well... you CAN'T!! Her arm is gone, FOREVER, and it's YOUR fault. She would hav
 # Sui
 So... so I don't care. If you're going to help with the Queen... fine. But I don't want to see you ever again after we're done.@
 # Sui
-Player, Zeph, come on. Let's go.@
+<playername>, Zeph, come on. Let's go.@
 # Sovereign Tasim
 I've been thinking. About all of it. After everything that's happened, everything she's done - everything I've done - it wouldn't be right to turn away.@
 # Sovereign Tasim
@@ -1155,7 +1153,7 @@ After everything... after EVERYTHING, I get a CHANCE to- to- to get back at s-so
 # Sui
 I don't care.@
 # Sui
-Player, Zeph, let's just... go.@
+<playername>, Zeph, let's just... go.@
 # Sovereign Tasim
 ...no more excuses.@
 # Zeph
@@ -1252,10 +1250,204 @@ And either way, it's been a long while since you've been to Wynn, hasn't it?@
 So you should come back and visit! A change of scenery would do you some good, I think.@
 # NOTE
 See you soon!@
-# NOTE
-Aledar@
-# NOTE
-The dialogue ends here@
-# NOTE
-Ends the dialogue@
 
+
+# ═══════════════════════════════════════════════════════════
+# Достроено вручную по вики (финал ветки). Her Majesty=жен,
+# Tasim=муж, Sui/Rex=жен. Suвеren везде.
+# ═══════════════════════════════════════════════════════════
+
+# NOTE
+A strained tension lingers in the air as you enter Hyloch. In the absence of its citizens, the city square feels... empty, off.@Когда ты входишь в Хайлок, в воздухе висит напряжение. Без горожан городская площадь кажется... пустой, неправильной.
+# NOTE
+The city streets are crawling with guards and soldiers, all searching for something... or, someone.@Улицы города кишат стражей и солдатами все что-то ищут... или кого-то.
+# NOTE
+You need to find your friends, before the guards find them first.@Тебе нужно найти друзей, пока их не нашла стража.
+# NOTE
+Where are the others?@Где остальные?
+# NOTE
+She's here too.@Она тоже здесь.
+# NOTE
+We did say we'd kill you.@Мы же сказали, что убьём тебя.
+# NOTE
+These are your last moments!@Это твои последние мгновения!
+# NOTE
+You're right where I want you.@Ты ровно там, где мне нужно.
+# NOTE
+The newspapers wouldn't lie...@Газеты не стали бы врать...
+# NOTE
+Where did they go?@Куда они делись?
+# NOTE
+I killed him.@Я его убил.
+# NOTE
+Majin Thalas is dead.@Маджин Талас мёртв.
+# NOTE
+You need to hurry to the dam!@Тебе нужно скорее к плотине!
+# NOTE
+Why are you STILL with her?!@Почему ты ВСЁ ЕЩЁ с ней?!
+# NOTE
+What is WRONG with you?!@Да что с тобой НЕ ТАК?!
+# Her Majesty
+Oh, how@О, как
+# Her Majesty
+One final satisfaction! Before all comes crashing down. I will enjoy it,@Последнее удовольствие! Прежде чем всё рухнет. Я насладюсь им,
+# Her Majesty
+This... this will be difficult to bury. But not impossible.@Это... это будет трудно замять. Но не невозможно.
+# NOTE
+She's... bleeding out. There's nothing you can do for her.@Она... истекает кровью. Ты ничем не можешь ей помочь.
+# NOTE
+I won't kill you.@Я не убью тебя.
+# NOTE
+I can't. Not again.@Не могу. Только не снова.
+# Player
+I... can't do it, Tasim. Don't make me kill you. Not again. Not like...@Я... не могу, Тасим. Не заставляй меня убивать тебя. Только не снова. Не так, как...
+# NOTE
+The ground beneath you quakes threatening to sweep you off your feet. But you stand firm. You hear an echoing cracking and crashing...@Земля под тобой содрогается грозит сбить с ног. Но ты стоишь твёрдо. До тебя доносится гулкий треск и грохот...
+# NOTE
+I won't lose another friend.@Я не потеряю ещё одного друга.
+# Player
+I won't lose another friend, Tasim.@Я не потеряю ещё одного друга, Тасим.
+# NOTE
+It's not too late for you.@Для тебя ещё не поздно.
+# Player
+It's not too late for you. You can still make up for this.@Для тебя ещё не поздно. Ты ещё можешь это исправить.
+# NOTE
+Crack! The stone beneath you feet shakes and cracks and crumbles as the dam's foundation begins to collapse.@Хрусь! Камень под ногами трясётся, трескается и крошится фундамент плотины начинает рушиться.
+# NOTE
+Live with your mistakes.@Живи со своими ошибками.
+# Player
+Live with your mistakes, Tasim. You'll need to help clean up after everything's over.@Живи со своими ошибками, Тасим. Тебе придётся помогать разгребать всё это, когда всё закончится.
+# NOTE
+Get over yourself.@Хватит себя жалеть.
+# Player
+Oh, get over yourself. You've made these mistakes, and that's it, now you're done? Really?@Ой, да хватит себя жалеть. Наделал ошибок и всё, теперь сразу сдаёшься? Серьёзно?
+# NOTE
+...before either of you can say anything else, the strained moment between the two of you .@...прежде чем кто-то из вас успевает сказать ещё хоть слово, напряжённый момент между вами .
+# NOTE
+Do it yourself.@Сделай это сам.
+# Player
+You want to die, Tasim?@Хочешь умереть, Тасим?
+# Player
+Then do it yourself.@Тогда сделай это сам.
+# NOTE
+The crashing of otherworldly thunder in the distance, the creaking and cracking of the dam's foundations breaking apart...@Раскаты потустороннего грома вдалеке, скрип и треск разламывающегося фундамента плотины...
+# NOTE
+All of it all of the noise, the chaos... it all stills, for a moment. Drowned out by the overwhelming, oppressive silence between the two of you.@Всё это весь шум, хаос... на миг замирает. Тонет в подавляющей, гнетущей тишине между вами.
+# NOTE
+There is nothing to say. There is nothing you can say, in this moment.@Сказать нечего. В этот миг тебе нечего сказать.
+# NOTE
+You will not kill him. You will not offer him this easy way out. The choice is his.@Ты не убьёшь его. Ты не дашь ему этот лёгкий выход. Выбор за ним.
+# NOTE
+...before either of you can do anything, the silence The noise, the chaos, the destruction - all of it rushes back in to fill the space it once held.@...прежде чем кто-то из вас успевает что-либо сделать, тишина Шум, хаос, разрушение всё это врывается обратно, заполняя освободившееся место.
+# NOTE
+So will we.@И мы тоже.
+# NOTE
+Then help Rex!@Тогда помоги Рекс!
+# NOTE
+You sound exhausted.@Ты звучишь измотанным.
+# NOTE
+...there you are, after all.@...вот ты где, всё-таки.
+# NOTE
+He doesn't see sure how to react. Conflicting emotions cross his face...but it settles on a familiar determination as he holds his hand out towards the charm.@Он, похоже, не знает, как реагировать. По лицу пробегают противоречивые чувства... но оно застывает в знакомой решимости, и он протягивает руку к амулету.
+# NOTE
+...he saved Rex.@...он спас Рекс.
+# Player
+...he saved Rex. So I'll do it.@...он спас Рекс. Так что я сделаю это.
+# NOTE
+An expression of guilt, sadness, regret crosses his face. Then, he holds out his hand towards the charm.@По его лицу пробегает вина, печаль, сожаление. Затем он протягивает руку к амулету.
+# NOTE
+We'll need everything we can get.@Нам пригодится всё, что только можно.
+# Player
+To rebuild Fruma... we'll need everything we can get. I can do it.@Чтобы отстроить Фруму... нам пригодится всё, что можно. Я справлюсь.
+# NOTE
+He... nods. After a moment, he holds out his hand out towards the charm.@Он... кивает. Помедлив, протягивает руку к амулету.
+# Player
+...fine. I'll do it.@...ладно. Я сделаю это.
+# NOTE
+With a moment of hesitation, he holds out his hand out towards the charm.@Чуть помедлив, он протягивает руку к амулету.
+# NOTE
+You hold out your hand, and don't say a word.@Ты протягиваешь руку и не говоришь ни слова.
+# NOTE
+With a moment of hesitation, he places the charm in your open palm.@Чуть помедлив, он кладёт амулет тебе на раскрытую ладонь.
+# NOTE
+It's... buzzing with magic. If you focus, you can just barely make out the different sources. An energizing glow, a feeling of soil and steel, and a raging, swirling ocean.@Он... гудит магией. Если сосредоточиться, едва-едва можно различить разные источники. Бодрящее сияние, ощущение почвы и стали, и бушующий, кружащийся океан.
+# NOTE
+It's nearly charged. Just a little more, and it'll be enough. Where do you look to draw power from?@Он почти заряжен. Ещё чуть-чуть и хватит. Откуда черпать силу?
+# NOTE
+It's done.@Готово.
+# NOTE
+Are you forgetting something?@Ты ничего не забываешь?
+# NOTE
+Help us fix it, Tasim.@Помоги нам это исправить, Тасим.
+# NOTE
+What will you do about it?@И что ты с этим будешь делать?
+# NOTE
+Help fix it.@Помоги исправить.
+# NOTE
+Off in the distance, you hear shouts, screams. The clashing of steel rings out. The citadel is in chaos.@Где-то вдалеке слышны крики, вопли. Раздаётся лязг стали. В цитадели хаос.
+# NOTE
+The sky above is cracked and broken. A tear in the world itself, a hole punched through reality over the Queen's royal palace.@Небо над головой треснуло и разбито. Разрыв в самом мире, дыра, пробитая сквозь реальность над королевским дворцом.
+# NOTE
+You need to regroup with your allies. But you also need to save your strength. Fight through the citadel, and avoid areas crawling with soldiers.@Тебе нужно воссоединиться с союзниками. Но и силы беречь надо. Пробивайся через цитадель и обходи места, кишащие солдатами.
+# NOTE
+The road is heavily guarded. Best to avoid it for now.@Дорога под усиленной охраной. Пока лучше обойти.
+# NOTE
+The tunnel to the safe zone has been blocked off. There must be another way in.@Тоннель в безопасную зону завален. Должен быть другой путь.
+# NOTE
+The gate is blocking you from going this way.@Ворота не пускают тебя этим путём.
+# NOTE
+It was the Queen.@Это была Королева.
+# NOTE
+You tell the captains about your fight at the dam. About the Queen's threat to flood the Auburn Forest, how you and Rex and Sui stopped it.@Ты рассказываешь капитанам о бое у плотины. Об угрозе Королевы затопить Аубёрнский лес, о том, как вы с Рекс и Суи это остановили.
+# NOTE
+You tell them about the Queen's transformation into her monstrous true form. About the rifts that opened up around her as her shell broke apart.@Ты рассказываешь им о превращении Королевы в её чудовищную истинную форму. О разломах, что открылись вокруг неё, когда её оболочка раскололась.
+# NOTE
+You point to the palace. You tell them that is where she fled to. That is where she is now.@Ты указываешь на дворец. Говоришь им, что туда она и сбежала. Что она сейчас там.
+# NOTE
+I would.@Я бы смог.
+# NOTE
+I made it!@Я добрался!
+# NOTE
+Auburn is safe...@Аубёрн в безопасности...
+# NOTE
+You tell them about fighting Tasim. And then the Queen.@Ты рассказываешь им о бое с Тасимом. А затем с Королевой.
+# NOTE
+You tell them about the aftermath - the Queen's transformation, the rifts opening.@Ты рассказываешь им о последствиях превращении Королевы, открывшихся разломах.
+# NOTE
+You tell them about how the dam broke, about how Sui singlehandedly kept the water from flooding the Auburn Forest.@Ты рассказываешь им о том, как рухнула плотина, как Суи в одиночку удержала воду от затопления Аубёрнского леса.
+# NOTE
+You tell them about Zhiraok and Soosu arriving on the scene, about Soosu fixing up the dam.@Ты рассказываешь им о том, как на место прибыли Жираок и Соосу, как Соосу залатала плотину.
+# NOTE
+You... tell them about Rex. About how she saved you, about how she lost her arm, about how she... died.@Ты... рассказываешь им о Рекс. О том, как она спасла тебя, как лишилась руки, как она... погибла.
+# NOTE
+You tell them about Zhiraok, using his revival charm to save her. About the cost of doing so.@Ты рассказываешь им о Жираоке, о том, как он применил амулет воскрешения, чтобы спасти её. О цене, которую это стоило.
+# NOTE
+We stopped her...@Мы её остановили...
+# Player
+We stopped her. But she destroyed the dam in the process. Luckily, Sui, with the help of Soosu, managed to stop the water from reaching Auburn. However, Her Majesty escaped into her realm.@Мы её остановили. Но в процессе она разрушила плотину. К счастью, Суи с помощью Соосу сумела не дать воде дойти до Аубёрна. Однако Её Величество сбежала в свой мир.
+# NOTE
+The remaining Sovereigns have joined us... I think...@Оставшиеся Суверены присоединились к нам... кажется...
+# NOTE
+How did it go on your end?@А как у вас всё прошло?
+# NOTE
+What's the plan after this?@Какой план дальше?
+# NOTE
+Are you truly ready to take the Queen down?@Ты правда готов свергнуть Королеву?
+# NOTE
+Is Rex alright?@Рекс в порядке?
+# NOTE
+Is that what the Queen did?@Это Королева сделала?
+# NOTE
+Fractured shards of porcelain stone. Seeping red chaos flowing from the cracks in the shell.@Расколотые осколки фарфорового камня. Из трещин в оболочке сочится красный хаос.
+# NOTE
+How do you feel?@Как ты себя чувствуешь?
+# NOTE
+No, how do you feel?@Нет, как ТЫ себя чувствуешь?
+# NOTE
+How did you figure it out?@Как ты это понял?
+# NOTE
+Tasim.@Тасим.
+# NOTE
+There's a letter placed into the pot. Read it?@В горшок вложено письмо. Прочитать?
+# NOTE
+It seems there's more text on the other side. Read it?@Похоже, на обороте ещё текст. Прочитать?

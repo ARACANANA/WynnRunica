@@ -143,3 +143,35 @@ We will also return the stolen food to the Gerts, and hopefully calm them down.@
 # Winie
 Your job is finished here, Wynnian. Thank you on behalf of Cinfras.@На этом твоя работа здесь закончена, виннианец. Спасибо тебе от лица Синфраса.
 
+
+# Достроено вручную по вики
+# NOTE
+This is bad...@Это плохо...
+# NOTE
+You should warn the Gylia Guards.@Тебе стоит предупредить стражей Гилии.
+# NOTE
+Maybe you can find a way to lure the two guards away using food?@Может, удастся как-нибудь выманить двух стражников едой?
+# NOTE
+You successfully lead the two guards out of the tower. Maybe you should go to the second floor next?@Ты успешно выманил двух стражников из башни. Может, теперь стоит подняться на второй этаж?
+# NOTE
+That strategy did not work. Maybe you can retry?@Эта затея не сработала. Может, попробуешь снова?
+# NOTE
+That strategy lead you nowhere. Maybe you can retry?@Эта затея ни к чему не привела. Может, попробуешь снова?
+# NOTE
+You successfully got Bory out of the watch!@Ты успешно выманил Бори из дозорной башни!
+# NOTE
+Maybe it's time to save the people in the basement.@Может, пора спасти людей в подвале.
+# NOTE
+It seems that they locked up the basement...@Похоже, подвал заперли...
+# NOTE
+Something happened outside!@Снаружи что-то случилось!
+# NOTE
+This must be a freshly dug tunnel...@Должно быть, это свежевырытый тоннель...
+# NOTE
+It seems the Gerts have gone on the offense.@Похоже, герты перешли в наступление.
+# NOTE
+Maybe you can collapse the tunnel entrance?@Может, удастся обрушить вход в тоннель?
+# NOTE
+That should stop the Gerts.@Это должно остановить гертов.
+# NOTE
+At least for now. Maybe it's time to check on the Gylia Watch again.@По крайней мере, пока. Может, пора снова наведаться к дозору Гилии.

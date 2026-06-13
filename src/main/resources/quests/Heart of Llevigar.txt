@@ -43,3 +43,19 @@ Aah, this is bad, where's the keys to my toolbox?! Zenam said it was important, 
 # Electromagic Expert
 I still can't believe it, a human has done my job and taken my emeralds... Just because I lost my keys...@До сих пор поверить не могу - какой-то человек сделал мою работу и забрал мои изумруды... И всё только потому, что я потерял ключи...
 
+
+# Достроено вручную по вики
+# NOTE
+The crackling and huming gets louder..@Треск и гудение становятся громче..
+# NOTE
+You can hear a soft humming coming from the walls.@Из стен доносится тихое гудение.
+# NOTE
+The colored buttons correspond to the sticky pistons on each side.@Цветные кнопки соответствуют липким поршням с каждой стороны.
+# NOTE
+A door has been opened@Дверь открыта
+# NOTE
+You feel powerful electricity rushing through your body as you enter the room.@Ты чувствуешь, как мощное электричество пронзает твоё тело, когда ты входишь в комнату.
+# NOTE
+Use the buttons on the walls to change the color of the wire@Используй кнопки на стенах, чтобы менять цвет провода
+# NOTE
+The system has been restarted@Система перезапущена

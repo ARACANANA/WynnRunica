@@ -223,3 +223,39 @@ It's not like the Gerts deserve them - all they do is sit in their little camps 
 # Cikal
 So if they think they can attack us, the might Gylia Watch, let them try! And you, human, would do well to stay out of the way!@Так что если они думают, что смогут напасть на нас, на могучий Дозор Гилии, пусть попробуют! А ты, человек, лучше бы не лез не в своё дело!
 
+
+# Достроено вручную по вики
+# NOTE
+Looks like the Gerten chiefs are having a meeting, you shouldn't get too close... maybe there's somewhere nearby you can eavesdrop from?@Похоже, вожди гертов проводят собрание, тебе не стоит подходить слишком близко... может, поблизости есть место, откуда можно подслушать?
+# NOTE
+Well, that explains how the Gerts were able to get to the pigs. You should head back to Jitak.@Что ж, это объясняет, как герты смогли добраться до свиней. Тебе стоит вернуться к Джитаку.
+# NOTE
+The gert is looking at you hungrily... it might be best to leave the conversation?@Герт смотрит на тебя голодным взглядом... может, лучше прекратить разговор?
+# Выбор
+No@Нет
+# Стражник-герт
+Gert Guard: ... Is that a joke? What are you, some kind of snack?@... Это что, шутка? Ты что, какая-то закуска?
+# NOTE
+The gert has a strange look in his eyes and is inching towards you suspiciously...@У герта странный взгляд, и он подозрительно подбирается к тебе...
+# NOTE
+The gert is very close to you now and you can see saliva dripping from its teeth...@Теперь герт совсем близко к тебе, и видно, как с его зубов капает слюна...
+# NOTE
+That was... enlightening, but it didn't get you into the farm. You should look around for a way to distract the gert... maybe get some food?@Это было... познавательно, но в ферму тебя не привело. Тебе стоит поискать способ отвлечь герта... может, раздобыть какой-нибудь еды?
+# NOTE
+Maybe you can cast a spell to shake an apple down?@Может, удастся применить заклинание, чтобы стряхнуть яблоко?
+# NOTE
+Looks like the guard is pretty distracted waiting for apples to fall out of the sky... you should be able to sneak into the farm now.@Похоже, стражник изрядно отвлёкся, ожидая, когда с неба посыплются яблоки... теперь ты сможешь прокрасться на ферму.
+# NOTE
+This pumpkin looks perfect to carve a face into...@Эта тыква идеально подходит, чтобы вырезать на ней лицо...
+# NOTE
+Carve a facial expression into the pumpkin! Be careful, as the wrong one might expose you as a human!@Вырежи на тыкве выражение лица! Будь осторожен - неподходящее может выдать в тебе человека!
+# NOTE
+You should put the mask on before you leave.@Тебе стоит надеть маску, прежде чем уходить.
+# NOTE
+... That didn't go too well. You should carve another mask.@... Это прошло не очень удачно. Тебе стоит вырезать другую маску.
+# NOTE
+You should report back to Jitak with your new mask and information about the tunnel.@Тебе стоит вернуться к Джитаку с новой маской и сведениями о тоннеле.
+# NOTE
+Kill Animals every 10 seconds or the gerts will become suspicious!@Убивай животных каждые 10 секунд, иначе герты что-то заподозрят!
+# NOTE
+What would you like to do?@Что хочешь сделать?

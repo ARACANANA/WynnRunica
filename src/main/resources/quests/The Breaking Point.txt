@@ -581,3 +581,13 @@ I cannot give you something as unique as what Paku has offered, but I can still 
 # NOTE
 An ingenious dwarven contraption designed for the quick traversal of caves and rock, this hook is very clearly labelled with the King's name.@Хитроумная дворфская штуковина для быстрого перемещения по пещерам и скалам. На этом крюке очень чётко выбито имя короля.
 
+
+# Достроено вручную по вики
+# NOTE
+[!] Central bore tunnel opening! Exercise extreme caution around the deep drop.@[!] Открывается центральный буровой тоннель! Соблюдай предельную осторожность у глубокого обрыва.
+# NOTE
+You use the grappling hook to swing back to the King in a dazzling feat of trapeze consisting of mid-air flips and acrobatic flourishes.@Ты используешь крюк-кошку, чтобы вернуться к Королю эффектным трюком на трапеции, состоящим из кувырков в воздухе и акробатических изысков.
+# NOTE
+You need to get to the path up to Ozoth's Spire. There should be signposts outside of Thanos...@Тебе нужно добраться до тропы, ведущей к Шпилю Озота. Снаружи Таноса должны быть указатели...
+# NOTE
+It looks like Ozoth's body is trying to prevent you from getting the Everflame!@Похоже, тело Озота пытается помешать тебе заполучить Вечное пламя!

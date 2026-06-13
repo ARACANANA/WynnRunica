@@ -149,3 +149,27 @@ Benefits of being a queen I 'spose.@Плюшки статуса королевы
 # Trials Overseer
 Please accept this, your majesty.@Примите это, ваше величество.
 
+
+# Достроено вручную по вики
+# NOTE
+What item would you trade Egpla for her outfit?@Какой предмет ты обменяешь у Эгплы на её наряд?
+# NOTE
+As you walk, you hear arguments between other contestants either side of you...@Пока ты идёшь, по обе стороны слышны перепалки между другими участниками...
+# NOTE
+Perhaps you can try throwing this at the window?@Возможно, стоит попробовать бросить это в окно?
+# NOTE
+What item would you like to throw at the window?@Какой предмет ты хочешь бросить в окно?
+# NOTE
+It looks like your grape didn't do anything... you should find another item to throw.@Похоже, твой виноград ничего не дал... тебе стоит найти другой предмет для броска.
+# NOTE
+It looks like your leaf didn't do anything... you should find another item to throw.@Похоже, твой лист ничего не дал... тебе стоит найти другой предмет для броска.
+# NOTE
+It looks like your flower didn't do anything... you should find another item to throw.@Похоже, твой цветок ничего не дал... тебе стоит найти другой предмет для броска.
+# NOTE
+It looks like your apple didn't do anything... you should find another item to throw.@Похоже, твоё яблоко ничего не дало... тебе стоит найти другой предмет для броска.
+# NOTE
+It looks like your egg didn't do anything... you should find another item to throw.@Похоже, твоё яйцо ничего не дало... тебе стоит найти другой предмет для броска.
+# NOTE
+The rock broke the window! Now you've just got to find a way up there...@Камень разбил окно! Теперь осталось лишь найти способ забраться туда...
+# NOTE
+Looks like you're inside the Mansion... now you've got to find your way to the treasure.@Похоже, ты внутри особняка... теперь тебе нужно найти путь к сокровищу.

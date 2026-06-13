@@ -415,3 +415,119 @@ We two, here... end.@Мы двое, здесь... заканчиваем.
 # NOTE
 You have gained the power to end. You have unlocked The Hunted Mode.@Ты обрёл силу завершать. Режим Охоты разблокирован.
 
+
+# Достроено вручную по вики
+# NOTE
+Hunted Mode@Режим Преследования
+# Бак'ал
+Bak'al: We destroy Ragni today. The great fortress will fall.@Сегодня мы уничтожим Рагни. Великая крепость падёт.
+# Бак'ал
+Bak'al: I will find their protector Bob. You will each engage the guards and city dwellers. 10 citizens.@Я найду их защитника Боба. Вы все займётесь стражей и горожанами. 10 жителей.
+# Бак'ал
+Bak'al: If each of you kills 10 citizens, then the city will run empty. So, you will make it run empty.@Если каждый из вас убьёт по 10 жителей, город опустеет. Так что вы его опустошите.
+# Бак'ал
+Bak'al: Go!@Вперёд!
+# NOTE
+[Objective: Murder 10 Ragni Citizens]@[Задача: Убить 10 жителей Рагни]
+# NOTE
+With so much of the active army dead, dying, and corrupted, Ragni fell within the day.@Когда столь многие из действующей армии были мертвы, умирали или были искажены, Рагни пал за день.
+# NOTE
+The King of Ragni sought help from Troms, the most secure fortress in the province. But help was too late.@Король Рагни обратился за помощью к Тромсу, самой защищённой крепости провинции. Но помощь опоздала.
+# NOTE
+When the armies of Troms reached the once noble fort, it was corrupted ashes.@Когда армии Тромса достигли некогда благородной крепости, она была лишь искажённым пеплом.
+# NOTE
+After a villager took over, new laws were put in place. This was the spark WynnExcavation needed to start their work.@После того как власть взял один из деревенских, ввели новые законы. Это была та искра, что нужна была WynnExcavation, чтобы начать свою работу.
+# NOTE
+The humans didn't notice any difference after the new laws, but the company was in full force...@Люди не заметили никакой разницы после новых законов, но компания действовала вовсю...
+# Бак'ал
+Bak'al: You have been made for a single purpose, peon. The wizard, Theorick, is endangering our cause.@Ты создан с единственной целью, пешка. Маг Теорик угрожает нашему делу.
+# Бак'ал
+Bak'al: He is capable of haltering our advance with his damnable ice. Kill him.@Он способен застопорить наше наступление своим проклятым льдом. Убей его.
+# Бак'ал
+Bak'al: I send you in my place. He will expect me. He will not expect one that looks as human as you.@Я посылаю тебя вместо себя. Он будет ждать меня. Он не будет ждать того, кто выглядит так же по-человечески, как ты.
+# Бак'ал
+Bak'al: If you fail, it will set us back greatly. It will give them a chance. Do not let them get that chance.@Если ты потерпишь неудачу, это сильно нас отбросит. Это даст им шанс. Не позволь им получить этот шанс.
+# Бак'ал
+Bak'al: Nesaak is behind me. Move.@Несаак позади меня. Двигайся.
+# NOTE
+Because of Theorick's passing, Nesaak never was saved. The corruption fully took over the town and its citizens. Nesaak was the first to fall.@Из-за гибели Теорика Несаак так и не был спасён. Искажение полностью завладело городом и его жителями. Несаак пал первым.
+# Бак'ал
+Bak'al: The Twains fall away. The peon has done his job well.@Твейны отступают. Пешка хорошо справилась со своей работой.
+# Бак'ал
+Bak'al: The corruptive influence will spread. I will see this place desolate.@Искажающее влияние распространится. Я увижу это место опустошённым.
+# Бак'ал
+Bak'al: Peon. You have been created for one purpose. You will ensure the fall of Troms.@Пешка. Ты создан с одной целью. Ты обеспечишь падение Тромса.
+# Бак'ал
+Bak'al: The Corrupter of Worlds was trapped within this cave. The fool decimated my army when I laid siege last.@Искажатель Миров был заточён в этой пещере. Этот глупец истребил мою армию, когда я в последний раз вёл осаду.
+# Бак'ал
+Bak'al: Since then, he has been sealed in. The magic of the Twains is strong here. He cannot escape.@С тех пор он запечатан внутри. Магия Твейнов здесь сильна. Ему не вырваться.
+# Бак'ал
+Bak'al: You will release him from this cave. Whether you die afterwards is irrelevant. He will destroy Troms of his own accord.@Ты освободишь его из этой пещеры. Умрёшь ли ты после - неважно. Он уничтожит Тромс по собственной воле.
+# Бак'ал
+Bak'al: Venture through the cave. Break the Twains' seal. And ensure he has a way to escape.@Пройди через пещеру. Разрушь печать Твейнов. И обеспечь ему путь наружу.
+# NOTE
+The roaring of the Corrupter of Worlds is audible from here. Has he noticed you?@Рёв Искажателя Миров слышен отсюда. Заметил ли он тебя?
+# Бак'ал
+Bak'al: Move faster. He will notice your presence soon.@Двигайся быстрее. Скоро он заметит твоё присутствие.
+# Бак'ал
+Bak'al: I do not have time to create another peon for this job. Do not fail.@У меня нет времени создавать ещё одну пешку для этой работы. Не подведи.
+# Бак'ал
+Bak'al: The Corrupteds are malleable. Create some kind of bridge with them. Answer how for yourself.@Искажённые податливы. Сооруди из них какой-нибудь мост. Как - додумайся сам.
+# Бак'ал
+Bak'al: The Corrupter is awake. And he is close. Move, peon! You still must break the seal.@Искажатель пробудился. И он близко. Двигайся, пешка! Ты всё ещё должен разрушить печать.
+# Бак'ал
+Bak'al: I am unfamiliar with Twain magic. Use the intellect I have given you. Break the seal.@Я не знаком с магией Твейнов. Используй разум, что я тебе дал. Разрушь печать.
+# Бак'ал
+Bak'al: Your job is done... And you survived. I will save you for another mission, should I need you. Now...watch.@Твоя работа сделана... И ты выжил. Я приберегу тебя для другого задания, если ты мне понадобишься. А теперь... смотри.
+# NOTE
+Maybe you can lure the villager by flirting?@Может, удастся выманить деревенского, пофлиртовав?
+# Выбор
+Heya, again. Thinking of it, a lovely one like you is probably spoken for already, huh?@Привет ещё раз. Хотя, если подумать, у такой прелести, как ты, наверняка уже кто-то есть, м?
+# NOTE
+Guess I'll just go pick some flowers for myself.@Видимо, пойду нарву себе цветов.
+# NOTE
+After the King of Rodoroc ordered the slums' cave-in, another war broke out.@После того как король Родорока приказал обрушить трущобы, разразилась ещё одна война.
+# NOTE
+But this time, it was between Dwarves and Dwarves... And yet again blood was spilled.@Но на этот раз - между гномами и гномами... И снова пролилась кровь.
+# NOTE
+You need to catch Maxie before he reaches the war scene.@Тебе нужно поймать Макси, прежде чем он доберётся до поля битвы.
+# Макси
+You aren't going to stop me from getting to the battleground! You look like you were scrounged up from rust and verdigris!@Ты не помешаешь мне добраться до поля боя! Выглядишь так, будто тебя наскребли из ржавчины и патины!
+# NOTE
+Maxie never made it back to the war scene. The civil war advanced faster than anyone could have anticipated.@Макси так и не добрался до поля битвы. Гражданская война развивалась быстрее, чем кто-либо мог предположить.
+# NOTE
+The once peaceful Avos were forced to flee their home island, ravaged by machine and toxic scrap...@Некогда мирные Авосы были вынуждены бежать со своего родного острова, разорённого машинами и ядовитым хламом...
+# NOTE
+...and the corkians, blindsided by the Factory's reactivation, were purged by metal and electricity.@...а коркиане, застигнутые врасплох перезапуском Фабрики, были истреблены металлом и электричеством.
+# NOTE
+In time, Corkus became known as the island torn apart by war. Its name would live on in infamy.@Со временем Коркус стал известен как остров, растерзанный войной. Его имя осталось в дурной славе.
+# Бак'ал
+Bak'al: Detlas. What a foolish place for a central trading town, so close to the Roots.@Детлас. Какое глупое место для центрального торгового города - так близко к Корням.
+# Бак'ал
+Bak'al: My armies have been sent to the other cities. Their hero is inevitably busy.@Мои армии отправлены в другие города. Их герой неизбежно занят.
+# Бак'ал
+Bak'al: I will demolish this town. Their army will fall before us.@Я снесу этот город. Их армия падёт перед нами.
+# Бак'ал
+Bak'al: You will destroy the guards. I will destroy the town.@Ты уничтожишь стражу. Я уничтожу город.
+# Бак'ал
+Bak'al: Now, peon. Move.@А теперь, пешка. Двигайся.
+# Бак'ал
+Bak'al: The strongest of Detlas' army is dead. The rest are hiding in fear. Detlas will fall.@Сильнейшие из армии Детласа мертвы. Остальные прячутся в страхе. Детлас падёт.
+# Бак'ал
+Bak'al: Fool. Run while you have the chance.@Глупец. Беги, пока есть возможность.
+# Бак'ал
+Bak'al: We?@Мы?
+# Бак'ал
+Bak'al: Self-confident idiots. I won't even bother dealing with you two.@Самоуверенные идиоты. Я даже не стану утруждаться разбираться с вами двумя.
+# Бак'ал
+Bak'al: Peon. Deal with this nonsense.@Пешка. Разберись с этой чепухой.
+# Бак'ал
+Bak'al: You take too much stock in your ability. My victory is inevitable.@Ты слишком переоцениваешь свои способности. Моя победа неизбежна.
+# Бак'ал
+Bak'al: Your attention should be drawn to my peon. Now fall.@Твоё внимание должно быть приковано к моей пешке. А теперь пади.
+# Бак'ал
+Bak'al: It would be easier on yourself to.@Тебе же было бы легче.
+# Бак'ал
+Bak'al: Yes. I do. A foolhardy show of power means nothing.@Да. Считаю. Безрассудная демонстрация силы не значит ничего.
+# Бак'ал
+Bak'al: Finish this.@Покончи с этим.

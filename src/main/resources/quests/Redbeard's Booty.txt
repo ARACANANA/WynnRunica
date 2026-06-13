@@ -73,3 +73,15 @@ They don't deserve that treasure, lad! It ain't be mine either, since I missed y
 # Marston
 Speakin' of...I ain't got much a penny ta my name, but I found this fish while ye were gone. I hear it sells for a decent haul, so here.@Кстати... у меня за душой почти ни гроша, но пока тебя не было, я выловил эту рыбину. Слыхал, за неё неплохо платят, так что держи.
 
+
+# Достроено вручную по вики
+# NOTE
+All 3 map pieces seem to fit together...@Все 3 куска карты, похоже, складываются вместе...
+# NOTE
+The 3 pieces form a map of an island...@Три куска образуют карту острова...
+# NOTE
+You are not able to move but you still hear the ongoing conversation.@Ты не можешь двигаться, но всё ещё слышишь идущий разговор.
+# NOTE
+A key is laying on the ground, it seems there were more than one. Better take it and figure out a way off the island.@На земле лежит ключ, похоже, их было несколько. Лучше забрать его и придумать, как выбраться с острова.
+# NOTE
+Maybe you can fix this boat and get off the island?@Может, получится починить эту лодку и убраться с острова?

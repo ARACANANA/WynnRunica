@@ -201,3 +201,13 @@ I couldn't leave you unrewarded for your efforts though. You seem resourceful- P
 # Private
 Some clay I see! I'll take that off of you. Not without compensation of course!@Вижу, у тебя там какая-то глина! Я бы её у тебя забрал. Не бесплатно, само собой!
 
+
+# Достроено вручную по вики
+# NOTE
+The equipment looks to be in proper shape. You should report back to General Lecade.@Снаряжение выглядит в полном порядке. Стоит доложить генералу Лекаду.
+# NOTE
+Now that you're finally out of those stinking sewers, you should get that grubby coin to General Lecade.@Наконец-то выбрался из этой вонючей канализации - пора отдать грязную монету генералу Лекаду.
+# NOTE
+Who's telling the truth?@Кто говорит правду?
+# NOTE
+Who's the real General Lecade?@Кто настоящий генерал Лекад?

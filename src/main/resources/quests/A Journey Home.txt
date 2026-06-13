@@ -1,5 +1,5 @@
 ﻿# NOTE
-The Player knocks on the door.@Игрок стучит в дверь.
+The <playername> knocks on the door.@<playername> стучит в дверь.
 # NOTE
 First attempt:@Первая попытка:
 # NOTE
@@ -13,7 +13,7 @@ Fifth attempt:@Пятая попытка:
 # NOTE
 Further attempts:@Дальнейшие попытки:
 # NOTE
-The Player uses a spell. Upon doing so, they are forced back.@Игрок использует заклинание. В тот же момент его отбрасывает назад.
+The <playername> uses a spell. Upon doing so, they are forced back.@<playername> использует заклинание. В тот же момент его отбрасывает назад.
 # NOTE
 .@.
 # NOTE
@@ -203,7 +203,7 @@ If I see you in the passenger cabin, well...that'll be that, and you'll just hav
 # Caravan Driver
 Last chance to back out. This your choice?@Последний шанс соскочить. Это твой выбор?
 # NOTE
-The screen fades to black as the train transports the Player and the Caravan Driver to Fort Torann.@Экран темнеет, пока поезд везёт Игрока и Водителя Каравана в Форт Торанн.
+The screen fades to black as the train transports the <playername> and the Caravan Driver to Fort Torann.@Экран темнеет, пока поезд везёт <playername> и Водителя Каравана в Форт Торанн.
 # Caravan Driver
 Well, you better get headed on the long walk back to Ragni then.@Ну тогда тебе лучше начинать долгую прогулку обратно в Рагни.
 # Caravan Driver
@@ -230,4 +230,168 @@ Soldiers! Keep the intruder still. I've every faith in you.@Солдаты! Де
 Again?@Опять?
 # NOTE
 Again.@Опять.
+# Choice
+Knock@Постучаться
+# Choice
+Attack@Ударить
+# Choice
+Wait@Подождать
+# Choice
+Leave@Уйти
 
+
+# ═══════════════════════════════════════════════════════════
+# Достроено вручную по вики (то, что пропустил парсер):
+# ответы стука, опции Attack/Leave, Король Рагни, чойсы,
+# зомби-нарратив, инд. комплекс, NOTE-строки, пост-квест Kaio/Mora
+# ═══════════════════════════════════════════════════════════
+
+# === Stage 1: ответы на стук ===
+# NOTE
+There's no response.@Ответа нет.
+# NOTE
+There's still no response.@По-прежнему никакого ответа.
+# NOTE
+Still nothing. Surely this door is manned? Are they just ignoring you?@Опять тишина. Дверь же явно кто-то охраняет? Или тебя просто игнорируют?
+# NOTE
+...knocking harder didn't help.@...стучать сильнее не помогло.
+# NOTE
+You probably aren't going to get anywhere by continuing to knock.@Похоже, стуком ты тут ничего не добьёшься.
+# NOTE
+Knocking won't do anything, it looks like. Better figure something else out.@Стук явно бесполезен. Надо придумать что-то другое.
+
+# === Stage 1: опция Attack / Leave ===
+# NOTE
+A strong spell should get through this wood without a problem.@Сильное заклинание без проблем должно пробить эту деревяшку.
+# NOTE
+...ah. It's enchanted...that's odd, given what you've seen, but the guards are looking your way now. You probably shouldn't do that again.@...а. Она зачарована... странно, учитывая всё, что ты видел, но стража уже смотрит в твою сторону. Лучше так больше не делать.
+# NOTE
+They've shut you out. There's no way in from here... But what if you went back the way you first arrived?@Тебя не впустили. Отсюда внутрь никак... Но что, если вернуться тем путём, которым ты попал сюда впервые?
+
+# === Stage 2: Король Рагни ===
+# Ragni's King
+Greetings, <playername>. It is always an honour to have you in our halls.@Приветствую, <playername>. Видеть тебя в наших залах всегда честь.
+# Ragni's King
+Is there anything I can do for you today?@Могу ли я чем-то тебе сегодня помочь?
+# Choice
+I need to enter Fruma.@Мне нужно попасть во Фруму.
+# Ragni's King
+...Ah. I see. So I suppose...things must not have gone well. Have all the others returned?@...А. Понимаю. Значит... всё прошло не очень гладко. Остальные вернулись?
+# Ragni's King
+So, Tasim has stayed behind then. I'm to suppose you're worried for his safety, in amongst any other worries you might have.@Значит, Тасим остался там. Полагаю, ты переживаешь за него, помимо всех прочих своих тревог.
+# Ragni's King
+Alas, I'm afraid my hands are quite tied here. There is little I can do you recall what I said in the meeting.@Увы, боюсь, руки у меня тут связаны. Сделать я почти ничего не могу ты ведь помнишь, что я говорил на собрании.
+# Ragni's King
+Ragni's relations with Fruma exclusively consist of the generous batches of recruits sent to fight the corruption here in Wynn.@Отношения Рагни с Фрумой держатся исключительно на щедрых партиях рекрутов, которых присылают сражаться со скверной здесь, в Винне.
+# Ragni's King
+Although you are not the first to wish to return to Fruma, I have not had any recruits who went to investigate come back satisfied. Or, in a scant few cases, at all.@Ты не первый, кто хочет вернуться во Фруму. Но ни один рекрут, ушедший туда на разведку, не вернулся довольным. А в редких случаях не вернулся вовсе.
+# Ragni's King
+I may only grant you access to the pass you took to first come here. Simply take the door and do what you must. I know not what you will find...@Я могу лишь открыть тебе доступ к тому проходу, которым ты впервые сюда попал. Просто пройди в дверь и делай, что должен. Не знаю, что ты там найдёшь...
+# Ragni's King
+I advise you be cautious. The Queen's correspondence has been...not unkind, but forceful And considering the circumstances...@Советую тебе быть осторожным. Переписка с Королевой была... не то чтобы недоброй, но настойчивой. И учитывая обстоятельства...
+# Ragni's King
+...I will make only one demand of you. Whatever happens...come back alive.@...Потребую от тебя лишь одного. Что бы ни случилось... вернись живым.
+
+# === Stage 3: Король у двери ===
+# Ragni's King
+The door to the pass between here and Fruma is down the hall, across from the fireplace. Come back alive that is an order as King.@Дверь к проходу между нами и Фрумой дальше по коридору, напротив камина. Вернись живым, это приказ Короля.
+
+# === Stage 4: чойс ===
+# Choice
+Can I get past?@Могу я пройти?
+
+# === Stage 6: чойсы подсказки ===
+# Choice
+Yes@Да
+# Choice
+No@Нет
+
+# === Stage 7: зомби ===
+# NOTE
+SLAY!@УБЕЙ!
+# NOTE
+Kill mobs to continue@Убивай мобов, чтобы продолжить
+# NOTE
+...you were scared of those, once upon a time. What a difference time makes.@...когда-то ты их боялся. Как же время всё меняет.
+
+# === Stage 10: чойсы солдата ===
+# Choice
+But I am equipped!@Но я же экипирован!
+# Choice
+I'm going the other way.@Я иду в другую сторону.
+# Choice
+Understood.@Понял.
+
+# === Stage 12: граница ===
+# NOTE
+This gate marks the Fruman Border you must make sure you aren't spotted from this point onwards.@Эти ворота отмечают границу Фрумы, дальше тебе нужно следить, чтобы тебя не заметили.
+
+# === Stage 13: прятки ===
+# NOTE
+Sounds like new recruits are walking down the path! You better find somewhere to hide before they spot you!@Похоже, по тропе идут новые рекруты! Лучше найди, где спрятаться, пока тебя не заметили!
+# NOTE
+They're gone. Hurry down the path!@Они ушли. Скорее вперёд по тропе!
+
+# === Stage 14: ворота открыты ===
+# NOTE
+This is your chance, the gate's open! Follow the Caravan Driver!@Это твой шанс, ворота открыты! Следуй за Водителем Каравана!
+
+# === Stage 15: индустриальный комплекс ===
+# NOTE
+What is this place? Such technology, you can hardly imagine how it was made.@Что это за место? Такие технологии, даже не представляешь, как такое создали.
+# NOTE
+The caravan driver seems to have disappeared... maybe you can find something if you look in some of the mechanized carriages?@Водитель каравана куда-то пропал... может, найдёшь что-нибудь, если заглянешь в одну из механизированных повозок?
+# NOTE
+He's dead asleep. You could probably ring a church bell an inch above his head and he'd stay unconscious.@Спит мертвецким сном. Можно хоть в церковный колокол бить у него над ухом, он всё равно не проснётся.
+# NOTE
+... ... ...@... ... ...
+# NOTE
+...something's prickling at the back of your mind. Weren't you asleep like this when you first arrived, too?@...что-то свербит в глубине сознания. Ты ведь тоже так спал, когда впервые сюда попал?
+
+# === Stage 17: побег ===
+# NOTE
+...you need to escape. Strike while the commander is busy, and find a way out!@...тебе нужно бежать. Бей, пока командир занят, и ищи выход!
+
+# === Stage 19: ворота Форта Торанн ===
+# NOTE
+You have emptied Fort Torann of soldiers. You must escape before someone discovers what has happened here. The only way out is forward.@Ты опустошил Форт Торанн, солдат не осталось. Надо бежать, пока кто-нибудь не обнаружил, что тут произошло. Единственный путь наружу - вперёд.
+# NOTE
+Maybe another spell?@Может, ещё одно заклинание?
+
+# === Пост-квест: Kaio ===
+# Kaio
+Mmn. Hey there, stranger.@Мм. Привет, незнакомец.
+# Kaio
+Anythin' I can help you with?@Могу чем-то помочь?
+# Choice
+Just looking around.@Просто осматриваюсь.
+# Kaio
+Hm. Suppose there's no harm. But watch yourself, alright?@Хм. Ну, вреда вроде нет. Только смотри в оба, лады?
+# Kaio
+This here's our home. I wouldn't take too kindly to you messin' anything up, understand?@Это наш дом. Мне не понравится, если ты тут что-нибудь попортишь, ясно?
+# Choice
+How are you doing?@Как дела?
+# Kaio
+...doin' alright, all things considered. Weather's nice, I suppose. Festival comin' up.@...да нормально, в целом. Погода ничего, вроде. Скоро фестиваль.
+# Kaio
+But that ain't none of our business, really. If you didn't need anythin' else, I'll kindly ask you to take your leave.@Хотя нас это не особо касается. Если больше ничего не нужно, попрошу тебя уйти.
+# Choice
+I'll leave.@Я пойду.
+# Kaio
+Hm. Good. Have a nice day, now.@Хм. Хорошо. Доброго дня.
+
+# === Пост-квест: Mora ===
+# Mora
+Hmm? And who may you be?@Хмм? А ты ещё кто?
+# Mora
+Hoh, oh well. Might I help you with something?@Хо, ну ладно. Могу чем-нибудь помочь?
+# Choice
+What're you doing?@Чем занимаешься?
+# Mora
+Ah, completing some assorted metalworking projects. There always seems to be something to replace or maintain around here...@А, доделываю всякие кузнечные мелочи. Тут вечно что-то нужно заменить или подлатать...
+# Mora
+Though, I certainly am no expert! But I can handle the tools well enough, and that is all that is needed for the task.@Хотя мастером меня точно не назовёшь! Но с инструментом управляюсь сносно, а для дела большего и не надо.
+# Choice
+Bye, for now.@Пока, до встречи.
+# Mora
+Farewell, stranger! I hope that you will return home safely.@Прощай, незнакомец! Надеюсь, ты благополучно вернёшься домой.

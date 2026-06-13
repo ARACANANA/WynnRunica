@@ -229,3 +229,55 @@ Well, I hope they weren't too bad with ya! Here, I'll make you travel to Selchar
 # Seaskipper Captain
 Anyway, I can see the shore off in the distance! Hang tight, we're almost there!@Короче, уже вижу берег вдали! Держись, почти прибыли!
 
+
+# Достроено вручную по вики
+# NOTE
+You've been knocked out...@Тебя вырубили...
+# NOTE
+Sounds like you are being dragged around...@Похоже, тебя куда-то волокут...
+# NOTE
+You pick up a small sign...@Ты поднимаешь небольшую табличку...
+# NOTE
+It reads: 'Behind you, idiot.'@На ней написано: «Позади тебя, идиот.»
+# NOTE
+[0/7] Bodies Cleaned@[0/7] Тел убрано
+# NOTE
+You take a look inside the furnaces...@Ты заглядываешь внутрь печей...
+# NOTE
+There's nothing, except for...@Там ничего нет, кроме...
+# NOTE
+An absurd amount of wood shavings, for some reason.@Абсурдного количества древесной стружки, неизвестно зачем.
+# NOTE
+You find some notes on the table.@Ты находишь какие-то записи на столе.
+# NOTE
+There's mentions of... A human cannon? How does that make sense?@Тут упоминается... Пушка для человека? Как это вообще понимать?
+# NOTE
+Apparently, only gunpowder is needed, as well as a fuse.@Судя по всему, нужен лишь порох да фитиль.
+# NOTE
+This cannon is aiming slightly upwards, and it seems less powerful than the others.@Эта пушка нацелена слегка вверх и кажется менее мощной, чем остальные.
+# NOTE
+According to the notes you saw, it's probably the "human" cannon. This must be your escape route!@Судя по запискам, что ты видел, это, вероятно, та самая «человеческая» пушка. Должно быть, это твой путь к побегу!
+# NOTE
+You pick up some notes.@Ты поднимаешь какие-то записи.
+# NOTE
+There are mentions of a hidden key in the hold...@Тут упоминается спрятанный ключ в трюме...
+# NOTE
+You cleaned the bodies! You should talk to Honip on the deck.@Ты убрал тела! Тебе стоит поговорить с Хонипом на палубе.
+# NOTE
+You put the gunpowder in the cannon and attach the fuse...@Ты засыпаешь порох в пушку и прикрепляешь фитиль...
+# NOTE
+Looks like it's fully functional. Make sure the pirates don't see you! Once you leave, you won't be able to come back.@Похоже, она полностью исправна. Смотри, чтобы пираты тебя не заметили! Как только уйдёшь, вернуться уже не сможешь.
+# NOTE
+You crawl into the cannon...@Ты заползаешь в пушку...
+# NOTE
+It's a coconut.@Это кокос.
+# NOTE
+It's a palm tree.@Это пальма.
+# NOTE
+You dig up some sand...@Ты раскапываешь песок...
+# NOTE
+There's more sand.@Там ещё песок.
+# NOTE
+Huh? Something's approaching off in the distance...@А? Вдалеке что-то приближается...
+# NOTE
+Looks like they're headed toward the island! Is that..?@Похоже, они направляются к острову! Это что..?

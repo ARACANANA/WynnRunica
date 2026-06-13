@@ -26,6 +26,7 @@ public class TitleTrackerMixin {
 
     private static boolean isModifying = false;
     private static final int MAX_WIDTH = 234;
+    private static final int PORTRAIT_OFFSET = 34;
     private static final char SPECIAL_CHAR = '\uDAFF';
     private static final char ZERO_WIDTH_CHAR = '\uE000';
     private static final Style[] bodyStyles = new Style[5];
@@ -50,15 +51,28 @@ public class TitleTrackerMixin {
             MutableText messageCopy = message.copy();
             List<Text> siblings = messageCopy.getSiblings();
             ArrayList<Integer> textIndices = new ArrayList<>();
+            ArrayList<Integer> choiceIndices = new ArrayList<>();
             ArrayList<Text> textSibs = new ArrayList<>();
+            ArrayList<Text> choiceSibs = new ArrayList<>();
 
+            boolean hasPortrait = false;
             for (int i = 0; i < siblings.size(); i++) {
                 Text sib = siblings.get(i);
+                if (sib.getStyle().getFont() != null &&
+                        sib.getStyle().getFont().toString().contains("dialogue/portrait")) {
+                    hasPortrait = true;
+                }
                 if (sib.getStyle().getFont() != null &&
                         sib.getStyle().getFont().toString().contains("body_") &&
                         !extractCleanText(sib.getString()).trim().isEmpty()) {
                     textIndices.add(i);
                     textSibs.add(sib);
+                }
+                if (sib.getStyle().getFont() != null &&
+                        sib.getStyle().getFont().toString().contains("choice_") &&
+                        !extractCleanText(sib.getString()).trim().isEmpty()) {
+                    choiceIndices.add(i);
+                    choiceSibs.add(sib);
                 }
             }
             if (textSibs.isEmpty()) return;
@@ -81,22 +95,27 @@ public class TitleTrackerMixin {
                 consecutiveCount = 1;
                 lastCleanKey = cleanKey;
             }
-            boolean isStabilized = consecutiveCount >= 3;
+
+            boolean isStabilized = consecutiveCount >= 5;
 
             String playerName = MinecraftClient.getInstance().getSession().getUsername();
             key = key.replace(playerName, "<playername>");
 
             String translation = TranslationPrinter.getTranslation(key, isStabilized);
-            if (translation.equals(key)) return;
 
             translation = translation.replace("<playername>", playerName);
 
             Style splitStyle = originalBold ? bodyStyles[0].withBold(true) : bodyStyles[0];
-            ArrayList<String> lines = splitTextIntoLines(translation, splitStyle, 0);
+
+            int effectiveMax = hasPortrait ? (MAX_WIDTH - PORTRAIT_OFFSET) : MAX_WIDTH;
+            int widthAdjust = MAX_WIDTH - effectiveMax;
+
+            ArrayList<String> lines = splitTextIntoLines(translation, splitStyle, widthAdjust);
             if (lines.isEmpty()) return;
 
             if (textSibs.size() == 1) {
                 // single-sibling mode (без Wynntils)
+
                 String rawText = textSibs.get(0).getString();
                 String startPos = rawText.length() >= 2 ? rawText.substring(0, 2) : "";
 
@@ -136,6 +155,7 @@ public class TitleTrackerMixin {
 
             } else {
                 // multi-sibling mode (с Wynntils)
+
                 TextColor originalColor = textSibs.get(0).getStyle().getColor();
                 Style line0Style = originalColor != null ? bodyStyles[0].withColor(originalColor) : bodyStyles[0];
                 if (originalBold) line0Style = line0Style.withBold(true);
@@ -150,13 +170,14 @@ public class TitleTrackerMixin {
 
                 int originalTotalWidth = getRenderWidth(message);
                 siblings.set(textIndices.get(0), copy);
-
                 int lastTextIdx = textIndices.get(textIndices.size() - 1);
                 int cursorResetIdx = -1;
+
                 for (int i = lastTextIdx + 1; i < siblings.size(); i++) {
                     Text sib = siblings.get(i);
                     String sibStr = sib.getString();
                     boolean hasSurrogate = sibStr.chars().anyMatch(c -> c >= 0xD800 && c <= 0xDFFF);
+
                     if (sib.getStyle().getFont() != null &&
                             sib.getStyle().getFont().toString().contains("body_") &&
                             sibStr.length() <= 2 && hasSurrogate) {
@@ -193,6 +214,42 @@ public class TitleTrackerMixin {
                     siblings.set(textIndices.get(0), copy);
                 }
             }
+
+            // перевод вариантов выбора (без эпштейна)
+            for (int k = 0; k < choiceSibs.size(); k++) {
+                Text sib = choiceSibs.get(k);
+                String original = extractCleanText(sib.getString());
+
+                String lookupKey = original.replace(playerName, "<playername>")
+                        .replace(" ", "").toLowerCase();
+
+                String ctr = TranslationPrinter.translations.get(lookupKey);
+                if (ctr == null) continue;
+                ctr = ctr.replace("<playername>", playerName);
+
+                int engWidth = getRenderWidth(sib);
+                MutableText repl = Text.literal(ctr).setStyle(sib.getStyle());
+
+                int adjust = engWidth - getRenderWidth(repl);
+                if (adjust > 0) {
+                    int spaces = (adjust + 3) / 4;
+                    int modulo = adjust % 4;
+                    StringBuilder sb = new StringBuilder(" ".repeat(spaces));
+
+                    if (modulo != 0) {
+                        sb.append(SPECIAL_CHAR).append((char)(ZERO_WIDTH_CHAR - (4 - modulo)));
+                    }
+
+                    repl.append(Text.literal(sb.toString()).setStyle(sib.getStyle()));
+
+                } else if (adjust < 0) {
+                    int backUp = -adjust;
+                    repl.append(Text.literal("" + SPECIAL_CHAR + (char)(ZERO_WIDTH_CHAR - backUp)).setStyle(sib.getStyle()));
+                }
+
+                siblings.set(choiceIndices.get(k), repl);
+            }
+
 
             isModifying = true;
             ((InGameHud)(Object)this).setOverlayMessage(messageCopy, tinted);

@@ -977,3 +977,15 @@ So... Maxie, was it? Right?@
 # Ava
 <playername>, once you come back here, you'll be able to get some of my gadgets.@
 
+
+# Достроено вручную по вики
+# Ава
+Ava: WOO! Oh, sorry, we'll take our leave!@ВУХУ! Ой, простите, мы откланяемся!
+# Макси
+Phew, I tho- Wait, <playername>??@Фух, я ду- Стой, <playername>??
+# Макси
+Go, Ava! Go, <playername>!@Давай, Ава! Давай, <playername>!
+# Эфена
+Efena: EVERYONE! STOP! <playername>, I want you to come here and answer something, immediately.@ВСЕ! СТОЯТЬ! <playername>, я хочу, чтобы ты подошёл сюда и кое-что объяснил, немедленно.
+# Макси
+Where's <playername>? And Ava?!@Где <playername>? И Ава?!

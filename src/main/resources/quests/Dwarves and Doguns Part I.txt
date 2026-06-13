@@ -213,3 +213,77 @@ Human... if you promise to help us... I will grant you access to... our secret e
 # Plario
 Please return to... us when you reach level 92. Take this... badge so the... others recognize you... as an ally. One of the elevators is... to the south.@Вернись к... нам, когда достигнешь 92 уровня. Возьми этот... значок, чтобы... остальные знали... что ты союзник. Один из лифтов... на юге.
 
+
+# Достроено вручную по вики
+# Акселус
+Axelus: Ugh, that was horrible.. Like I said before, this war was a genocide. Don't believe any of the lies they try and feed you.@Ух, это было ужасно.. Как я и говорил раньше, эта война была геноцидом. Не верь ни одной лжи, которой они тебя пытаются кормить.
+# NOTE
+The Library of Flames@Библиотека Пламени
+# NOTE
+Defeat the four heroes to find the truth.@Одолей четырёх героев, чтобы узнать правду.
+# NOTE
+You get the feeling that there's something hidden in this gravechamber...@У тебя возникает чувство, что в этой усыпальнице что-то спрятано...
+# NOTE
+Ye trespassers beware...@Берегитесь, нарушители...
+# NOTE
+It's an extremely old book. The pages are torn, yellowed, and dusty.@Это крайне старая книга. Страницы порваны, пожелтели и покрыты пылью.
+# NOTE
+The cover crumbles a touch at your grip when you open it up. How old is this?@Обложка слегка крошится под твоими пальцами, когда ты её открываешь. Насколько же она старая?
+# NOTE
+"Top Secret”? The words are faded and hard to make out.@«Совершенно секретно»? Слова выцвели, и их трудно разобрать.
+# NOTE
+"Operation shadow"@«Операция „Тень“»
+# NOTE
+It seems to be a report written at the start of the Dogun war.@Похоже, это донесение, написанное в начале войны с догунами.
+# NOTE
+"The natives occupy 90% of the habitable land in the heights.."@«Туземцы занимают 90% пригодной для жизни земли в высотах..»
+# NOTE
+Several pages are dedicated to the Doguns personalities, traits and powers.@Несколько страниц посвящены характерам, чертам и силам догунов.
+# NOTE
+".. Magical powerhouses of the fire element.."@«.. Магические сгустки силы огненной стихии..»
+# NOTE
+".. Live well into their thousands.."@«.. Живут до многих тысяч лет..»
+# NOTE
+"Near Dwarven intelligence.."@«Почти гномий интеллект..»
+# NOTE
+The report suggests that the two species would compete for space.@Донесение предполагает, что два вида будут соперничать за пространство.
+# NOTE
+"Clearance is needed if Dwarves are going to form a colony.."@«Зачистка необходима, если гномы намерены основать колонию..»
+# NOTE
+According to the report, the land was once rich with minerals and materials.@Согласно донесению, эта земля некогда была богата минералами и материалами.
+# NOTE
+"Public opinion is firmly against removal of the natives.."@«Общественное мнение твёрдо против устранения туземцев..»
+# NOTE
+This page appears to have been ripped out and crudely reattached.@Похоже, эту страницу вырвали и грубо приклеили обратно.
+# NOTE
+"Any war could result in rioting in Thanos and other established colonies."@«Любая война может привести к беспорядкам в Таносе и других основанных колониях.»
+# NOTE
+"A program of public profiling of the natives is recommended.."@«Рекомендуется программа публичного очернения туземцев..»
+# NOTE
+There are detailed instructions on producing propaganda against the Doguns.@Здесь подробные инструкции по созданию пропаганды против догунов.
+# NOTE
+".. recommend they are referred to as demons, as inherent fear will take hold.."@«.. рекомендуется называть их демонами, поскольку врождённый страх возьмёт своё..»
+# NOTE
+The report details propaganda at all levels of society, particularly at educational centers.@Донесение описывает пропаганду на всех уровнях общества, особенно в образовательных центрах.
+# NOTE
+Several rumours are suggested to be propagated amongst the population.@Предлагается распространить среди населения несколько слухов.
+# NOTE
+"Once public opinion is sufficiently hostile, establishment of colonies will be achievable.."@«Как только общественное мнение станет достаточно враждебным, основание колоний станет достижимым..»
+# NOTE
+The report goes on to detail the total dominance of Molten Heights and the importance of propaganda continuation.@Далее донесение подробно описывает полное господство над Раскалёнными высотами и важность продолжения пропаганды.
+# Акселус
+Axelus: Now do you see? Everything that I told you about when we rescued those flerisi was indeed true.@Теперь ты понимаешь? Всё, о чём я тебе рассказывал, когда мы спасали тех флериси, и впрямь было правдой.
+# Пенс'р
+Pens'r: Axelus! You are under arrest for high treason!@Акселус! Ты арестован за государственную измену!
+# Пенс'р
+Pens'r: The king has sent for you personally.@Король послал за тобой лично.
+# Пенс'р
+Pens'r: If you don't come with us we wi-....@Если ты не пойдёшь с нами, мы....
+# Пенс'р
+Pens'r: ...oh Lord, this must be why! D-Doguns?!@...о Господи, вот, должно быть, почему! Д-догуны?!
+# Пенс'р
+Pens'r: He is consorting with the enemy! Axelus, they've tainted your soul!@Он якшается с врагом! Акселус, они осквернили твою душу!
+# Пенс'р
+Pens'r: Entomb these Doguns, and slay their Dwarven thralls!@Замуруйте этих догунов и убейте их гномьих прислужников!
+# Axelus
+Now do you see? Everything that I told you about when we rescued those flerisi was indeed true.@Теперь понимаешь? Всё, что я тебе рассказывал, когда мы спасали тех флериси, было правдой.

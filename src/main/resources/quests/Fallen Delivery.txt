@@ -109,3 +109,25 @@ Ah well. I figured how to transmute wine into cheese while you were gone anyways
 # Gawrick
 Hey, maybe you can help me out in another way! I had a DIFFERENT idea for teleportation scrolls anyways. Here- some free samples. Try 'em out for me, wouldja?@Эй, может, поможешь мне по-другому! У меня вообще-то была ЕЩЁ ОДНА идея для телепортационных свитков. На, держи - бесплатные образцы. Потестишь их для меня, а?
 
+
+# Достроено вручную по вики
+# NOTE
+It looks like Bricot was in the middle of making dinner.@Похоже, Брико как раз готовил ужин.
+# NOTE
+It's just a tiny bit overcooked.@Он лишь самую малость пережарен.
+# NOTE
+The pages are scorched, but it looks like a farmer's almanac. I predicts extreme heat this season.@Страницы обуглены, но похоже на фермерский альманах. В нём предсказывают аномальную жару в этом сезоне.
+# NOTE
+...yep. Checks out.@...ага. Сходится.
+# NOTE
+At a time like this, inspecting someone's bed seems like a poor use of your time.@В такое время осматривать чью-то кровать - так себе трата времени.
+# NOTE
+They're dead. Looks like one of them got hit by a cannonball.@Они мертвы. Похоже, одного из них задело пушечным ядром.
+# NOTE
+You've broken through sturdier barricades before. A spell will knock it down easily.@Тебе доводилось пробивать баррикады и покрепче. Заклинание легко её снесёт.
+# NOTE
+With most of the mercenaries gone, you should be able to enter the mercenary's hideout now.@Теперь, когда большинство наёмников полегло, ты сможешь войти в логово наёмников.
+# NOTE
+[Objective: Catch Ernold]@[Задача: Поймать Эрнольда]
+# NOTE
+You've ripped the scroll out of Ernold's hands! He's stopped teleporting. Time to interrogate him.@Ты вырвал свиток из рук Эрнольда! Он перестал телепортироваться. Время его допросить.

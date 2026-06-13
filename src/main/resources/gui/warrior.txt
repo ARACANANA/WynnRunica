@@ -1,5 +1,5 @@
 # ══════════════════════════════════════════════════════════════════════
-# WynnRunica - Дерево умений (warrior) (RU)
+# WynnRunica - Дерево умений (warrior) (RU) [реорганизовано по API]
 # ══════════════════════════════════════════════════════════════════════
 
 # ══════════════════════════════════════════════════════════════════════
@@ -8,17 +8,7 @@
 §6§lFallen @ §6§lПадший
 §e§lBattle Monk @ §e§lБоевой Монах
 §3§lPaladin @ §3§lПаладин
-§6§lFallen Archetype @ §6§lАрхетип: Падший
-§e§lBattle Monk Archetype @ §e§lАрхетип: Боевой Монах
-§3§lPaladin Archetype @ §3§lАрхетип: Паладин
-§7Fallen Archetype @ §6§lАрхетип: Падший
-§7Battle Monk Archetype @ §e§lАрхетип: Боевой Монах
-§7Paladin Archetype @ §3§lАрхетип: Паладин
-
-# ══════════════════════════════════════════════════════════════════════
-# СПОСОБНОСТИ
-# Каждый блок: имя + описание (активное и заблокированное)
-# ══════════════════════════════════════════════════════════════════════
+§7deal massive damage. @ §7наносит огромный урон.
 
 # ─── Bash ──────────────────────────────────────────────────────────────
 Bash @ Баш
@@ -36,6 +26,7 @@ Spear Proficiency I @ Мастерство Копья I
 §7Improve your §nMain Attack§r§7's damage @ §7Усиливает урон §nОсновной Атаки§r§7
 §7§7and range when using a spear. @ §7и её дальность при использовании копья.
 §7and range when using a spear. @ §7и её дальность при использовании копья.
+§7<em> §7Main Attack Range: §f<num> Block @ §2<em> §7Дальность Осн. Атаки: §f<num> блок
 
 # ─── Double Bash ───────────────────────────────────────────────────────
 Double Bash @ Двойной Баш
@@ -46,70 +37,96 @@ Double Bash @ Двойной Баш
 
 # ─── Vehement ──────────────────────────────────────────────────────────
 Vehement @ Неистовый
-§7Attack Damage you have from items, @ §7Урона Осн. Атаки от предметов
-§7For every §f<num>%§7 or §f<num> Raw§7 Main @ §7За каждый §f<num>%§r§7 или §f<num> в чистом виде§r§7
 §7§lVehement @ Неистовый
-§7gain §f<num>%§7 Walk Speed (Max <num>%) @ §7получаете §f<num>%§r§7 к Скорости Ходьбы §8(Максимум <num>%)
-§8Attack Damage you have from items, @ §8Урона Осн. Атаки от предметов
+§c- §7Vehement @ §c- §7Неистовый
+§c- §cVehement @ §c- §cНеистовый
+§r§c- §7Vehement @ §r§c- §7Неистовый
+§r§c- §8Vehement @ §r§c- §8Неистовый
+§r§c- §cVehement @ §r§c- §cНеистовый
+§7For every §f<num>%§7 or §f<num> Raw§7 Main @ §7За каждый §f<num>%§r§7 или §f<num> в чистом виде§r§7
 §8For every §7<num>%§8 or §7<num> Raw§8 Main @ §8За каждый §7<num>%§r§8 или §7<num> в чистом виде§r§8
+§7Attack Damage you have from items, @ §7Урона Осн. Атаки от предметов
+§8Attack Damage you have from items, @ §8Урона Осн. Атаки от предметов
+§7gain §f<num>%§7 Walk Speed (Max <num>%) @ §7получаете §f<num>%§r§7 к Скорости Ходьбы §8(Максимум <num>%)
 §8gain §7<num>%§8 Walk Speed (Max <num>%) @ §8получаете §7<num>%§r§8 к Скорости Ходьбы §8(Максимум <num>%)
+§7<em> §7Damage Bonus: §f<num> §7(Raw) @ §c<em> §7Бонус к урону: §f<num> §7(Чистый)
+§8<em> §8Damage Bonus: §7<num> §8(Raw) @ <em> §8Бонус к урону: §7<num> §8(Чистый)
 
 # ─── Charge ────────────────────────────────────────────────────────────
 Charge @ Рывок
-§7§8(Hold shift while charging to cancel) @ §8(Зажмите Shift во время Рывка чтобы отменить)
 §7Charge forward at a high speed. @ §7Бросайтесь вперёд на высокой скорости.
-§8§8(Hold shift while charging to cancel) @ §8(Зажмите Shift во время Рывка чтобы отменить)
-§8Charge forward at a high speed. @ §8Бросайтесь вперёд на высокой скорости.
-§8§8Click Combo: §7§lRIGHT§8-§7§lRIGHT§8-§7§lRIGHT @ §8§8Комбо: §7§lПКМ§8-§7§lПКМ§8-§7§lПКМ
+§7§8(Hold shift while charging to cancel) @ §8(Зажмите Shift во время Рывка чтобы отменить)
 
 # ─── Tougher Skin ──────────────────────────────────────────────────────
 Tougher Skin @ Крепкая Кожа
+§7§lTougher Skin @ Крепкая Кожа
+§c- §7Tougher Skin @ §c- §7Крепкая Кожа
+§c- §cTougher Skin @ §c- §cКрепкая Кожа
+§r§c- §7Tougher Skin @ §r§c- §7Крепкая Кожа
+§r§c- §8Tougher Skin @ §r§c- §8Крепкая Кожа
+§r§c- §cTougher Skin @ §r§c- §cКрепкая Кожа
+§7Harden your skin and gain @ §7Закаляет вашу кожу, давая
+§8Harden your skin and gain @ §8Закаляет вашу кожу, давая
 §7§f<num>% §7Base Resistance. @ §f<num>%§r§7 Базового Сопротивления.
 §7<num>% §8Base Resistance. @ §7<num>%§r§8 Базового Сопротивления.
+§f<num>% §7Base Resistance. @ §f<num>%§r§7 Базового Сопротивления.
+§8§7<num>% §8Base Resistance. @ §7<num>%§r§8 Базового Сопротивления.
 §7§7For every §f<num>%§7 or §f<num> Raw§7 Health Regen you have @ §7За каждый §f<num>%§r§7 или §f<num> в чистом виде§r§7 Регенерации Здоровья
 §7For every §f<num>%§7 or §f<num> Raw§7 Health Regen you have @ §7За каждый §f<num>%§r§7 или §f<num> в чистом виде§r§7 Регенерации Здоровья
-§7Harden your skin and gain @ §7Закаляет вашу кожу, давая
-§7§lTougher Skin @ Крепкая Кожа
-§7from items, gain §f<num>§7 Health (Max <num>) @ §7от предметов получаете §f<num>§r§7 Здоровья §8(Максимум <num>)
-§8§7<num>% §8Base Resistance. @ §7<num>%§r§8 Базового Сопротивления.
 §8§8For every §7<num>%§8 or §7<num> Raw§8 Health Regen you have @ §8За каждый §7<num>%§r§8 или §7<num> в чистом виде§r§8 Регенерации Здоровья
 §8For every §7<num>%§8 or §7<num> Raw§8 Health Regen you have @ §8За каждый §7<num>%§r§8 или §7<num> в чистом виде§r§8 Регенерации Здоровья
-§8Harden your skin and gain @ §8Закаляет вашу кожу, давая
+§7from items, gain §f<num>§7 Health (Max <num>) @ §7от предметов получаете §f<num>§r§7 Здоровья §8(Максимум <num>)
 §8from items, gain §7<num>§8 Health (Max <num>) @ §8от предметов получаете §7<num>§r§8 Здоровья §8(Максимум <num>)
-§f<num>% §7Base Resistance. @ §f<num>%§r§7 Базового Сопротивления.
 
 # ─── Uppercut ──────────────────────────────────────────────────────────
 Uppercut @ Апперкот
 §7Hurls enemies upwards and @ §7Подбрасывает врагов вверх и
-§7deal massive damage. @ §7наносит огромный урон.
+§7<em> §7Area of Effect: §f<num>-<num> Blocks §7(Cone-Shaped) @ §3<em> §7Зона поражения: §f<num>-<num> блоков §7(Конус)
+§7<em> §7Area of Effect: §f<num><num> Blocks §7(Cone-Shaped) @ §3<em> §7Зона поражения: §f<num><num> блоков §7(Конус)
 
 # ─── Cheaper Charge ────────────────────────────────────────────────────
 Cheaper Charge @ Экономный Рывок
 §7§7Reduce the Mana cost of §nCharge§7. @ §7Снижает затраты маны для §nРывка§r§7.
 §7Reduce the Mana cost of §nCharge§r§7. @ §7Снижает затраты маны для §nРывка§r§7.
+§7§7Reduce the Mana cost of §nCharge§7 @ §7Снижает затраты маны для §nРывка§r§7
 
 # ─── War Scream ────────────────────────────────────────────────────────
 War Scream @ Боевой Крик
 §7Emits a roar that deals damage, pulls @ §7Издаёт рёв, наносящий урон, притягивающий
 §7nearby enemies and gives you and @ §7ближних врагов и дающий вам и
 §7nearby players resistance. @ §7ближним игрокам сопротивление.
+§7<em> §7Effect: §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §e<em> §7Эффект: §f<num>%§r§7 Сопротивление (§a❁§7) союзникам
 
-# ─── Heavy Impact ──────────────────────────────────────────────────────
-Heavy Impact @ Тяжёлый Удар
+# ─── Flyby Slam ────────────────────────────────────────────────────────
+§7§7Damages enemies in your @ §7Наносит урон врагам на вашем пути,
+§7Damages enemies in your @ §7Наносит урон врагам на вашем пути,
 §7§7After using §nCharge§7, violently crash @ §7После §nРывка§r§7 с силой обрушивается
 §7After using §nCharge§r§7, violently crash @ §7После §nРывка§r§7 с силой обрушивается
 §7§7down unto the ground and deal damage. @ §7на землю, нанося урон.
 §7down unto the ground and deal damage. @ §7на землю, нанося урон.
 
 # ─── Earth Mastery ─────────────────────────────────────────────────────
+#   (нет строк в файле)
 
 # ─── Thunder Mastery ───────────────────────────────────────────────────
+#   (нет строк в файле)
 
 # ─── Air Mastery ───────────────────────────────────────────────────────
+#   (нет строк в файле)
 
 # ─── Fire Mastery ──────────────────────────────────────────────────────
+#   (нет строк в файле)
 
 # ─── Water Mastery ─────────────────────────────────────────────────────
+#   (нет строк в файле)
+
+# ─── Final Crush ───────────────────────────────────────────────────────
+#   (нет строк в файле)
+
+# ─── Fireworks ─────────────────────────────────────────────────────────
+Fireworks @ Фейерверк
+§7§7Mobs hit by §nUppercut§7 will explode @ §7Мобы, попавшие под §nАпперкот§r§7, взрываются
+§7§7mid-air and receive additional damage. @ §7в воздухе и получают доп. урон.
 
 # ─── Quadruple Bash ────────────────────────────────────────────────────
 Quadruple Bash @ Четверной Баш
@@ -117,27 +134,13 @@ Quadruple Bash @ Четверной Баш
 §7§nBash§r§7 will cast <num> times consecutively @ §7§nБаш§r§7 срабатывает <num> раза подряд
 §7§7at double the speed. @ §7с удвоенной скоростью.
 §7at double the speed. @ §7с удвоенной скоростью.
-§8§nBash§r§8 will cast <num> times consecutively @ §8§nБаш§r§8 срабатывает <num> раза подряд
-
-# ─── Fireworks ─────────────────────────────────────────────────────────
-Fireworks @ Фейерверк
-§7§7Mobs hit by §nUppercut§7 will explode @ §7Мобы, попавшие под §nАпперкот§r§7, взрываются
-§7§7mid-air and receive additional damage. @ §7в воздухе и получают доп. урон.
-
-# ─── Flyby Jab ─────────────────────────────────────────────────────────
-Flyby Jab @ Пролётный Джеб
-§7§7Damages enemies in your @ §7Наносит урон врагам на вашем пути,
-§7Damages enemies in your @ §7Наносит урон врагам на вашем пути,
-§7§7way when using §nCharge§7. @ §7когда вы используете §nРывок§r§7.
-§7way when using §nCharge§r§7. @ §7когда вы используете §nРывок§r§7.
 
 # ─── Flaming Uppercut ──────────────────────────────────────────────────
 Flaming Uppercut @ Пылающий Апперкот
 §7§7§nUppercut§7 will light mobs on fire, @ §7§nАпперкот§r§7 поджигает мобов,
 §7§nUppercut§r§7 will light mobs on fire, @ §7§nАпперкот§r§7 поджигает мобов,
-§7§7dealing damage every §f<num>§7 seconds. @ §7нанося урон каждые §f<num>§r§7 секунд.
-§7dealing damage every §f<num>§7 seconds. @ §7нанося урон каждые §f<num>§r§7 секунд.
-§8dealing damage every §7<num>§8 seconds. @ §8нанося урон каждые §7<num>§r§8 секунд.
+§7§7dealing damage every §f<num>§7 seconds. @ §7нанося урон каждые §f<num>§r§7 секунды.
+§7dealing damage every §f<num>§7 seconds. @ §7нанося урон каждые §f<num>§r§7 секунды.
 
 # ─── Half-Moon Swipe ───────────────────────────────────────────────────
 Half-Moon Swipe @ Полумесяц
@@ -155,10 +158,8 @@ Iron Lungs @ Железные Лёгкие
 Generalist @ Универсал
 §7§7After casting §f<num>§7 different spells @ §7После §f<num>§r§7 разных заклинаний
 §7After casting §f<num>§7 different spells @ §7После §f<num>§r§7 разных заклинаний
-§7§7in a row, your next spell will cost §f<num> §7Mana. @ §7подряд следующее заклинание стоит §f<num>§r§7 Маны.
-§7in a row, your next spell will cost §f<num> §7Mana. @ §7подряд следующее заклинание стоит §f<num>§r§7 Маны.
-§8After casting §7<num>§8 different spells @ §8После §7<num>§r§8 разных заклинаний
-§8in a row, your next spell will cost §7<num> §8Mana. @ §8подряд следующее заклинание стоит §7<num>§r§8 Маны.
+§7§7in a row, your next spell will cost §f<num> §7Mana. @ §7подряд следующее заклинание стоит §f<num>§r§7 ману.
+§7in a row, your next spell will cost §f<num> §7Mana. @ §7подряд следующее заклинание стоит §f<num>§r§7 ману.
 
 # ─── Air Shout ─────────────────────────────────────────────────────────
 Air Shout @ Воздушный Крик
@@ -166,51 +167,55 @@ Air Shout @ Воздушный Крик
 §7§nWar Scream§r§7 will fire a projectile that can @ §7§nБоевой Крик§r§7 выпускает снаряд, проходящий
 §7§7go through walls and deal damage up to §f<num>§7 times. @ §7сквозь стены и наносящий урон до §f<num>§r§7 раз.
 §7go through walls and deal damage up to §f<num>§7 times. @ §7сквозь стены и наносящий урон до §f<num>§r§7 раз.
-§8go through walls and deal damage up to §7<num>§8 times. @ §8сквозь стены и наносящий урон до §7<num>§r§8 раз.
 
 # ─── Mantle of the Bovemists ───────────────────────────────────────────
 Mantle of the Bovemists @ Мантия Бовемистов
+§7§7§nMantle of the Bovemists§7. @ §7§nМантии Бовемистов§r§7.
+§7§nMantle of the Bovemists§r§7. @ §7§nМантии Бовемистов§r§7.
 §7§7When casting §nWar Scream§7, create a holy @ §7При §nБоевом Крике§r§7 создаёт святой
 §7When casting §nWar Scream§r§7, create a holy @ §7При §nБоевом Крике§r§7 создаёт святой
-§7§7incoming damage by §f<num>%§7 for §f<num>§7 hits. @ §7входящий урон на §f<num>%§r§7 на §f<num>§r§7 ударов.
-§7incoming damage by §f<num>%§7 for §f<num>§7 hits. @ §7входящий урон на §f<num>%§r§7 на §f<num>§r§7 ударов.
 §7§7shield around you that reduces all @ §7щит вокруг вас, снижающий весь
 §7shield around you that reduces all @ §7щит вокруг вас, снижающий весь
-§8§8When casting §nWar Scream§8, create a holy @ §8При §nБоевом Крике§r§8 создаёт святой
-§8§8incoming damage by §7<num>%§8 for §7<num>§8 hits. @ §8входящий урон на §7<num>%§r§8 на §7<num>§r§8 ударов.
-§8incoming damage by §7<num>%§8 for §7<num>§8 hits. @ §8входящий урон на §7<num>%§r§8 на §7<num>§r§8 ударов.
-§8§8shield around you that reduces all @ §8щит вокруг вас, снижающий весь
+§7§7incoming damage by §f<num>%§7 for §f<num>§7 hits. @ §7входящий урон на §f<num>%§r§7 на §f<num>§r§7 ударов.
+§7incoming damage by §f<num>%§7 for §f<num>§7 hits. @ §7входящий урон на §f<num>%§r§7 на §f<num>§r§7 ударов.
 
 # ─── Bak'al's Grasp ────────────────────────────────────────────────────
 Bak'al's Grasp @ Хватка Бак'ала
-§7§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
 §7§lBak'al's Grasp @ Хватка Бак'ала
+§c- §7Bak'al's Grasp @ §c- §7Хватка Бак'ала
+§c- §cBak'al's Grasp @ §c- §cХватка Бак'ала
+§r§c- §7Bak'al's Grasp @ §r§c- §7Хватка Бак'ала
+§r§c- §8Bak'al's Grasp @ §r§c- §8Хватка Бак'ала
+§r§c- §cBak'al's Grasp @ §r§c- §cХватка Бак'ала
 §7§7Casting §nWar Scream§7 will make you §bCorrupted <em>§7, @ §7§nБоевой Крик§r§7 делает вас §bПоражённым Скверной §4<em>§r§7,
 §7Casting §nWar Scream§r§7 will make you §bCorrupted §4<em>§r§7, @ §7§nБоевой Крик§r§7 делает вас §bПоражённым Скверной §4<em>§r§7,
-§7§7Gain §f<num>§7 Raw Damage per §f<num>%§7 §bCorrupted <em>§7. (Max <num>) @ §7§f<num>§r§7 чистого урона за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум <num>)
-§7§7While §bCorrupted <em>§7, §7you lose the ability  @ §7Будучи §bПоражённым Скверной §4<em>§r§7, вы теряете возможность
-§7While §bCorrupted §4<em>§r§7, you lose the ability @ §7Будучи §bПоражённым Скверной §4<em>§r§7, вы теряете возможность
-§7§7but no longer grants resistance§7. @ §7но больше не даёт сопротивления.
-§7but no longer grants resistance. @ §7но больше не даёт сопротивления.
-§7§7grant you §f<num>%§7 §bCorrupted <em>§7. @ §7даёт §f<num>%§r§7 §bСкверны §4<em>§r§7.
-§7grant you §f<num>%§7 §bCorrupted §4<em>§r§7. @ §7даёт §f<num>%§r§7 §bСкверны §4<em>§r§7.
-§7§7to §fheal§7, and every §f<num>% §7health you lose will @ §7§fлечиться§r§7, и каждый §f<num>%§r§7 потерянного здоровья
-§7to §fheal§7, and every §f<num>% §7health you lose will @ §7§fлечиться§r§7, и каждый §f<num>%§r§7 потерянного здоровья
-§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
-§8§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
 §8§8Casting §nWar Scream§8 will make you §7Corrupted <em>§8, @ §8§nБоевой Крик§r§8 делает вас §7Поражённым Скверной §8<em>§r§8,
 §8Casting §nWar Scream§r§8 will make you §7Corrupted §8<em>§r§8, @ §8§nБоевой Крик§r§8 делает вас §7Поражённым Скверной §8<em>§r§8,
-§8§8Gain §7<num>§8 Raw Damage per §7<num>%§8 §7Corrupted <em>§8. (Max <num>) @ §8§7<num>§r§8 чистого урона за каждые §7<num>%§r§8 §7Скверны §8<em>§r§8. (Максимум <num>)
+§7§7but no longer grants resistance§7. @ §7но больше не даёт сопротивления.
+§7but no longer grants resistance. @ §7но больше не даёт сопротивления.
+§8§8but no longer grants resistance§8. @ §8но больше не даёт сопротивления.
+§7§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
+§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
+§8§8(Shift + War Scream to cancel) @ §8(Shift + Боевой Крик чтобы отменить)
+§7§7While §bCorrupted <em>§7, §7you lose the ability  @ §7Будучи §bПоражённым Скверной §4<em>§r§7, вы теряете возможность
+§7While §bCorrupted §4<em>§r§7, you lose the ability @ §7Будучи §bПоражённым Скверной §4<em>§r§7, вы теряете возможность
 §8§8While §7Corrupted <em>§8, §8you lose the ability  @ §8Будучи §7Поражённым Скверной §8<em>§r§8, вы теряете возможность
 §8While §7Corrupted §8<em>§r§8, you lose the ability @ §8Будучи §7Поражённым Скверной §8<em>§r§8, вы теряете возможность
-§8§8but no longer grants resistance§8. @ §8но больше не даёт сопротивления.
-§8§8grant you §7<num>%§8 §7Corrupted <em>§8. @ §8даёт §7<num>%§r§8 §7Скверны §8<em>§r§8.
-§8grant you §7<num>%§8 §7Corrupted §8<em>§r§8. @ §8даёт §7<num>%§r§8 §7Скверны §8<em>§r§8.
+§7§7to §fheal§7, and every §f<num>% §7health you lose will @ §7§fлечиться§r§7, и каждый §f<num>%§r§7 потерянного здоровья
+§7to §fheal§7, and every §f<num>% §7health you lose will @ §7§fлечиться§r§7, и каждый §f<num>%§r§7 потерянного здоровья
 §8§8to §7heal§8, and every §7<num>% §8health you lose will @ §8§7лечиться§r§8, и каждый §7<num>%§r§8 потерянного здоровья
 §8to §7heal§8, and every §7<num>% §8health you lose will @ §8§7лечиться§r§8, и каждый §7<num>%§r§8 потерянного здоровья
+§7§7grant you §f<num>%§7 §bCorrupted <em>§7. @ §7даёт §f<num>%§r§7 §bСкверны §4<em>§r§7.
+§7grant you §f<num>%§7 §bCorrupted §4<em>§r§7. @ §7даёт §f<num>%§r§7 §bСкверны §4<em>§r§7.
+§8§8grant you §7<num>%§8 §7Corrupted <em>§8. @ §8даёт §7<num>%§r§8 §7Скверны §8<em>§r§8.
+§8grant you §7<num>%§8 §7Corrupted §8<em>§r§8. @ §8даёт §7<num>%§r§8 §7Скверны §8<em>§r§8.
+§7§7Gain §f<num>§7 Raw Damage per §f<num>%§7 §bCorrupted <em>§7. (Max <num>) @ §7§f<num>§r§7 чистого урона за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум <num>)
+§7Gain §f<num>§7 Raw Damage per §f<num>%§7 §bCorrupted §4<em>§r§7. (Max +<num>) @ §7§f<num>§r§7 чистого урона за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум +<num>)
+§8§8Gain §7<num>§8 Raw Damage per §7<num>%§8 §7Corrupted <em>§8. (Max <num>) @ §8§7<num>§r§8 чистого урона за каждые §7<num>%§r§8 §7Скверны §8<em>§r§8. (Максимум <num>)
 
 # ─── Spear Proficiency II ──────────────────────────────────────────────
 Spear Proficiency II @ Мастерство Копья II
+§7<em> §7Range: §f<num> Block @ §2<em> §7Дальность: §f<num> блок
 
 # ─── Cheaper Uppercut ──────────────────────────────────────────────────
 Cheaper Uppercut @ Экономный Апперкот
@@ -225,22 +230,21 @@ Aerodynamics @ Аэродинамика
 
 # ─── Manachism ─────────────────────────────────────────────────────────
 Manachism @ Маназохизм
-§7§f<num>%§7 of your max health, gain §f<num>§7 Mana. @ §f<num>%§r§7 от максимального здоровья, получаете §f<num>§r§7 Маны.
-§7<num>%§8 of your max health, gain §7<num>§8 Mana. @ §7<num>%§r§8 от максимального здоровья, получаете §7<num>§r§8 Маны.
 §7§7If you receive a hit that's less than @ §7Если получаете удар меньше чем на
 §7If you receive a hit that's less than @ §7Если получаете удар меньше чем на
+§7§f<num>%§7 of your max health, gain §f<num>§7 Mana. @ §f<num>%§r§7 от максимального здоровья, получаете §f<num>§r§7 Маны.
+§7<num>%§8 of your max health, gain §7<num>§8 Mana. @ §7<num>%§r§8 от максимального здоровья, получаете §7<num>§r§8 Маны.
 §f<num>%§7 of your max health, gain §f<num>§7 Mana. @ §f<num>%§r§7 от максимального здоровья, получаете §f<num>§r§7 Маны.
 
 # ─── Intoxicating Blood ────────────────────────────────────────────────
 Intoxicating Blood @ Опьяняющая Кровь
 §7§7After leaving §bCorrupted <em>§7, gain §f<num>%§7 of @ §7После выхода из §bСкверны §4<em>§r§7 восстанавливаете §f<num>%§r§7
 §7After leaving §bCorrupted §4<em>§r§7, gain §f<num>%§7 of @ §7После выхода из §bСкверны §4<em>§r§7 восстанавливаете §f<num>%§r§7
-§7§7enemy killed while §bCorrupted <em>§7. @ §7убитого врага во время §bСкверны §4<em>§r§7.
-§7enemy killed while §bCorrupted §4<em>§r§7. @ §7убитого врага во время §bСкверны §4<em>§r§7.
 §7§7missing health back for each hit dealt and @ §7недостающего здоровья за каждый удар и
 §7missing health back for each hit dealt and @ §7недостающего здоровья за каждый удар и
-§8After leaving §7Corrupted §8<em>§r§8, gain §7<num>%§8 of @ §8После выхода из §7Скверны §8<em>§r§8 восстанавливаете §7<num>%§r§8
-§8enemy killed while §7Corrupted §8<em>§r§8. @ §8убитого врага во время §7Скверны §8<em>§r§8.
+§7§7enemy killed while §bCorrupted <em>§7. @ §7убитого врага во время §bСкверны §4<em>§r§7.
+§7enemy killed while §bCorrupted §4<em>§r§7. @ §7убитого врага во время §bСкверны §4<em>§r§7.
+§7<em> §7Cooldown: §f<num>s §8(for hits) @ §e<em> §7Перезарядка: §f<num>с §8(за удары)
 
 # ─── Counter ───────────────────────────────────────────────────────────
 Counter @ Контрудар
@@ -248,35 +252,31 @@ Counter @ Контрудар
 §7You take §f<num>%§7 reduced damage and @ §7Получаете §f<num>%§r§7 меньше урона и
 §7§7attack back when hit by an enemy attack. @ §7контратакуете при ударе врага.
 §7attack back when hit by an enemy attack. @ §7контратакуете при ударе врага.
-§8You take §7<num>%§8 reduced damage and @ §8Получаете §7<num>%§r§8 меньше урона и
+§7<em> §7Cooldown: §f<num>s §7(per enemy) @ §e<em> §7Перезарядка: §f<num>с §7(за врага)
 
 # ─── Shield Strike ─────────────────────────────────────────────────────
 Shield Strike @ Удар Щитом
-§7§7Hitting an enemy with §nBash§7 sends all broken @ §7Попадание §nБашем§r§7 по врагу швыряет в него все
-§7Hitting an enemy with §nBash§r§7 sends all broken @ §7Попадание §nБашем§r§7 по врагу швыряет в него все
-§7§nMantle of the Bovemists§7 loses a charge. @ §7§nМантия Бовемистов§r§7 теряет заряд.
-§7§nMantle of the Bovemists§r§7 loses a charge. @ §7§nМантия Бовемистов§r§7 теряет заряд.
 §7§7You gain a broken mantle whenever @ §7Получаете расколотую мантию каждый раз, когда
 §7You gain a broken mantle whenever @ §7Получаете расколотую мантию каждый раз, когда
+§7§nMantle of the Bovemists§7 loses a charge. @ §7§nМантия Бовемистов§r§7 теряет заряд.
+§7§nMantle of the Bovemists§r§7 loses a charge. @ §7§nМантия Бовемистов§r§7 теряет заряд.
+§7§7Hitting an enemy with §nBash§7 sends all broken @ §7Попадание §nБашем§r§7 по врагу швыряет в него все
+§7Hitting an enemy with §nBash§r§7 sends all broken @ §7Попадание §nБашем§r§7 по врагу швыряет в него все
 §7mantles at them, dealing damage to nearby enemies. @ §7расколотые мантии, нанося урон ближним врагам.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per broken mantle) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за расколотую мантию)
 
 # ─── Blood Pact ────────────────────────────────────────────────────────
 Blood Pact @ Кровавый Пакт
-§7(§f<num>% §7health per mana) @ §7(§f<num>%§r§7 здоровья за единицу маны)
-§7§7A spell cast using health instead of mana will @ §7Заклинание, оплаченное здоровьем,
-§7A spell cast using health instead of mana will @ §7Заклинание, оплаченное здоровьем,
 §7§7If you do not have enough mana to @ §7Если не хватает маны на
 §7If you do not have enough mana to @ §7Если не хватает маны на
 §7§7cast a spell, spend health instead. @ §7заклинание, тратится здоровье.
 §7cast a spell, spend health instead. @ §7заклинание, тратится здоровье.
+§7(§f<num>% §7health per mana) @ §7(§f<num>%§r§7 здоровья за единицу маны)
+§7§7A spell cast using health instead of mana will @ §7Заклинание, оплаченное здоровьем,
+§7A spell cast using health instead of mana will @ §7Заклинание, оплаченное здоровьем,
 §7§7deal §f<num>%§7 to §f<num>%§7 bonus damage, depending @ §7наносит §f<num>%§r§7 - §f<num>%§r§7 бонусного урона
 §7deal §f<num>%§7 to §f<num>%§7 bonus damage, depending @ §7наносит §f<num>%§r§7 - §f<num>%§r§7 бонусного урона
 §7on how much of its cost is paid in blood. @ §7в зависимости от доли оплаты кровью.
-§8(§7<num>% §8health per mana) @ §8(§7<num>%§r§8 здоровья за единицу маны)
-§8§8A spell cast using health instead of mana will @ §8Заклинание, оплаченное здоровьем,
-§8§8deal §7<num>%§8 to §7<num>%§8 bonus damage, depending @ §8наносит §7<num>%§r§8 - §7<num>%§r§8 бонусного урона
-§8deal §7<num>%§8 to §7<num>%§8 bonus damage, depending @ §8наносит §7<num>%§r§8 - §7<num>%§r§8 бонусного урона
-§8on how much of its cost is paid in blood. @ §8в зависимости от доли оплаты кровью.
 
 # ─── Flying Kick ───────────────────────────────────────────────────────
 Flying Kick @ Летающий Удар
@@ -294,34 +294,37 @@ Crushing Blow @ Сокрушительный Удар
 Rejuvenating Skin @ Регенерация Кожи
 §7§7For any damage you take, @ §7За любой получаемый урон
 §7For any damage you take, @ §7За любой получаемый урон
-§7§7damage over the next §f<num>s§7. @ §7урона за следующие §f<num>с§r§7.
-§7damage over the next §f<num>s§7. @ §7урона за следующие §f<num>с§r§7.
 §7§7regenerate §f<num>% §7of the @ §7восстанавливаете §f<num>%§r§7
 §7regenerate §f<num>% §7of the @ §7восстанавливаете §f<num>%§r§7
-§8damage over the next §7<num>s§8. @ §8урона за следующие §7<num>с§r§8.
-§8regenerate §7<num>% §8of the @ §8восстанавливаете §7<num>%§r§8
+§7§7damage over the next §f<num>s§7. @ §7урона за следующие §f<num>с§r§7.
+§7damage over the next §f<num>s§7. @ §7урона за следующие §f<num>с§r§7.
 
 # ─── Enraged Blow ──────────────────────────────────────────────────────
 Enraged Blow @ Яростный Удар
 §7§lEnraged Blow @ Яростный Удар
+§c- §7Enraged Blow @ §c- §7Яростный Удар
+§c- §cEnraged Blow @ §c- §cЯростный Удар
+§r§c- §7Enraged Blow @ §r§c- §7Яростный Удар
+§r§c- §8Enraged Blow @ §r§c- §8Яростный Удар
+§r§c- §cEnraged Blow @ §r§c- §cЯростный Удар
 §7§7Gain §f<num>%§7 damage per §f<num>%§7 §bCorrupted <em>§7. (Max <num>%) @ §7§f<num>%§r§7 урона за каждый §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум <num>%)
+§7Gain §f<num>%§7 damage per §f<num>%§7 §bCorrupted §4<em>§r§7. (Max +<num>%) @ §7§f<num>%§r§7 урона за каждый §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум +<num>%)
 §8§8Gain §7<num>%§8 damage per §7<num>%§8 §7Corrupted <em>§8. (Max <num>%) @ §8§7<num>%§r§8 урона за каждый §7<num>%§r§8 §7Скверны §8<em>§r§8. (Максимум <num>%)
 
 # ─── Sparkling Hope ────────────────────────────────────────────────────
 Sparkling Hope @ Искрящаяся Надежда
-§7§8(Max <num> activations at once)  @ §8(Максимум <num> активаций одновременно)
 §7§7Deals damage to all nearby enemies every @ §7Наносит урон всем ближним врагам каждый раз,
 §7Deals damage to all nearby enemies every @ §7Наносит урон всем ближним врагам каждый раз,
 §7§7time you heal §f<num>% §7of your max health. @ §7когда вы лечите §f<num>%§r§7 от максимального здоровья.
 §7time you heal §f<num>% §7of your max health. @ §7когда вы лечите §f<num>%§r§7 от максимального здоровья.
-§8(Max <num> activations at once) @ §8(Максимум <num> активаций одновременно)
-§8time you heal §7<num>% §8of your max health. @ §8когда вы лечите §7<num>%§r§8 от максимального здоровья.
+§7§8(Max <num> activations at once)  @ §8(Максимум <num> активаций одновременно)
 
 # ─── Exhilarate ────────────────────────────────────────────────────────
 Exhilarate @ Воодушевление
 §7§7After leaving §bCorrupted <em>§7, restore §f<num>% @ §7После выхода из §bСкверны §4<em>§r§7 восстанавливаете §f<num>%§r§7
 §7After leaving §bCorrupted §4<em>§r§7, restore §f<num>% @ §7После выхода из §bСкверны §4<em>§r§7 восстанавливаете §f<num>%§r§7
-§8After leaving §7Corrupted §8<em>§r§8, restore §7<num>% @ §8После выхода из §7Скверны §8<em>§r§8 восстанавливаете §7<num>%§r§8
+§7§7of your §bCorrupted <em>§7 bar as max health. @ §7полоски §bСкверны §4<em>§r§7 как максимальное здоровье.
+§7of your §bCorrupted §4<em>§r§7 bar as max health. @ §7полоски §bСкверны §4<em>§r§7 как максимальное здоровье.
 
 # ─── Comet ─────────────────────────────────────────────────────────────
 Comet @ Комета
@@ -332,18 +335,16 @@ Comet @ Комета
 
 # ─── Spirit of the Rabbit ──────────────────────────────────────────────
 Spirit of the Rabbit @ Дух Кролика
-§7§7Reduce the Mana cost of §nCharge§7 @ §7Снижает затраты маны для §nРывка§r§7
 §7§7and increase your Walk Speed by §f<num>%§7. @ §7и увеличивает вашу Скорость Ходьбы на §f<num>%§r§7.
-§8§8and increase your Walk Speed by §7<num>%§8. @ §8и увеличивает вашу Скорость Ходьбы на §7<num>%§r§8.
 
 # ─── Cleansing Breeze ──────────────────────────────────────────────────
 Cleansing Breeze @ Очищающий Бриз
 §7§7§nCharge§7 will cleanse you of all @ §7§nРывок§r§7 снимает с вас все
 §7§nCharge§r§7 will cleanse you of all @ §7§nРывок§r§7 снимает с вас все
-§7§7as any allies you pass through. @ §7с союзников, которых вы пробежали.
-§7as any allies you pass through. @ §7с союзников, которых вы пробежали.
 §7§7negative effects and fire, as well @ §7негативные эффекты и огонь, а также
 §7negative effects and fire, as well @ §7негативные эффекты и огонь, а также
+§7§7as any allies you pass through. @ §7с союзников, которых вы пробежали.
+§7as any allies you pass through. @ §7с союзников, которых вы пробежали.
 
 # ─── Cheaper Bash II ───────────────────────────────────────────────────
 Cheaper Bash II @ Экономный Баш II
@@ -352,12 +353,8 @@ Cheaper Bash II @ Экономный Баш II
 Boiling Blood @ Кипящая Кровь
 §7§7§nBash§7 will leave a puddle of boiling blood @ §7§nБаш§r§7 оставляет лужу кипящей крови
 §7§nBash§r§7 will leave a puddle of boiling blood @ §7§nБаш§r§7 оставляет лужу кипящей крови
-§7§7after its first explosion, slowing down and @ §7после первого взрыва, замедляя и
-§7after its first explosion, slowing down and @ §7после первого взрыва, замедляя и
-§7§7damaging enemies in it every §f<num> §7seconds. @ §7нанося урон врагам в ней каждые §f<num>§r§7 секунд.
-§7damaging enemies in it every §f<num> §7seconds. @ §7нанося урон врагам в ней каждые §f<num>§r§7 секунд.
-§8§8damaging enemies in it every §7<num> §8seconds. @ §8нанося урон врагам в ней каждые §7<num>§r§8 секунд.
-§8damaging enemies in it every §7<num> §8seconds. @ §8нанося урон врагам в ней каждые §7<num>§r§8 секунд.
+§7§7damaging enemies in it every §f<num> §7seconds. @ §7нанося урон врагам в ней каждые §f<num>§r§7 секунды.
+§7damaging enemies in it every §f<num> §7seconds. @ §7нанося урон врагам в ней каждые §f<num>§r§7 секунды.
 
 # ─── Collide ───────────────────────────────────────────────────────────
 Collide @ Столкновение
@@ -368,58 +365,62 @@ Collide @ Столкновение
 
 # ─── Sacred Surge ──────────────────────────────────────────────────────
 Sacred Surge @ Священный Всплеск
+§7§lSacred Surge @ Священный Всплеск
+§c- §7Sacred Surge @ §c- §7Священный Всплеск
+§c- §cSacred Surge @ §c- §cСвященный Всплеск
+§r§c- §7Sacred Surge @ §r§c- §7Священный Всплеск
+§r§c- §8Sacred Surge @ §r§c- §8Священный Всплеск
+§r§c- §cSacred Surge @ §r§c- §cСвященный Всплеск
 §7§7Gain the ability to unleash a §bSacred Surge §6§l✧§7. @ §7Получаете способность вызывать §bСвященный Всплеск §6§l✧§r§7.
 §7Gain the ability to unleash a §bSacred Surge §6§l✧§r§7. @ §7Получаете способность вызывать §bСвященный Всплеск §6§l✧§r§7.
-§7§lSacred Surge @ Священный Всплеск
-§7§7§nUppercut§7 will spend §f<num> §bHoly Power §6§l✧§7 @ §7§nАпперкот§r§7 тратит §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
-§7§nUppercut§r§7 will spend §f<num> §bHoly Power §6§l✧ @ §7§nАпперкот§r§7 тратит §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
+§8§8Gain the ability to unleash a §7Sacred Surge §8§l✧§8. @ §8Получаете способность вызывать §7Священный Всплеск §8§l✧§r§8.
 §7§7Whenever any of your spells or abilities are @ §7Любое сработавшее заклинание или способность
 §7Whenever any of your spells or abilities are @ §7Любое сработавшее заклинание или способность
-§7§7dealing extra damage. @ §7нанося дополнительный урон.
-§7dealing extra damage. @ §7нанося дополнительный урон.
-§7§7to smite hit enemies with holy energy, @ §7чтобы поразить врагов святой энергией,
-§7to smite hit enemies with holy energy, @ §7чтобы поразить врагов святой энергией,
+§8§8Whenever any of your spells or abilities are @ §8Любое сработавшее заклинание или способность
 §7§7triggered, increase your §bHoly Power §6§l✧§7 by §f<num>§7. @ §7увеличивает §bСвященную Силу §6§l✧§r§7 на §f<num>§r§7.
 §7triggered, increase your §bHoly Power §6§l✧§r§7 by §f<num>§7. @ §7увеличивает §bСвященную Силу §6§l✧§r§7 на §f<num>§r§7.
-§8§8Gain the ability to unleash a §7Sacred Surge §8§l✧§8. @ §8Получаете способность вызывать §7Священный Всплеск §8§l✧§r§8.
-§8§8§nUppercut§8 will spend §7<num> §7Holy Power §8§l✧§8 @ §8§nАпперкот§r§8 тратит §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
-§8§nUppercut§r§8 will spend §7<num> §7Holy Power §8§l✧ @ §8§nАпперкот§r§8 тратит §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
-§8§8Whenever any of your spells or abilities are @ §8Любое сработавшее заклинание или способность
-§8§8dealing extra damage. @ §8нанося дополнительный урон.
-§8§8to smite hit enemies with holy energy, @ §8чтобы поразить врагов святой энергией,
 §8§8triggered, increase your §7Holy Power §8§l✧§8 by §7<num>§8. @ §8увеличивает §7Священную Силу §8§l✧§r§8 на §7<num>§r§8.
 §8triggered, increase your §7Holy Power §8§l✧§r§8 by §7<num>§8. @ §8увеличивает §7Священную Силу §8§l✧§r§8 на §7<num>§r§8.
+§7§7§nUppercut§7 will spend §f<num> §bHoly Power §6§l✧§7 @ §7§nАпперкот§r§7 тратит §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
+§7§nUppercut§r§7 will spend §f<num> §bHoly Power §6§l✧ @ §7§nАпперкот§r§7 тратит §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
+§8§8§nUppercut§8 will spend §7<num> §7Holy Power §8§l✧§8 @ §8§nАпперкот§r§8 тратит §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
+§8§nUppercut§r§8 will spend §7<num> §7Holy Power §8§l✧ @ §8§nАпперкот§r§8 тратит §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
+§7§7to smite hit enemies with holy energy, @ §7чтобы поразить врагов святой энергией,
+§7to smite hit enemies with holy energy, @ §7чтобы поразить врагов святой энергией,
+§8§8to smite hit enemies with holy energy, @ §8чтобы поразить врагов святой энергией,
+§7§7dealing extra damage. @ §7нанося дополнительный урон.
+§7dealing extra damage. @ §7нанося дополнительный урон.
+§8§8dealing extra damage. @ §8нанося дополнительный урон.
 
 # ─── Massacre ──────────────────────────────────────────────────────────
 Massacre @ Резня
-§7§8(§nPowder Specials§8 always add <num>%) @ §8(§nСпецы порошков§r§8 всегда добавляют <num>%)
 §7§7While §bCorrupted <em>§7, hitting an @ §7Будучи §bПоражённым Скверной §4<em>§r§7, попадание
 §7While §bCorrupted §4<em>§r§7, hitting an @ §7Будучи §bПоражённым Скверной §4<em>§r§7, попадание
 §7§7enemy with your §nMain Attack @ §7§nОсновной Атакой§r§7 по врагу
 §7enemy with your §nMain Attack§r§7 @ §7§nОсновной Атакой§r§7 по врагу
-§7§7per second. @ §7в секунду.
-§7per second. @ §7в секунду.
 §7§7will add §f<num>% §bCorruption <em>§7, @ §7добавляет §f<num>%§r§7 §bСкверны §4<em>§r§7
 §7will add §f<num>% §bCorruption §4<em>§r§7, @ §7добавляет §f<num>%§r§7 §bСкверны §4<em>§r§7
-§8§8(§nPowder Specials§8 always add <num>%) @ §8(§nСпецы порошков§r§8 всегда добавляют <num>%)
-§8While §7Corrupted §8<em>§r§8, hitting an @ §8Будучи §7Поражённым Скверной §8<em>§r§8, попадание
-§8§8enemy with your §nMain Attack @ §8§nОсновной Атакой§r§8 по врагу
-§8§8per second. @ §8в секунду.
-§8§8will add §7<num>% §7Corruption <em>§8, @ §8добавляет §7<num>%§r§8 §7Скверны §8<em>§r§8
-§8will add §7<num>% §7Corruption §8<em>§r§8, @ §8добавляет §7<num>%§r§8 §7Скверны §8<em>§r§8
+§7§7per second. @ §7в секунду.
+§7per second. @ §7в секунду.
+§7§8(§nPowder Specials§8 always add <num>%) @ §8(§nСпецы порошков§r§8 всегда добавляют <num>%)
 
 # ─── Emboldening Cry ───────────────────────────────────────────────────
 Emboldening Cry @ Воодушевляющий Крик
 §7§lEmboldening Cry @ Воодушевляющий Крик
+§c- §7Emboldening Cry @ §c- §7Воодушевляющий Крик
+§c- §cEmboldening Cry @ §c- §cВоодушевляющий Крик
+§r§c- §7Emboldening Cry @ §r§c- §7Воодушевляющий Крик
+§r§c- §cEmboldening Cry @ §r§c- §cВоодушевляющий Крик
 §7§7§nWar Scream§7 bolsters courage, @ §7§nБоевой Крик§r§7 укрепляет дух,
 §7§nWar Scream§r§7 bolsters courage, @ §7§nБоевой Крик§r§7 укрепляет дух,
-§7§7and additional resistance. @ §7и дополнительное сопротивление.
-§7and additional resistance. @ §7и дополнительное сопротивление.
+§8§8§nWar Scream§8 bolsters courage, @ §8§nБоевой Крик§r§8 укрепляет дух,
 §7§7granting players a damage bonus @ §7давая игрокам бонус к урону
 §7granting players a damage bonus @ §7давая игрокам бонус к урону
-§8§8§nWar Scream§8 bolsters courage, @ §8§nБоевой Крик§r§8 укрепляет дух,
-§8§8and additional resistance. @ §8и дополнительное сопротивление.
 §8§8granting players a damage bonus @ §8давая игрокам бонус к урону
+§7§7and additional resistance. @ §7и дополнительное сопротивление.
+§7and additional resistance. @ §7и дополнительное сопротивление.
+§8§8and additional resistance. @ §8и дополнительное сопротивление.
+§7<em> §7Effect: §f<num>% §7Damage Bonus (§a⚔§7) to Players @ §e<em> §7Эффект: §f<num>% §7Бонус к урону (§a⚔§7) игрокам
 
 # ─── Uncontainable Corruption ──────────────────────────────────────────
 Uncontainable Corruption @ Неудержимая Скверна
@@ -429,32 +430,25 @@ Uncontainable Corruption @ Неудержимая Скверна
 §7by §f<num>s§7, and increases the raw damage @ §7на §f<num>с§r§7 и увеличивает чистый урон
 §7§7gained for every §f<num>% §7of health lost by §f<num>§7. @ §7за каждые §f<num>%§r§7 потерянного здоровья на §f<num>§r§7.
 §7gained for every §f<num>% §7of health lost by §f<num>§7. @ §7за каждые §f<num>%§r§7 потерянного здоровья на §f<num>§r§7.
-§8by §7<num>s§8, and increases the raw damage @ §8на §7<num>с§r§8 и увеличивает чистый урон
-§8§8by §7<num>s§8, §8and increases the raw damage @ §8на §7<num>с§r§8 и увеличивает чистый урон
-§8gained for every §7<num>% §8of health lost by §7<num>§8. @ §8за каждые §7<num>%§r§8 потерянного здоровья на §7<num>§r§8.
-§8§8gained for every §7<num>% §8of health lost by §7<num>§8. @ §8за каждые §7<num>%§r§8 потерянного здоровья на §7<num>§r§8.
 
 # ─── Tempest ───────────────────────────────────────────────────────────
 Tempest @ Буря
 §7§7§nWar Scream§7 will ripple the ground and @ §7§nБоевой Крик§r§7 пускает волны по земле и
 §7§nWar Scream§r§7 will ripple the ground and @ §7§nБоевой Крик§r§7 пускает волны по земле и
-§7§7deal damage to enemies §f<num> §7times @ §7наносит урон врагам §f<num>§r§7 раз
-§7deal damage to enemies §f<num> §7times @ §7наносит урон врагам §f<num>§r§7 раз
+§7§7deal damage to enemies §f<num> §7times @ §7наносит урон врагам §f<num>§r§7 раза
+§7deal damage to enemies §f<num> §7times @ §7наносит урон врагам §f<num>§r§7 раза
 §7§7over a large area every §f<num>s§7. @ §7по большой площади каждые §f<num>с§r§7.
 §7over a large area every §f<num>s§7. @ §7по большой площади каждые §f<num>с§r§7.
-§8§8deal damage to enemies §7<num> §8times @ §8наносит урон врагам §7<num>§r§8 раз
-§8deal damage to enemies §7<num> §8times @ §8наносит урон врагам §7<num>§r§8 раз
-§8§8over a large area every §7<num>s§8. @ §8по большой площади каждые §7<num>с§r§8.
-§8over a large area every §7<num>s§8. @ §8по большой площади каждые §7<num>с§r§8.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per ripple) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за волну)
 
 # ─── Whirlwind Strike ──────────────────────────────────────────────────
 Whirlwind Strike @ Удар Вихря
-§7§8(Hold shift to stay grounded) @ §8(Зажмите Shift чтобы остаться на земле)
 §7§7§nUppercut§7 will create a strong gust of air, @ §7§nАпперкот§r§7 создаёт мощный порыв воздуха,
 §7§nUppercut§r§7 will create a strong gust of air, @ §7§nАпперкот§r§7 создаёт мощный порыв воздуха,
 §7§7launching you upward with enemies. @ §7подбрасывая вас вверх с врагами.
 §7launching you upward with enemies. @ §7подбрасывая вас вверх с врагами.
-§8(Hold shift to stay grounded) @ §8(Зажмите Shift чтобы остаться на земле)
+§7§8(Hold shift to stay grounded) @ §8(Зажмите Shift чтобы остаться на земле)
+§7<em> §7Area of Effect: §fCircle-Shaped @ §3<em> §7Зона поражения: §fКруг
 
 # ─── Mythril Skin ──────────────────────────────────────────────────────
 Mythril Skin @ Мифриловая Кожа
@@ -462,23 +456,27 @@ Mythril Skin @ Мифриловая Кожа
 §7Gain §f<num>% §7Base Resistance and @ §7Получаете §f<num>%§r§7 Базового Сопротивления и
 §7§7become immune to knockback. @ §7иммунитет к откидыванию.
 §7become immune to knockback. @ §7иммунитет к откидыванию.
-§8Gain §7<num>% §8Base Resistance and @ §8Получаете §7<num>%§r§8 Базового Сопротивления и
-§8§8Gain §7<num>% §8Base Resistance and @ §8Получаете §7<num>%§r§8 Базового Сопротивления и
 
 # ─── Armour Breaker ────────────────────────────────────────────────────
 Armour Breaker @ Пробой Брони
 §7§lArmour Breaker @ Пробой Брони
+§c- §7Armour Breaker @ §c- §7Пробой Брони
+§c- §cArmour Breaker @ §c- §cПробой Брони
+§r§c- §7Armour Breaker @ §r§c- §7Пробой Брони
+§r§c- §8Armour Breaker @ §r§c- §8Пробой Брони
+§r§c- §cArmour Breaker @ §r§c- §cПробой Брони
+§7§7Gaining §f<num>%§7 §bCorrupted <em>§7 will make your @ §7Накопление §f<num>%§r§7 §bСкверны §4<em>§r§7 даёт вашему
+§7Gaining §f<num>%§7 §bCorrupted §4<em>§r§7 §bwill make your @ §7Накопление §f<num>%§r§7 §bСкверны §4<em>§r§7 даёт вашему
 §7§7next §nUppercut§7 give you a damage boost. @ §7следующему §nАпперкоту§r§7 бонус к урону.
 §7next §nUppercut§r§7 give you a damage boost. @ §7следующему §nАпперкоту§r§7 бонус к урону.
 §8§8next §nUppercut§8 give you a damage boost. @ §8следующему §nАпперкоту§r§8 бонус к урону.
+§7<em> §7Effect: §f<num>% §7Damage Bonus (§a⚔§7) to Self @ §e<em> §7Эффект: §f<num>%§r§7 Бонус к урону (§a⚔§7) себе
 
 # ─── Radiant Devotee ───────────────────────────────────────────────────
 Radiant Devotee @ Сияющий Послушник
 §7§7For every §f<num>%§7 Reflection you have from @ §7За каждые §f<num>%§r§7 Отражения от
 §7For every §f<num>%§7 Reflection you have from @ §7За каждые §f<num>%§r§7 Отражения от
 §7items, gain §f<num>/<num>s§7 Mana Regen (Max <num>/<num>s) @ §7от предметов получаете §f<num>/<num>с§r§7 Регенерации Маны §8(Максимум <num>/<num>с)
-§8For every §7<num>%§8 Reflection you have from @ §8За каждые §7<num>%§r§8 Отражения от
-§8items, gain §7<num>/<num>s§8 Mana Regen (Max <num>/<num>s) @ §8от предметов получаете §7<num>/<num>с§r§8 Регенерации Маны §8(Максимум <num>/<num>с)
 
 # ─── Freestream Flow ───────────────────────────────────────────────────
 Freestream Flow @ Свободный Поток
@@ -487,37 +485,40 @@ Freestream Flow @ Свободный Поток
 
 # ─── Riposte ───────────────────────────────────────────────────────────
 Riposte @ Рипост
-§7Increase the damage of §nCounter§7 and reduce its @ §7Усиливает урон §nКонтрудара§r§7 и снижает его
-§7Increase the damage of §nCounter§r§7 and reduce its @ §7Усиливает урон §nКонтрудара§r§7 и снижает его
 §7Increase the damage reduction of §nCounter§7 by §f<num>%§7 @ §7Усиливает снижение урона §nКонтрудара§r§7 на §f<num>%§r§7
 §7Increase the damage reduction of §nCounter§r§7 by §f<num>% @ §7Усиливает снижение урона §nКонтрудара§r§7 на §f<num>%§r§7
+§7Increase the damage of §nCounter§7 and reduce its @ §7Усиливает урон §nКонтрудара§r§7 и снижает его
+§7Increase the damage of §nCounter§r§7 and reduce its @ §7Усиливает урон §nКонтрудара§r§7 и снижает его
 §7cooldown by §f<num>s§7. @ §7перезарядку на §f<num>с§r§7.
-§8Increase the damage reduction of §nCounter§r§8 by §7<num>% @ §8Усиливает снижение урона §nКонтрудара§r§8 на §7<num>%§r§8
-§8Increase the damage reduction of §nCounter§8 by §7<num>%§8 @ §8Усиливает снижение урона §nКонтрудара§r§8 на §7<num>%§r§8
-§8cooldown by §7<num>s§8. @ §8перезарядку на §7<num>с§r§8.
 
 # ─── Cheaper War Scream ────────────────────────────────────────────────
 Cheaper War Scream @ Экономный Боевой Крик
 §7§7Reduce the Mana cost of §nWar Scream§7. @ §7Снижает затраты маны для §nБоевого Крика§r§7.
 §7Reduce the Mana cost of §nWar Scream§r§7. @ §7Снижает затраты маны для §nБоевого Крика§r§7.
-§8§8Reduce the Mana cost of §nWar Scream§8. @ §8Снижает затраты маны для §nБоевого Крика§r§8.
 
 # ─── Luster Purge ──────────────────────────────────────────────────────
 Luster Purge @ Сияющая Чистка
 §7§lLuster Purge @ Сияющая Чистка
-§7<em> §7Main Attack Damage Bonus: §f<num>% @ <em> §7Бонус Урона Осн. Атаки: §f<num>%
+§c- §7Luster Purge @ §c- §7Сияющая Чистка
+§c- §cLuster Purge @ §c- §cСияющая Чистка
+§r§c- §7Luster Purge @ §r§c- §7Сияющая Чистка
+§r§c- §8Luster Purge @ §r§c- §8Сияющая Чистка
+§r§c- §cLuster Purge @ §r§c- §cСияющая Чистка
 §7§7While you have §f<num>§7 §7§bHoly Power §6§l✧§7, @ §7Пока у вас §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
 §7While you have §f<num>§7 §bHoly Power §6§l✧§r§7, @ §7Пока у вас §f<num>§r§7 §bСвященной Силы §6§l✧§r§7,
-§7§7and grant you §f<num> §7§bHoly Power. @ §7и дают §f<num>§r§7 §bСвященной Силы§r§7.
-§7and grant you §f<num> §bHoly Power. @ §7и дают §f<num>§r§7 §bСвященной Силы§r§7.
-§7§7your §nMain Attacks§7 are empowered, @ §7§nОсновные Атаки§r§7 усилены
-§7your §nMain Attacks§r§7 are empowered, @ §7§nОсновные Атаки§r§7 усилены
-§8<em> §8Main Attack Damage Bonus: §7<num>% @ §8<em> §8Бонус Урона Осн. Атаки: §7<num>%
 §8§8While you have §7<num>§8 §8§7Holy Power §8§l✧§8, @ §8Пока у вас §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
 §8While you have §7<num>§8 §7Holy Power §8§l✧§r§8, @ §8Пока у вас §7<num>§r§8 §7Священной Силы §8§l✧§r§8,
+§7§7your §nMain Attacks§7 are empowered, @ §7§nОсновные Атаки§r§7 усилены
+§7your §nMain Attacks§r§7 are empowered, @ §7§nОсновные Атаки§r§7 усилены
+§8§8your §nMain Attacks§8 are empowered, @ §8§nОсновные Атаки§r§8 усилены
+§7§7and grant you §f<num> §7§bHoly Power. @ §7и дают §f<num>§r§7 §bСвященной Силы§r§7.
+§7and grant you §f<num> §bHoly Power. @ §7и дают §f<num>§r§7 §bСвященной Силы§r§7.
 §8§8and grant you §7<num> §8§7Holy Power. @ §8и дают §7<num>§r§8 §7Священной Силы§r§8.
 §8and grant you §7<num> §7Holy Power. @ §8и дают §7<num>§r§8 §7Священной Силы§r§8.
-§8§8your §nMain Attacks§8 are empowered, @ §8§nОсновные Атаки§r§8 усилены
+§7<em> §7Main Attack Damage Bonus: §f<num>% @ <em> §7Бонус Урона Осн. Атаки: §f<num>%
+§8<em> §8Main Attack Damage Bonus: §7<num>% @ §8<em> §8Бонус Урона Осн. Атаки: §7<num>%
+§7<em> §7Main Attack Range: §f<num>% @ §7<em> §7Дальность Осн. Атаки: §f<num>%
+§7<em> §7Cooldown: §f<num>s §8(for Holy Power) @ §e<em> §7Перезарядка: §f<num>с §8(для Священной Силы)
 
 # ─── Hallowed Blaze ────────────────────────────────────────────────────
 Hallowed Blaze @ Священное Пламя
@@ -527,14 +528,13 @@ Hallowed Blaze @ Священное Пламя
 §7and grant §f<num> §bHoly Power §6§l✧§r§7, whenever @ §7и даёт §f<num>§r§7 §bСвященной Силы §6§l✧§r§7 каждый раз,
 §7§7it deals damage. @ §7когда наносит урон.
 §7it deals damage. @ §7когда наносит урон.
-§8and grant §7<num> §7Holy Power §8§l✧§r§8, whenever @ §8и даёт §7<num>§r§8 §7Священной Силы §8§l✧§r§8 каждый раз,
 
 # ─── Massive Bash ──────────────────────────────────────────────────────
 Massive Bash @ Мощный Баш
 §7§7Increase §nBash§7's area of effect radius @ §7Увеличивает радиус §nБаша§r§7
 §7Increase §nBash§r§7's area of effect radius @ §7Увеличивает радиус §nБаша§r§7
 §7§7by §f<num>§7 per §f<num>% §bCorrupted <em>§7. (Max <num>) @ §7на §f<num>§r§7 за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. §8(Максимум <num>)
-§8§8by §7<num>§8 per §7<num>% §7Corrupted <em>§8. (Max <num>) @ §8на §7<num>§r§8 за каждые §7<num>%§r§8 §7Скверны §8<em>§r§8. §8(Максимум <num>)
+§7by §f<num>§7 per §f<num>% §bCorrupted §4<em>§r§7. (Max +<num>) @ §7на §f<num>§r§7 за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. §8(Максимум +<num>)
 
 # ─── Axe Kick ──────────────────────────────────────────────────────────
 Axe Kick @ Удар Топором
@@ -542,44 +542,34 @@ Axe Kick @ Удар Топором
 §7Increases the damage and mana cost @ §7Увеличивает урон и затраты маны
 §7§7of §nUppercut§7. @ §7§nАпперкота§r§7.
 §7of §nUppercut§r§7. @ §7§nАпперкота§r§7.
-§8§8of §nUppercut§8. @ §8§nАпперкота§r§8.
 
 # ─── Blessed Bulwark ───────────────────────────────────────────────────
 Blessed Bulwark @ Благословенный Оплот
+§7§7Add §f<num>§7 additional charges and @ §7Добавляет §f<num>§r§7 заряда и
+§7Add §f<num>§7 additional charges and @ §7Добавляет §f<num>§r§7 заряда и
 §7§f<num>%§7 damage reduction to @ §f<num>%§r§7 снижения урона
 §7<num>%§8 damage reduction to @ §7<num>%§r§8 снижения урона
-§7§7Add §f<num>§7 additional charges and @ §7Добавляет §f<num>§r§7 зарядов и
-§7Add §f<num>§7 additional charges and @ §7Добавляет §f<num>§r§7 зарядов и
-§7§7§nMantle of the Bovemists§7. @ §7§nМантии Бовемистов§r§7.
-§7§nMantle of the Bovemists§r§7. @ §7§nМантии Бовемистов§r§7.
-§8§7<num>%§8 damage reduction to @ §7<num>%§r§8 снижения урона
-§8Add §7<num>§8 additional charges and @ §8Добавляет §7<num>§r§8 зарядов и
-§8§8Add §7<num>§8 additional charges and @ §8Добавляет §7<num>§r§8 зарядов и
 §f<num>%§7 damage reduction to @ §f<num>%§r§7 снижения урона
 
 # ─── Mindless Slaughter ────────────────────────────────────────────────
 Mindless Slaughter @ Бездумная Бойня
 §7§7§nMassacre§7 adds twice as much §bCorruption <em>§7. @ §7§nРезня§r§7 даёт в 2 раза больше §bСкверны §4<em>§r§7.
 §7§nMassacre§r§7 adds twice as much §bCorruption §4<em>§r§7. @ §7§nРезня§r§7 даёт в 2 раза больше §bСкверны §4<em>§r§7.
-§7§nPowder Specials§7 now cost §f<num>%§7 health to @ §7§nСпецы порошков§r§7 стоят §f<num>%§r§7 здоровья,
-§7§nPowder Specials§r§7 now cost §f<num>%§7 health to @ §7§nСпецы порошков§r§7 стоят §f<num>%§r§7 здоровья,
 §7§7While §nCorrupted§7, your §nMain Attack§7 and @ §7Будучи §nПоражённым Скверной§r§7, §nОсновная Атака§r§7 и
 §7While §nCorrupted§r§7, your §nMain Attack§r§7 and @ §7Будучи §nПоражённым Скверной§r§7, §nОсновная Атака§r§7 и
+§7§nPowder Specials§7 now cost §f<num>%§7 health to @ §7§nСпецы порошков§r§7 стоят §f<num>%§r§7 здоровья,
+§7§nPowder Specials§r§7 now cost §f<num>%§7 health to @ §7§nСпецы порошков§r§7 стоят §f<num>%§r§7 здоровья,
 §7use, activating §nBlood Pact§7. @ §7активируя §nКровавый Пакт§r§7.
 §7use, activating §nBlood Pact§r§7. @ §7активируя §nКровавый Пакт§r§7.
-§8§nMassacre§r§8 adds twice as much §7Corruption §8<em>§r§8. @ §8§nРезня§r§8 даёт в 2 раза больше §7Скверны §8<em>§r§8.
-§8§nPowder Specials§r§8 now cost §7<num>%§8 health to @ §8§nСпецы порошков§r§8 стоят §7<num>%§r§8 здоровья,
 
 # ─── Provoke ───────────────────────────────────────────────────────────
 Provoke @ Провокация
 §7§7Enemies damaged by §nWar Scream§7 @ §7Враги, задетые §nБоевым Криком§r§7,
 §7Enemies damaged by §nWar Scream @ §7Враги, задетые §nБоевым Криком§r§7,
-§7§7only you for at least §f<num>s§7. @ §7только вас минимум §f<num>с§r§7.
-§7only you for at least §f<num>s§7. @ §7только вас минимум §f<num>с§r§7.
 §7§7will become §bProvoked <em>§7, targeting @ §7становятся §bРазгневанными §4<em>§r§7 и атакуют
 §7will become §bProvoked §4<em>§r§7, targeting @ §7становятся §bРазгневанными §4<em>§r§7 и атакуют
-§8only you for at least §7<num>s§8. @ §8только вас минимум §7<num>с§r§8.
-§8will become §7Provoked §8<em>§r§8, targeting @ §8становятся §7Разгневанными §8<em>§r§8 и атакуют
+§7§7only you for at least §f<num>s§7. @ §7только вас минимум §f<num>с§r§7.
+§7only you for at least §f<num>s§7. @ §7только вас минимум §f<num>с§r§7.
 
 # ─── Cheaper War Scream II ─────────────────────────────────────────────
 Cheaper War Scream II @ Экономный Боевой Крик II
@@ -588,115 +578,124 @@ Cheaper War Scream II @ Экономный Боевой Крик II
 Overwhelming Rage @ Всепоглощающая Ярость
 §7§7Increase the cap of §nEnraged Blow§7 by §f<num>%§7. @ §7Увеличивает максимум §nЯростного Удара§r§7 на §f<num>%§r§7.
 §7Increase the cap of §nEnraged Blow§r§7 by §f<num>%§7. @ §7Увеличивает максимум §nЯростного Удара§r§7 на §f<num>%§r§7.
-§8§8Increase the cap of §nEnraged Blow§8 by §7<num>%§8. @ §8Увеличивает максимум §nЯростного Удара§r§8 на §7<num>%§r§8.
-§8Increase the cap of §nEnraged Blow§r§8 by §7<num>%§8. @ §8Увеличивает максимум §nЯростного Удара§r§8 на §7<num>%§r§8.
 
 # ─── Cyclone ───────────────────────────────────────────────────────────
 Cyclone @ Циклон
 §7§7After casting §nWar Scream§7, envelop yourself with @ §7После §nБоевого Крика§r§7 окружает вас
 §7After casting §nWar Scream§r§7, envelop yourself with @ §7После §nБоевого Крика§r§7 окружает вас
-§7§7a vortex that damages nearby enemies every §f<num>s§7.  @ §7вихрь, наносящий урон ближним врагам каждые §f<num>с§r§7.
-§7a vortex that damages nearby enemies every §f<num>s§7. @ §7вихрь, наносящий урон ближним врагам каждые §f<num>с§r§7.
-§8a vortex that damages nearby enemies every §7<num>s§8. @ §8вихрь, наносящий урон ближним врагам каждые §7<num>с§r§8.
+§7§7a vortex that damages nearby enemies every §f<num>s§7.  @ §7вихрем, наносящим урон ближним врагам каждые §f<num>с§r§7.
+§7a vortex that damages nearby enemies every §f<num>s§7. @ §7вихрем, наносящим урон ближним врагам каждые §f<num>с§r§7.
 
 # ─── Pressure ──────────────────────────────────────────────────────────
 Pressure @ Давление
-§7§nBash§7 gains §f<num>x§7 as many hits and is §f<num>s§7 faster. @ §7§nБаш§r§7 получает в §f<num>§r§7 раз больше попаданий и на §f<num>с§r§7 быстрее.
-§7§nBash§r§7 gains §f<num>x§7 as many hits and is §f<num>s§7 faster. @ §7§nБаш§r§7 получает в §f<num>§r§7 раз больше попаданий и на §f<num>с§r§7 быстрее.
 §7§lPressure @ Давление
-§7§nUppercut§7 deals additional damage. @ §7§nАпперкот§r§7 наносит дополнительный урон.
-§7§nUppercut§r§7 deals additional damage. @ §7§nАпперкот§r§7 наносит дополнительный урон.
-§7§nWar Scream§7 grants a damage boost, @ §7§nБоевой Крик§r§7 даёт бонус к урону,
-§7§nWar Scream§r§7 grants a damage boost, @ §7§nБоевой Крик§r§7 даёт бонус к урону,
+§c- §7Pressure @ §c- §7Давление
+§c- §cPressure @ §c- §cДавление
+§r§c- §7Pressure @ §r§c- §7Давление
+§r§c- §8Pressure @ §r§c- §8Давление
+§r§c- §cPressure @ §r§c- §cДавление
 §7When §nGeneralist§7 acts on a spell, it is enhanced. @ §7Когда §nУниверсал§r§7 срабатывает на заклинание, оно усиливается.
 §7When §nGeneralist§r§7 acts on a spell, it is enhanced. @ §7Когда §nУниверсал§r§7 срабатывает на заклинание, оно усиливается.
+§8When §nGeneralist§8 acts on a spell, it is enhanced. @ §8Когда §nУниверсал§r§8 срабатывает на заклинание, оно усиливается.
+§7§nBash§7 gains §f<num>x§7 as many hits and is §f<num>s§7 faster. @ §7§nБаш§r§7 получает в §f<num>§r§7 раза больше попаданий и на §f<num>с§r§7 быстрее.
+§7§nBash§r§7 gains §f<num>x§7 as many hits and is §f<num>s§7 faster. @ §7§nБаш§r§7 получает в §f<num>§r§7 раза больше попаданий и на §f<num>с§r§7 быстрее.
+§8§nBash§8 gains §7<num>x§8 as many hits and is §7<num>s§8 faster. @ §8§nБаш§r§8 получает в §7<num>§r§8 раза больше попаданий и на §7<num>с§r§8 быстрее.
+§8§nBash§r§8 gains §7<num>x§8 as many hits and is §7<num>s§8 faster. @ §8§nБаш§r§8 получает в §7<num>§r§8 раза больше попаданий и на §7<num>с§r§8 быстрее.
+§7§nUppercut§7 deals additional damage. @ §7§nАпперкот§r§7 наносит дополнительный урон.
+§7§nUppercut§r§7 deals additional damage. @ §7§nАпперкот§r§7 наносит дополнительный урон.
+§8§nUppercut§8 deals additional damage. @ §8§nАпперкот§r§8 наносит дополнительный урон.
+§7§nWar Scream§7 grants a damage boost, @ §7§nБоевой Крик§r§7 даёт бонус к урону,
+§7§nWar Scream§r§7 grants a damage boost, @ §7§nБоевой Крик§r§7 даёт бонус к урону,
+§8§nWar Scream§8 grants a damage boost, @ §8§nБоевой Крик§r§8 даёт бонус к урону,
 §7§7but effect duration is reduced. @ §7но длительность эффекта снижена.
 §7but effect duration is reduced. @ §7но длительность эффекта снижена.
-§8§nBash§8 gains §7<num>x§8 as many hits and is §7<num>s§8 faster. @ §8§nБаш§r§8 получает в §7<num>§r§8 раз больше попаданий и на §7<num>с§r§8 быстрее.
-§8§nBash§r§8 gains §7<num>x§8 as many hits and is §7<num>s§8 faster. @ §8§nБаш§r§8 получает в §7<num>§r§8 раз больше попаданий и на §7<num>с§r§8 быстрее.
-§8§nUppercut§8 deals additional damage. @ §8§nАпперкот§r§8 наносит дополнительный урон.
-§8§nWar Scream§8 grants a damage boost, @ §8§nБоевой Крик§r§8 даёт бонус к урону,
-§8When §nGeneralist§8 acts on a spell, it is enhanced. @ §8Когда §nУниверсал§r§8 срабатывает на заклинание, оно усиливается.
 §8§8but effect duration is reduced. @ §8но длительность эффекта снижена.
 
 # ─── Thunderclap ───────────────────────────────────────────────────────
 Thunderclap @ Раскат Грома
 §7§7§nBash§7 will cast at the player's position at @ §7§nБаш§r§7 срабатывает в позиции игрока с
 §7§nBash§r§7 will cast at the player's position at @ §7§nБаш§r§7 срабатывает в позиции игрока с
-§7§7With §nQuadruple Bash§7, gain less damage. @ §7С §nЧетверным Башем§r§7 урон ниже.
-§7With §nQuadruple Bash§r§7, gain less damage. @ §7С §nЧетверным Башем§r§7 урон ниже.
 §7§7double the speed and with an increased area of effect. @ §7удвоенной скоростью и увеличенной зоной поражения.
 §7double the speed and with an increased area of effect. @ §7удвоенной скоростью и увеличенной зоной поражения.
-§8§8With §nQuadruple Bash§8, gain less damage. @ §8С §nЧетверным Башем§r§8 урон ниже.
+§7§7With §nQuadruple Bash§7, gain less damage. @ §7С §nЧетверным Башем§r§7 урон ниже.
+§7With §nQuadruple Bash§r§7, gain less damage. @ §7С §nЧетверным Башем§r§7 урон ниже.
 
 # ─── Radiance ──────────────────────────────────────────────────────────
 Radiance @ Сияние
-§7§8(Max Mana, XP Bonus, Loot Bonus, Loot Quality, @ §8(Максимум Мана, Бонус Опыта, Бонус Лута, Качество Лута,
+§7§lRadiance @ Сияние
+§c- §7Radiance @ §c- §7Сияние
+§c- §cRadiance @ §c- §cСияние
+§r§c- §7Radiance @ §r§c- §7Сияние
+§r§c- §8Radiance @ §r§c- §8Сияние
+§r§c- §cRadiance @ §r§c- §cСияние
 §7§7§nBash§7 will buff positive IDs @ §7§nБаш§r§7 усиливает положительные характеристики
 §7§nBash§r§7 will buff positive IDs @ §7§nБаш§r§7 усиливает положительные характеристики
-§7§8Gather XP Bonus, and Gather Speed Bonus @ §8Бонус Сбора Опыта и Скорости Сбора
-§7§lRadiance @ Сияние
-§7§8are excluded) @ §8не учитываются)
+§8§8§nBash§8 will buff positive IDs @ §8§nБаш§r§8 усиливает положительные характеристики
 §7§7of yourself and allies. @ §7вас и союзников.
 §7of yourself and allies. @ §7вас и союзников.
+§8§8of yourself and allies. @ §8вас и союзников.
+§7§8(Max Mana, XP Bonus, Loot Bonus, Loot Quality, @ §8(Максимум Мана, Бонус Опыта, Бонус Лута, Качество Лута,
 §8(Max Mana, XP Bonus, Loot Bonus, Loot Quality, @ §8(Максимум Мана, Бонус Опыта, Бонус Лута, Качество Лута,
 §8§8(Max Mana, XP Bonus, Loot Bonus, Loot Quality, @ §8(Максимум Мана, Бонус Опыта, Бонус Лута, Качество Лута,
-§8§8§nBash§8 will buff positive IDs @ §8§nБаш§r§8 усиливает положительные характеристики
+§7§8Gather XP Bonus, and Gather Speed Bonus @ §8Бонус Сбора Опыта и Скорости Сбора
 §8Gather XP Bonus, and Gather Speed Bonus @ §8Бонус Сбора Опыта и Скорости Сбора
 §8§8Gather XP Bonus, and Gather Speed Bonus @ §8Бонус Сбора Опыта и Скорости Сбора
+§7§8are excluded) @ §8не учитываются)
 §8are excluded) @ §8не учитываются)
 §8§8are excluded) @ §8не учитываются)
-§8§8of yourself and allies. @ §8вас и союзников.
+§7<em> §7Effect: §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §e<em> §7Эффект: §f<num>% §7Эффективность ID (§6❈§7) союзникам
 
 # ─── Bloodlust ─────────────────────────────────────────────────────────
 Bloodlust @ Жажда Крови
+§7§lBloodlust @ Жажда Крови
+§c- §7Bloodlust @ §c- §7Жажда Крови
+§c- §cBloodlust @ §c- §cЖажда Крови
+§r§c- §7Bloodlust @ §r§c- §7Жажда Крови
+§r§c- §8Bloodlust @ §r§c- §8Жажда Крови
+§r§c- §cBloodlust @ §r§c- §cЖажда Крови
 §7§7After leaving §bCorrupted <em>§7, annihilate all @ §7После выхода из §bСкверны §4<em>§r§7 уничтожает всех
 §7After leaving §bCorrupted §4<em>§r§7, annihilate all @ §7После выхода из §bСкверны §4<em>§r§7 уничтожает всех
-§7§lBloodlust @ Жажда Крови
-§7§7enemies around you. For every §f<num>% §bCorrupted <em>§7 @ §7врагов вокруг. За каждый §f<num>%§r§7 §bСкверны §4<em>§r§7,
-§7enemies around you. For every §f<num>% §bCorrupted §4<em>§r§7 @ §7врагов вокруг. За каждый §f<num>%§r§7 §bСкверны §4<em>§r§7,
-§7§7you had, damage increases by §f<num>%§7. @ §7который у вас был, урон растёт на §f<num>%§r§7.
-§7you had, damage increases by §f<num>%§7. @ §7который у вас был, урон растёт на §f<num>%§r§7.
 §8§8After leaving §7Corrupted <em>§8, annihilate all @ §8После выхода из §7Скверны §8<em>§r§8 уничтожает всех
 §8After leaving §7Corrupted §8<em>§r§8, annihilate all @ §8После выхода из §7Скверны §8<em>§r§8 уничтожает всех
+§7§7enemies around you. For every §f<num>% §bCorrupted <em>§7 @ §7врагов вокруг. За каждый §f<num>%§r§7 §bСкверны §4<em>§r§7,
+§7enemies around you. For every §f<num>% §bCorrupted §4<em>§r§7 @ §7врагов вокруг. За каждый §f<num>%§r§7 §bСкверны §4<em>§r§7,
 §8§8enemies around you. For every §7<num>% §7Corrupted <em>§8 @ §8врагов вокруг. За каждый §7<num>%§r§8 §7Скверны §8<em>§r§8,
 §8enemies around you. For every §7<num>% §7Corrupted §8<em>§r§8 @ §8врагов вокруг. За каждый §7<num>%§r§8 §7Скверны §8<em>§r§8,
+§7§7you had, damage increases by §f<num>%§7. @ §7который у вас был, урон растёт на §f<num>%§r§7.
+§7you had, damage increases by §f<num>%§7. @ §7который у вас был, урон растёт на §f<num>%§r§7.
 §8§8you had, damage increases by §7<num>%§8. @ §8который у вас был, урон растёт на §7<num>%§r§8.
 §8you had, damage increases by §7<num>%§8. @ §8который у вас был, урон растёт на §7<num>%§r§8.
 
 # ─── Discombobulate ────────────────────────────────────────────────────
 Discombobulate @ Ошеломление
-§7§f<num> §7of the bonus decays every second. @ §f<num>§r§7 бонуса теряется каждую секунду.
-§7<num> §8of the bonus decays every second. @ §7<num>§r§8 бонуса теряется каждую секунду.
 §7§7Damaging enemies will inflict them @ §7Урон по врагам накладывает на них
 §7Damaging enemies will inflict them @ §7Урон по врагам накладывает на них
+§7§7with §f<num> §bDiscombobulated §e⚙§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e⚙§r§7. §8(Максимум <num>)
+§7with §f<num> §bDiscombobulated §e<em>§r§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e<em>§r§7. §8(Максимум <num>)
+§7§7with §f<num> §bDiscombobulated §e<em>§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e<em>§r§7. §8(Максимум <num>)
 §7§7You will deal §f<num> §7damage to enemies @ §7Наносите §f<num>§r§7 урона врагам
 §7You will deal §f<num> §7damage to enemies @ §7Наносите §f<num>§r§7 урона врагам
 §7§7for every §bDiscombobulated §e⚙ §7they have. @ §7за каждое §bОшеломление §e⚙§r§7 на них.
-§7§7with §f<num> §bDiscombobulated §e⚙§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e⚙§r§7. §8(Максимум <num>)
-§8§7<num> §8of the bonus decays every second. @ §7<num>§r§8 бонуса теряется каждую секунду.
-§8§8You will deal §7<num> §8damage to enemies @ §8Наносите §7<num>§r§8 урона врагам
-§8You will deal §7<num> §8damage to enemies @ §8Наносите §7<num>§r§8 урона врагам
-§8§8for every §7Discombobulated §7⚙ §8they have. @ §8за каждое §7Ошеломление §7⚙§r§8 на них.
-§8§8with §7<num> §7Discombobulated §7⚙§8. (Max <num>) @ §8§7<num>§r§8 §7Ошеломления §7⚙§r§8. §8(Максимум <num>)
+§7for every §bDiscombobulated §e<em> §7they have. @ §7за каждое §bОшеломление §e<em>§r§7 на них.
+§7§7for every §bDiscombobulated §e<em> §7they have. @ §7за каждое §bОшеломление §e<em>§r§7 на них.
+§7§f<num> §7of the bonus decays every second. @ §f<num>§r§7 бонуса теряется каждую секунду.
+§7<num> §8of the bonus decays every second. @ §7<num>§r§8 бонуса теряется каждую секунду.
 §f<num> §7of the bonus decays every second. @ §f<num>§r§7 бонуса теряется каждую секунду.
 
 # ─── Reverberance ──────────────────────────────────────────────────────
 Reverberance @ Реверберация
-§7§nAir Shout§7 can hit §f<num>§7 times, @ §7§nВоздушный Крик§r§7 бьёт §f<num>§r§7 раз
-§7§nAir Shout§r§7 can hit §f<num>§7 times, @ §7§nВоздушный Крик§r§7 бьёт §f<num>§r§7 раз
+§7§nAir Shout§7 can hit §f<num>§7 times, @ §7§nВоздушный Крик§r§7 бьёт §f<num>§r§7 раза
+§7§nAir Shout§r§7 can hit §f<num>§7 times, @ §7§nВоздушный Крик§r§7 бьёт §f<num>§r§7 раза
 §7and deals more damage. @ §7и наносит больше урона.
-§8§nAir Shout§r§8 can hit §7<num>§8 times, @ §8§nВоздушный Крик§r§8 бьёт §7<num>§r§8 раз
 
 # ─── Consecration ──────────────────────────────────────────────────────
 Consecration @ Освящение
 §7§7§nSacred Surge§7 grants §f<num> §bHoly Power §6§l✧§7 @ §7§nСвященный Всплеск§r§7 даёт §f<num>§r§7 §bСвященной Силы §6§l✧§r§7
 §7§nSacred Surge§r§7 grants §f<num> §bHoly Power §6§l✧ @ §7§nСвященный Всплеск§r§7 даёт §f<num>§r§7 §bСвященной Силы §6§l✧§r§7
-§7§7and deals increased damage. @ §7и наносит увеличенный урон.
-§7and deals increased damage. @ §7и наносит увеличенный урон.
 §7§7for every spell or ability triggered @ §7за каждое сработавшее заклинание или способность
 §7for every spell or ability triggered @ §7за каждое сработавшее заклинание или способность
-§8§nSacred Surge§r§8 grants §7<num> §7Holy Power §8§l✧ @ §8§nСвященный Всплеск§r§8 даёт §7<num>§r§8 §7Священной Силы §8§l✧§r§8
+§7§7and deals increased damage. @ §7и наносит увеличенный урон.
+§7and deals increased damage. @ §7и наносит увеличенный урон.
 
 # ─── Haemorrhage ───────────────────────────────────────────────────────
 Haemorrhage @ Кровотечение
@@ -709,64 +708,61 @@ Brink of Madness @ Грань Безумия
 §7You gain a §f<num>%§7 Resistance buff @ §7Получаете §f<num>%§r§7 бонуса к Сопротивлению,
 §7§7if your health is at §f<num>%§7 or less. @ §7если здоровье §f<num>%§r§7 или меньше.
 §7if your health is at §f<num>%§7 or less. @ §7если здоровье §f<num>%§r§7 или меньше.
-§8You gain a §7<num>%§8 Resistance buff @ §8Получаете §7<num>%§r§8 бонуса к Сопротивлению,
-§8if your health is at §7<num>%§8 or less. @ §8если здоровье §7<num>%§r§8 или меньше.
 
 # ─── Cheaper Uppercut II ───────────────────────────────────────────────
 Cheaper Uppercut II @ Экономный Апперкот II
 
 # ─── Heavenly Trumpet ──────────────────────────────────────────────────
 Heavenly Trumpet @ Небесная Труба
-§7All nearby allies are granted §f<num>%§7 §bOverhealth §6❤§7 @ §7Все ближние союзники получают §f<num>%§r§7 §bСверхздоровья §6❤§r§7
-§7All nearby allies are granted §f<num>%§7 §bOverhealth §6❤ @ §7Все ближние союзники получают §f<num>%§r§7 §bСверхздоровья §6❤§r§7
 §7§7Casting §nWar Scream§7 while holding shift @ §7§nБоевой Крик§r§7 с зажатым Shift
 §7Casting §nWar Scream§r§7 while holding shift @ §7§nБоевой Крик§r§7 с зажатым Shift
-§7§bOverhealth §6❤ §7decays over §f<num>s§7. @ §bСверхздоровье §6❤§r§7 угасает за §f<num>с§r§7.
-§7Overhealth §8❤ §8decays over §7<num>s§8. @ §7Сверхздоровье §8❤§r§8 угасает за §7<num>с§r§8.
-§7§7all of it to sound off a protective trumpet. @ §7всю её на защитную трубу.
-§7all of it to sound off a protective trumpet. @ §7всю её на защитную трубу.
-§7for each point of §bHoly Power §6§l✧§7 consumed. @ §7за каждую потраченную §bСвященную Силу §6§l✧§r§7.
-§7for each point of §bHoly Power §6§l✧§r§7 consumed. @ §7за каждую потраченную §bСвященную Силу §6§l✧§r§7.
 §7with at least §f<num>§7 §bHoly Power §6§l✧§7 will spend @ §7при §f<num>+§r§7 §bСвященной Силы §6§l✧§r§7 тратит
 §7with at least §f<num>§7 §bHoly Power §6§l✧§r§7 will spend @ §7при §f<num>+§r§7 §bСвященной Силы §6§l✧§r§7 тратит
-§8All nearby allies are granted §7<num>%§8 §7Overhealth §8❤ @ §8Все ближние союзники получают §7<num>%§r§8 §7Сверхздоровья §8❤§r§8
-§8with at least §7<num>§8 §7Holy Power §8§l✧§r§8 will spend @ §8при §7<num>+§r§8 §7Священной Силы §8§l✧§r§8 тратит
+§7§7all of it to sound off a protective trumpet. @ §7всю её на защитную трубу.
+§7all of it to sound off a protective trumpet. @ §7всю её на защитную трубу.
+§7All nearby allies are granted §f<num>%§7 §bOverhealth §6❤§7 @ §7Все ближние союзники получают §f<num>%§r§7 §bСверхздоровья §6❤§r§7
+§7All nearby allies are granted §f<num>%§7 §bOverhealth §6❤ @ §7Все ближние союзники получают §f<num>%§r§7 §bСверхздоровья §6❤§r§7
+§7for each point of §bHoly Power §6§l✧§7 consumed. @ §7за каждую потраченную §bСвященную Силу §6§l✧§r§7.
+§7for each point of §bHoly Power §6§l✧§r§7 consumed. @ §7за каждую потраченную §bСвященную Силу §6§l✧§r§7.
+§7§bOverhealth §6❤ §7decays over §f<num>s§7. @ §bСверхздоровье §6❤§r§7 угасает за §f<num>с§r§7.
+§7Overhealth §8❤ §8decays over §7<num>s§8. @ §7Сверхздоровье §8❤§r§8 угасает за §7<num>с§r§8.
 §bOverhealth §6❤ §7decays over §f<num>s§7. @ §bСверхздоровье §6❤§r§7 угасает за §f<num>с§r§7.
+§7<em> §7Range: §f<num> Blocks (Circle-Shaped) @ §7<em> §7Дальность: §f<num> блоков (Круг)
+
+# ─── Concussion ────────────────────────────────────────────────────────
+#   (нет строк в файле)
 
 # ─── Second Chance ─────────────────────────────────────────────────────
 Second Chance @ Второй Шанс
 §7§7Keeps you alive with §f<num>%§7 of your health @ §7Оставляет вас в живых с §f<num>%§r§7 здоровья
 §7Keeps you alive with §f<num>%§7 of your health @ §7Оставляет вас в живых с §f<num>%§r§7 здоровья
-§7§7after receiving a fatal blow. @ §7после смертельного удара.
-§7after receiving a fatal blow. @ §7после смертельного удара.
 §7§7remaining and makes all nearby allies invincible @ §7и делает всех ближних союзников неуязвимыми
 §7remaining and makes all nearby allies invincible @ §7и делает всех ближних союзников неуязвимыми
-§8Keeps you alive with §7<num>%§8 of your health @ §8Оставляет вас в живых с §7<num>%§r§8 здоровья
+§7§7after receiving a fatal blow. @ §7после смертельного удара.
+§7after receiving a fatal blow. @ §7после смертельного удара.
+§7<em> §7Effect: §fInvincibility (§b☗§f) to Allies @ §e<em> §7Эффект: §fНеуязвимость (§b☗§f) союзникам
 
 # ─── Rumble ────────────────────────────────────────────────────────────
 Rumble @ Грохот
 §7§7Increase §nBash§7's damage by §f<num>%§7 @ §7Усиливает урон §nБаша§r§7 на §f<num>%§r§7
 §7Increase §nBash§r§7's damage by §f<num>% @ §7Усиливает урон §nБаша§r§7 на §f<num>%§r§7
-§8Increase §nBash§r§8's damage by §7<num>% @ §8Усиливает урон §nБаша§r§8 на §7<num>%§r§8
+§7per §f<num> <em> §7Area of Effect it has. @ §7за каждые §f<num>§r§7 §3<em>§r§7 Зоны поражения.
+§7per §f<num> §3<em> §7Area of Effect it has. @ §7за каждые §f<num>§r§7 §3<em>§r§7 Зоны поражения.
 
 # ─── Tempestuous Winds ─────────────────────────────────────────────────
 Tempestuous Winds @ Бурные Ветра
 §7Cyclone will deal damage §f<num>s§7 faster. @ §7§nЦиклон§r§7 наносит урон на §f<num>с§r§7 быстрее.
 §7Increase §nTempest§7's damage. @ §7Усиливает урон §nБури§r§7.
 §7Increase §nTempest§r§7's damage. @ §7Усиливает урон §nБури§r§7.
-§8Cyclone will deal damage §7<num>s§8 faster. @ §8§nЦиклон§r§8 наносит урон на §7<num>с§r§8 быстрее.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nTempest§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nБури§r§8)
 
 # ─── Acceleration ──────────────────────────────────────────────────────
 Acceleration @ Ускорение
-§7§7(Max <num>%) @ §8(Максимум <num>%)
 §7§7Increase §nFlying Kick§7's damage @ §7Усиливает урон §nЛетающего Удара§r§7
 §7Increase §nFlying Kick§r§7's damage @ §7Усиливает урон §nЛетающего Удара§r§7
 §7§7by §f<num>%§7 per block travelled. @ §7на §f<num>%§r§7 за каждый пролетевший блок.
 §7by §f<num>%§7 per block travelled. @ §7на §f<num>%§r§7 за каждый пролетевший блок.
-§8§8(Max <num>%) @ §8(Максимум <num>%)
-§8§8Increase §nFlying Kick§8's damage @ §8Усиливает урон §nЛетающего Удара§r§8
-§8§8by §7<num>%§8 per block travelled. @ §8на §7<num>%§r§8 за каждый пролетевший блок.
-§8by §7<num>%§8 per block travelled. @ §8на §7<num>%§r§8 за каждый пролетевший блок.
+§7§7(Max <num>%) @ §8(Максимум <num>%)
 
 # ─── Shine ─────────────────────────────────────────────────────────────
 Shine @ Сверкание
@@ -777,221 +773,248 @@ Shine @ Сверкание
 
 # ─── Bloodied Armory ───────────────────────────────────────────────────
 Bloodied Armory @ Кровавый Арсенал
+§7§lBloodied Armory @ Кровавый Арсенал
+§c- §7Bloodied Armory @ §c- §7Кровавый Арсенал
+§c- §cBloodied Armory @ §c- §cКровавый Арсенал
+§r§c- §7Bloodied Armory @ §r§c- §7Кровавый Арсенал
+§r§c- §cBloodied Armory @ §r§c- §cКровавый Арсенал
 §7§7Activating §nBlood Pact§7 adds a blood swipe @ §7Активация §nКровавого Пакта§r§7 добавляет кровавый взмах
 §7Activating §nBlood Pact§r§7 adds a blood swipe @ §7Активация §nКровавого Пакта§r§7 добавляет кровавый взмах
-§7§lBloodied Armory @ Кровавый Арсенал
+§8§8Activating §nBlood Pact§8 adds a blood swipe @ §8Активация §nКровавого Пакта§r§8 добавляет кровавый взмах
 §7§7to your next §nMain Attack§7. (Max <num>) @ §7к следующей §nОсновной Атаке§r§7. §8(Максимум <num>)
 §7to your next §nMain Attack§r§7. (Max <num>) @ §7к следующей §nОсновной Атаке§r§7. §8(Максимум <num>)
-§8§8(Damage is dealt as §nMain Attack Damage§8) @ §8§8(Урон наносится как §nУрон Осн. Атаки§r§8)
-§8§8Activating §nBlood Pact§8 adds a blood swipe @ §8Активация §nКровавого Пакта§r§8 добавляет кровавый взмах
 §8§8to your next §nMain Attack§8. (Max <num>) @ §8к следующей §nОсновной Атаке§r§8. §8(Максимум <num>)
 §8to your next §nMain Attack§r§8. (Max <num>) @ §8к следующей §nОсновной Атаке§r§8. §8(Максимум <num>)
+§8§8(Damage is dealt as §nMain Attack Damage§8) @ §8§8(Урон наносится как §nУрон Осн. Атаки§r§8)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per Swipe) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за взмах)
 
 # ─── Ecstasy ───────────────────────────────────────────────────────────
 Ecstasy @ Экстаз
 §7§7Increase §nBloodlust§7's bonus damage per @ §7Усиливает бонусный урон §nЖажды Крови§r§7 за
 §7Increase §nBloodlust§r§7's bonus damage per @ §7Усиливает бонусный урон §nЖажды Крови§r§7 за
-§8§8Increase §nBloodlust§8's bonus damage per @ §8Усиливает бонусный урон §nЖажды Крови§r§8 за
+§7§f<num>% §bCorrupted <em>§7 by §f<num>%§7. @ §f<num>%§r§7 §bСкверны §4<em>§r§7 на §f<num>%§r§7.
+§f<num>% §bCorrupted §4<em>§r§7 by §f<num>%§7. @ §f<num>%§r§7 §bСкверны §4<em>§r§7 на §f<num>%§r§7.
+§7<num>% §7Corrupted §8<em>§r§8 by §7<num>%§8. @ §7<num>%§r§8 §7Скверны §8<em>§r§8 на §7<num>%§r§8.
 
 # ─── Baffling Blows ────────────────────────────────────────────────────
 Baffling Blows @ Сбивающие Удары
-§7§bDiscombobulated §e⚙ §7by §f<num>§7. @ §bОшеломления §e⚙§r§7 на §f<num>§r§7.
 §7§7Increase your maximum @ §7Увеличивает максимум
 §7Increase your maximum @ §7Увеличивает максимум
-§8§7Discombobulated §7⚙ §8by §7<num>§8. @ §7Ошеломления §7⚙§r§8 на §7<num>§r§8.
+§7§bDiscombobulated §e⚙ §7by §f<num>§7. @ §bОшеломления §e⚙§r§7 на §f<num>§r§7.
+§bDiscombobulated §e<em> §7by §f<num>§7. @ §bОшеломления §e<em>§r§7 на §f<num>§r§7.
+§7§bDiscombobulated §e<em> §7by §f<num>§7. @ §bОшеломления §e<em>§r§7 на §f<num>§r§7.
+§7Discombobulated §7<em> §8by §7<num>§8. @ §7Ошеломления §7<em>§r§8 на §7<num>§r§8.
 
 # ─── Harmony ───────────────────────────────────────────────────────────
 Harmony @ Гармония
-§7§f<num> §bHarmony§7 for §f<num>s§7. (Max <num>) @ §f<num>§r§7 §bГармонии§r§7 на §f<num>с§r§7. §8(Максимум <num>)
-§7<num> §7Harmony§8 for §7<num>s§8. (Max <num>) @ §7<num>§r§8 §7Гармонии§r§8 на §7<num>с§r§8. §8(Максимум <num>)
 §7§7Activating §nGeneralist§7 grants @ §7Активация §nУниверсала§r§7 даёт
 §7Activating §nGeneralist§r§7 grants @ §7Активация §nУниверсала§r§7 даёт
+§7§f<num> §bHarmony§7 for §f<num>s§7. (Max <num>) @ §f<num>§r§7 §bГармонии§r§7 на §f<num>с§r§7. §8(Максимум <num>)
+§7<num> §7Harmony§8 for §7<num>s§8. (Max <num>) @ §7<num>§r§8 §7Гармонии§r§8 на §7<num>с§r§8. §8(Максимум <num>)
+§f<num> §bHarmony§7 for §f<num>s§7. (Max <num>) @ §f<num>§r§7 §bГармонии§r§7 на §f<num>с§r§7. §8(Максимум <num>)
 §7§7Gain §f<num>%§7 Damage per §f<num>§7 §bHarmony§7. @ §7§f<num>%§r§7 урона за каждые §f<num>§r§7 §bГармонии§r§7.
 §7Gain §f<num>%§7 Damage per §f<num>§7 §bHarmony§7. @ §7§f<num>%§r§7 урона за каждые §f<num>§r§7 §bГармонии§r§7.
-§8§7<num> §7Harmony§8 for §7<num>s§8. (Max <num>) @ §7<num>§r§8 §7Гармонии§r§8 на §7<num>с§r§8. §8(Максимум <num>)
-§8§8Gain §7<num>%§8 Damage per §7<num>§8 §7Harmony§8. @ §8§7<num>%§r§8 урона за каждые §7<num>§r§8 §7Гармонии§r§8.
-§8Gain §7<num>%§8 Damage per §7<num>§8 §7Harmony§8. @ §8§7<num>%§r§8 урона за каждые §7<num>§r§8 §7Гармонии§r§8.
-§f<num> §bHarmony§7 for §f<num>s§7. (Max <num>) @ §f<num>§r§7 §bГармонии§r§7 на §f<num>с§r§7. §8(Максимум <num>)
 
 # ─── Buried Light ──────────────────────────────────────────────────────
 Buried Light @ Погребённый Свет
-§7<num> Holy Power §l✧ to summon a beam  @ §f<num>§r§7 §bСвященной Силы §6§l✧§r§7, призывая луч
-§7<num> §7Holy Power §8§l✧ §8to summon a beam @ §7<num>§r§8 §7Священной Силы §8§l✧§r§8, призывая луч
 §7Casting Bash while sneaking will consume  @ §7§nБаш§r§7 в приседе тратит
 §7Casting §nBash§r§7 while sneaking will consume @ §7§nБаш§r§7 в приседе тратит
+§7<num> Holy Power §l✧ to summon a beam  @ §f<num>§r§7 §bСвященной Силы §6§l✧§r§7, призывая луч
+§7<num> §7Holy Power §8§l✧ §8to summon a beam @ §7<num>§r§8 §7Священной Силы §8§l✧§r§8, призывая луч
+§f<num> §bHoly Power §6§l✧ §7to summon a beam @ §f<num>§r§7 §bСвященной Силы §6§l✧§r§7, призывая луч
+§7of light which slowly moves forward, @ §7света, который медленно движется вперёд,
 §7damaging enemies every <num>s. @ §7нанося урон врагам каждые §f<num>с§r§7.
 §7damaging enemies every §f<num>s§7. @ §7нанося урон врагам каждые §f<num>с§r§7.
-§7of light which slowly moves forward, @ §7света, который медленно движется вперёд,
-§8damaging enemies every §7<num>s§8. @ §8нанося урон врагам каждые §7<num>с§r§8.
-§f<num> §bHoly Power §6§l✧ §7to summon a beam @ §f<num>§r§7 §bСвященной Силы §6§l✧§r§7, призывая луч
 
 # ─── Spectacle ─────────────────────────────────────────────────────────
 Spectacle @ Зрелище
 §7§7Increase §nFireworks§7' and §nComet§7's damage. @ §7Усиливает урон §nФейерверка§r§7 и §nКометы§r§7.
 §7Increase §nFireworks§r§7' and §nComet§r§7's damage. @ §7Усиливает урон §nФейерверка§r§7 и §nКометы§r§7.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nFireworks§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nФейерверка§r§8)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nComet§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nКометы§r§8)
 
 # ─── Devout Union ──────────────────────────────────────────────────────
 Devout Union @ Благочестивый Союз
 §7§f<num>%§7 of damage taken by nearby @ §f<num>%§r§7 урона, получаемого ближними
 §7<num>%§8 of damage taken by nearby @ §7<num>%§r§8 урона, получаемого ближними
-§7§7Gain §f<num>% §7Base Resistance. @ §7Получаете §f<num>%§r§7 Базового Сопротивления.
-§7Gain §f<num>% §7Base Resistance. @ §7Получаете §f<num>%§r§7 Базового Сопротивления.
+§f<num>%§7 of damage taken by nearby @ §f<num>%§r§7 урона, получаемого ближними
 §7§7allies is redirected to you. @ §7союзниками, перенаправляется на вас.
 §7allies is redirected to you. @ §7союзниками, перенаправляется на вас.
-§8Gain §7<num>% §8Base Resistance. @ §8Получаете §7<num>%§r§8 Базового Сопротивления.
-§f<num>%§7 of damage taken by nearby @ §f<num>%§r§7 урона, получаемого ближними
+§7§7Gain §f<num>% §7Base Resistance. @ §7Получаете §f<num>%§r§7 Базового Сопротивления.
+§7Gain §f<num>% §7Base Resistance. @ §7Получаете §f<num>%§r§7 Базового Сопротивления.
 
 # ─── Enlightenment ─────────────────────────────────────────────────────
 Enlightenment @ Просветление
-§7§7§f<num>§7 charge of §nMantle of the Bovemist§7 to nearby @ §f<num>§r§7 заряд §nМантии Бовемистов§r§7 ближним
-§7<num>§8 charge of §nMantle of the Bovemist§r§8 to nearby @ §7<num>§r§8 заряд §nМантии Бовемистов§r§8 ближним
 §7§7Add §f<num>§7 additional charge @ §7Добавляет §f<num>§r§7 заряд
 §7Add §f<num>§7 additional charge @ §7Добавляет §f<num>§r§7 заряд
-§7§7§nShield Strike§7 will deal more damage and grant @ §7§nУдар Щитом§r§7 наносит больше урона и даёт
-§7§nShield Strike§r§7 will deal more damage and grant @ §7§nУдар Щитом§r§7 наносит больше урона и даёт
-§7§7allies for every §f<num>§7 broken mantles used. @ §7союзникам за каждые §f<num>§r§7 потраченных расколотых мантий.
-§7allies for every §f<num>§7 broken mantles used. @ §7союзникам за каждые §f<num>§r§7 потраченных расколотых мантий.
 §7§7to §nMantle of the Bovemists§7. @ §7§nМантии Бовемистов§r§7.
 §7to §nMantle of the Bovemists§r§7. @ §7§nМантии Бовемистов§r§7.
-§8Add §7<num>§8 additional charge @ §8Добавляет §7<num>§r§8 заряд
-§8allies for every §7<num>§8 broken mantles used. @ §8союзникам за каждые §7<num>§r§8 потраченных расколотых мантий.
+§7§7§nShield Strike§7 will deal more damage and grant @ §7§nУдар Щитом§r§7 наносит больше урона и даёт
+§7§nShield Strike§r§7 will deal more damage and grant @ §7§nУдар Щитом§r§7 наносит больше урона и даёт
+§7§7§f<num>§7 charge of §nMantle of the Bovemist§7 to nearby @ §f<num>§r§7 заряд §nМантии Бовемистов§r§7 ближним
+§7<num>§8 charge of §nMantle of the Bovemist§r§8 to nearby @ §7<num>§r§8 заряд §nМантии Бовемистов§r§8 ближним
 §f<num>§7 charge of §nMantle of the Bovemist§r§7 to nearby @ §f<num>§r§7 заряд §nМантии Бовемистов§r§7 ближним
+§7§7allies for every §f<num>§7 broken mantles used. @ §7союзникам за каждые §f<num>§r§7 потраченных расколотых мантий.
+§7allies for every §f<num>§7 broken mantles used. @ §7союзникам за каждые §f<num>§r§7 потраченных расколотых мантий.
 
 # ─── Beyond Salvation ──────────────────────────────────────────────────
 Beyond Salvation @ За Гранью Спасения
-§7<num>% Overhealth ❤ even while Corrupted. @ §f<num>%§r§7 §bСверхздоровья §6❤§r§7 даже в Скверне.
-§7<num>% §7Overhealth §8❤ §8even while Corrupted. @ §7<num>%§r§8 §7Сверхздоровья §8❤§r§8 даже в Скверне.
-§7Activate abilities or take damage to charge @ §7Используйте способности или получайте урон, чтобы зарядить
-§7§7Bonus health decays over §f<num>s§7. @ §7Бонусное здоровье угасает за §f<num>с§r§7.
-§7Bonus health decays over §f<num>s§7. @ §7Бонусное здоровье угасает за §f<num>с§r§7.
-§7Casting Main Attack or Uppercut on a spike @ §7§nОсновная Атака§r§7 или §nАпперкот§r§7 по шипу
-§7Casting §nMain Attack§r§7 or §nUppercut§r§7 on a spike @ §7§nОсновная Атака§r§7 или §nАпперкот§r§7 по шипу
 §7Summons <num> Corrupted Spikes that rise from @ §7Призывает §f<num>§r§7 Шипов Скверны из
 §7Summons §f<num> §7Corrupted Spikes that rise from @ §7Призывает §f<num>§r§7 Шипов Скверны из
 §7the earth around you, dealing damage. @ §7земли вокруг вас, нанося урон.
+§7Casting Main Attack or Uppercut on a spike @ §7§nОсновная Атака§r§7 или §nАпперкот§r§7 по шипу
+§7Casting §nMain Attack§r§7 or §nUppercut§r§7 on a spike @ §7§nОсновная Атака§r§7 или §nАпперкот§r§7 по шипу
 §7will detonate it, dealing damage and granting  @ §7взрывает его, нанося урон и давая
 §7will detonate it, dealing damage and granting @ §7взрывает его, нанося урон и давая
-§8Bonus health decays over §7<num>s§8. @ §8Бонусное здоровье угасает за §7<num>с§r§8.
-§8Summons §7<num> §8Corrupted Spikes that rise from @ §8Призывает §7<num>§r§8 Шипов Скверны из
+§7<num>% Overhealth ❤ even while Corrupted. @ §f<num>%§r§7 §bСверхздоровья §6❤§r§7 даже в Скверне.
+§7<num>% §7Overhealth §8❤ §8even while Corrupted. @ §7<num>%§r§8 §7Сверхздоровья §8❤§r§8 даже в Скверне.
 §f<num>% §bOverhealth §6❤ §7even while Corrupted. @ §f<num>%§r§7 §bСверхздоровья §6❤§r§7 даже в Скверне.
+§7§7Bonus health decays over §f<num>s§7. @ §7Бонусное здоровье угасает за §f<num>с§r§7.
+§7Bonus health decays over §f<num>s§7. @ §7Бонусное здоровье угасает за §f<num>с§r§7.
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, summon) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, призыв)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, detonate) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, при детонации)
+§7Activate abilities or take damage to charge @ §7Используйте способности или получайте урон, чтобы зарядить
+§7your §bUltimate Meter <em> §7to <num>% @ §7§bУльту §e<em>§r§7 до <num>%
 
 # ─── Judgement ─────────────────────────────────────────────────────────
 Judgement @ Суд
-§7            §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §7            §f<num>%§r§7 Эффективность ID (§6❈§7) союзникам
-§7            §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §7            §f<num>%§r§7 Сопротивление (§a❁§7) союзникам
 §7Call upon a blade from the heavens, @ §7Призывает клинок с небес,
-§7and grant buffs to nearby allies. @ §7и дающий бонусы ближним союзникам.
 §7that will deal damage upon impact @ §7наносящий урон при ударе
-§8            §7<num>% §8ID Effectiveness (§8❈§8) to Allies @ §8            §7<num>%§r§8 Эффективность ID (§8❈§8) союзникам
-§8            §7<num>% §8Resistance Bonus (§7❁§8) to Allies @ §8            §7<num>%§r§8 Сопротивление (§7❁§8) союзникам
+§7and grant buffs to nearby allies. @ §7и дающий бонусы ближним союзникам.
+§7            §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §7            §f<num>%§r§7 Сопротивление (§a❁§7) союзникам
+§7          ÀÀ  §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §7          ÀÀ  §f<num>% §7Сопротивление (§a❁§7) к союзникам
+§7            §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §7            §f<num>%§r§7 Эффективность ID (§6❈§7) союзникам
+§7          ÀÀ  §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §7          ÀÀ  §f<num>% §7Эффективность ID (§6❈§7) союзникам
 
 # ─── Zenith Stance ─────────────────────────────────────────────────────
 Zenith Stance @ Стойка Зенита
-§7Casting Main Attack while active performs @ §7Основная Атака во время эффекта выполняет
 §7Manifest your combat mastery as <num> floating @ §7Проявляет ваше боевое мастерство в виде <num> летающих
-§7between dealing Spell and Main Attack damage. @ §7между уроном Заклинания и Осн. Атаки.
 §7fists that you freely command. @ §7кулаков, которыми вы свободно управляете.
-§8Manifest your combat mastery as <num> floating @ §8Проявляет ваше боевое мастерство в виде <num> летающих
-
-# ══════════════════════════════════════════════════════════════════════
-# ШАБЛОНЫ - общие статы (Mana Cost, Total Damage, Range, …)
-# ══════════════════════════════════════════════════════════════════════
-
-# ─── Air Damage ────────────────────────────────────────────────────────
-
-# ─── Area of Effect ────────────────────────────────────────────────────
-§7<em> §7Area of Effect: §f<num> Blocks §7 @ §7<em> §7Зона поражения: §f<num> блоков §7
-§7<em> §7Area of Effect: §f<num>-<num> Blocks §7(Cone-Shaped) @ §3<em> §7Зона поражения: §f<num>-<num> блоков §7(Конус)
-§7<em> §7Area of Effect: §f<num><num> Blocks §7(Cone-Shaped) @ §3<em> §7Зона поражения: §f<num><num> блоков §7(Конус)
-§7<em> §7Area of Effect: §fCircle-Shaped @ §3<em> §7Зона поражения: §fКруг
-§8<em> §8Area of Effect: §7<num>-<num> Blocks §8(Cone-Shaped) @ §8<em> §8Зона поражения: §7<num>-<num> блоков §8(Конус)
-§8<em> §8Area of Effect: §7<num><num> Blocks §8(Cone-Shaped) @ §8<em> §8Зона поражения: §7<num><num> блоков §8(Конус)
-§8<em> §8Area of Effect: §7Circle-Shaped @ §8<em> §8Зона поражения: §7Круг
-
-# ─── Cooldown ──────────────────────────────────────────────────────────
-§7<em> §7Cooldown: §f<num>s §7(per enemy) @ §e<em> §7Перезарядка: §f<num>с §7(за врага)
-§7<em> §7Cooldown: §f<num>s §8(for Holy Power) @ §e<em> §7Перезарядка: §f<num>с §8(для Священной Силы)
-§7<em> §7Cooldown: §f<num>s §8(for hits) @ §e<em> §7Перезарядка: §f<num>с §8(за удары)
-§8<em> §8Cooldown: §7<num>s §8(for Holy Power) @ §7<em> §8Перезарядка: §7<num>с §8(для Священной Силы)
-§8<em> §8Cooldown: §7<num>s §8(for hits) @ §7<em> §8Перезарядка: §7<num>с §8(за удары)
-§8<em> §8Cooldown: §7<num>s §8(per enemy) @ §7<em> §8Перезарядка: §7<num>с §8(за врага)
-
-# ─── Damage Bonus ──────────────────────────────────────────────────────
-§7<em> §7Damage Bonus: §f<num> §7(Raw) @ §c<em> §7Бонус к урону: §f<num> §7(Чистый)
-§8<em> §8Damage Bonus: §7<num> §8(Raw) @ §c<em> §8Бонус к урону: §7<num> §8(Чистый)
-
-# ─── Duration ──────────────────────────────────────────────────────────
-§7<em> Duration: <num>s @ §7<em> Длительность: <num>с
-
-# ─── Earth Damage ──────────────────────────────────────────────────────
-
-# ─── Effect ────────────────────────────────────────────────────────────
-§7<em> §7Effect: §f<num>% §7Damage Bonus (§a⚔§7) to Players @ §e<em> §7Эффект: §f<num>% §7Бонус к урону (§a⚔§7) игрокам
-§7<em> §7Effect: §f<num>% §7Damage Bonus (§a⚔§7) to Self @ §e<em> §7Эффект: §f<num>%§r§7 Бонус к урону (§a⚔§7) себе
-§7<em> §7Effect: §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §e<em> §7Эффект: §f<num>% §7Эффективность ID (§6❈§7) союзникам
-§7<em> §7Effect: §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §e<em> §7Эффект: §f<num>%§r§7 Сопротивление (§a❁§7) союзникам
-§7<em> §7Effect: §fInvincibility (§b☗§f) to Allies @ §e<em> §7Эффект: §fНеуязвимость (§b☗§f) союзникам
-§8<em> §8Effect: §7<num>% §8Damage Bonus (§7⚔§8) to Players @ §7<em> §8Эффект: §7<num>% §8Бонус к урону (§7⚔§8) игрокам
-§8<em> §8Effect: §7<num>% §8Damage Bonus (§7⚔§8) to Self @ §7<em> §8Эффект: §7<num>%§r§8 Бонус к урону (§7⚔§8) себе
-§8<em> §8Effect: §7<num>% §8ID Effectiveness (§8❈§8) to Allies @ §7<em> §8Эффект: §7<num>% §8Эффективность ID (§8❈§8) союзникам
-§8<em> §8Effect: §7<num>% §8Resistance Bonus (§7❁§8) to Allies @ §7<em> §8Эффект: §7<num>%§r§8 Сопротивление (§7❁§8) союзникам
-§8<em> §8Effect: §7<num>% §8Slowness (<em>§8) to Enemies @ §8<em> §8Эффект: §7<num>% §8Замедление (<em>§8) к врагам
-§8<em> §8Effect: §7Invincibility (§7☗§7) to Allies @ §7<em> §8Эффект: §7Неуязвимость (§7☗§7) союзникам
-
-# ─── Fire Damage ───────────────────────────────────────────────────────
-
-# ─── Main Attack Damage ────────────────────────────────────────────────
-§8<em> §8Main Attack Damage: §7<num>% @ §8<em> §8Урон Осн. Атаки: §7<num>%
-
-# ─── Main Attack Range ─────────────────────────────────────────────────
-§7<em> §7Main Attack Range: §f<num> Block @ §2<em> §7Дальность Осн. Атаки: §f<num> блок
-§7<em> §7Main Attack Range: §f<num>% @ §7<em> §7Дальность Осн. Атаки: §f<num>%
-§8<em> §8Main Attack Range: §7<num> Block @ §8<em> §8Дальность Осн. Атаки: §7<num> блок
-§8<em> §8Main Attack Range: §7<num>% @ §8<em> §8Дальность Осн. Атаки: §7<num>%
-
-# ─── Mana Cost ─────────────────────────────────────────────────────────
-§7<em> §7Mana Cost: §c<num>% @ §7<em> §7Затраты маны: §c<num>%
-§8<em> §8Mana Cost: §c<num> @ §8<em> §8Затраты маны: §c<num>
-§8<em> §8Mana Cost: §c<num>% @ §8<em> §8Затраты маны: §c<num>%
-
-# ─── Range ─────────────────────────────────────────────────────────────
-§7<em> §7Range: §f<num> Block @ §2<em> §7Дальность: §f<num> блок
-§7<em> §7Range: §f<num> Blocks (Circle-Shaped) @ §7<em> §7Дальность: §f<num> блоков (Круг)
-§7<em> §7Range: §f<num>~<num> Blocks @ §7<em> §7Дальность: §f<num>~<num> блоков
-
-# ─── Thunder Damage ────────────────────────────────────────────────────
-
-# ─── Total Damage ──────────────────────────────────────────────────────
-§7<em> §7Total Damage: §c<num>% §8(of your DPS, per bash) @ §b<em> §7Общий урон: §c<num>% §8(от вашего DPS, за баш)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, detonate) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, при детонации)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, per Bash) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за Баш)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, per Swipe) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за взмах)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, per bash) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за баш)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, per broken mantle) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за расколотую мантию)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, per ripple) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за волну)
+§7Casting Main Attack while active performs @ §7§nОсновная Атака §7во время эффекта выполняет
+§7between dealing Spell and Main Attack damage. @ §7между уроном Заклинания и Осн. Атаки.
 §7<em> §7Total Damage: §f<num>% §8(of your DPS, spell) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, заклинание)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, summon) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, призыв)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nComet§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nКометы§r§8)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nFireworks§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nФейерверка§r§8)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS, to §nTempest§8) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, до §nБури§r§8)
-§7<em> §7Total Damage: §f<num>% §8(of your DPS§8) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS§8)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, detonate) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, при детонации)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, per Bash) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за Баш)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, per Swipe) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за взмах)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, per bash) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за баш)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, per broken mantle) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за расколотую мантию)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, per ripple) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, за волну)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, spell) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, заклинание)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, summon) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, призыв)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, to §nComet§8) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, до §nКометы§r§8)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, to §nFireworks§8) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, до §nФейерверка§r§8)
-§8<em> §8Total Damage: §7<num>% §8(of your DPS, to §nTempest§8) @ §c<em> §8Общий урон: §7<num>% §8(от вашего DPS, до §nБури§r§8)
-§8<em> §8Total Damage: §c<num>% §8(of your DPS, per bash) @ §7<em> §8Общий урон: §c<num>% §8(от вашего DPS, за баш)
-
-# ─── Water Damage ──────────────────────────────────────────────────────
 
 # ══════════════════════════════════════════════════════════════════════
-# УСЛОВИЕ - Required Ability ✔/✖
+# ОБЩИЕ / СТАТЫ (встречаются у многих скиллов)
+# ══════════════════════════════════════════════════════════════════════
+§6§lFallen Archetype @ §6§lАрхетип: Падший
+§e§lBattle Monk Archetype @ §e§lАрхетип: Боевой Монах
+§3§lPaladin Archetype @ §3§lАрхетип: Паладин
+§7Fallen Archetype @ §6§lАрхетип: Падший
+§7Battle Monk Archetype @ §e§lАрхетип: Боевой Монах
+§7Paladin Archetype @ §3§lАрхетип: Паладин
+§7<em> §7Area of Effect: §f<num> Blocks §7 @ §7<em> §7Зона поражения: §f<num> блоков §7
+§7<em> Duration: <num>s @ §7<em> Длительность: <num>с
+§7<em> §7Mana Cost: §c<num>% @ §7<em> §7Затраты маны: §c<num>%
+§7<em> §7Range: §f<num>~<num> Blocks @ §7<em> §7Дальность: §f<num>~<num> блоков
+§7<em> §7Total Damage: §c<num>% §8(of your DPS, per bash) @ §b<em> §7Общий урон: §c<num>% §8(от вашего DPS, за баш)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per Bash) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за Баш)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, per bash) @ §c<em> §7Общий урон: §f<num>% §8(от вашего DPS, за баш)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS§8) @ §7<em> §7Общий урон: §f<num>% §8(от вашего DPS§8)
+§7§a✔ §7Min Battle Monk Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Боевой Монах: §f§a<num>§7/<num>
+§7§a✔ §7Min Fallen Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Падший: §f§a<num>§7/<num>
+§7§a✔ §7Min Paladin Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Паладин: §f§a<num>§7/<num>
+§7§c✖ §7Min Battle Monk Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Боевой Монах: §f§c<num>§7/<num>
+§7§c✖ §7Min Fallen Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Падший: §f§c<num>§7/<num>
+§7§c✖ §7Min Paladin Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Паладин: §f§c<num>§7/<num>
+§7  ÀÀÀÀ§8(<em><em><em><em><em> §8Damage: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em><em><em><em><em> §8Физический: §8<num>%§8)
+
+# ══════════════════════════════════════════════════════════════════════
+# РАЗБЛОКИРОВКА (Unlock X ability) — RU перегенерить из карты имён
+# ══════════════════════════════════════════════════════════════════════
+§aUnlock Acceleration§a ability @ §aРазблокировать способность §e§lУскорение
+§aUnlock Aerodynamics§a ability @ §aРазблокировать способность §e§lАэродинамика
+§aUnlock Air Shout§a ability @ §aРазблокировать способность §d§lВоздушный Крик
+§aUnlock Armour Breaker§a ability @ §aРазблокировать способность §b§lПробой Брони
+§aUnlock Axe Kick§a ability @ §aРазблокировать способность §f§lУдар Топором
+§aUnlock Baffling Blows§a ability @ §aРазблокировать способность §f§lСбивающие Удары
+§aUnlock Bak'al's Grasp§a ability @ §aРазблокировать способность §c§lХватка Бак'ала
+§aUnlock Bash§a ability @ §aРазблокировать способность §a§lБаш
+§aUnlock Beyond Salvation§a ability @ §aРазблокировать способность §5§lЗа Гранью Спасения
+§aUnlock Blessed Bulwark§a ability @ §aРазблокировать способность §f§lБлагословенный Оплот
+§aUnlock Blood Pact§a ability @ §aРазблокировать способность §c§lКровавый Пакт
+§aUnlock Bloodied Armory§a ability @ §aРазблокировать способность §b§lКровавый Арсенал
+§aUnlock Bloodlust§a ability @ §aРазблокировать способность §c§lЖажда Крови
+§aUnlock Boiling Blood§a ability @ §aРазблокировать способность §d§lКипящая Кровь
+§aUnlock Brink of Madness§a ability @ §aРазблокировать способность §b§lГрань Безумия
+§aUnlock Buried Light§a ability @ §aРазблокировать способность §b§lПогребённый Свет
+§aUnlock Charge§a ability @ §aРазблокировать способность §a§lРывок
+§aUnlock Cheaper Bash II§a ability @ §aРазблокировать способность §f§lЭкономный Баш II
+§aUnlock Cheaper Bash§a ability @ §aРазблокировать способность §f§lЭкономный Баш
+§aUnlock Cheaper Charge§a ability @ §aРазблокировать способность §f§lЭкономный Рывок
+§aUnlock Cheaper Uppercut II§a ability @ §aРазблокировать способность §f§lЭкономный Апперкот II
+§aUnlock Cheaper Uppercut§a ability @ §aРазблокировать способность §f§lЭкономный Апперкот
+§aUnlock Cheaper War Scream II§a ability @ §aРазблокировать способность §f§lЭкономный Боевой Крик II
+§aUnlock Cheaper War Scream§a ability @ §aРазблокировать способность §f§lЭкономный Боевой Крик
+§aUnlock Cleansing Breeze§a ability @ §aРазблокировать способность §e§lОчищающий Бриз
+§aUnlock Collide§a ability @ §aРазблокировать способность §e§lСтолкновение
+§aUnlock Comet§a ability @ §aРазблокировать способность §d§lКомета
+§aUnlock Consecration§a ability @ §aРазблокировать способность §f§lОсвящение
+§aUnlock Counter§a ability @ §aРазблокировать способность §e§lКонтрудар
+§aUnlock Crushing Blow§a ability @ §aРазблокировать способность §f§lСокрушительный Удар
+§aUnlock Cyclone§a ability @ §aРазблокировать способность §d§lЦиклон
+§aUnlock Devout Union§a ability @ §aРазблокировать способность §e§lБлагочестивый Союз
+§aUnlock Discombobulate§a ability @ §aРазблокировать способность §d§lОшеломление
+§aUnlock Double Bash§a ability @ §aРазблокировать способность §e§lДвойной Баш
+§aUnlock Ecstasy§a ability @ §aРазблокировать способность §f§lЭкстаз
+§aUnlock Emboldening Cry§a ability @ §aРазблокировать способность §d§lВоодушевляющий Крик
+§aUnlock Enlightenment§a ability @ §aРазблокировать способность §d§lПросветление
+§aUnlock Enraged Blow§a ability @ §aРазблокировать способность §b§lЯростный Удар
+§aUnlock Exhilarate§a ability @ §aРазблокировать способность §e§lВоодушевление
+§aUnlock Fireworks§a ability @ §aРазблокировать способность §d§lФейерверк
+§aUnlock Flaming Uppercut§a ability @ §aРазблокировать способность §d§lПылающий Апперкот
+§aUnlock Flyby Jab§a ability @ §aРазблокировать способность §e§lПролётный Джеб
+§aUnlock Flying Kick§a ability @ §aРазблокировать способность §b§lЛетающий Удар
+§aUnlock Freestream Flow§a ability @ §aРазблокировать способность §e§lСвободный Поток
+§aUnlock Generalist§a ability @ §aРазблокировать способность §c§lУниверсал
+§aUnlock Haemorrhage§a ability @ §aРазблокировать способность §f§lКровотечение
+§aUnlock Half-Moon Swipe§a ability @ §aРазблокировать способность §b§lПолумесяц
+§aUnlock Hallowed Blaze§a ability @ §aРазблокировать способность §d§lСвященное Пламя
+§aUnlock Harmony§a ability @ §aРазблокировать способность §b§lГармония
+§aUnlock Heavenly Trumpet§a ability @ §aРазблокировать способность §c§lНебесная Труба
+§aUnlock Heavy Impact§a ability @ §aРазблокировать способность §e§lТяжёлый Удар
+§aUnlock Intoxicating Blood§a ability @ §aРазблокировать способность §e§lОпьяняющая Кровь
+§aUnlock Iron Lungs§a ability @ §aРазблокировать способность §e§lЖелезные Лёгкие
+§aUnlock Judgement§a ability @ §aРазблокировать способность §5§lСуд
+§aUnlock Luster Purge§a ability @ §aРазблокировать способность §d§lСияющая Чистка
+§aUnlock Manachism§a ability @ §aРазблокировать способность §b§lМаназохизм
+§aUnlock Mantle of the Bovemists§a ability @ §aРазблокировать способность §c§lМантия Бовемистов
+§aUnlock Massacre§a ability @ §aРазблокировать способность §e§lРезня
+§aUnlock Massive Bash§a ability @ §aРазблокировать способность §b§lМощный Баш
+§aUnlock Mindless Slaughter§a ability @ §aРазблокировать способность §e§lБездумная Бойня
+§aUnlock Mythril Skin§a ability @ §aРазблокировать способность §e§lМифриловая Кожа
+§aUnlock Overwhelming Rage§a ability @ §aРазблокировать способность §f§lВсепоглощающая Ярость
+§aUnlock Pressure§a ability @ §aРазблокировать способность §c§lДавление
+§aUnlock Provoke§a ability @ §aРазблокировать способность §b§lПровокация
+§aUnlock Quadruple Bash§a ability @ §aРазблокировать способность §d§lЧетверной Баш
+§aUnlock Radiance§a ability @ §aРазблокировать способность §b§lСияние
+§aUnlock Radiant Devotee§a ability @ §aРазблокировать способность §f§lСияющий Послушник
+§aUnlock Rejuvenating Skin§a ability @ §aРазблокировать способность §b§lРегенерация Кожи
+§aUnlock Reverberance§a ability @ §aРазблокировать способность §e§lРеверберация
+§aUnlock Riposte§a ability @ §aРазблокировать способность §f§lРипост
+§aUnlock Rumble§a ability @ §aРазблокировать способность §b§lГрохот
+§aUnlock Sacred Surge§a ability @ §aРазблокировать способность §c§lСвященный Всплеск
+§aUnlock Second Chance§a ability @ §aРазблокировать способность §b§lВторой Шанс
+§aUnlock Shield Strike§a ability @ §aРазблокировать способность §d§lУдар Щитом
+§aUnlock Shine§a ability @ §aРазблокировать способность §f§lСверкание
+§aUnlock Sparkling Hope§a ability @ §aРазблокировать способность §e§lИскрящаяся Надежда
+§aUnlock Spear Proficiency II§a ability @ §aРазблокировать способность §f§lМастерство Копья II
+§aUnlock Spear Proficiency I§a ability @ §aРазблокировать способность §f§lМастерство Копья I
+§aUnlock Spectacle§a ability @ §aРазблокировать способность §e§lЗрелище
+§aUnlock Spirit of the Rabbit§a ability @ §aРазблокировать способность §f§lДух Кролика
+§aUnlock Tempestuous Winds§a ability @ §aРазблокировать способность §f§lБурные Ветра
+§aUnlock Tempest§a ability @ §aРазблокировать способность §d§lБуря
+§aUnlock Thunderclap§a ability @ §aРазблокировать способность §b§lРаскат Грома
+§aUnlock Tougher Skin§a ability @ §aРазблокировать способность §e§lКрепкая Кожа
+§aUnlock Uncontainable Corruption§a ability @ §aРазблокировать способность §f§lНеудержимая Скверна
+§aUnlock Uppercut§a ability @ §aРазблокировать способность §a§lАпперкот
+§aUnlock Vehement§a ability @ §aРазблокировать способность §e§lНеистовый
+§aUnlock War Scream§a ability @ §aРазблокировать способность §a§lБоевой Крик
+§aUnlock Whirlwind Strike§a ability @ §aРазблокировать способность §c§lУдар Вихря
+§aUnlock Zenith Stance§a ability @ §aРазблокировать способность §5§lСтойка Зенита
+
+# ══════════════════════════════════════════════════════════════════════
+# ТРЕБОВАНИЯ (Required Ability: X) — RU перегенерить из карты имён
 # ══════════════════════════════════════════════════════════════════════
 §7§a✔ §7Required Ability: §fAcceleration @ §7§a✔ §7Требуется способность: §fУскорение
 §7§a✔ §7Required Ability: §fAerodynamics @ §7§a✔ §7Требуется способность: §fАэродинамика
@@ -1175,224 +1198,59 @@ Zenith Stance @ Стойка Зенита
 §7§c✖ §7Required Ability: §fZenith Stance @ §7§c✖ §7Требуется способность: §fСтойка Зенита
 
 # ══════════════════════════════════════════════════════════════════════
-# УСЛОВИЕ - Min Archetype ✔/✖
+# ORPHANS (не сматчилось — разобрать вручную)
 # ══════════════════════════════════════════════════════════════════════
-§7§a✔ §7Min Battle Monk Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Боевой Монах: §f§a<num>§7/<num>
-§7§a✔ §7Min Fallen Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Падший: §f§a<num>§7/<num>
-§7§a✔ §7Min Paladin Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Паладин: §f§a<num>§7/<num>
-§7§c✖ §7Min Battle Monk Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Боевой Монах: §f§c<num>§7/<num>
-§8§c✖ §8Min Battle Monk Archetype: §7§c<num>§8/<num> @ §8§c✖ §8Мин. архетип Боевой Монах: §7§c<num>§8/<num>
-§7§c✖ §7Min Fallen Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Падший: §f§c<num>§7/<num>
-§8§c✖ §8Min Fallen Archetype: §7§c<num>§8/<num> @ §8§c✖ §8Мин. архетип Падший: §7§c<num>§8/<num>
-§7§c✖ §7Min Paladin Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Паладин: §f§c<num>§7/<num>
-§8§c✖ §8Min Paladin Archetype: §7§c<num>§8/<num> @ §8§c✖ §8Мин. архетип Паладин: §7§c<num>§8/<num>
-
-# ══════════════════════════════════════════════════════════════════════
-# УСЛОВИЕ - Ability Points ✔/✖
-# ══════════════════════════════════════════════════════════════════════
-§8§7✔ §8Ability Points: §7§7<num> @ §8§7✔ §8Очки способностей: §7§7<num>
-
-# ══════════════════════════════════════════════════════════════════════
-# UNLOCK - подсказки клика
-# ══════════════════════════════════════════════════════════════════════
-§aUnlock Acceleration§a ability @ §aРазблокировать способность §e§lУскорение
-§aUnlock Aerodynamics§a ability @ §aРазблокировать способность §e§lАэродинамика
-§aUnlock Air Shout§a ability @ §aРазблокировать способность §d§lВоздушный Крик
-§aUnlock Armour Breaker§a ability @ §aРазблокировать способность §b§lПробой Брони
-§aUnlock Axe Kick§a ability @ §aРазблокировать способность §f§lУдар Топором
-§aUnlock Baffling Blows§a ability @ §aРазблокировать способность §f§lСбивающие Удары
-§aUnlock Bak'al's Grasp§a ability @ §aРазблокировать способность §c§lХватка Бак'ала
-§aUnlock Bash§a ability @ §aРазблокировать способность §a§lБаш
-§aUnlock Beyond Salvation§a ability @ §aРазблокировать способность §5§lЗа Гранью Спасения
-§aUnlock Blessed Bulwark§a ability @ §aРазблокировать способность §f§lБлагословенный Оплот
-§aUnlock Blood Pact§a ability @ §aРазблокировать способность §c§lКровавый Пакт
-§aUnlock Bloodied Armory§a ability @ §aРазблокировать способность §b§lКровавый Арсенал
-§aUnlock Bloodlust§a ability @ §aРазблокировать способность §c§lЖажда Крови
-§aUnlock Boiling Blood§a ability @ §aРазблокировать способность §d§lКипящая Кровь
-§aUnlock Brink of Madness§a ability @ §aРазблокировать способность §b§lГрань Безумия
-§aUnlock Buried Light§a ability @ §aРазблокировать способность §b§lПогребённый Свет
-§aUnlock Charge§a ability @ §aРазблокировать способность §a§lРывок
-§aUnlock Cheaper Bash II§a ability @ §aРазблокировать способность §f§lЭкономный Баш II
-§aUnlock Cheaper Bash§a ability @ §aРазблокировать способность §f§lЭкономный Баш
-§aUnlock Cheaper Charge§a ability @ §aРазблокировать способность §f§lЭкономный Рывок
-§aUnlock Cheaper Uppercut II§a ability @ §aРазблокировать способность §f§lЭкономный Апперкот II
-§aUnlock Cheaper Uppercut§a ability @ §aРазблокировать способность §f§lЭкономный Апперкот
-§aUnlock Cheaper War Scream II§a ability @ §aРазблокировать способность §f§lЭкономный Боевой Крик II
-§aUnlock Cheaper War Scream§a ability @ §aРазблокировать способность §f§lЭкономный Боевой Крик
-§aUnlock Cleansing Breeze§a ability @ §aРазблокировать способность §e§lОчищающий Бриз
-§aUnlock Collide§a ability @ §aРазблокировать способность §e§lСтолкновение
-§aUnlock Comet§a ability @ §aРазблокировать способность §d§lКомета
-§aUnlock Consecration§a ability @ §aРазблокировать способность §f§lОсвящение
-§aUnlock Counter§a ability @ §aРазблокировать способность §e§lКонтрудар
-§aUnlock Crushing Blow§a ability @ §aРазблокировать способность §f§lСокрушительный Удар
-§aUnlock Cyclone§a ability @ §aРазблокировать способность §d§lЦиклон
-§aUnlock Devout Union§a ability @ §aРазблокировать способность §e§lБлагочестивый Союз
-§aUnlock Discombobulate§a ability @ §aРазблокировать способность §d§lОшеломление
-§aUnlock Double Bash§a ability @ §aРазблокировать способность §e§lДвойной Баш
-§aUnlock Ecstasy§a ability @ §aРазблокировать способность §f§lЭкстаз
-§aUnlock Emboldening Cry§a ability @ §aРазблокировать способность §d§lВоодушевляющий Крик
-§aUnlock Enlightenment§a ability @ §aРазблокировать способность §d§lПросветление
-§aUnlock Enraged Blow§a ability @ §aРазблокировать способность §b§lЯростный Удар
-§aUnlock Exhilarate§a ability @ §aРазблокировать способность §e§lВоодушевление
-§aUnlock Fireworks§a ability @ §aРазблокировать способность §d§lФейерверк
-§aUnlock Flaming Uppercut§a ability @ §aРазблокировать способность §d§lПылающий Апперкот
-§aUnlock Flyby Jab§a ability @ §aРазблокировать способность §e§lПролётный Джеб
-§aUnlock Flying Kick§a ability @ §aРазблокировать способность §b§lЛетающий Удар
-§aUnlock Freestream Flow§a ability @ §aРазблокировать способность §e§lСвободный Поток
-§aUnlock Generalist§a ability @ §aРазблокировать способность §c§lУниверсал
-§aUnlock Haemorrhage§a ability @ §aРазблокировать способность §f§lКровотечение
-§aUnlock Half-Moon Swipe§a ability @ §aРазблокировать способность §b§lПолумесяц
-§aUnlock Hallowed Blaze§a ability @ §aРазблокировать способность §d§lСвященное Пламя
-§aUnlock Harmony§a ability @ §aРазблокировать способность §b§lГармония
-§aUnlock Heavenly Trumpet§a ability @ §aРазблокировать способность §c§lНебесная Труба
-§aUnlock Heavy Impact§a ability @ §aРазблокировать способность §e§lТяжёлый Удар
-§aUnlock Intoxicating Blood§a ability @ §aРазблокировать способность §e§lОпьяняющая Кровь
-§aUnlock Iron Lungs§a ability @ §aРазблокировать способность §e§lЖелезные Лёгкие
-§aUnlock Judgement§a ability @ §aРазблокировать способность §5§lСуд
-§aUnlock Luster Purge§a ability @ §aРазблокировать способность §d§lСияющая Чистка
-§aUnlock Manachism§a ability @ §aРазблокировать способность §b§lМаназохизм
-§aUnlock Mantle of the Bovemists§a ability @ §aРазблокировать способность §c§lМантия Бовемистов
-§aUnlock Massacre§a ability @ §aРазблокировать способность §e§lРезня
-§aUnlock Massive Bash§a ability @ §aРазблокировать способность §b§lМощный Баш
-§aUnlock Mindless Slaughter§a ability @ §aРазблокировать способность §e§lБездумная Бойня
-§aUnlock Mythril Skin§a ability @ §aРазблокировать способность §e§lМифриловая Кожа
-§aUnlock Overwhelming Rage§a ability @ §aРазблокировать способность §f§lВсепоглощающая Ярость
-§aUnlock Pressure§a ability @ §aРазблокировать способность §c§lДавление
-§aUnlock Provoke§a ability @ §aРазблокировать способность §b§lПровокация
-§aUnlock Quadruple Bash§a ability @ §aРазблокировать способность §d§lЧетверной Баш
-§aUnlock Radiance§a ability @ §aРазблокировать способность §b§lСияние
-§aUnlock Radiant Devotee§a ability @ §aРазблокировать способность §f§lСияющий Послушник
-§aUnlock Rejuvenating Skin§a ability @ §aРазблокировать способность §b§lРегенерация Кожи
-§aUnlock Reverberance§a ability @ §aРазблокировать способность §e§lРеверберация
-§aUnlock Riposte§a ability @ §aРазблокировать способность §f§lРипост
-§aUnlock Rumble§a ability @ §aРазблокировать способность §b§lГрохот
-§aUnlock Sacred Surge§a ability @ §aРазблокировать способность §c§lСвященный Всплеск
-§aUnlock Second Chance§a ability @ §aРазблокировать способность §b§lВторой Шанс
-§aUnlock Shield Strike§a ability @ §aРазблокировать способность §d§lУдар Щитом
-§aUnlock Shine§a ability @ §aРазблокировать способность §f§lСверкание
-§aUnlock Sparkling Hope§a ability @ §aРазблокировать способность §e§lИскрящаяся Надежда
-§aUnlock Spear Proficiency II§a ability @ §aРазблокировать способность §f§lМастерство Копья II
-§aUnlock Spear Proficiency I§a ability @ §aРазблокировать способность §f§lМастерство Копья I
-§aUnlock Spectacle§a ability @ §aРазблокировать способность §e§lЗрелище
-§aUnlock Spirit of the Rabbit§a ability @ §aРазблокировать способность §f§lДух Кролика
-§aUnlock Tempestuous Winds§a ability @ §aРазблокировать способность §f§lБурные Ветра
-§aUnlock Tempest§a ability @ §aРазблокировать способность §d§lБуря
-§aUnlock Thunderclap§a ability @ §aРазблокировать способность §b§lРаскат Грома
-§aUnlock Tougher Skin§a ability @ §aРазблокировать способность §e§lКрепкая Кожа
-§aUnlock Uncontainable Corruption§a ability @ §aРазблокировать способность §f§lНеудержимая Скверна
-§aUnlock Uppercut§a ability @ §aРазблокировать способность §a§lАпперкот
-§aUnlock Vehement§a ability @ §aРазблокировать способность §e§lНеистовый
-§aUnlock War Scream§a ability @ §aРазблокировать способность §a§lБоевой Крик
-§aUnlock Whirlwind Strike§a ability @ §aРазблокировать способность §c§lУдар Вихря
-§aUnlock Zenith Stance§a ability @ §aРазблокировать способность §5§lСтойка Зенита
-
-# ══════════════════════════════════════════════════════════════════════
-# BLOCKED BY - список конфликтующих скиллов
-# ══════════════════════════════════════════════════════════════════════
-§c- §7Armour Breaker @ §c- §7Пробой Брони
-§c- §7Bak'al's Grasp @ §c- §7Хватка Бак'ала
-§c- §7Bloodied Armory @ §c- §7Кровавый Арсенал
-§c- §7Bloodlust @ §c- §7Жажда Крови
-§c- §7Emboldening Cry @ §c- §7Воодушевляющий Крик
-§c- §7Enraged Blow @ §c- §7Яростный Удар
-§c- §7Luster Purge @ §c- §7Сияющая Чистка
-§c- §7Pressure @ §c- §7Давление
-§c- §7Radiance @ §c- §7Сияние
-§c- §7Sacred Surge @ §c- §7Священный Всплеск
-§c- §7Tougher Skin @ §c- §7Крепкая Кожа
-§c- §7Vehement @ §c- §7Неистовый
-§c- §cArmour Breaker @ §c- §cПробой Брони
-§c- §cBak'al's Grasp @ §c- §cХватка Бак'ала
-§c- §cBloodied Armory @ §c- §cКровавый Арсенал
-§c- §cBloodlust @ §c- §cЖажда Крови
-§c- §cEmboldening Cry @ §c- §cВоодушевляющий Крик
-§c- §cEnraged Blow @ §c- §cЯростный Удар
-§c- §cLuster Purge @ §c- §cСияющая Чистка
-§c- §cPressure @ §c- §cДавление
-§c- §cRadiance @ §c- §cСияние
-§c- §cSacred Surge @ §c- §cСвященный Всплеск
-§c- §cTougher Skin @ §c- §cКрепкая Кожа
-§c- §cVehement @ §c- §cНеистовый
-§r§c- §7Armour Breaker @ §r§c- §7Пробой Брони
-§r§c- §7Bak'al's Grasp @ §r§c- §7Хватка Бак'ала
-§r§c- §7Bloodied Armory @ §r§c- §7Кровавый Арсенал
-§r§c- §7Bloodlust @ §r§c- §7Жажда Крови
-§r§c- §7Emboldening Cry @ §r§c- §7Воодушевляющий Крик
-§r§c- §7Enraged Blow @ §r§c- §7Яростный Удар
-§r§c- §7Luster Purge @ §r§c- §7Сияющая Чистка
-§r§c- §7Pressure @ §r§c- §7Давление
-§r§c- §7Radiance @ §r§c- §7Сияние
-§r§c- §7Sacred Surge @ §r§c- §7Священный Всплеск
-§r§c- §7Tougher Skin @ §r§c- §7Крепкая Кожа
-§r§c- §7Vehement @ §r§c- §7Неистовый
-§r§c- §8Armour Breaker @ §r§c- §8Пробой Брони
-§r§c- §8Bak'al's Grasp @ §r§c- §8Хватка Бак'ала
-§r§c- §8Bloodlust @ §r§c- §8Жажда Крови
-§r§c- §8Enraged Blow @ §r§c- §8Яростный Удар
-§r§c- §8Luster Purge @ §r§c- §8Сияющая Чистка
-§r§c- §8Pressure @ §r§c- §8Давление
-§r§c- §8Radiance @ §r§c- §8Сияние
-§r§c- §8Sacred Surge @ §r§c- §8Священный Всплеск
-§r§c- §8Tougher Skin @ §r§c- §8Крепкая Кожа
-§r§c- §8Vehement @ §r§c- §8Неистовый
-§r§c- §cArmour Breaker @ §r§c- §cПробой Брони
-§r§c- §cBak'al's Grasp @ §r§c- §cХватка Бак'ала
-§r§c- §cBloodied Armory @ §r§c- §cКровавый Арсенал
-§r§c- §cBloodlust @ §r§c- §cЖажда Крови
-§r§c- §cEmboldening Cry @ §r§c- §cВоодушевляющий Крик
-§r§c- §cEnraged Blow @ §r§c- §cЯростный Удар
-§r§c- §cLuster Purge @ §r§c- §cСияющая Чистка
-§r§c- §cPressure @ §r§c- §cДавление
-§r§c- §cRadiance @ §r§c- §cСияние
-§r§c- §cSacred Surge @ §r§c- §cСвященный Всплеск
-§r§c- §cTougher Skin @ §r§c- §cКрепкая Кожа
-§r§c- §cVehement @ §r§c- §cНеистовый
-
-# ══════════════════════════════════════════════════════════════════════
-# РАЗНОЕ (не классифицировано)
-# ══════════════════════════════════════════════════════════════════════
-§7          ÀÀ  §f<num>% §7ID Effectiveness (§6❈§7) to Allies @ §7          ÀÀ  §f<num>% §7Эффективность ID (§6❈§7) союзникам
-§7          ÀÀ  §f<num>% §7Resistance Bonus (§a❁§7) to Allies @ §7          ÀÀ  §f<num>% §7Сопротивление (§a❁§7) к союзникам
-§7  ÀÀÀÀ§8(<em><em><em><em><em> §8Damage: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em><em><em><em><em> §8Физический: §8<num>%§8)
-§7per §f<num> <em> §7Area of Effect it has. @ §7за каждые §f<num>§r§7 §3<em>§r§7 Зоны поражения.
-§7§7Gaining §f<num>%§7 §bCorrupted <em>§7 will make your @ §7Накопление §f<num>%§r§7 §bСкверны §4<em>§r§7 даёт вашему
-§7§7of your §bCorrupted <em>§7 bar as max health. @ §7полоски §bСкверны §4<em>§r§7 как максимальное здоровье.
-§7§f<num>% §bCorrupted <em>§7 by §f<num>%§7. @ §f<num>%§r§7 §bСкверны §4<em>§r§7 на §f<num>%§r§7.
+Heavy Impact @ Тяжёлый Удар
+Flyby Jab @ Пролётный Джеб
+§7§7way when using §nCharge§7. @ §7когда вы используете §nРывок§r§7.
+§7way when using §nCharge§r§7. @ §7когда вы используете §nРывок§r§7.
+§7§7after its first explosion, slowing down and @ §7после первого взрыва, замедляя и
+§7after its first explosion, slowing down and @ §7после первого взрыва, замедляя и
 §7Further reduce the Mana cost of §nBash§r§7. @ §7Ещё снижает затраты маны для §nБаша§r§7.
 §7Further reduce the Mana cost of §nCharge§r§7. @ §7Ещё снижает затраты маны для §nРывка§r§7.
 §7Further reduce the Mana cost of §nUppercut§r§7. @ §7Ещё снижает затраты маны для §nАпперкота§r§7.
 §7Further reduce the Mana cost of §nWar Scream§r§7. @ §7Ещё снижает затраты маны для §nБоевого Крика§r§7.
-§7Gain §f<num>§7 Raw Damage per §f<num>%§7 §bCorrupted §4<em>§r§7. (Max +<num>) @ §7§f<num>§r§7 чистого урона за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум +<num>)
-§7Gain §f<num>%§7 damage per §f<num>%§7 §bCorrupted §4<em>§r§7. (Max +<num>%) @ §7§f<num>%§r§7 урона за каждый §f<num>%§r§7 §bСкверны §4<em>§r§7. (Максимум +<num>%)
-§7of your §bCorrupted §4<em>§r§7 bar as max health. @ §7полоски §bСкверны §4<em>§r§7 как максимальное здоровье.
-§8(§nPowder Specials§r§8 always add +<num>%) @ §8(§nСпецы порошков§r§8 всегда добавляют +<num>%)
-§7Gaining §f<num>%§7 §bCorrupted §4<em>§r§7 §bwill make your @ §7Накопление §f<num>%§r§7 §bСкверны §4<em>§r§7 даёт вашему
-§7by §f<num>§7 per §f<num>% §bCorrupted §4<em>§r§7. (Max +<num>) @ §7на §f<num>§r§7 за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. §8(Максимум +<num>)
-§7with §f<num> §bDiscombobulated §e<em>§r§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e<em>§r§7. §8(Максимум <num>)
-§7for every §bDiscombobulated §e<em> §7they have. @ §7за каждое §bОшеломление §e<em>§r§7 на них.
-§7per §f<num> §3<em> §7Area of Effect it has. @ §7за каждые §f<num>§r§7 §3<em>§r§7 Зоны поражения.
-§f<num>% §bCorrupted §4<em>§r§7 by §f<num>%§7. @ §f<num>%§r§7 §bСкверны §4<em>§r§7 на §f<num>%§r§7.
-§bDiscombobulated §e<em> §7by §f<num>§7. @ §bОшеломления §e<em>§r§7 на §f<num>§r§7.
-§7your §bUltimate Meter <em> §7to <num>% @ §7§bУльту §e<em>§r§7 до <num>%
-§7§7with §f<num> §bDiscombobulated §e<em>§7. (Max <num>) @ §7§f<num>§r§7 §bОшеломления §e<em>§r§7. §8(Максимум <num>)
-§7§7for every §bDiscombobulated §e<em> §7they have. @ §7за каждое §bОшеломление §e<em>§r§7 на них.
-§7§bDiscombobulated §e<em> §7by §f<num>§7. @ §bОшеломления §e<em>§r§7 на §f<num>§r§7.
-§8§8Gaining §7<num>%§8 §7Corrupted <em>§8 will make your @ §8Накопление §7<num>%§r§8 §7Скверны §8<em>§r§8 даёт вашему
-§8§7<num>% §7Corrupted <em>§8 by §7<num>%§8. @ §7<num>%§r§8 §7Скверны §8<em>§r§8 на §7<num>%§r§8.
-§8  ÀÀÀÀ§8(<em> §8Fire: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Огонь: §8<num>%§8)
-§8  ÀÀÀÀ§8(<em><em><em><em><em> §8Damage: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em><em><em><em><em> §8Физический: §8<num>%§8)
-§8Gain §7<num>§8 Raw Damage per §7<num>%§8 §7Corrupted §8<em>§r§8. (Max +<num>) @ §8§7<num>§r§8 чистого урона за каждые §7<num>%§r§8 §7Скверны §8<em>§r§8. (Максимум +<num>)
-§8Gain §7<num>%§8 damage per §7<num>%§8 §7Corrupted §8<em>§r§8. (Max +<num>%) @ §8§7<num>%§r§8 урона за каждый §7<num>%§r§8 §7Скверны §8<em>§r§8. (Максимум +<num>%)
-§8of your §7Corrupted §8<em>§r§8 bar as max health. @ §8полоски §7Скверны §8<em>§r§8 как максимальное здоровье.
-§8Gaining §7<num>%§8 §7Corrupted §8<em>§r§8 §7will make your @ §8Накопление §7<num>%§r§8 §7Скверны §8<em>§r§8 даёт вашему
-§8by §7<num>§8 per §7<num>% §7Corrupted §8<em>§r§8. (Max +<num>) @ §8на §7<num>§r§8 за каждые §7<num>%§r§8 §7Скверны §8<em>§r§8. §8(Максимум +<num>)
-§8with §7<num> §7Discombobulated §7<em>§r§8. (Max <num>) @ §8§7<num>§r§8 §7Ошеломления §7<em>§r§8. §8(Максимум <num>)
-§8for every §7Discombobulated §7<em> §8they have. @ §8за каждое §7Ошеломление §7<em>§r§8 на них.
-§8per §7<num> §8<em> §8Area of Effect it has. @ §8за каждые §7<num>§r§8 §8<em>§r§8 Зоны поражения.
-§7<num>% §7Corrupted §8<em>§r§8 by §7<num>%§8. @ §7<num>%§r§8 §7Скверны §8<em>§r§8 на §7<num>%§r§8.
-§7Discombobulated §7<em> §8by §7<num>§8. @ §7Ошеломления §7<em>§r§8 на §7<num>§r§8.
-§8your §7Ultimate Meter <em> §8to <num>% @ §8§7Ульту §7<em>§r§8 до <num>%
-§8§8with §7<num> §7Discombobulated §7<em>§8. (Max <num>) @ §8§7<num>§r§8 §7Ошеломления §7<em>§r§8. §8(Максимум <num>)
-§8§8for every §7Discombobulated §7<em> §8they have. @ §8за каждое §7Ошеломление §7<em>§r§8 на них.
-§8§7Discombobulated §7<em> §8by §7<num>§8. @ §7Ошеломления §7<em>§r§8 на §7<num>§r§8.
-§8          ÀÀ  §7<num>% §8ID Effectiveness (§8❈§8) to Allies @ §8          ÀÀ  §7<num>% §8Эффективность ID (§8❈§8) союзникам
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX: добитые непереведённые строки
+# ═══════════════════════════════════════════════════════
+§7Warrior Abilities @ §7Способности Воина
+§7Fallens can deal massive @ §7Падшие наносят чудовищный
+§7damage and become stronger @ §7урон и крепнут,
+§7when attacked. §8(Damage, High @ §7когда их бьют. §8(Урон, Высокий
+§8Risks) @ §8Риск)
+§7Battle Monks are swift holy @ §7Боевые Монахи быстрые святые
+§7warriors who excel at close @ §7воины, сильные в ближнем
+§7combat. §8(Combos, Knockback) @ §7бою. §8(Комбо, Отбрасывание)
+§7Paladins can endure huge hits @ §7Паладины держат тяжёлые удары
+§7and support allies. @ §7и поддерживают союзников.
+§7§8(Resistance, Buffs) @ §8(Стойкость, Усиления)
+§7§7§nFinal Crush§7 will deal additional +<num>% damage to @ §7§7§nФинальный Удар§r§7 нанесёт ещё +<num>% урона по
+§7§7enemies damaged by the previous §nBash§7 hit. @ §7§7врагам, задетым прошлым ударом §nБаша§r§7.
+§7§7§nBash§7's last hit is delayed, but deals @ §7§7Последний удар §nБаша§r§7 задержан, но наносит
+§7§7+<num>% damage and has +<num>% radius. @ §7§7+<num>% урона и +<num>% к радиусу.
+§7§7§nCharge§7 damages enemies in your way. @ §7§7§nРывок§r§7 бьёт врагов на пути.
+§7§7Violently bash the ground, dealing @ §7§7С силой бьёшь по земле, нанося
+§7§7after its last explosion, slowing down and @ §7§7после последнего взрыва, замедляя и
+§7§7allies for every §f<num>§7 broken mantles used. §8(Max <num>) @ §7§7союзников за каждые §f<num>§7 разбитых мантий. §8(Макс <num>)
+Final Crush @ Финальный Удар
+Concussion @ Контузия
+Flyby Slam @ Налётный Удар
+§7§c✖ §7Required Ability: §fFinal Crush @ §7§c✖ §7Требуется способность: §fФинальный Удар
+§7§a✔ §7Required Ability: §fFinal Crush @ §7§a✔ §7Требуется способность: §fФинальный Удар
+§8§8Gaining §7<num>%§8 §7Corrupted <em>§8 will make your @ §8§8Набрав §7<num>%§r§8 §7Скверны §8<em>§r§8, ты дашь
+§7§7by §f+<num>%§7 per §f<num>% §bCorrupted <em>§7. §8(Max +<num>%) @ §7§7на §f+<num>%§r§7 за каждые §f<num>%§r§7 §bСкверны §4<em>§r§7. §8(Макс +<num>%)
+§8<em> §8Effect: §7+<num>% §8Damage Bonus (§7⚔§8) to Self @ <em> §8Эффект: §7+<num>% §8к Урону (§7⚔§8) себе
+§8<em> §8Main Attack Damage: §7+<num>% @ <em> §8Урон Осн. Атаки: §7+<num>%
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, airborne) @ <em> §7Общий урон: §f<num>% §8(от твоего DPS, в воздухе)
+§7<em> §7Total Damage: §f<num>% §8(of your DPS, landing) @ <em> §7Общий урон: §f<num>% §8(от твоего DPS, при приземлении)
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX 2: статы/архетип-треб/сброс
+# ═══════════════════════════════════════════════════════
+§7§7less §bMask§7 switch. Reduces mana  @ §7§7реже меняет §bМаску§r§7. Снижает ману 
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX 3: стыки + Скверны + архетип-треб (единый стиль)
+# ═══════════════════════════════════════════════════════
+§7§7Gaining §f<num>%§7 §bCorrupted <em>§7 will make your @ §7§7Набрав §f<num>%§r§7 §bСкверны §4<em>§r§7, ты дашь

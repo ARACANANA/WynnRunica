@@ -10,6 +10,10 @@ public class TranslationPrinter {
     public static final HashMap<String, List<String>> questToKeys = new HashMap<>();
     private static String currentQuest = null;
 
+    private static String fuzzyCacheText = null;
+    private static String fuzzyCacheQuest = null;
+    private static String fuzzyCacheResult = null;
+
     public static class GuiPattern {
         public final java.util.regex.Pattern pattern;
         public final String translationTemplate;
@@ -25,8 +29,11 @@ public class TranslationPrinter {
     public static void reload() {
         HashMap<String, String> rawTranslations = TranslationLoader.loadFromConfig();
         guiTranslations = TranslationLoader.loadGuiFromConfig();
+
+        HashMap<String, String> rawKeyToQuest = new HashMap<>(TranslationLoader.keyToQuest);
         TranslationLoader.keyToQuest.clear();
         questToKeys.clear();
+        fuzzyCacheText = null; fuzzyCacheQuest = null; fuzzyCacheResult = null;
 
         HashMap<String, String> cleanTranslations = new HashMap<>();
         for (java.util.Map.Entry<String, String> entry : rawTranslations.entrySet()) {
@@ -35,7 +42,7 @@ public class TranslationPrinter {
             String ruText = entry.getValue();
             cleanTranslations.put(cleanKey, ruText);
 
-            String quest = TranslationLoader.keyToQuest.remove(rawKey);
+            String quest = rawKeyToQuest.get(rawKey);
             if (quest != null) {
                 TranslationLoader.keyToQuest.put(cleanKey, quest);
                 questToKeys.computeIfAbsent(quest, q -> new ArrayList<>()).add(cleanKey);
@@ -70,15 +77,20 @@ public class TranslationPrinter {
         if (exact != null) {
             if (updateQuest) {
                 String newQuest = TranslationLoader.keyToQuest.get(cleanText);
-                if (newQuest != null && !newQuest.equals(currentQuest)) {
+                if (newQuest != null && !newQuest.equals(currentQuest)
+                        && !TranslationLoader.ambiguousKeys.contains(cleanText)) {
                     currentQuest = newQuest;
                 }
             }
             return exact;
         }
 
-
         if (currentQuest == null) return text;
+
+        if (cleanText.equals(fuzzyCacheText) && currentQuest.equals(fuzzyCacheQuest)) {
+            return fuzzyCacheResult;
+        }
+
         List<String> keysOfQuest = questToKeys.get(currentQuest);
         if (keysOfQuest == null || keysOfQuest.isEmpty()) return text;
 
@@ -91,10 +103,12 @@ public class TranslationPrinter {
                 bestKey = key;
             }
         }
-        if (bestScore > 0.82) {
-            return translations.get(bestKey);
-        }
-        return text;
+
+        String result = (bestScore > 0.82) ? translations.get(bestKey) : text;
+        fuzzyCacheText = cleanText;
+        fuzzyCacheQuest = currentQuest;
+        fuzzyCacheResult = result;
+        return result;
     }
 
     public static String getGuiTranslation(String text) {
@@ -114,9 +128,9 @@ public class TranslationPrinter {
             }
         }
 
+        UntranslatedLogger.log(text);
         return text;
     }
-
 
 
     /* public static int getTranslationsCount() {

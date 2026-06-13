@@ -731,3 +731,165 @@ You see a few books regarding the histories of Gelibord and Lexdale, but not muc
 # NOTE
 How many bookshelves does this manor have!?@Да сколько вообще тут книжных полок!? 
 
+
+# Достроено вручную по вики
+# NOTE
+A cold touch shivers down your spine...@Холодное прикосновение пробегает мурашками по спине...
+# NOTE
+You begin to read the letters inside of the drawer...@Ты начинаешь читать письма, лежащие в ящике...
+# NOTE
+She told me that those are her favorite books, and the red letters make up the password to the chest that Yorman gave her.@Она сказала мне, что это её любимые книги, а красные буквы составляют пароль к сундуку, который ей подарил Йорман.
+# NOTE
+It's a pile of charred letters... You can still make out some of the words, though.@Это кипа обгоревших писем... Хотя некоторые слова ещё можно разобрать.
+# NOTE
+G-r---... I cannot ignore it --- longer...@Г-р---... Я больше не могу это игнорировать---...
+# NOTE
+...love you too much... -- tired of Yorman...@...слишком сильно люблю тебя... -- устала от Йормана...
+# NOTE
+...doesn't have to know. We can -- happy together... y--r's truly, -----in...@...ему незачем знать. Мы можем -- счастливы вместе... искренне тво--, -----ин...
+# NOTE
+One of the books pops out quite claringly. You decide to check it out...@Одна из книг заметно выпирает. Ты решаешь её проверить...
+# NOTE
+It's a book detailing one of the greatest board games of all time. It sounds quite fun.@Это книга, описывающая одну из величайших настольных игр всех времён. Звучит довольно весело.
+# NOTE
+This appears to be a letter describing who the Faltachs are...@Похоже, это письмо, описывающее, кто такие Фалтачи...
+# NOTE
+According to the text, the Faltachs are a family of nobles that have been a part of the forest for decades, more or less having personal control of the area.@Согласно тексту, Фалтачи - семья дворян, что десятилетиями были частью леса, более-менее единолично управляя этой местностью.
+# NOTE
+They collected taxes from the residents of the forest, and were an integral part of the region's politics... But considering the state of this manor, that isn't the case anymore.@Они собирали налоги с жителей леса и были неотъемлемой частью политики региона... Но, судя по состоянию этого особняка, теперь это уже не так.
+# NOTE
+As of 832 AP, the family consisted of Yorman Faltach, Katarin Faltach, and their infant daughter Eileen.@По состоянию на 832 ПП семья состояла из Йормана Фалтача, Катарин Фалтач и их малолетней дочери Эйлин.
+# NOTE
+There's a book sticking out of here with the number '1' drawn on it...@Отсюда торчит книга с нарисованной цифрой «1»...
+# NOTE
+It's a touching story... but you don't read it. It's not nice to ignore someone who's looking at you.@Это трогательная история... но ты её не читаешь. Невежливо игнорировать того, кто на тебя смотрит.
+# NOTE
+There's a book sticking out of here with the number '2' drawn on it...@Отсюда торчит книга с нарисованной цифрой «2»...
+# NOTE
+It's a grossly overexaggerated novel about the Molten Heights war.@Это до нелепости преувеличенный роман о войне в Раскалённых высотах.
+# NOTE
+There's a book sticking out of here with the number '3' drawn on it...@Отсюда торчит книга с нарисованной цифрой «3»...
+# NOTE
+Elephelks don't exist... right?@Слонолосей не существует... верно?
+# NOTE
+There's a book sticking out of here with the number '4' drawn on it...@Отсюда торчит книга с нарисованной цифрой «4»...
+# NOTE
+It's apparently about a boy who's scared by the sound of an owl hooting.@Похоже, она о мальчике, которого пугает уханье совы.
+# NOTE
+The chest is tightly locked. The lock itself appears to require a combination of four letters, all in a specific order...@Сундук крепко заперт. Сам замок, похоже, требует комбинацию из четырёх букв в определённом порядке...
+# NOTE
+Pick the first letter of the passcode:@Выбери первую букву пароля:
+# NOTE
+Pick the second letter of the passcode:@Выбери вторую букву пароля:
+# NOTE
+Pick the third letter of the passcode:@Выбери третью букву пароля:
+# NOTE
+Pick what's obviously the fourth letter of the passcode:@Выбери очевидную четвёртую букву пароля:
+# NOTE
+That was incorrect, despite the fact that the last letter was obviously R... It looks like you need to start over again.@Неверно, несмотря на то что последняя буква очевидно была R... Похоже, придётся начать заново.
+# NOTE
+That was incorrect... It looks like you need to start over again.@Неверно... Похоже, придётся начать заново.
+# NOTE
+It's an old letter. The edges are stained with some strange, dark liquid...@Это старое письмо. Края запятнаны какой-то странной тёмной жидкостью...
+# NOTE
+I remember, at the beginning... Yorman had hired Garvan out of concern for this 'Decay' plaguing the land. We told him that he must find a cure for the Decay before it subjugated the entire forest.@Я помню, в самом начале... Йорман нанял Гарвана из-за тревоги об этой «Гнили», что губит землю. Мы сказали ему, что он должен найти лекарство от Гнили, прежде чем она поработит весь лес.
+# NOTE
+But I digress. Garvan's done great research on this Decay, but...recently, he's changed. Something's wrong with him.@Но я отвлеклась. Гарван проделал прекрасное исследование этой Гнили, но... в последнее время он изменился. С ним что-то не так.
+# NOTE
+His eyes are glazed and dull. His tone of voice is... disturbing. He's made very little progress on the cure we tasked him with, and... I don't know what to do.@Его глаза остекленели и потускнели. Его тон голоса... тревожит. Он почти не продвинулся в лекарстве, которое мы ему поручили, и... я не знаю, что делать.
+# NOTE
+That was... unsettling. Nevertheless, you should head east of the manor for any sign of where this Garvan person might live. You recall there being a village around there...@Это было... жутковато. Тем не менее тебе стоит направиться к востоку от особняка в поисках хоть какого-то следа того, где может жить этот Гарван. Ты припоминаешь, что где-то там была деревня...
+# NOTE
+That was... odd. Who was that? ...Regardless, you shouldn't stray away from heading to the village.@Это было... странно. Кто это был? ...Как бы то ни было, тебе не стоит отклоняться от пути к деревне.
+# Энн
+Ann slowly whispers to you...@Энн медленно шепчет тебе...
+# Выбор
+...Should you tell him about the prison?@...Стоит ли рассказать ему о тюрьме?
+# NOTE
+Garvan's Log: 830 AP@Журнал Гарвана: 830 ПП
+# NOTE
+I have been hired by Yorman and Katarin Faltach to study and hopefully cure this "Decay" that's appeared recently. I'm quite excited to get to the bottom of this.@Меня наняли Йорман и Катарин Фалтач, чтобы изучить и, если повезёт, излечить эту «Гниль», что появилась недавно. Я полон воодушевления докопаться до сути.
+# NOTE
+It looks like I've finally settled in. The Faltach Family has been quite kind with giving me this laboratory to study in.@Похоже, я наконец-то обустроился. Семья Фалтач была весьма любезна, предоставив мне эту лабораторию для исследований.
+# NOTE
+Where to start... where to start...@С чего бы начать... с чего бы начать...
+# NOTE
+Garvan's Log - 840 AP@Журнал Гарвана - 840 ПП
+# NOTE
+I went to the secret study inside of the Faltach's basement to look at some texts about the war and the government out of curiousity. I believe those people were just freaks. I should stay away from them-@Из любопытства я зашёл в тайный кабинет в подвале Фалтачей, чтобы взглянуть на тексты о войне и власти. По-моему, те люди были просто чудиками. Мне стоит держаться от них подальше-
+# NOTE
+Huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh?@Хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах хах?
+# NOTE
+They'll help me.@Они мне помогут.
+# NOTE
+...Whatever made that scream, it... sounds like it's getting closer to the laboratory-@...Что бы ни издало этот вопль, оно... похоже, приближается к лаборатории-
+# NOTE
+Find somewhere to hide in the laboratory. Now.@Найди, где спрятаться в лаборатории. Сейчас же.
+# NOTE
+This shrubbery seems like the best spot to hide in...@Эти кусты кажутся лучшим местом, чтобы спрятаться...
+# NOTE
+It looks like that figure left. It should be safe to leave.@Похоже, та фигура ушла. Теперь выходить безопасно.
+# NOTE
+...That journal mentioned a secret study hidden away in the manor's basement. It might be worth checking out for more clues.@...В том дневнике упоминался тайный кабинет, спрятанный в подвале особняка. Возможно, стоит его осмотреть в поисках новых улик.
+# NOTE
+This must be the study. There should be something worth investigating nearby.@Должно быть, это и есть кабинет. Где-то рядом должно быть что-то, достойное изучения.
+# NOTE
+Upon closer inspection, this bookshelf actually appears to be a false panel. You can see a room behind it, as well.@При ближайшем рассмотрении эта книжная полка оказывается фальшивой панелью. За ней даже видна комната.
+# NOTE
+It's an excerpt from Yorman's Journal...@Это отрывок из дневника Йормана...
+# NOTE
+Why is she defending HIM?? She's always been like that, so hopeful and defensive of the scientist... what could she POSSIBLY see in him?@Почему она защищает ЕГО?? Она всегда была такой, полной надежд и оберегающей этого учёного... что она вообще могла в нём найти?
+# NOTE
+It's a small notes page that Garvan appeared to have written...@Это маленький листок с заметками, которые, похоже, написал Гарван...
+# NOTE
+There's some sort of riddle etched onto the door's surface...@На поверхности двери высечена какая-то загадка...
+# NOTE
+"You died at 6 o-clock that night. Only 4 people came to your funeral.@«Ты умер в 6 часов той ночью. Лишь 4 человека пришли на твои похороны.»
+# NOTE
+You've successfully completed the puzzle! The door has now been opened.@Ты успешно решил головоломку! Дверь теперь открыта.
+# NOTE
+So there's a research outpost in what you assume is now Old Lexdale...? It might be worth it to go investigate that outpost for anything useful.@Значит, есть исследовательский аванпост в том месте, что, как ты полагаешь, теперь зовётся Старым Лексдейлом...? Возможно, стоит наведаться на этот аванпост в поисках чего-нибудь полезного.
+# NOTE
+...It seems that the exit has been opened up.@...Похоже, выход открылся.
+# NOTE
+This apparition before you isn't doing anything, though. Maybe you could try talking to it?@Это видение перед тобой, впрочем, ничего не делает. Может, попробовать с ним заговорить?
+# NOTE
+That spirit didn't open the door? Then... what did? Or... who did?@Этот дух не открывал дверь? Тогда... что её открыло? Или... кто?
+# NOTE
+You need to leave the study.@Тебе нужно покинуть кабинет.
+# NOTE
+You were knocked out...@Тебя вырубили...
+# NOTE
+As you fall deeper into unconsciousness, a vision of the past begins to form in your mind...@По мере того как ты всё глубже погружаешься в беспамятство, в твоём сознании начинает складываться видение прошлого...
+# NOTE
+It seems like someone brought you back to the forest village. You should probably head to Garvan's research outpost in Old Lexdale.@Похоже, кто-то перенёс тебя обратно в лесную деревню. Тебе, вероятно, стоит направиться к исследовательскому аванпосту Гарвана в Старом Лексдейле.
+# NOTE
+In order to progress, you must gather pieces of evidence that are surrounded by green particles. You can do this by right-clicking on them.@Чтобы продвинуться дальше, ты должен собрать улики, окружённые зелёными частицами. Сделать это можно правым кликом по ним.
+# NOTE
+Occasionally, a wandering intruder will approach you in the outpost, and will catch you if it sees you. You will have to hide by right-clicking the closets covered in blue particles.@Время от времени по аванпосту к тебе будет приближаться бродячий незваный гость и схватит тебя, если заметит. Тебе придётся прятаться, кликая правой кнопкой по шкафам, покрытым синими частицами.
+# NOTE
+You managed to gather all the evidence in the research outpost! You should review the material you gathered and figure out what Garvan was up to.@Тебе удалось собрать все улики на исследовательском аванпосте! Тебе стоит просмотреть собранный материал и выяснить, что замышлял Гарван.
+# NOTE
+As you begin to sift through your findings, a visualization of what you're reading forms in your mind...@Когда ты начинаешь перебирать свои находки, в твоём сознании складывается образ того, что ты читаешь...
+# NOTE
+...If Eileen was given eternal life, then... She's most likely still alive. You should check around the manor for any clues as to where she might be right now.@...Если Эйлин даровали вечную жизнь, то... Скорее всего, она до сих пор жива. Тебе стоит осмотреть особняк в поисках любых зацепок о том, где она может быть сейчас.
+# NOTE
+And so it ends here. At the same time, it begins my desparate attempts to flee from my past.@И вот здесь всё кончается. И в то же время здесь начинаются мои отчаянные попытки сбежать от своего прошлого.
+# NOTE
+I tried to forget. I tried to forget everything, even my own name. I ignored Katarin's spirit calling out to me, demanding I return to her.@Я пытался забыть. Я пытался забыть всё, даже собственное имя. Я не слушал дух Катарин, что взывал ко мне, требуя, чтобы я вернулся к ней.
+# NOTE
+I became... nothing. A nobody. I had no purpose. I wandered the forest, pretending that nothing had ever gone wrong... Indeed, I had become a Wanderer.@Я стал... ничем. Никем. У меня не было цели. Я бродил по лесу, делая вид, что ничего и не пошло не так... Воистину, я стал Странником.
+# NOTE
+It seems Garvan went in the direction to the master bedroom...@Похоже, Гарван направился в сторону хозяйской спальни...
+# NOTE
+...the catacombs! Katarin must have fled to the catacombs in the basement! You need to follow her there.@...катакомбы! Должно быть, Катарин бежала в катакомбы в подвале! Тебе нужно последовать за ней туда.
+# NOTE
+Katarin seems furious. Does she not know exactly where the gemstone is?@Катарин, кажется, в ярости. Неужели она не знает точно, где самоцвет?
+# NOTE
+... You know where it is. You need to show her where the gemstone is before she brings this room down on your head.@... Ты знаешь, где он. Тебе нужно показать ей, где самоцвет, прежде чем она обрушит эту комнату тебе на голову.
+# NOTE
+The gemstone must be underneath this rubble, right?@Самоцвет, должно быть, под этими обломками, верно?
+# NOTE
+...This is finally the end.@...Вот и наконец конец.
+# NOTE
+It... doesn't feel right leaving everything as is. Perhaps you should give Garvan and Katarin a proper burial.@Как-то... неправильно оставлять всё как есть. Возможно, тебе стоит достойно похоронить Гарвана и Катарин.

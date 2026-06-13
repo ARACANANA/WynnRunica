@@ -411,3 +411,11 @@ Whatever the effects of that gas are, we want absolutely none of it. I'm never s
 # Thesead Miner
 For the sake of our jobs and Thesead, the Colossus must be stopped.@Ради наших работ и ради Тесейада Колосса надо остановить.
 
+
+# Достроено вручную по вики
+# NOTE
+It seems that your spells are severely weakened by the gas. You should follow the rail tracks to find a way out of the mine.@Похоже, газ сильно ослабляет твои заклинания. Тебе стоит следовать вдоль рельсов, чтобы найти выход из шахты.
+# NOTE
+You hear a door opening in the distance...@Вдалеке слышно, как открывается дверь...
+# Выбор
+No.@Нет.

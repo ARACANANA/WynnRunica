@@ -17,6 +17,7 @@ import java.util.zip.ZipFile;
 public class TranslationLoader {
 
     public static HashMap<String, String> keyToQuest = new HashMap<>();
+    public static java.util.HashSet<String> ambiguousKeys = new java.util.HashSet<>();
 
     public static HashMap<String, String> loadFromConfig() {
 
@@ -54,10 +55,13 @@ public class TranslationLoader {
         }
 
         HashMap<String, String> result = new HashMap<>();
+        ambiguousKeys.clear();
+        HashMap<String, String> firstQuestOf = new HashMap<>();
 
         try {
             DirectoryStream<Path> filesi = Files.newDirectoryStream(questsPath);
             for (Path file : filesi) {
+                String questName = file.getFileName().toString();
                 try (BufferedReader reader = Files.newBufferedReader(file)) {
                     String line;
                     while ((line = reader.readLine()) != null) {
@@ -73,7 +77,13 @@ public class TranslationLoader {
                         }
                         if (parts.length == 2) {
                             result.put(parts[0], parts[1]);
-                            keyToQuest.put(parts[0], file.getFileName().toString());
+                            keyToQuest.put(parts[0], questName);
+
+                            String norm = parts[0].replace(" ", "").toLowerCase();
+                            String prev = firstQuestOf.putIfAbsent(norm, questName);
+                            if (prev != null && !prev.equals(questName)) {
+                                ambiguousKeys.add(norm);
+                            }
                         }
 
                     }
@@ -133,7 +143,6 @@ public class TranslationLoader {
                             continue;
                         String[] parts = line.split(" @ ", 2);
                         if (parts.length != 2) {
-                            // legacy fallback: tolerate lines without spaces around '@'
                             parts = line.split("@", 2);
                             if (parts.length == 2) {
                                 parts[0] = parts[0].trim();

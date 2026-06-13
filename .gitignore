@@ -2,6 +2,9 @@
 .gradle/
 build/
 
+# Eclipse/Gradle compiled output
+bin/
+
 # IntelliJ IDEA
 .idea/
 *.iml

@@ -89,3 +89,49 @@ But what is it connected to? That's for another day. The main thing is the villa
 # Orikal
 Here, take this for your help. I found this potato in one of the houses around here, and I sure as heck don't want it!@Вот, держи за помощь. Я нашёл эту картофелину в одном из домов тут неподалёку, и уж мне-то она точно нафиг не нужна!
 
+
+# Достроено вручную по вики
+# NOTE
+This spike appears to be much larger than the others around the village, but nothing unusual. You should take a closer look at the top.@Этот шип, похоже, гораздо больше прочих вокруг деревни, но ничего необычного. Тебе стоит присмотреться к его вершине.
+# NOTE
+When observing the spike from on top, you notice absolutely nothing. You should report back to Orikal.@Осматривая шип с вершины, ты не замечаешь ровным счётом ничего. Тебе стоит вернуться к Орикалу с докладом.
+# NOTE
+That explosion sounded like it uncovered something big. You should take a look.@Судя по звуку, тот взрыв вскрыл что-то крупное. Тебе стоит взглянуть.
+# NOTE
+Orikal pays the excavators.@Орикал расплачивается с землекопами.
+# NOTE
+How to Use the Explosive-Cloaker Machine:@Как пользоваться Машиной-Гасителем Взрывов:
+# NOTE
+- Acquire an explosive item.@- Раздобудь взрывоопасный предмет.
+# NOTE
+- Insert explosive item into the hole of the INPUT slot of the machine.@- Вставь взрывоопасный предмет в отверстие слота ВХОД машины.
+# NOTE
+- Wait while the machine temporarily disables the item's explosive property.@- Подожди, пока машина временно отключит взрывное свойство предмета.
+# NOTE
+- Take item out of OUTPUT slot.@- Забери предмет из слота ВЫХОД.
+# NOTE
+- Can be very useful for disabling explosive properties of unstable ores found in caves.@- Очень полезно для отключения взрывных свойств нестабильных руд, что находят в пещерах.
+# NOTE
+The ore begins to glow and vibrate in your hand when you take it... it's about to explode!@Когда ты берёшь руду, она начинает светиться и вибрировать в руке... она вот-вот взорвётся!
+# NOTE
+The ore exploded! Looks like you have to get more from the cave and try again!@Руда взорвалась! Похоже, придётся добыть ещё в пещере и попробовать снова!
+# NOTE
+The machine begins making strange sounds, but after a little while the ore falls out the other side of the machine.@Машина начинает издавать странные звуки, но спустя немного руда выпадает с другой стороны машины.
+# NOTE
+The ore appears to have temporarily lost its explosive attribute. It is safe to carry.@Похоже, руда временно утратила взрывное свойство. Её безопасно носить.
+# NOTE
+You filled the container with a glowing liquid. You can use the well to bring it up to the surface.@Ты наполнил ёмкость светящейся жидкостью. Можешь воспользоваться колодцем, чтобы поднять её на поверхность.
+# NOTE
+To the Mining Operations Manager:@Управляющему горными работами:
+# NOTE
+We were performing our usual routines when suddenly an unknown explosion caused a massive cave-in at the entrance to our main mining supply area.@Мы занимались своими обычными делами, как вдруг неизвестный взрыв вызвал массивный обвал у входа в наш главный склад горных припасов.
+# NOTE
+Something must be done to remove the debris, we cannot easily continue our mining operations without our supplies.@Нужно что-то сделать, чтобы убрать завал, без припасов нам не так-то просто продолжать горные работы.
+# NOTE
+There also may be people trapped on the other side, and I would hate to lose even more miners to these catastrophes.@К тому же по ту сторону могут быть запертые люди, и мне не хотелось бы потерять ещё больше шахтёров в этих катастрофах.
+# NOTE
+Maybe we could use the Wrecking Ball to demolish the debris, but if we don't act soon...@Возможно, мы могли бы снести завал чугунной бабой, но если мы не примем меры в ближайшее время...
+# NOTE
+Orikal takes the materials you retrieved and puts them in a container. He mutters some words in an unknown language, and suddenly the container turns into some sort of Magical TNT.@Орикал берёт добытые тобой материалы и кладёт их в ёмкость. Он бормочет несколько слов на незнакомом языке, и внезапно ёмкость превращается в некое подобие Волшебного динамита.
+# NOTE
+It appears this magical TNT worked. Now that the spike's roots have been demolished, you should talk to Orikal about your success.@Похоже, волшебный динамит сработал. Теперь, когда корни шипа разрушены, тебе стоит поговорить с Орикалом об успехе.

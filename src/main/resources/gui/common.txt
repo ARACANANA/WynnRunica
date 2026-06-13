@@ -67,7 +67,8 @@
 §7<em> §7Vision: §f<num> Blocks §7(Circle-Shaped) @ <em> §7Обзор: §f<num> блоков §7(Круг)
 §7<em> §7Water Damage: §f<num>% @ <em> §7Урон Водой: §f<num>%
 §7<em> §7Water Damage: §f<num><num> @ <em> §7Урон Водой: §f<num><num>
-§7Click Combo:  @ §7Комбо: 
+§7Click Combo: А @ §6Комбо: §d§lF
+
 §7your Ultimate Meter <em> to <num>% @ §7§bШкалу Ульты §e<em> §r§7до <num>%
 
 §7<em> Click to Unlock @ §a<em> §aНажмите чтобы открыть
@@ -80,9 +81,6 @@ Thunder Mastery @ Мастерство Грома
 Fire Mastery @ Мастерство Огня
 Water Mastery @ Мастерство Воды
 Earth Mastery @ Мастерство Земли
-§7§7down and deals damage every §f<num>s§7. @ §7вниз и наносит урон каждые §f<num>с§r§7.
-§7fire for §f<num>s§7. Enemies that walk @ §7горящего §f<num>с§r§7. Враги наступившие
-§7into it take damage every §f<num>s§7. @ §7в него получают урон каждые §f<num>с§r§7.
 §7§7that damages enemies §f<num> §7times per second. @ §7нанося урон врагам §f<num>§r§7 раз в секунду.
 §8§8that damages enemies §7<num> §8times per second. @ §8нанося урон врагам §7<num>§r§8 раз в секунду.
 §7§a✔ §7Required Ability: §fAir Mastery @ §7§a✔ §7Требуется способность: §fМастерство Воздуха
@@ -107,6 +105,7 @@ Earth Mastery @ Мастерство Земли
 §7  ÀÀÀÀ§8(<em> §8Earth: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Земля: §8<num>%§8)
 §7  ÀÀÀÀ§8(<em> §8Fire: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Огонь: §8<num>%§8)
 §7  ÀÀÀÀ§8(<em> §8Thunder: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8<num>%§8)
+§8  ÀÀÀÀ§8(<em> §8Thunder: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Гром: §8<num>%§8)
 §7  ÀÀÀÀ§8(<em> §8Water: §8<num>%§8) @ §7  ÀÀÀÀ§8(<em> §8Вода: §8<num>%§8)
 §8  ÀÀÀÀ§8(<em> §8Air: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Воздух: §8<num>%§8)
 §8  ÀÀÀÀ§8(<em> §8Damage: §8<num>%§8) @ §8  ÀÀÀÀ§8(<em> §8Физический: §8<num>%§8)
@@ -125,9 +124,164 @@ Earth Mastery @ Мастерство Земли
 §7<em> §7Total Damage: §f<num>% @ §7<em> §7Общий урон: §f<num>%
 §7an attack, and casting  switches them  @ §7удар, а §d§lF§r§7 переключает их
 §7an attack, and casting  switches them @ §7удар, а §d§lF§r§7 переключает их
-§8fire for §7<num>s§8. Enemies that walk @ §8горящего §7<num>с§r§8. Враги наступившие
-§8into it take damage every §7<num>s§8. @ §8в него получают урон каждые §7<num>с§r§8.
-§8§8down and deals damage every §7<num>s§8. @ §8вниз и наносит урон каждые §7<num>с§r§8.
 
 §7§a✔ §7Current Players: §f<num> @ §a✔ §7Текущие игроки: §f<num>
 §7§c✖ §7Current Players: §f<num> @ §c✖ §7Текущие игроки: §f<num>
+# ════════════════════════════════════════════════════════════
+# Точные ключи склонения "блоков" под конкретные числа (1/2-4/дробь)
+# ════════════════════════════════════════════════════════════
+§7<em> Radius: 24 Blocks @ <em> §7Радиус: §f24 блока
+§7<em> §7Area of Effect: §f+0.2 Blocks @ <em> §7Зона поражения: §f+0.2 блока
+§7<em> §7Area of Effect: §f+1 Block §7(Circle-Shaped) @ §3<em> §7Зона поражения: §f+1 блок §7(Круг)
+§7<em> §7Area of Effect: §f+1 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f+1 блок §7(Круг)
+§7<em> §7Area of Effect: §f+1.5 Blocks §8(per bloom) @ §3<em> §7Зона поражения: §f+1.5 блока §8(за цветение)
+§7<em> §7Area of Effect: §f+2 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f+2 блока §7(Круг)
+§7<em> §7Area of Effect: §f+3 Blocks @ <em> §7Зона поражения: §f+3 блока
+§7<em> §7Area of Effect: §f+3 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f+3 блока §7(Круг)
+§7<em> §7Area of Effect: §f+4 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f+4 блока §7(Круг)
+§7<em> §7Area of Effect: §f1.5 Block §7(Circle-Shaped) @ §3<em> §7Зона поражения: §f1.5 блока §7(Круг)
+§7<em> §7Area of Effect: §f2 Blocks @ <em> §7Зона поражения: §f2 блока
+§7<em> §7Area of Effect: §f2 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f2 блока §7(Круг)
+§7<em> §7Area of Effect: §f2.3 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f2.3 блока §7(Круг)
+§7<em> §7Area of Effect: §f2.5 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f2.5 блока §7(Круг)
+§7<em> §7Area of Effect: §f3 Blocks @ <em> §7Зона поражения: §f3 блока
+§7<em> §7Area of Effect: §f3 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f3 блока §7(Круг)
+§7<em> §7Area of Effect: §f3.5 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f3.5 блока §7(Круг)
+§7<em> §7Area of Effect: §f3.5 Blocks §7(Line-Shaped) @ <em> §7Зона поражения: §f3.5 блока §7(Линия)
+§7<em> §7Area of Effect: §f4 Blocks @ <em> §7Зона поражения: §f4 блока
+§7<em> §7Area of Effect: §f4 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f4 блока §7(Круг)
+§7<em> §7Area of Effect: §f4.5 Blocks §7(Circle-Shaped) @ <em> §7Зона поражения: §f4.5 блока §7(Круг)
+§7<em> §7Main Attack Range: §f+1 Block @ §2<em> §7Дальность Осн. Атаки: §f+1 блок
+§7<em> §7Main Attack Range: §f+2 Blocks @ <em> §7Дальность Осн. Атаки: §f+2 блока
+§7<em> §7Range: §f+1.5 Blocks @ <em> §7Дальность: §f+1.5 блока
+§7<em> §7Range: §f+2 Blocks @ <em> §7Дальность: §f+2 блока
+§7<em> §7Range: §f+3 Blocks @ <em> §7Дальность: §f+3 блока
+§7<em> §7Range: §f2 Blocks §7(Circle-Shaped) @ <em> §7Дальность: §f2 блока §7(Круг)
+§7<em> §7Range: §f22 Blocks @ <em> §7Дальность: §f22 блока
+§7<em> §7Range: §f24 Blocks @ <em> §7Дальность: §f24 блока
+§7<em> §7Range: §f3 Blocks @ <em> §7Дальность: §f3 блока
+§7<em> §7Range: §f3 Blocks §7(Cone-Shaped) @ §2<em> §7Дальность: §f3 блока §7(Конус)
+§7<em> §7Range: §f32 Blocks @ <em> §7Дальность: §f32 блока
+§7<em> §7Range: §f6.5 Blocks @ <em> §7Дальность: §f6.5 блока
+§7<em> §7Range: §f64 Blocks @ <em> §7Дальность: §f64 блока
+§7<em> §7Target Radius: §f1 Blocks §7(Circle-Shaped) @ <em> §7Радиус цели: §f1 блок §7(Круг)
+§7<em> §7Vision: §f32 Blocks §7(Circle-Shaped) @ <em> §7Обзор: §f32 блока §7(Круг)
+§8<em> §8Range: §7+1 Block @ §8<em> §8Дальность: §7+1 блок
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX: добитые непереведённые строки
+# ═══════════════════════════════════════════════════════
+§8Versatility) @ §8Универсальность)
+§8Stack Damage) @ §8Урон по Стаку)
+§8Damage, Mana) @ §8Урон, Мана)
+§7§8(Max <num> activations per second)  @ §8(Макс <num> срабатываний в секунду) 
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX 2: статы/архетип-треб/сброс
+# ═══════════════════════════════════════════════════════
+§7<em> §7Effects:  @ <em> §7Эффекты: 
+§4Effect: @ §4Эффект:
+§7§a✔ §7§7Quest Req: §fRecover the Past§7 [Lv. <num>] @ §7§a✔ §7§7Треб. квест: §fRecover the Past§7 [Ур. <num>]
+§c✖ Quest Req: The Worm @ §c✖ Треб. квест: The Worm
+§7§7Use this to reset your @ §7§7Используй, чтобы сбросить
+§cto reset your skill points @ §cсвои очки навыков
+§cto remove skill points @ §cубрать очки навыков
+§7§7Grants access to the @ §7§7Открывает доступ к
+§7§fAbility Tree §7while in a town. @ §7§fДереву Навыков §7в городе.
+§cNot in a safe zone @ §cНе в безопасной зоне
+§cYou need to be inside a town @ §cНужно быть в городе
+§7Right-click to use @ §7ПКМ, чтобы использовать
+§7§a✔ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Стрелка: §f§f<num>§7/<num>
+§7§c✖ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Стрелка: §f§f<num>§7/<num>
+§7§a✔ §7Min Sharpshooter Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Снайпера: §f§f<num>§7/<num>
+§7§c✖ §7Min Sharpshooter Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Снайпера: §f§f<num>§7/<num>
+§7§a✔ §7Min Trapper Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Ловчего: §f§f<num>§7/<num>
+§7§c✖ §7Min Trapper Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Ловчего: §f§f<num>§7/<num>
+§7§a✔ §7Min Fallen Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Падшего: §f§f<num>§7/<num>
+§7§c✖ §7Min Fallen Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Падшего: §f§f<num>§7/<num>
+§7§a✔ §7Min Battle Monk Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Боевого Монаха: §f§f<num>§7/<num>
+§7§c✖ §7Min Battle Monk Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Боевого Монаха: §f§f<num>§7/<num>
+§7§a✔ §7Min Paladin Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Паладина: §f§f<num>§7/<num>
+§7§c✖ §7Min Paladin Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Паладина: §f§f<num>§7/<num>
+§7§a✔ §7Min Acrobat Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Акробата: §f§f<num>§7/<num>
+§7§c✖ §7Min Acrobat Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Акробата: §f§f<num>§7/<num>
+§7§a✔ §7Min Shadestepper Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Шагающего в Тени: §f§f<num>§7/<num>
+§7§c✖ §7Min Shadestepper Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Шагающего в Тени: §f§f<num>§7/<num>
+§7§a✔ §7Min Trickster Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Трикстера: §f§f<num>§7/<num>
+§7§c✖ §7Min Trickster Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Трикстера: §f§f<num>§7/<num>
+§7§a✔ §7Min Riftwalker Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Странника Разлома: §f§f<num>§7/<num>
+§7§c✖ §7Min Riftwalker Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Странника Разлома: §f§f<num>§7/<num>
+§7§a✔ §7Min Light Bender Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Светоносца: §f§f<num>§7/<num>
+§7§c✖ §7Min Light Bender Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Светоносца: §f§f<num>§7/<num>
+§7§a✔ §7Min Arcanist Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Арканиста: §f§f<num>§7/<num>
+§7§c✖ §7Min Arcanist Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Арканиста: §f§f<num>§7/<num>
+§7§a✔ §7Min Summoner Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Призывателя: §f§f<num>§7/<num>
+§7§c✖ §7Min Summoner Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Призывателя: §f§f<num>§7/<num>
+§7§a✔ §7Min Ritualist Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Ритуалиста: §f§f<num>§7/<num>
+§7§c✖ §7Min Ritualist Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Ритуалиста: §f§f<num>§7/<num>
+§7§a✔ §7Min Acolyte Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Адепта: §f§f<num>§7/<num>
+§7§c✖ §7Min Acolyte Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Адепта: §f§f<num>§7/<num>
+
+# ═══════════════════════════════════════════════════════
+# RELEASE FIX 3: стыки + Скверны + архетип-треб (единый стиль)
+# ═══════════════════════════════════════════════════════
+§7§a✔ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Стрелок: §f§f<num>§7/<num>
+§7§a✔ §7Min Boltslinger Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Стрелок: §f§a<num>§7/<num>
+§7§c✖ §7Min Boltslinger Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Стрелок: §f§c<num>§7/<num>
+§7§c✖ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Стрелок: §f§f<num>§7/<num>
+§7§a✔ §7Min Sharpshooter Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Снайпер: §f§f<num>§7/<num>
+§7§a✔ §7Min Sharpshooter Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Снайпер: §f§a<num>§7/<num>
+§7§c✖ §7Min Sharpshooter Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Снайпер: §f§c<num>§7/<num>
+§7§c✖ §7Min Sharpshooter Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Снайпер: §f§f<num>§7/<num>
+§7§a✔ §7Min Trapper Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Ловчий: §f§f<num>§7/<num>
+§7§a✔ §7Min Trapper Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Ловчий: §f§a<num>§7/<num>
+§7§c✖ §7Min Trapper Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Ловчий: §f§c<num>§7/<num>
+§7§c✖ §7Min Trapper Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Ловчий: §f§f<num>§7/<num>
+§7§a✔ §7Min Fallen Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Падший: §f§f<num>§7/<num>
+§7§a✔ §7Min Fallen Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Падший: §f§a<num>§7/<num>
+§7§c✖ §7Min Fallen Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Падший: §f§c<num>§7/<num>
+§7§c✖ §7Min Fallen Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Падший: §f§f<num>§7/<num>
+§7§a✔ §7Min Battle Monk Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Боевой Монах: §f§f<num>§7/<num>
+§7§a✔ §7Min Battle Monk Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Боевой Монах: §f§a<num>§7/<num>
+§7§c✖ §7Min Battle Monk Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Боевой Монах: §f§c<num>§7/<num>
+§7§c✖ §7Min Battle Monk Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Боевой Монах: §f§f<num>§7/<num>
+§7§a✔ §7Min Paladin Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Паладин: §f§f<num>§7/<num>
+§7§a✔ §7Min Paladin Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Паладин: §f§a<num>§7/<num>
+§7§c✖ §7Min Paladin Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Паладин: §f§c<num>§7/<num>
+§7§c✖ §7Min Paladin Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Паладин: §f§f<num>§7/<num>
+§7§a✔ §7Min Acrobat Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Акробат: §f§f<num>§7/<num>
+§7§a✔ §7Min Acrobat Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Акробат: §f§a<num>§7/<num>
+§7§c✖ §7Min Acrobat Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Акробат: §f§c<num>§7/<num>
+§7§c✖ §7Min Acrobat Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Акробат: §f§f<num>§7/<num>
+§7§a✔ §7Min Shadestepper Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Шагающий в Тени: §f§f<num>§7/<num>
+§7§a✔ §7Min Shadestepper Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Шагающий в Тени: §f§a<num>§7/<num>
+§7§c✖ §7Min Shadestepper Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Шагающий в Тени: §f§c<num>§7/<num>
+§7§c✖ §7Min Shadestepper Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Шагающий в Тени: §f§f<num>§7/<num>
+§7§a✔ §7Min Trickster Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Трикстер: §f§f<num>§7/<num>
+§7§a✔ §7Min Trickster Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Трикстер: §f§a<num>§7/<num>
+§7§c✖ §7Min Trickster Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Трикстер: §f§c<num>§7/<num>
+§7§c✖ §7Min Trickster Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Трикстер: §f§f<num>§7/<num>
+§7§a✔ §7Min Riftwalker Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Странник Разлома: §f§f<num>§7/<num>
+§7§a✔ §7Min Riftwalker Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Странник Разлома: §f§a<num>§7/<num>
+§7§c✖ §7Min Riftwalker Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Странник Разлома: §f§c<num>§7/<num>
+§7§c✖ §7Min Riftwalker Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Странник Разлома: §f§f<num>§7/<num>
+§7§a✔ §7Min Light Bender Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Светоносец: §f§f<num>§7/<num>
+§7§a✔ §7Min Light Bender Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Светоносец: §f§a<num>§7/<num>
+§7§c✖ §7Min Light Bender Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Светоносец: §f§c<num>§7/<num>
+§7§c✖ §7Min Light Bender Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Светоносец: §f§f<num>§7/<num>
+§7§a✔ §7Min Arcanist Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Арканист: §f§f<num>§7/<num>
+§7§a✔ §7Min Arcanist Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Арканист: §f§a<num>§7/<num>
+§7§c✖ §7Min Arcanist Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Арканист: §f§c<num>§7/<num>
+§7§c✖ §7Min Arcanist Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Арканист: §f§f<num>§7/<num>
+§7§a✔ §7Min Summoner Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Призыватель: §f§f<num>§7/<num>
+§7§a✔ §7Min Summoner Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Призыватель: §f§a<num>§7/<num>
+§7§c✖ §7Min Summoner Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Призыватель: §f§c<num>§7/<num>
+§7§c✖ §7Min Summoner Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Призыватель: §f§f<num>§7/<num>
+§7§a✔ §7Min Ritualist Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Ритуалист: §f§f<num>§7/<num>
+§7§a✔ §7Min Ritualist Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Ритуалист: §f§a<num>§7/<num>
+§7§c✖ §7Min Ritualist Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Ритуалист: §f§c<num>§7/<num>
+§7§c✖ §7Min Ritualist Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Ритуалист: §f§f<num>§7/<num>
+§7§a✔ §7Min Acolyte Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. архетип Адепт: §f§f<num>§7/<num>
+§7§a✔ §7Min Acolyte Archetype: §f§a<num>§7/<num> @ §7§a✔ §7Мин. архетип Адепт: §f§a<num>§7/<num>
+§7§c✖ §7Min Acolyte Archetype: §f§c<num>§7/<num> @ §7§c✖ §7Мин. архетип Адепт: §f§c<num>§7/<num>
+§7§c✖ §7Min Acolyte Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. архетип Адепт: §f§f<num>§7/<num>

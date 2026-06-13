@@ -14,8 +14,11 @@ import java.nio.file.Path;
 
 public class TranslationUpdater {
 
+    private static boolean isUpdate = true;
+
     public static void update() {
 
+        if (isUpdate == false) return;
         try {
             URL address = new URL("https://api.github.com/repos/Hayoumi/WynnRunica/git/trees/main?recursive=1");
 

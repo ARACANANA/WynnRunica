@@ -409,3 +409,9 @@ A shame about Seasum, but not to worry. Now, hand over your materials, and you'l
 # Headmaster
 And there you have it. Your feathers are grown, and you can spread your magical wings! Good luck on your adventures, Wynn soldier.@Вот и всё. Твои перья выросли, и ты можешь расправить магические крылья! Удачи в приключениях, солдат Винна.
 
+
+# Достроено вручную по вики
+# NOTE
+This must be Grookwarts! Looks like that fellow up ahead can explain things from here.@Это же Грукворс! Похоже, тот парень впереди всё объяснит.
+# NOTE
+You look at your papers...@Ты смотришь на свои бумаги...

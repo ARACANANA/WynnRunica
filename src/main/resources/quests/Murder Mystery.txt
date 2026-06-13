@@ -107,3 +107,25 @@ And if ya get a blackjack - that's an ace and a picture card or a ten - ya autom
 # Blackjack Dealer
 Sound fair enough? Alrighty, just right-click me again to play!@Нормально звучит? Тогда просто ткни по мне ещё раз правой кнопкой, и сыграем!
 
+
+# Достроено вручную по вики
+# NOTE
+This half-finished letter seems to be asking for a loan to pay off some kind of debt...@Это недописанное письмо, похоже, просит ссуду, чтобы погасить какой-то долг...
+# NOTE
+It looks like the victim's head was somehow detached from his body...@Похоже, голову жертвы каким-то образом отделили от тела...
+# NOTE
+It looks like the attacker managed to break in through the window.@Похоже, нападавший сумел проникнуть через окно.
+# NOTE
+This painting doesn't seem to have much to do with the murder, but it's a nice landscape of Aldorei Valley.@Эта картина вряд ли связана с убийством, но это славный пейзаж долины Алдорей.
+# NOTE
+The victim's book collection seems to be exclusively made up of dimestore romance novels.@Коллекция книг жертвы, похоже, состоит исключительно из дешёвых любовных романов.
+# NOTE
+Looks like the symbol has something carved in on the back...@Похоже, на обратной стороне символа что-то вырезано...
+# NOTE
+It seems you better go have a chat with Rohem...@Кажется, тебе лучше поговорить с Рохемом...
+# NOTE
+You should look around for clues that tie Rohem to the murder.@Стоит поискать улики, связывающие Рохема с убийством.
+# NOTE
+There's a trail of muddy footprints leading back into the house.@Цепочка грязных следов ведёт обратно в дом.
+# NOTE
+It's a dirty shovel - it must've been used recently to dig something up.@Это грязная лопата - похоже, ею недавно что-то выкапывали.

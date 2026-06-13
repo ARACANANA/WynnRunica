@@ -129,3 +129,19 @@ I will tell the mayor of Thesead all about this place, and claim my reward for d
 # NOTE
 To escape your cell, you must pick this weird lock. It seems that the spinning a ring inside will spin the rings next to it another way@Чтобы выбраться из камеры, тебе придётся вскрыть этот странный замок. Похоже, если крутануть одно кольцо внутри, соседние кольца тоже провернутся по-своему
 
+
+# Достроено вручную по вики
+# Thesead's Mayor
+What brings a human to my office?@Что привело человека в мой кабинет?
+# Thesead's Mayor
+A letter? Oh, that. The one about Eltom? Don't look so worried. The secret is safe with me.@Письмо? А, это. То самое, про Эльтом? Не смотри так встревоженно. Секрет в безопасности.
+# Thesead's Mayor
+Yes, I know about Eltom. After all, its mayor is my ex-husband.@Да, я знаю про Эльтом. В конце концов, его мэр - мой бывший муж.
+# Thesead's Mayor
+It may seem weird, a love between a villager and a human. I know, but our race did not stop us from being in love.@Может показаться странной любовь между жителем и человеком. Знаю, но раса не помешала нам полюбить друг друга.
+# Thesead's Mayor
+The person who left the letter about Eltom is our son, Ardulf. As soon as Eoric found out about our child, he panicked and left me.@Письмо про Эльтом оставил наш сын, Ардульф. Как только Эорик узнал о ребёнке, он запаниковал и бросил меня.
+# Thesead's Mayor
+Ardulf will never be accepted as a half breed... Still, I hope he's OK.@Ардульфа никогда не примут как полукровку... И всё же я надеюсь, что с ним всё хорошо.
+# Thesead's Mayor
+Huh, oh yeah, one more thing. The switch under the table... go on, press it!@А, да, ещё кое-что. Рычаг под столом... давай, нажми его!

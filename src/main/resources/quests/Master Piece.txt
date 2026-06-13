@@ -61,3 +61,43 @@ You might want to hold onto that, big-town upper class Villagers pay through the
 # Caissop
 Thank you for your assistance, what a rush! Good luck on your Gavel adventure!@Спасибо за помощь, это было просто безумно! Удачи тебе в приключениях по Гавелю!
 
+
+# Достроено вручную по вики
+# NOTE
+This is...just a normal cow. This is supposed to be legendary?@Это... просто обычная корова. И это считается легендарным?
+# NOTE
+...Caissop seemed to be looking forward to this painting a lot...@...Кайссоп, похоже, очень ждал эту картину...
+# NOTE
+...well, if he's blind, maybe you can fudge the details a bit to give him something better.@...что ж, раз он слеп, может, удастся слегка приукрасить детали и дать ему что-то получше.
+# NOTE
+It's brown all over...@Она вся коричневая...
+# NOTE
+It has a large snout...@У неё большая морда...
+# NOTE
+That sounds like a villager to you.@По твоему описанию это звучит как житель деревни.
+# NOTE
+Time to head back to Caissop. Hopefully he'll buy it.@Пора возвращаться к Кайссопу. Будем надеяться, он это купит.
+# NOTE
+This is just a normal sheep! Are none of these supposed creatures really legendary?@Это просто обычная овца! Неужели ни одно из этих якобы существ и впрямь не легендарное?
+# NOTE
+You'll need to lie about something to make a mundane sheep seem special...@Тебе придётся о чём-нибудь приврать, чтобы заурядная овца показалась особенной...
+# NOTE
+It has large horns- no, say it's just one.@У неё большие рога- нет, скажи, что он всего один.
+# NOTE
+Clean white wool, instead of black...@Чистая белая шерсть вместо чёрной...
+# NOTE
+A pure white sheep with one horn...?@Чисто белая овца с одним рогом...?
+# NOTE
+Time to head back to Caissop. Hopefully that's good enough for him.@Пора возвращаться к Кайссопу. Будем надеяться, этого ему хватит.
+# NOTE
+The creatures guarding these animals seem more legendary to you.@Существа, что охраняют этих животных, кажутся тебе более легендарными.
+# NOTE
+No way you can describe a pig fantastically. You'll have to outright make something up...@Никак не выйдет описать свинью невероятно. Придётся просто что-нибудь выдумать...
+# NOTE
+Pink is fine, it's a rare color...@Розовый сойдёт, это редкий цвет...
+# NOTE
+...what if you say it has wings?@...а что, если сказать, что у неё крылья?
+# NOTE
+Will he believe a flying pig?@Поверит ли он в летающую свинью?
+# NOTE
+Time to head back to Caissop. Hopefully he won't be able to tell something's amiss.@Пора возвращаться к Кайссопу. Будем надеяться, он не заметит, что что-то не так.

@@ -37,13 +37,13 @@ Ah, that should be a breeze.@
 # Yulie
 ...yes. I think I have a few places in mind already.@
 # Syndra
-Finally. Player, I want you to be adaptable. Help out wherever it's needed - I'm sure your skills will come in handy.@
+Finally. <playername>, I want you to be adaptable. Help out wherever it's needed - I'm sure your skills will come in handy.@
 # Yuman
 Hey, if you're helping out wherever, you should come with me and Mora! Guard positions would be handy to know before finding escape routes.@
 # Syndra
 I was about to suggest the same thing. Then let us adjourn this meeting. Good luck, everyone.@
 # Mora
-Hum. Player and Yuman, let us go our plans then.@
+Hum. <playername> and Yuman, let us go our plans then.@
 # Yuman
 Alright, guys! So, any plans? What're we cooking with here?@
 # Mora
@@ -93,7 +93,7 @@ Stop! Where are you going?!@
 # Yuman
 Uh... we're on a mission, right? Trying to prove ourselves? Schedules are up there, so...@
 # Mora
-We cannot just... walk in there and grab the schedules! You do realize that, right? Player and I are wanted by the crown! Even showing ourselves here at all is a risk.@
+We cannot just... walk in there and grab the schedules! You do realize that, right? <playername> and I are wanted by the crown! Even showing ourselves here at all is a risk.@
 # Yuman
 Hey man, these soldiers see hundreds of people every day! If you don't give 'em a reason to pay attention, your faces won't stick out at all.@
 # Mora
@@ -119,7 +119,7 @@ Well, time to get changed!@
 # Yuman
 Let's see...@
 # Mora
-Oh, you are just going for it... I see. Player, let's wait outside until he's done.@
+Oh, you are just going for it... I see. <playername>, let's wait outside until he's done.@
 # Yuman
 Well? Thoughts? How do I look?@
 # Mora
@@ -135,7 +135,7 @@ This uniform is so... uncomfortable. And to think, I nearly signed up for this..
 # Yuman
 Yeah, you'd think they'd complain about it more! But nah, they're all... stoic.@
 # Mora
-Yes... well, Player, it's your turn. Hurry, please. Someone could come up here at any time.@
+Yes... well, <playername>, it's your turn. Hurry, please. Someone could come up here at any time.@
 # NOTE
 [+1 Guard Uniform]@
 # Mora
@@ -209,7 +209,7 @@ Let's find the schedules!@
 # Mora
 The schedules were further up, yes?@
 # Mora
-Ah, Player, did you find them?@
+Ah, <playername>, did you find them?@
 # Mora
 Start writing them down, would you?@
 # NOTE
@@ -237,7 +237,7 @@ I'm less concerned about panic, and more about stress. I know Quill will stay be
 # Jiro
 Yes, ma'am. I can handle it.@
 # Syndra
-Good. Oh, Player, hello!@
+Good. Oh, <playername>, hello!@
 # Jiro
 Ah, I should get going. I'll see if I can track down Quill.@
 # Syndra
@@ -267,15 +267,15 @@ They've gone off... somewhere, I don't know where. Until they return, you should
 # Syndra
 Until Rex and Zeph return, you should go see if Sui and Yusanu need anything.@
 # Sui
-Oh! Player, you're back! How did it, um, go?@
+Oh! <playername>, you're back! How did it, um, go?@
 # Sui
 Oh! Good! It, um, went smoothly, I hope? Mora and Yuman got along?@
 # Yusanu
-If they got the schedules, it was probably fine. So, Player, are you here to help us out too?@
+If they got the schedules, it was probably fine. So, <playername>, are you here to help us out too?@
 # Sui
 Hehe, I guess that's what happens when you show off all those skills of yours!@
 # Yusanu
-Yep! Oh, speaking of... Player, are you here to help us out too?@
+Yep! Oh, speaking of... <playername>, are you here to help us out too?@
 # Yusanu
 We've been putting together those explosives Syndra requested. I think we've decided on an easily produced model.@
 # Sui
@@ -283,7 +283,7 @@ By, um, "we," he mostly means him. I can, ha, barely understand what he's going 
 # Yusanu
 Hey, don't sell yourself short! You've been helpful! I would've never thought to utilize water in the design if it weren't for your suggestion.@
 # Sui
-Oh... thank you. Player, we were playing around the idea of hiding magical water inside the, um, explosive... but I, ah, don't know how to hold its power when I can't... see it.@
+Oh... thank you. <playername>, we were playing around the idea of hiding magical water inside the, um, explosive... but I, ah, don't know how to hold its power when I can't... see it.@
 # Yusanu
 Magic or not, using water in the design will make the explosion look more dangerous and powerful than it actually is! It's genius!@
 # Yusanu
@@ -295,19 +295,19 @@ If things go awry, I'll, um, surround it in a ball of water.@
 # Yusanu
 Yep! Okay, no more questions, we've got to get to it! Click the explosive parts whenever you're ready.@
 # Yusanu
-Phew! All clear! Good work, Player.@
+Phew! All clear! Good work, <playername>.@
 # Yusanu
 I think Sui and I will perform a few more tests... maybe a test run or two... but the construction went okay, so I should be able to produce some more.@
 # Yusanu
 And, eheh, hopefully not blow up my workshop...@
 # Sui
-Oh, no... Player, are you sure you, um, can't stick around, a bit longer? Just, in case?@
+Oh, no... <playername>, are you sure you, um, can't stick around, a bit longer? Just, in case?@
 # Yusanu
-Nope, there's still stuff to do! On that subject - Player, Rex was looking for you earlier.@
+Nope, there's still stuff to do! On that subject - <playername>, Rex was looking for you earlier.@
 # NOTE
 [-1 Electrical Explosive]@
 # Rex
-Player, finally! There you are! I was getting restless.@
+<playername>, finally! There you are! I was getting restless.@
 # Zeph
 I w- was quite comfortable... actually.@
 # Rex
@@ -321,7 +321,7 @@ Re- really? For some reason, that m- ma- makes me feel a lot better... uh, n- no
 # Rex
 We're all nervous, Zeph. It's a risky plan. But we know what we're doing. We have to trust we'll succeed.@
 # Zeph
-Ha ha, v- ver- very funny, Player. I- I- I'm trying. I am! It's just... hard not to be an- anxious.@
+Ha ha, v- ver- very funny, <playername>. I- I- I'm trying. I am! It's just... hard not to be an- anxious.@
 # Rex
 You're fine, Zeph. I'd be surprised if you weren't anxious, honestly. Given what we're planning on doing...@
 # Zeph
@@ -333,7 +333,7 @@ We've got work to do, and... we really can't afford to screw it up.@
 # Zeph
 I- I'll do my best.@
 # Rex
-That's all I ask. Anyway, Player, Zeph and I looked over the schedules with Syndra earlier. We've marked a couple of spots we want to check out.@
+That's all I ask. Anyway, <playername>, Zeph and I looked over the schedules with Syndra earlier. We've marked a couple of spots we want to check out.@
 # Zeph
 So- s- so let's go see them in person! Uh, Rex, I c- ca- can carry the arrows and electric ch- charges for you.@
 # Rex
@@ -341,7 +341,7 @@ Oh, what a gentleman.@
 # Yulie
 ...and those are the faces I usually see around, so-@
 # Quill
-Ah- Rex, Zeph, and Player! Rather auspicious timing.@
+Ah- Rex, Zeph, and <playername>! Rather auspicious timing.@
 # Rex
 Oh. hey! Have you seen the guard schedules yet?@
 # Yulie
@@ -351,7 +351,7 @@ Are you heading out for your assignment then?@
 # Zeph
 We were j- just about to head to Timasca for ours, too. P- per- perhaps we could go there together?@
 # Quill
-Hmm... yes, I suppose we could- though, I'll want Player's opinion on our ideas as well. Once you finish with Rex and Zeph, would you care to join us?@
+Hmm... yes, I suppose we could- though, I'll want <playername>'s opinion on our ideas as well. Once you finish with Rex and Zeph, would you care to join us?@
 # Yulie
 Then let's get going. No time to waste.@
 # Yulie
@@ -365,7 +365,7 @@ Well, Yuman seems to do it just fine! But okay, I'll pick out something more acc
 # Yulie
 That's all I ask!@
 # Quill
-Hm... Player, I don't suppose you would happen to have seen Jiro?@
+Hm... <playername>, I don't suppose you would happen to have seen Jiro?@
 # Quill
 Syndra told me he had gone looking for me, but I haven't seen him all day!@
 # Quill
@@ -405,7 +405,7 @@ Okay. Let's g- get to work!@
 # Rex
 Here, Zeph, hand me those arrows. Keep the charges though, I think your point would be better for Yulie.@
 # Zeph
-Sure... w- wait, why do we need Player for this?@
+Sure... w- wait, why do we need <playername> for this?@
 # Rex
 To check our work, I guess? They can help assess the vantage points. Maybe they'll spot some potential issues we missed.@
 # Zeph
@@ -423,7 +423,7 @@ Hey!@
 # Zeph
 Ha! Well, o- of course I am! I can't let y- you start beating me... I ha- have an image to maintain!@
 # Zeph
-B- but you didn't! Maybe next time... wh- what are we at now? Zeph 5... Player 1?@
+B- but you didn't! Maybe next time... wh- what are we at now? Zeph 5... <playername> 1?@
 # Zeph
 Ha... so, th- this is the spot.@
 # Zeph
@@ -489,7 +489,7 @@ I need to get some practice in before tomorrow... I know the plan shouldn't invo
 # Rex
 I think I saw Quill and Yulie out by Sovereign Soosu's mansion. So, go find them! Don't keep them waiting!@
 # Quill
-Ah, Player! I take it you have finished up with Rex and Zeph?@
+Ah, <playername>! I take it you have finished up with Rex and Zeph?@
 # Yulie
 We've been trying to get an idea of the general feel of the coming festival.@
 # Yulie
@@ -511,7 +511,7 @@ It's still a developing area in the city, so people rarely come here.@
 # Quill
 And according to our guard schedules... it should remain unguarded during the festival, as well.@
 # Quill
-Player, why don't you have a look around?@
+<playername>, why don't you have a look around?@
 # NOTE
 [x/4]@
 # Construction Worker
@@ -537,7 +537,7 @@ I mean... if you really want to know. It's great! A day of NO work. You know wha
 # Construction Worker
 I get to dust off my Roughworks Vodka and not worry for 24 hours! Great days ahead, I tell ya!@
 # Quill
-Have a look around, Player. Perhaps you'll find something which compromises this option.@
+Have a look around, <playername>. Perhaps you'll find something which compromises this option.@
 # Construction Worker
 Leave. Me. Alone.@
 # Yulie
@@ -563,7 +563,7 @@ Work stuff... an investigation led me to it. A thief had used it to escape the c
 # Quill
 I see. Let's mark this one as our lowest priority. Only to be used in case of emergencies.@
 # Quill
-But it would be worth taking a look around, either way. Player, maybe you'll find something.@
+But it would be worth taking a look around, either way. <playername>, maybe you'll find something.@
 # Citizen
 Bless you, child. I hope her Majesty brings you health.@
 # Citizen
@@ -629,7 +629,7 @@ Sigh... our last stop. That wall, always looming over me...@
 # Yulie
 Quill?@
 # Quill
-Yes, yes. I'm alright. Player... is something on your mind?@
+Yes, yes. I'm alright. <playername>... is something on your mind?@
 # Quill
 Ah... yes. I understand your meaning.@
 # Quill
@@ -659,7 +659,7 @@ What? More guards for the festival? Or-@
 # Quill
 I'm not certain, Yulie. But we should avoid being spotted.@
 # Yulie
-Player, hurry!@
+<playername>, hurry!@
 # Sovereign Zhiraok
 You're the newest addition to our set, then. Good punctuality- You've made a good first impression.@
 # Sovereign Tasim
@@ -719,7 +719,7 @@ We need to report back to Syndra about this... this changes things.@
 # Yulie
 Come on, let's head back to the Steel Feather.@
 # Quill
-Hm... Player, one final question.@
+Hm... <playername>, one final question.@
 # Quill
 If it comes down to it... and you are forced to face him. Would you be ready to kill your former friend, if necessary?@
 # Quill
@@ -775,7 +775,7 @@ Fine.@
 # Syndra
 That will be all I ask from most of you. Try to rest and relax before tomorrow's festival. I'll do a final briefing before we head out in the morning.@
 # Syndra
-Player, I have one final request to make of you. I'd like to duel you again... this time, I'll give it my all, and I expect the same of you.@
+<playername>, I have one final request to make of you. I'd like to duel you again... this time, I'll give it my all, and I expect the same of you.@
 # Syndra
 Meet me by the north-eastern tracks.@
 # Sui
@@ -867,7 +867,7 @@ Ironically, it's thanks to him that we're here right now. But I can't ever forgi
 # Syndra
 Her Majesty... I need her to die. I need to do it myself. Only then, can I finally be at peace...@
 # Syndra
-Player. If I don't survive... I need you to do something for me.@
+<playername>. If I don't survive... I need you to do something for me.@
 # Syndra
 Keep my children safe. They're all I have left.@
 # Syndra
@@ -915,7 +915,7 @@ Goodnight.@
 # Syndra
 Goodnight, Cursed One.@
 # Rex
-Player! Up! Get up!@
+<playername>! Up! Get up!@
 # Rex
 Syndra's about to give her final speech before the festival. Come on, let's get going.@
 # Syndra
@@ -929,7 +929,7 @@ Zeph and Yuman, you're in charge of placing and detonating the explosives. Yusan
 # Syndra
 Rex and Yulie, you're aerial support. Take your positions on the buildings we scouted out yesterday. Provide support for everyone else as needed.@
 # Syndra
-Sui, Yusanu, and Player. I want you three to stay put on a roof nearby. Once the Queen is dead, chaos is going to break out.@
+Sui, Yusanu, and <playername>. I want you three to stay put on a roof nearby. Once the Queen is dead, chaos is going to break out.@
 # Syndra
 I need you three to help calm down the people, and to help fight off any soldiers that oppose us.@
 # Syndra
@@ -995,7 +995,7 @@ Hi... are you two, um, ready?@
 # Yusanu
 I... ha, I'm not sure! It's... a lot, isn't it?@
 # Yusanu
-I've been worrying about this new Sovereign... Tasim. Player, I know you... know him.@
+I've been worrying about this new Sovereign... Tasim. <playername>, I know you... know him.@
 # Yusanu
 It's... it's like Rex said the other day. The Sovereigns aren't our friends. If he joined the crown, then... I'm not sure we can trust him to do the right thing.@
 # Sui
@@ -1033,19 +1033,19 @@ Yeah, a bit. That's the Roughworks for you, though.@
 # ???
 Ahem.@
 # Sovereign Tasim
-Player... what are you doing here?@
+<playername>... what are you doing here?@
 # Sovereign Tasim
 It's... complicated. Look, I-@
 # Yusanu
 Working for the crown is complicated? Helping them oppress to people of Fruma is complicated?!@
 # Sovereign Tasim
-Yes! I'd explain it to you, but we don't have time for it now- Player, you need to listen to me-@
+Yes! I'd explain it to you, but we don't have time for it now- <playername>, you need to listen to me-@
 # Sovereign Tasim
 Sigh. You didn't need to do that. I'm not... being forced into anything, I'm just-@
 # Yusanu
 So you chose to work for the crown? Why?!@
 # Sovereign Tasim
-I... have my reasons, trust me. Look, there's no time to explain right now- Player, you need to listen to me-@
+I... have my reasons, trust me. Look, there's no time to explain right now- <playername>, you need to listen to me-@
 # Yusanu
 Sui, what are you doing?! You're just going to draw more attention towards us.@
 # Yusanu
@@ -1341,3 +1341,138 @@ No, Soosu. You deserve no such mercy from me.@
 # Sovereign Zhiraok
 Get it done. Now. One of them must know what they did to Soo- ... I'll be questioning each of them. Personally.@
 
+
+# ═══════════════════════════════════════════════════════════
+# Достроено вручную по вики (пропуски парсера). Zeph=муж
+# ═══════════════════════════════════════════════════════════
+
+# NOTE
+The shelf is filled with recent reports on military activity...@Полка завалена свежими отчётами о военной активности...
+# NOTE
+Nothing seems to mention guard schedules, though.@Но про графики стражи нигде ни слова.
+# NOTE
+You continue to write down the rest of the guard divisions' positions...@Ты продолжаешь записывать расположение остальных подразделений стражи...
+# NOTE
+What was that about?@О чём это было?
+# NOTE
+Going alright so far.@Пока вроде норм.
+# NOTE
+Getting a bit tired.@Немного устаю.
+# NOTE
+We got the schedules!@Графики у нас!
+# NOTE
+Why do I have to do all the work?@Почему всю работу делаю я?
+# NOTE
+Do you need me for that?@Я для этого нужен?
+# NOTE
+- Every square has to contain a piece of the bomb.@- В каждой клетке должна быть деталь бомбы.
+# NOTE
+- Some pieces have special requirements.@- У некоторых деталей особые условия.
+# NOTE
+- Create three bomb pieces and later combine them into one.@- Собери три детали бомбы и потом соедини их в одну.
+# NOTE
+- Tip! Hover over a piece (after picking it up as an item in your inventory) and it will tell you its shape.@- Совет! Наведись на деталь (взяв её предметом в инвентарь), и она покажет свою форму.
+# NOTE
+Casing (Coal Block): Can only be placed on the outer tiles.@Корпус (блок угля): ставится только на внешние клетки.
+# NOTE
+Gunpowder (Dark Gray Concrete Powder): Can only be placed on the inner tiles.@Порох (тёмно-серый бетонный порошок): ставится только на внутренние клетки.
+# NOTE
+Fuse (White Wool Block): Must touch the orange chemical.@Фитиль (блок белой шерсти): должен касаться оранжевого реагента.
+# NOTE
+Switch (Gold Block): Can be placed anywhere.@Переключатель (блок золота): ставится где угодно.
+# NOTE
+Wrench (Bone): Can remove any block from the board.@Гаечный ключ (кость): убирает любой блок с поля.
+# NOTE
+Bomb Piece: Collect all pieces by finishing 3 puzzles!@Деталь бомбы: собери все детали, решив 3 головоломки!
+# NOTE
+It's okay to be nervous.@Нервничать это нормально.
+# NOTE
+I'm nervous too.@Я тоже нервничаю.
+# NOTE
+Grow up, Zeph.@Повзрослей, Зеф.
+# NOTE
+Where are the others?@Где остальные?
+# NOTE
+You're too fast...@Ты слишком быстрый...
+# NOTE
+I need a second...@Мне нужна секунда...
+# NOTE
+Of course you're here first.@Ну конечно ты первый.
+# NOTE
+I almost beat you!@Я почти тебя обогнал!
+# NOTE
+It looks good!@Выглядит хорошо!
+# Zeph
+I saw you beat R- Rex earlier! Not like that's hard, th- though!@Я видел, как ты раньше обогнал Р- Рекс! Х-хотя это и не сложно!
+# Zeph
+But since we're done here... it's t- time for you to assist Quill and Yulie, Superhero.@Но раз мы тут закончили... п-пора тебе помочь Квиллу и Юли, супергерой.
+# Zeph
+...heh. I- I should go get some more pr- practice in, though... before tomorrow.@...хех. М-мне надо ещё по- потренироваться... перед завтрашним.
+# Zeph
+Quill and Yulie are out- outside Sovereign Soosu's mansion, by the way.@Квилл и Юли, кстати, сн- снаружи у особняка Суверена Соосу.
+# NOTE
+Nice bow skills!@Неплохо стреляешь из лука!
+# NOTE
+Hah!! I'm faster!! Haha!@Ха!! Я быстрее!! Хаха!
+# NOTE
+Looks okay to me.@По-моему, нормально.
+# NOTE
+It's perfect!@Идеально!
+# NOTE
+There's electric charge casings and a quiver of arrows...@Тут корпуса для электрозарядов и колчан стрел...
+# NOTE
+There seem to be multiple roads leading into the escape point. That's a good sign.@К точке отхода, похоже, ведёт несколько дорог. Это хорошо.
+# NOTE
+This furnace seems to power the big crane...@Эта печь, похоже, питает большой кран...
+# NOTE
+Yeesh. You're angry.@Ого. Ты злишься.
+# NOTE
+Thoughts on the festival?@Как тебе фестиваль?
+# NOTE
+It's good to have multiple routes leading to the escape point, in case one gets blocked.@Хорошо, что к точке отхода ведёт несколько маршрутов на случай, если один перекроют.
+# NOTE
+You have already inspected this...@Это ты уже осматривал...
+# NOTE
+However what?@Однако что?
+# NOTE
+This pile of trash has a strong stench of alcohol and other... unpleasantries.@От этой кучи мусора сильно разит алкоголем и прочими... прелестями.
+# NOTE
+Is this your home?@Это твой дом?
+# NOTE
+Her orders made you lose your home?@Из-за её приказов ты лишился дома?
+# NOTE
+The painting has a note attached to it.@К картине прикреплена записка.
+# NOTE
+The people back there...@Те люди там...
+# NOTE
+I know him.@Я его знаю.
+# NOTE
+Tasim and I are friends.@Мы с Тасимом друзья.
+# NOTE
+He's a good person.@Он хороший человек.
+# NOTE
+I didn't know he was a Sovereign.@Я не знал, что он Суверен.
+# NOTE
+He's a strong fighter.@Он сильный боец.
+# NOTE
+Then why are we doing it?@Тогда зачем мы это делаем?
+# NOTE
+And... what did you do?@И... что ты сделал?
+# NOTE
+Did Zhiraok know?@Жираок знал?
+# NOTE
+You can't leave yet!@Ты пока не можешь уйти!
+# NOTE
+Did you try to find your lover?@Ты пытался найти свою возлюбленную?
+# NOTE
+How did you meet her?@Как ты с ней познакомился?
+# NOTE
+I should ask you the same thing.@Я могу спросить тебя о том же.
+# NOTE
+Looking for you.@Ищу тебя.
+# NOTE
+Tasim, what do you want?@Тасим, чего ты хочешь?
+# NOTE
+What was that?! Soldiers, investigate the commotion!@Что это было?! Солдаты, разберитесь с шумом!
+# NOTE
+We need to get out of here.@Надо валить отсюда.

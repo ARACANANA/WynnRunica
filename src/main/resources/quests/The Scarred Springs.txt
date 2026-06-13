@@ -251,3 +251,77 @@ You know, for a tourist, you sure are generous with the help. So, I should be ge
 # Maripe
 So... For one thing. You get free access! For another...here's a personal gift from me! After all, you didn't HAVE to help...but you did! You'll get a lot more use out of these than I will. SO...thank you, so much!@Так что... Во-первых, для тебя теперь бесплатный вход! А во-вторых... вот тебе личный подарок от меня! Ты ведь вообще не был обязан помогать... но помог! И пользы от этого у тебя будет явно больше, чем у меня. Так что... спасибо тебе огромное!
 
+
+# ═══════════════════════════════════════════════════════════
+# Достроено вручную по вики (пропуски парсера): нарратив, реплики
+# игрока, доска объявлений, лягушка-страж, чойсы
+# ═══════════════════════════════════════════════════════════
+
+# NOTE
+I'll come back later.@Зайду позже.
+# NOTE
+You should release the frogs at the pond in the back.@Выпусти лягушек в пруд на задворках.
+# NOTE
+You should head back to clean up the pools now.@Теперь вернись и приберись в купальнях.
+# NOTE
+You should head back to Maripe.@Возвращайся к Марипе.
+# Player
+Maripe sent me. He's reopening the hot springs and needs to stock the teahouse with a bulk order.@Меня прислал Марипе. Он снова открывает горячие источники, и ему надо затарить чайную большим заказом.
+# NOTE
+You should bring the ingredients back to Marseled.@Отнеси ингредиенты обратно Марселеду.
+# Player
+Job's done- The cockroaches are dead, and I have the ingredients for you.@Дело сделано. Тараканы передохли, и ингредиенты для тебя у меня.
+# NOTE
+It looks quite comfortable in its sleep. Strangely, it feels as if it's wanted to sleep here for a long time.@Во сне ему вполне уютно. Странно, но кажется, будто он давно хотел поспать именно тут.
+# NOTE
+It's not quite asleep yet. It appears to be shivering in... anticipation?@Он ещё не совсем уснул. Похоже, дрожит от... предвкушения?
+# NOTE
+It's basking in the shade. It looks pleased with something, but you're not sure what...@Он нежится в тени. Чем-то доволен, но чем именно - непонятно...
+# NOTE
+I'll be fine@Я справлюсь
+# NOTE
+One of my friends lives on the edges of Espren. She usually listens to the chimes to pass the time.@Одна моя подруга живёт на окраине Эспрена. Обычно она коротает время, слушая перезвон.
+# NOTE
+There's a nice spot in the outskirts by the road. Groups often gather there before heading out.@На окраине у дороги есть славное местечко. Там часто собираются группы перед выходом.
+# NOTE
+A large notice board in the middle of Espren. You could probably hang a poster there!@Большая доска объявлений в центре Эспрена. Туда вполне можно повесить плакат!
+# NOTE
+It's Espren's communal notice board. It's full of messages, old and new...@Это общественная доска объявлений Эспрена. Она вся в сообщениях, старых и новых...
+# NOTE
+Is there anything of interest here?@Есть тут что-нибудь интересное?
+# NOTE
+Plenty of papers have been posted over, and there's a weathered old advertisement in the middle. Surely it's lost relevance by now, so...@Поверх налеплена куча бумаг, а в середине - выцветшее старое объявление. Наверняка оно давно потеряло актуальность, так что...
+# NOTE
+There. That should be a good spot for it. How much effort did Maripe put into the poster? It really stands out from the rest of the notices.@Вот так. Тут ему самое место. Сколько же сил Марипе вложил в этот плакат? Он реально выделяется на фоне остальных объявлений.
+# NOTE
+There isn't a world that exists where someone doesn't see this advertisement.@Не существует мира, в котором это объявление кто-нибудь да не заметит.
+# NOTE
+That's everyone! You may as well head back and join in on the fun.@Вот и все! Можешь возвращаться и присоединяться к веселью.
+# NOTE
+There's so many people here! It'd be a shame to not .@Сколько тут народу! Было бы обидно не .
+# NOTE
+It's sleeping lightly, as if it could wake up at any moment. Feels like it's keeping an eye on the springs...or like a proud parent surveying their child's work.@Он спит чутко, будто может проснуться в любой миг. Словно приглядывает за источниками... или как гордый родитель, осматривающий работу своего чада.
+# NOTE
+It's sleeping soundly. Its breaths are soft, like they could lull you to sleep if you listened for long enough...like a proud parent tucking you into bed.@Он крепко спит. Дыхание тихое, такое, что и сам задремлешь, если прислушаешься подольше... как гордый родитель, укладывающий тебя в постель.
+# NOTE
+It looks very comfortable in its sleep. Maripe must have been mindful enough to lay a towel below it.@Во сне ему очень уютно. Марипе, видимо, был достаточно заботлив, чтобы подстелить ему полотенце.
+# NOTE
+It's slowly dozing off. It appears to be... savoring the moment?@Он потихоньку задрёмывает. Похоже, он... смакует момент?
+# NOTE
+It's basking in the shade. Even despite all the people around, it seems content...or maybe, it's because of all the people around?@Он нежится в тени. Даже несмотря на всех этих людей вокруг, он доволен... или, может, как раз из-за людей вокруг?
+# NOTE
+It seems to enjoy watching the visitors.@Похоже, ему нравится наблюдать за посетителями.
+# NOTE
+Maripe's waving in your general direction. He must've calmed down enough to talk coherently now.@Марипе машет примерно в твою сторону. Видимо, успокоился достаточно, чтобы говорить связно.
+# NOTE
+Surely...@Наверняка...
+# Player
+Surely they would be. You've done a great job.@Наверняка да. Ты отлично справился.
+# NOTE
+Does it Matter?@Какая разница?
+# Player
+Does it matter? It's more important that you've done it, instead of what people might think.@Какая разница? Важнее, что ты это сделал, а не что подумают люди.
+# NOTE
+I can't say.@Не могу сказать.
+# Player
+I can't say. They're gone, after all.@Не могу сказать. Их ведь больше нет.

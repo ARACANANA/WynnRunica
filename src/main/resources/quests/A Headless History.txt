@@ -325,3 +325,7 @@ What have I done...? This...he's... He's not th-the same anymore... What changed
 # Lari
 Goodbye, Dullahan... I'll miss you.@Прощай, Дуллахан... я буду скучать.
 
+
+# Достроено вручную по вики
+# Dullahan
+Instead, it will free you from your very life. I have had enough of your meddling.@Вместо этого оно освободит тебя от самой твоей жизни. С меня хватит твоего вмешательства.

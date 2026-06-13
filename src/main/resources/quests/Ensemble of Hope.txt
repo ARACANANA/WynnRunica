@@ -1,9 +1,9 @@
 ﻿# Sui
-...oh, Player. Hi.@
+...oh, <playername>. Hi.@
 # Sui
 Rex! Weren't you-@
 # Rex
-Player's here? Good, that means we can-@
+<playername>'s here? Good, that means we can-@
 # Rex
 ...@
 # Rex
@@ -29,7 +29,7 @@ So, to start with, let's lay out our goal - the destruction of the Crown, the Qu
 # Rex
 We won't be able to do it ourselves - we're only four people. And we definitely won't be able to do it if their eyes are on us the whole time!@
 # Rex
-Sui and Player, you two worked with the Canopy while you were in the Mistwoods. Do you think they have the people and resources to help us?@
+Sui and <playername>, you two worked with the Canopy while you were in the Mistwoods. Do you think they have the people and resources to help us?@
 # Sui
 They do. They've... been fighting openly against the crown for years and haven't been caught. So... they know what they're doing.@
 # Rex
@@ -67,17 +67,17 @@ Th...that- that sounds nice... it- it's been s...so long already...@
 # Sui
 ...yeah. Sure. More old faces.@
 # Rex
-Sui... do you think you and Zeph could handle getting the rest of the Leaves up here? Zeph'll need someone who knows how to find the Canopy, and I need Player with me.@
+Sui... do you think you and Zeph could handle getting the rest of the Leaves up here? Zeph'll need someone who knows how to find the Canopy, and I need <playername> with me.@
 # Sui
 Okay, Rex.@
 # Rex
 Well, we'll all be going to take control of the elevator anyway. We can... talk more there.@
 # Rex
-Player, after we've don that, I'll need you to take me to the Canopy. I want to familiarize myself with their leadership, and start working on an actual plan.@
+<playername>, after we've don that, I'll need you to take me to the Canopy. I want to familiarize myself with their leadership, and start working on an actual plan.@
 # Rex
 Okay! I think that's everything. Let's all get ready, then head to that elevator on the southern side of the dam!@
 # Sui
-Hi, Player. Ready to fight more of the crown's soldiers?@
+Hi, <playername>. Ready to fight more of the crown's soldiers?@
 # Sui
 ...are you not ready yet?@
 # Sui
@@ -93,7 +93,7 @@ Really? And why would that be?!@
 # Sui
 It's not like- n-not like someone's MISSING! OR ANYTHING!!@
 # Sui
-So- s-so maybe I'm not. But it doesn't matter. We have things we need to get done, Player! I don't have time to- to feel not fine!!@
+So- s-so maybe I'm not. But it doesn't matter. We have things we need to get done, <playername>! I don't have time to- to feel not fine!!@
 # Sui
 Don't push this... please? Just... let's follow Rex's plan.@
 # NOTE
@@ -117,7 +117,7 @@ Yeah. Let's... get a move on.@
 # NOTE
 The dialogue ends here.@
 # Rex
-...ready for phase one of the plan, Player? Let's pack up quickly and head out.@
+...ready for phase one of the plan, <playername>? Let's pack up quickly and head out.@
 # Rex
 Unless you have some questions?@
 # Rex
@@ -157,7 +157,7 @@ I want to help her get through this, but... she's closing herself off. And... we
 # Rex
 After you!@
 # Zeph
-Hey Player.@
+Hey <playername>.@
 # Zeph
 I'm r-ready to see my old friends again... I miss Kaio.@
 # Zeph
@@ -247,7 +247,7 @@ R...Rex is r- right, Sui. We can... f- fi- fight together, sh...shore up each o-
 # Zeph
 ...b- but we should pr...probably get going, Sui, b- before more backup sh...shows up.@
 # Rex
-Sigh. Zeph's right. You guys hurry to the Leaves, while we have the chance. Player and I will prepare for your return.@
+Sigh. Zeph's right. You guys hurry to the Leaves, while we have the chance. <playername> and I will prepare for your return.@
 # Rex
 ...ugh.@
 # Rex
@@ -269,7 +269,7 @@ Halt! Intruders!@
 # Canopy Fox
 Quick, call Captain Cileon-@
 # Rurie
-Oh, good grief. Look more closely, foxes - these are familiar faces! Or rather, familiar face, I should say - welcome back to the Canopy, Player! And who might this be?@
+Oh, good grief. Look more closely, foxes - these are familiar faces! Or rather, familiar face, I should say - welcome back to the Canopy, <playername>! And who might this be?@
 # Rex
 ...you're Captain Rurie, right? Sui told us about you.@
 # Rurie
@@ -279,9 +279,9 @@ Hm... now, I would bring you in, but then Fuhue might have my head for not follo
 # Fuhue
 Ugh, just let them in, Rurie. We've been breaking initiation protocols left and right already, I can't be bothered enforcing them anymore.@
 # Rurie
-Well, would you look at that! Lucky you! Come on in, come on in. Our numbers have grown since last you were here, Player - many more friendly faces hanging about!@
+Well, would you look at that! Lucky you! Come on in, come on in. Our numbers have grown since last you were here, <playername> - many more friendly faces hanging about!@
 # Yuman
-Player, Rex!! Man, it's good to see you guys!!@
+<playername>, Rex!! Man, it's good to see you guys!!@
 # Rex
 Yuman?! What're you doing here? I thought they had you locked up in-@
 # Yuman
@@ -317,7 +317,7 @@ I'm gonna... get back to my bro up there. Talk to ya more later!@
 # Rex
 I should talk to the Canopy's leader, get started on some planning. Come by when you're done talking with everyone, okay?@
 # Canopy Fox
-Player. Welcome to the Canopy.@
+<playername>. Welcome to the Canopy.@
 # Canopy Fox
 Your friend has entered the hideout already, please make yourself at home.@
 # Cileon
@@ -327,7 +327,7 @@ Foxes. Guard.@
 # Cileon
 Is important.@
 # Quill
-Ah, Player. I'm glad to see you are well.@
+Ah, <playername>. I'm glad to see you are well.@
 # Quill
 These have been... a difficult few weeks. For all of us, I gather. We have... been informed of our losses.@
 # Yulie
@@ -347,7 +347,7 @@ Well, the guards at the prison didn't really care much about who was physically 
 # Quill
 Harsh treatment, certainly... but I suppose it is no different than the Roughworks, at its core. Only... less obscured.@
 # Quill
-Player, Yusanu told us that he only made it through because of you and Sui. So... thank you. For protecting my little brother when I couldn't.@
+<playername>, Yusanu told us that he only made it through because of you and Sui. So... thank you. For protecting my little brother when I couldn't.@
 # Quill
 Yes... thanks to yours and Sui's magic, I hear...@
 # Yulie
@@ -363,7 +363,7 @@ No, wait. Your sequence is charging Thunder twice in a row here, when it should 
 # Yusanu
 -and it'll destabilize, right. Thanks for double checking my work, Fuhue.@
 # Yusanu
-...oh, Player??? I- I completely didn't... notice you were here...@
+...oh, <playername>??? I- I completely didn't... notice you were here...@
 # Yuman
 Yeesh. You've gotta fix your lack of awareness, bro. Anyone could sneak up on you while you're hyper focused in on something!@
 # Yusanu
@@ -371,7 +371,7 @@ Ugh, yeah, yeah, you keep telling me- if you're not going to be helpful, stop ho
 # Yuman
 Nah. I wanna see the cool stuff happen when you get it working! Don't want to miss the fireworks or any-@
 # Fuhue
-To answer your question, Player, Yusanu believes he has a working theory on the Resonance Weaver's functionality.@
+To answer your question, <playername>, Yusanu believes he has a working theory on the Resonance Weaver's functionality.@
 # Yusanu
 Yeah, but a working theory doesn't mean a whole lot if I can't get results...@
 # Yusanu
@@ -421,13 +421,13 @@ Seeing as... is that Rex over there? Oh, good. Well, seeing as she's plotting wi
 # Yusanu
 Yuman, could you help me out? Since you've been annoying me all day.@
 # Yuman
-Ughhhhhhh.... fine. See ya, Player.@
+Ughhhhhhh.... fine. See ya, <playername>.@
 # Yuman
 ...I missed you, man.@
 # Yusanu
 Yeah. Yeah, me too.@
 # Arnol
-I've been looking forward to seeing you again, Player. That is your real name, right?@
+I've been looking forward to seeing you again, <playername>. That is your real name, right?@
 # Arnol
 It feels like it's been ages since we last spoke. As you can probably guess, a lot has changed for me since then.@
 # Arnol
@@ -455,7 +455,7 @@ I must admit, my time with the resistance has been very difficult. But I can fin
 # Arnol
 Deep down in my heart, I've always known I could never live up to the expectations my family had for me. Here, I no longer have to worry about that.@
 # Arnol
-I was so alone, Player, I truly can't thank you enough for being there for me...@
+I was so alone, <playername>, I truly can't thank you enough for being there for me...@
 # Arnol
 You have nothing to be sorry for, I completely understand why you couldn't tell me the truth.@
 # Arnol
@@ -465,11 +465,11 @@ What matters the most is that you helped me escape Fort Tericen when you found o
 # Azael
 Yes, I see. It would be worth your while to compare notes with Captain Fuhue, she can help narrow it down.@
 # Azael
-...ah, Player. Young Rex and I were just speaking on our options moving forward. Would you like to join us for this discussion?@
+...ah, <playername>. Young Rex and I were just speaking on our options moving forward. Would you like to join us for this discussion?@
 # Rex
 Well... go, then! Go talk to people, you have time.@
 # Rex
-Alright! So, Player, here's the deal. If we want to take out the crown, we'll need to hit it at its root - the Queen, the Citadel, and her Royal Palace.@
+Alright! So, <playername>, here's the deal. If we want to take out the crown, we'll need to hit it at its root - the Queen, the Citadel, and her Royal Palace.@
 # Rex
 We're not getting through the front gates, obviously... they're too defended. But we don't need to take the gates - we can come in from below.@
 # Azael
@@ -547,7 +547,7 @@ We could ask the Blossom of Blades.@
 # Rex
 What?! Ugh, no, they're useless. It was a miracle you got anything out of them the first time, Sui! Trying again is just gonna be a waste of effort.@
 # Sui
-No, it won't. Because it'll work. Player and I, we can talk to them, we can... we can work something out.@
+No, it won't. Because it'll work. <playername> and I, we can talk to them, we can... we can work something out.@
 # Rex
 ...fine. If you want to try, fine. But when it doesn't work - which it won't - remember that I told you so.@
 # Yulie
@@ -561,9 +561,9 @@ What?!@
 # Azael
 A move with great risk, certainly. But one that solves our remaining problems if successful.@
 # Zeph
-Player, a...are you s- sure about this?@
+<playername>, a...are you s- sure about this?@
 # Rurie
-Well, then it's settled! To divert the crown's attention - a strike team at the gates, unrest from the gossip group, and Player turning themself in!@
+Well, then it's settled! To divert the crown's attention - a strike team at the gates, unrest from the gossip group, and <playername> turning themself in!@
 # Quill
 There are still several days to go before the Highlands Festival... perhaps it could be wise to detail our- aah- our plans further in that time?@
 # Azael
@@ -571,9 +571,9 @@ Indeed. Though, before we dismiss this strategy meeting... Yusanu, you have been
 # Yusanu
 Yeah. I... think I know how it works, but it's... hard to operate - it's very abstract, needing to figure out which glyphs to activate to get an intended result-@
 # Yusanu
-But. One thing we managed to do was... reveal some invisible force in the air. Player said it was... dangerous. And it's, uh... kind of everywhere.@
+But. One thing we managed to do was... reveal some invisible force in the air. <playername> said it was... dangerous. And it's, uh... kind of everywhere.@
 # Yusanu
-I don't know why the Queen needed this device. But Player said they might have an idea, and that they'd tell everyone here.@
+I don't know why the Queen needed this device. But <playername> said they might have an idea, and that they'd tell everyone here.@
 # Rex
 So what?@
 # Rex
@@ -587,7 +587,7 @@ It's good information to have. It'll help us formulate the specifics of our plan
 # Azael
 Ah, yes, certainly. Very well, everyone is dismissed. Get some rest, while you still can - these next few days will be very busy!@
 # Yulie
-Hey, Player.@
+Hey, <playername>.@
 # Yulie
 Sigh. This is all... going a bit over my head.@
 # Yulie
@@ -605,7 +605,7 @@ And there's real stuff to feel guilty about. Of course there is. But there's not
 # Yulie
 ...whatever. At this point, I just have to keep my bros safe. I can't change anything else, so that's all that matters.@
 # Yulie
-Good luck, Player.@
+Good luck, <playername>.@
 # Yusanu
 It's... good to see you again, Sui. I- I'm glad you were able to find Rex and Zeph.@
 # Sui
@@ -627,7 +627,7 @@ But instead, I've been able to focus on figuring it out instead of... everything
 # Rex
 ...that's good. I guess at least something came of it.@
 # Rex
-Could you, uh, show us the... thing? The- what did you call it, Player? "Corruption?"@
+Could you, uh, show us the... thing? The- what did you call it, <playername>? "Corruption?"@
 # Yusanu
 I can, just... one second. And don't touch it!!@
 # Rex
@@ -649,7 +649,7 @@ I could recognize five of them. I- I usually pull on blue and sometimes white, f
 # Sui
 ...and it's that. Right there. That's the sixth, and- and you're saying it's... the Queen?@
 # Sui
-I- I- I thought Player could see it too, and just... wasn't saying anything, so I n-never mentioned it, but... but. But you can't, can you?@
+I- I- I thought <playername> could see it too, and just... wasn't saying anything, so I n-never mentioned it, but... but. But you can't, can you?@
 # Sui
 ...oh.@
 # Sui
@@ -789,19 +789,19 @@ Ah, I'll be handling our third group. We will be responsible for communications 
 # Quill
 Yusanu, you are with me. And Captain Rurie, I will need your two best owls.@
 # Azael
-And, lastly... Player. Our fourth and final group. You, alone, will enter the citadel, with the aim of receiving an audience with the Queen.@
+And, lastly... <playername>. Our fourth and final group. You, alone, will enter the citadel, with the aim of receiving an audience with the Queen.@
 # Azael
 Our plan hinges on your success... we need her, and as many Sovereigns as possible, distracted until our operation is completed.@
 # Azael
-Once word of Player's capture reaches us, we will strike. We will assault the gates, and we will take control of a sector of the citadel!@
+Once word of <playername>'s capture reaches us, we will strike. We will assault the gates, and we will take control of a sector of the citadel!@
 # Azael
 For now, we will split up. Groups 1 and 4 will travel to Hyloch, and stay the night in preparation for tomorrow.@
 # Sui
-Player, we'll have to stop by the Blossom of Blades, too... We, um, need to see if we can get them to play their part.@
+<playername>, we'll have to stop by the Blossom of Blades, too... We, um, need to see if we can get them to play their part.@
 # Azael
 Very well. That will be all! May fortune favour us on this coming day, and see us victorious in the end!@
 # Fuhue
-Hm. Player. Good luck out there.@
+Hm. <playername>. Good luck out there.@
 # Fuhue
 I should inform you that if you are to fail, the rest of our operation will fall apart as well.@
 # Fuhue
@@ -899,7 +899,7 @@ Rose-@
 # Sui
 Fine. Fine! We'll come up with something else, then!!@
 # Sui
-Player, let's get out of here.@
+<playername>, let's get out of here.@
 # Sui
 I don't know what I expected... ugh!! I just thought maybe, they could...@
 # Sui
@@ -985,7 +985,7 @@ Wait... You're...@
 # Gendarme Soldier
 I REQUIRE ASSISTANCE!@
 # Capital Soldier
-You... you're Player. The most wanted terrorist in the province.@
+You... you're <playername>. The most wanted terrorist in the province.@
 # Capital Soldier
 Soldiers! Don't let down you guard.@
 # Capital Soldier
@@ -995,7 +995,7 @@ Didn't that one Sovereign say...@
 # Capital Soldier
 How could she have possibly...?@
 # Capital Soldier
-Doesn't matter. Player, you are under arrest for terrorism and multiple counts of first degree murder!@
+Doesn't matter. <playername>, you are under arrest for terrorism and multiple counts of first degree murder!@
 # Her Majesty
 Sovereigns. We meet here today to discuss this ongoing headache which has persisted for far too long.@
 # Sovereign Majin
@@ -1099,7 +1099,7 @@ It's all just the same. Not alive, not dead, just STUCK!! Only this time, it's a
 # Sovereign Soosu
 So who cares. Really, who cares? Z'll run my district better than I ever did. That's all anyone cares about, anyway.@
 # Sovereign Two
-Once more we meet, Player. THough this time, it seems you have played the first hand.@
+Once more we meet, <playername>. THough this time, it seems you have played the first hand.@
 # Sovereign Two
 So, this is the path you wish to take? A risk, certainly... you cannot guarantee a favorable result.@
 # Sovereign Two
@@ -1117,7 +1117,7 @@ Hm. Well, regardless, I should inform you that Her Majesty is scheduled for anot
 # Sovereign Two
 Mmn. If you insist.@
 # Sovereign Two
-You are very fortunate, Player, that I'm the one here to collect you. You'll have your audience with Her Majesty.@
+You are very fortunate, <playername>, that I'm the one here to collect you. You'll have your audience with Her Majesty.@
 # Sovereign Two
 Let's see if your gamble pays off, shall we?@
 # Sovereign Two
@@ -1169,7 +1169,7 @@ A disappointing outcome... but not altogether unexpected. I did not think you wo
 # Her Majesty
 Truly, then, all you have done is wasted my time. And that, I am afraid I will not abide.@
 # Her Majesty
-You will not see the light of day again, Player. Your allies will fall, and you will not see it happen, but you will know-@
+You will not see the light of day again, <playername>. Your allies will fall, and you will not see it happen, but you will know-@
 # Gendarme Commander
 Sovereigns! Your Majesty! The terrorists...they have launched an assault on the Citadel gates!@
 # Gendarme Commander
@@ -1195,7 +1195,7 @@ I...fine. Yes, Your Majesty.@
 # Sovereign Tasim
 ...this is really where you choose to stand your ground?@
 # Sovereign Tasim
-... Goodbye, Player.@
+... Goodbye, <playername>.@
 # Sovereign Two
 How fortunate for you. It seems the cards keep falling in your favour.@
 # Sovereign Two
@@ -1269,7 +1269,7 @@ Then I will leave the rest to fate. Either you live, or you die. Both outcomes w
 # Sovereign Two
 If you are so desperate to change this province... prove it.@
 # Rurie
-Hey Player! Quick!@
+Hey <playername>! Quick!@
 # Rurie
 No time to stay and chat! Come with me.@
 # Rurie
@@ -1311,7 +1311,7 @@ Well, go on! Find the others and tell them you're safe, would you?@
 # Azael
 We need to get a plan established, and fast. Time is running out.@
 # Yuman
-Ey, Player, you made it!!!@
+Ey, <playername>, you made it!!!@
 # Yuman
 How did it go?@
 # Yuman
@@ -1333,7 +1333,7 @@ You're gonna head over to him and the others soon though, right? Tell him... uh.
 # Yuman
 Hey, have you talked to Azael yet? He's in the command center they've set up in the bank.@
 # Yulie
-Oh, Player, you're alright! That's a relief.@
+Oh, <playername>, you're alright! That's a relief.@
 # Yulie
 I'd ask you for more details... but somehow I've ended up with responsibilities here. Sigh.@
 # Yulie
@@ -1373,7 +1373,7 @@ Weapon crates... check. Water... check.@
 # Azael
 Not yet, I am afraid. The festival will be starting within an hour or so, though...@
 # Yusanu
-Player, you're back!@
+<playername>, you're back!@
 # Azael
 Ah, how wonderful! You have survived. That makes three of four teams now accounted for.@
 # Azael
@@ -1403,9 +1403,9 @@ Yes, we must, but I cannot afford to leave my position here... and I don't belie
 # Rurie
 Ah! Yes, that will do. Come, I'll show you the way out of the citadel.@
 # Quill
-Player... good luck. We- aah- we cannot afford to lose any more of our people. Get them back to us safely...@
+<playername>... good luck. We- aah- we cannot afford to lose any more of our people. Get them back to us safely...@
 # Rurie
-Player, right this way!@
+<playername>, right this way!@
 # Rurie
 Use this tunnel - it'll bring you near the entrance of the citadel. When you're done, use it from the other side to get back to us...@
 # Rurie
@@ -1413,3 +1413,139 @@ Use this tunnel - it'll bring you near the entrance of the citadel. When you're 
 # Rurie
 We're nearing the end, just got to stick the landing. Now, go get 'em!@
 
+
+# Достроено вручную по вики
+# NOTE
+Ready to go now!@Готов идти!
+# NOTE
+Sounds good!@Звучит хорошо!
+# NOTE
+I'm not sure...@Не уверен...
+# NOTE
+What? Why?@Что? Почему?
+# NOTE
+How are you feeling?@Как ты себя чувствуешь?
+# NOTE
+You don't sound fine.@На «нормально» не похоже.
+# NOTE
+Thoughts on the plan?@Что думаешь о плане?
+# NOTE
+Ready to see the Canopy again?@Готов снова увидеть Кэнопи?
+# NOTE
+What's phase two?@Что такое второй этап?
+# NOTE
+How are you really?@Как ты на самом деле?
+# NOTE
+What do you think of the plan?@Как тебе план?
+# NOTE
+Give me a moment...@Дай мне секунду...
+# Wings Commander Kaezu
+You're the insurgents everyone is on the lookout for! MEN, TO ARMS! CAPTURE THEM!@Вы те самые повстанцы, которых все ищут! ВСЕМ К ОРУЖИЮ! ЗАХВАТИТЬ ИХ!
+# NOTE
+Let's meet the Canopy.@Пошли знакомиться с Кэнопи.
+# NOTE
+You were kind of hard on her.@Ты был с ней немного жёстким.
+# NOTE
+What're you doing?@Что ты делаешь?
+# NOTE
+What's wrong?@Что случилось?
+# NOTE
+Where's everyone else?@Где все остальные?
+# NOTE
+What are you doing?@Что ты делаешь?
+# NOTE
+I think I know what it is.@Кажется, я знаю, что это.
+# NOTE
+You tell them about the Corruption you've seen in Wynn. About what it does to the land and the people.@Ты рассказываешь им о Коррупции, которую видел в Винне. О том, что она делает с землёй и людьми.
+# NOTE
+You... don't tell them why you think it's here. About the Queen. It'd be best to tell everyone at the same time.@Ты... не говоришь, почему, по твоему мнению, она здесь. О Королеве. Лучше сказать всем сразу.
+# NOTE
+I'll tell you later.@Расскажу позже.
+# NOTE
+How did you get here?@Как ты сюда попал?
+# NOTE
+I'm glad you're ok.@Рад, что с тобой всё в порядке.
+# NOTE
+I'm sorry for lying to you.@Прости, что лгал тебе.
+# NOTE
+Sure!@Конечно!
+# NOTE
+Not yet.@Ещё нет.
+# NOTE
+You suddenly remember. Tasim told you the Queen wanted to speak to you. Maybe you could get an audience...?@Ты вдруг вспоминаешь. Тасим говорил, что Королева хочет с тобой поговорить. Может, удастся добиться аудиенции...?
+# NOTE
+She wanted to meet with me.@Она хотела встретиться со мной.
+# NOTE
+I could get an audience.@Я мог бы добиться аудиенции.
+# NOTE
+Tell them what you know.@Расскажи им, что знаешь.
+# NOTE
+You tell them about the War of the Realms. Of Light and Dark and War.@Ты рассказываешь им о Войне Миров. О Свете, Тьме и Войне.
+# NOTE
+You tell them about Corruption. About how it has affected Wynn, and how the recruits Fruma sends help keep it at bay.@Ты рассказываешь им о Коррупции. О том, как она поразила Винн, и как новобранцы из Фрумы помогают сдерживать её.
+# NOTE
+You tell them about the Queen. About what she is, what she was. That killing her won't be as easy as-@Ты рассказываешь им о Королеве. О том, что она такое, чем была. Что убить её будет не так просто, как-
+# NOTE
+Everyone has dispersed into various groups.. you can talk to them, or go rest right now.@Все разошлись по группам. Можешь поговорить с ними или сразу пойти отдохнуть.
+# Sui
+I could recognize five of them. I- I usually pull on blue and sometimes white, for my- my magic, but- but- but anyway, I can see them, red-blue-green-white-yellow, but-@Я узнавала пять из них. Я обычно тяну синее и иногда белое для своей- своей магии, но- но- в общем, я вижу их - красный-синий-зелёный-белый-жёлтый, но-
+# Sui
+But it's not just them, there- there was always something else, s-something different, something I could feel but couldn't see, and- a-and-@Но дело не только в них, там- там всегда было что-то ещё, ч-что-то другое, что я могла чувствовать, но не видела, и- и-
+# NOTE
+I don't see them.@Я их не вижу.
+# NOTE
+You probably shouldn't interrupt their reunion.@Наверное, не стоит прерывать их встречу.
+# NOTE
+You understood all that?@Ты всё это понял?
+# NOTE
+In a hurry?@Торопишься?
+# NOTE
+Just ask him out already...@Ну пригласи его уже...
+# NOTE
+...uh, Sui-@...э, Суи-
+# NOTE
+What was that for?@Это зачем было?
+# NOTE
+We get it, we're out.@Поняли, уходим.
+# NOTE
+Are you alright?@Ты в порядке?
+# NOTE
+It looks like everyone else has already gone out. It's just you, now.@Похоже, все уже вышли. Теперь только ты.
+# NOTE
+I'm turning myself in.@Я сдаюсь.
+# NOTE
+Let's hope I'm not stuck here forever...@Будем надеяться, я здесь не застряну навсегда...
+# NOTE
+Soosu?@Суусу?
+# NOTE
+He is.@Он такой.
+# NOTE
+What are you planning?@Что ты замышляешь?
+# NOTE
+How do I prove it?@Как мне это доказать?
+# NOTE
+What are your terms?@Каковы твои условия?
+# NOTE
+I won't join you.@Я не стану к вам примыкать.
+# NOTE
+So will you let me go?@Так ты меня отпустишь?
+# NOTE
+For the most part.@В основном.
+# NOTE
+Well enough!@Достаточно хорошо!
+# NOTE
+They seem busy right now. Best to talk to the others first.@Они сейчас, похоже, заняты. Лучше сначала поговорить с остальными.
+# NOTE
+I'm alive!@Я жив!
+# NOTE
+Slight issues@Небольшие трудности
+# NOTE
+Disappointed?@Разочарован?
+# NOTE
+Appreciate the concern.@Ценю беспокойство.
+# NOTE
+Three?@Три?
+# NOTE
+I thought we'd heard from them?@Я думал, мы уже получили от них весть?
+# NOTE
+I'll go.@Я пойду.

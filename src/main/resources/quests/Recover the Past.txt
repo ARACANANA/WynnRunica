@@ -405,3 +405,11 @@ When you get stronger, you should go there too. Maybe we'll run into each other,
 # Tasim
 I guess this is goodbye for now, then. Not forever- but for now. I'll see you around, <playername>.@Значит, пока что это прощание. Не навсегда - просто пока. Ещё увидимся, <playername>.
 
+
+# Достроено вручную по вики
+# Имперский солдат
+Imperial Soldier: Tasim. It's your time. Follow me.@Тасим. Твоё время пришло. Следуй за мной.
+# NOTE
+You feel a faint tug as someone tries to pull you out of the memory. There's more to see here, though. You can't leave yet.@Ты чувствуешь слабый рывок - кто-то пытается вытащить тебя из воспоминания. Но здесь есть что ещё увидеть. Ты пока не можешь уйти.
+# Имперский инквизитор
+Imperial Inquisitor: Silence. Before we begin, I want to make one thing clear. We do not need your ilk in Fruma. We do not want your ilk in Fruma.@Молчать. Прежде чем мы начнём, хочу прояснить одно. Нам не нужны такие, как ты, во Фруме. Мы не желаем таких, как ты, во Фруме.

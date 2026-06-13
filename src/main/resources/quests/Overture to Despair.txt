@@ -3,7 +3,7 @@
 # Sui
 It must be nice, living here... being able to ignore everything going on everywhere else...@
 # Sui
-Player, we need to find that... that so-called "number one" Sovereign! If we can do that, then... ha, then we can save Rex and Zeph.@
+<playername>, we need to find that... that so-called "number one" Sovereign! If we can do that, then... ha, then we can save Rex and Zeph.@
 # Sui
 Why not?! You're the one who wanted to- to rush into Deraj and free everyone without even stopping to think about it!@
 # Sui
@@ -197,9 +197,9 @@ Yes. I am. Here.@
 # Sui
 ...thanks.@
 # Sui
-Player, I'm... going up to the room.@
+<playername>, I'm... going up to the room.@
 # Sui
-No. We're... not here for pleasure, Player. We're here to... to... to save our friends.@
+No. We're... not here for pleasure, <playername>. We're here to... to... to save our friends.@
 # Sui
 I'm, um... not hungry. And I'm, ha, definitely not in the mood for a drink.@
 # Sui
@@ -309,7 +309,7 @@ Could... could this mean what I think it does?@
 # Sui
 I was right... I was right! It's a symbol of resistance, th-that means Hyloch must have its own resistance!!@
 # Sui
-We... we need to seek them out, Player!@
+We... we need to seek them out, <playername>!@
 # Sui
 ...oh. Right. Um, sorry. I just... got excited.@
 # Sui
@@ -333,7 +333,7 @@ Does this one also have something written on it?@
 # NOTE
 "May we unearth the truth long buried and bring forth change."@
 # Sui
-What? Player, what are you doing? That's not...@
+What? <playername>, what are you doing? That's not...@
 # Sui
 ...um. We're very interested in your... um, your wind chimes.@
 # Newspaper Merchant
@@ -473,7 +473,7 @@ Um... before we go to sleep... Is there anything you want to talk about?@
 # Sui
 Oh, is it night time already...? We should get back to the newspaper merchant then.@
 # Sui
-Player, before we head in. Let's just... observe, a-and not ask too many questions.@
+<playername>, before we head in. Let's just... observe, a-and not ask too many questions.@
 # Newspaper Merchant
 [?]@
 # Newspaper Merchant
@@ -775,7 +775,7 @@ Ah... a better view than this is hard to come by. The Highlands, in all their gl
 # Sovereign Majin
 But we've arrived. Greetings, Spymaster.@
 # ???
-Sovereign Majin. And Player. I've been expecting you.@
+Sovereign Majin. And <playername>. I've been expecting you.@
 # ???
 It's been a while since we've met face to face, hasn't it? And you've been busy.@
 # ???
@@ -905,7 +905,7 @@ Now, see yourself out, would you? You are dismissed.@
 # Sovereign Two
 I believe we'll meet once again very soon.@
 # Rex
-Player!@
+<playername>!@
 # Zeph
 Y- you're s...safe. Th...thank goodness...@
 # Rex
@@ -963,7 +963,7 @@ I- I'm going to, um, go out for... for a little. I, ha, I need some air, I think
 # Zeph
 She's d...different, isn't sh- she?@
 # Rex
-She's definitely not taking Mora's loss well, that's for sure... Player, how long has she been like this?@
+She's definitely not taking Mora's loss well, that's for sure... <playername>, how long has she been like this?@
 # Zeph
 SHE k...killed a S- Sovereign?! She d...didn't tell us that...@
 # Rex
@@ -981,7 +981,7 @@ I've ch...changed, Rex... th- there's a, pfft, a- a d...darkness inside me now..
 # Rex
 Oh, het over yourself! I was there too, idiot!@
 # Rex
-...oh, Player, before I forget. When we got here, there was an envelope left for you on your bed.@
+...oh, <playername>, before I forget. When we got here, there was an envelope left for you on your bed.@
 # NOTE
 [+1 Letter]@
 # Rex
@@ -1063,7 +1063,7 @@ The right time. Of course. Of course! You just needed to find the right time to 
 # Sovereign Tasim
 So, now what?! Your "right time" has come and gone, and now we're here.@
 # Sovereign Tasim
-I don't care what it was, Player!! I don't care what you saw happen, or why you think it had to happen, I care that he's gone!!!@
+I don't care what it was, <playername>!! I don't care what you saw happen, or why you think it had to happen, I care that he's gone!!!@
 # Sovereign Tasim
 I don't have much, you know? A couple of acquaintances in Gavel, maybe. No one to really keep up with!@
 # Sovereign Tasim
@@ -1091,7 +1091,7 @@ We're done here. Whatever... whatever we had- friendship, acquaintances- it does
 # Sovereign Tasim
 ...before I change my mind and throw you off this dam myself.@
 # Sovereign Tasim
-Goodbye, Player. I hope you find your new friendships just as fulfilling as you found ours.@
+Goodbye, <playername>. I hope you find your new friendships just as fulfilling as you found ours.@
 # Sovereign Tasim
 What... what is Fruma to you, if you don't mind me asking? If you're... you know. Why are you here, instead of there?@
 # Her Majesty
@@ -1111,3 +1111,298 @@ But now, I have something I could lose. Something to protect at any cost. I woul
 # Sovereign Tasim
 I think I know the feeling.@
 
+
+# ═══════════════════════════════════════════════════════════
+# Достроено вручную по вики. Sui=жен. Мета-аннотации срезаны.
+# ═══════════════════════════════════════════════════════════
+
+# NOTE
+We can't just rush this.@Нельзя так с наскоку.
+# NOTE
+We need a plan first!@Сначала нужен план!
+# NOTE
+Where will we bring them?@Куда мы их отведём?
+# NOTE
+Do you know where they are?@Ты знаешь, где они?
+# NOTE
+And you're just going to fight Majin?@И ты просто пойдёшь драться с Маджином?
+# NOTE
+Okay. Let's go then.@Ладно. Тогда пошли.
+# NOTE
+Let's get clothes to blend in.@Раздобудем одежду, чтобы слиться с толпой.
+# NOTE
+You from around here?@Ты местный?
+# NOTE
+Are there any hotels nearby?@Тут поблизости есть отели?
+# NOTE
+What should we check out?@На что стоит взглянуть?
+# NOTE
+Goodbye.@Пока.
+# NOTE
+How are you?@Как ты?
+# NOTE
+It's my first time here, any tips?@Я тут впервые, есть советы?
+# NOTE
+We're looking for some hip new fashion.@Мы ищем что-нибудь модное.
+# NOTE
+Well.... I wish you good luck!@Что ж.... удачи тебе!
+# NOTE
+We need some clothes.@Нам нужна одежда.
+# NOTE
+Alright, we'll pay. [-32 EB]@Ладно, заплатим. [-32 EB]
+# NOTE
+I... don't have that.@У меня... столько нет.
+# NOTE
+We need a bigger room.@Нам нужна комната побольше.
+# NOTE
+We're expecting company.@Мы ждём гостей.
+# NOTE
+You don't want to look around?@Не хочешь осмотреться?
+# NOTE
+Let's get some food or drinks.@Возьмём поесть или выпить.
+# NOTE
+Any tourist recommendations in Hyloch?@Что посоветуешь туристу в Хайлоке?
+# NOTE
+Do you host any events here at the hotel?@Вы проводите тут в отеле какие-нибудь мероприятия?
+# NOTE
+I want to make a complaint.@Хочу пожаловаться.
+# NOTE
+The beds are uncomfortable.@Кровати неудобные.
+# NOTE
+The room is dirty.@В комнате грязно.
+# NOTE
+It is too expensive!@Слишком дорого!
+# NOTE
+- No noise after 9 PM.@- Не шуметь после 21:00.
+# NOTE
+- No entering other guests' rooms.@- Не заходить в чужие номера.
+# NOTE
+- No vandalizing the property.@- Не портить имущество.
+# NOTE
+- No pets allowed.@- С животными нельзя.
+# NOTE
+- No weaponry or blessed equipment in common areas.@- Никакого оружия и благословлённого снаряжения в общих зонах.
+# NOTE
+- Late checkout will come with a 64 LE fine.@- Поздний выезд штраф 64 LE.
+# NOTE
+There's a note attached...@К нему прикреплена записка...
+# NOTE
+"ATTENTION CUSTOMERS: No, despite the beer-like design of this vending machine, it does not serve alcoholic beverages! Please go to the bar for those! And stop asking us about it!"@"ВНИМАНИЕ КЛИЕНТЫ: Нет, несмотря на пивной дизайн этого автомата, он НЕ продаёт алкоголь! За этим в бар! И хватит нас об этом спрашивать!"
+# NOTE
+There's a sign on the elevator door.@На двери лифта табличка.
+# NOTE
+Do you want to play a song?@Хочешь поставить песню?
+# NOTE
+Status@Статус
+# NOTE
+Now playing: Status (Highlands)...@Сейчас играет: Статус (Высокогорье)...
+# NOTE
+Bullfrog's Bellow@Рёв быка-лягушки
+# NOTE
+Now playing: Bullfrog's Bellow (Frog Bog)...@Сейчас играет: Рёв быка-лягушки (Лягушачье болото)...
+# NOTE
+Whisper@Шёпот
+# NOTE
+Now playing: Whisper (Auburn)...@Сейчас играет: Шёпот (Аубёрн)...
+# NOTE
+Day In, Day Out@День за днём
+# NOTE
+Now playing: Day In, Day Out (Timasca)...@Сейчас играет: День за днём (Тимаска)...
+# NOTE
+Ballad of the Trees@Баллада деревьев
+# NOTE
+Now playing: Ballad of the Trees (Savanna)...@Сейчас играет: Баллада деревьев (Саванна)...
+# NOTE
+Ignorance is Bliss@Неведение блаженство
+# NOTE
+Now playing: Ignorance is Bliss (Hyloch)...@Сейчас играет: Неведение блаженство (Хайлок)...
+# NOTE
+Do you want to get some ice?@Хочешь набрать льда?
+# NOTE
+What if we're too late?@А если мы опоздаем?
+# NOTE
+Just being realistic.@Просто смотрю на вещи трезво.
+# NOTE
+Okay. What do we do?@Ладно. Что делаем?
+# NOTE
+We should rest first.@Сначала надо отдохнуть.
+# NOTE
+Are you doing alright?@Ты в порядке?
+# NOTE
+I'll come with you.@Я пойду с тобой.
+# NOTE
+What's wrong?@Что случилось?
+# NOTE
+Admiring the city?@Любуешься городом?
+# NOTE
+I think the whole city heard you.@По-моему, тебя слышал весь город.
+# NOTE
+Maybe you could ask the merchant inside about the wind chime?@Может, спросишь у торговца внутри про колокольчик?
+# NOTE
+Yes, please!@Да, пожалуйста!
+# NOTE
+Uh... no.@Э... нет.
+# NOTE
+Where regions meet...@Там, где сходятся регионы...
+# NOTE
+The train station.@Вокзал.
+# NOTE
+The Mistwoods, actually.@Вообще-то, Мглолесье.
+# NOTE
+I... spawned in. From nothing.@Я... появился из ниоткуда.
+# Player
+Where regions meet through lines of burrowed steel.@Там, где регионы сходятся линиями зарытой стали.
+# NOTE
+What she said!@Как она и сказала!
+# NOTE
+May we...@Можно нам...
+# NOTE
+Tacos, please.@Тако, пожалуйста.
+# NOTE
+Soup, please.@Суп, пожалуйста.
+# NOTE
+Curry, please.@Карри, пожалуйста.
+# NOTE
+How's you magic?@Как твоя магия?
+# NOTE
+What'll you do when it's all over?@Что будешь делать, когда всё закончится?
+# NOTE
+What was it about?@О чём это было?
+# NOTE
+Tell me about Syndra.@Расскажи про Синдру.
+# NOTE
+She knew.@Она знала.
+# NOTE
+Let's just wait.@Давай просто подождём.
+# NOTE
+Tell me about Mora.@Расскажи про Мору.
+# NOTE
+I'm ready to go to sleep.@Я готов лечь спать.
+# Newspaper Merchant
+Ah, terribly sorry! We're just closing out for the day was on my way out the door. Oh did you find the paper to be enlightening?@Ах, ужасно извиняюсь! Мы как раз закрываемся на сегодня я уже выходил за дверь. О, газета показалась тебе познавательной?
+# NOTE
+...Sui, did you@...Суи, ты что
+# Sui
+No such thing as a green Squirmle Pot.@Не бывает зелёного Сквирмл-горшка.
+# Newspaper Merchant
+Good, good! Glad to hear you're interested in cutting through the weeds, hearing the stories that matter.@Хорошо, хорошо! Рад слышать, что тебе интересно копнуть глубже, услышать истории, которые важны.
+# NOTE
+Say the phrase.@Скажи фразу.
+# NOTE
+...seems like they're occupied. You should follow Sui and see what's going on.@...похоже, они заняты. Иди за Суи и посмотри, что происходит.
+# NOTE
+...Shadow Bush?@...Теневой куст?
+# NOTE
+Our stove is on?@У нас плита включена?
+# NOTE
+Of course.@Конечно.
+# NOTE
+I'd rather not...@Лучше не надо...
+# NOTE
+Not yet.@Ещё нет.
+# NOTE
+You were expecting me?@Ты меня ждал?
+# NOTE
+I'm here for my friends.@Я здесь ради друзей.
+# NOTE
+Are you here to fight?@Ты пришёл драться?
+# NOTE
+I'm... leaving.@Я... ухожу.
+# NOTE
+Uh... no, thank you.@Э... нет, спасибо.
+# NOTE
+Magic?@Магия?
+# NOTE
+Psionics?@Псионика?
+# NOTE
+So... you were cursed?@Так... ты был проклят?
+# NOTE
+The Art of the New Age@Искусство Новой Эпохи
+# NOTE
+Would you like to keep reading?@Хочешь читать дальше?
+# NOTE
+Leave@Уйти
+# NOTE
+Twilight Skies@Сумеречные небеса
+# NOTE
+The painting seems to represents the differences in the Highlands and Auburn. The ruined Auburn after the great flood juxtaposed to the idyllic highlands. This is clearly shown in the colours.@Картина, похоже, отражает различие между Высокогорьем и Аубёрном. Разрушенный после великого потопа Аубёрн противопоставлен идиллическому высокогорью. Это ясно видно по цветам.
+# NOTE
+The painting has two sides with different colouring styles. One half features the ruined Auburn in gray and muted colours. The other half shows the Highlands in bright colouring. The two sides are split by the dam.@У картины две стороны с разной манерой раскраски. Одна половина изображает разрушенный Аубёрн в серых, приглушённых тонах. Другая показывает Высокогорье в ярких красках. Половины разделены плотиной.
+# NOTE
+The Khuia Haiku Collection:@Сборник хайку Куйи:
+# NOTE
+You open a page at random...@Ты открываешь страницу наугад...
+# NOTE
+You open another page at random...@Ты открываешь ещё одну страницу наугад...
+# NOTE
+Highlands Gardening 101@Садоводство Высокогорья для начинающих
+# NOTE
+The Death Penalty - The Good and the Bad@Смертная казнь: хорошее и плохое
+# NOTE
+Magical Observations: The Instable Cosmos@Магические наблюдения: Нестабильный космос
+# NOTE
+Elemental Magic@Магия стихий
+# NOTE
+At first, I was afraid of being labled as cursed. But power does not come withour risk. I am willing to risk everything for power.@Поначалу я боялся, что меня заклеймят проклятым. Но сила не даётся без риска. Я готов рискнуть всем ради силы.
+# NOTE
+Why are you telling me this?@Зачем ты мне это рассказываешь?
+# NOTE
+You sure like to talk...@А ты любишь поговорить...
+# NOTE
+Who are you, really?@Кто ты на самом деле?
+# NOTE
+Why do you care?@Тебе-то что?
+# NOTE
+How do you know all this?@Откуда ты всё это знаешь?
+# NOTE
+We do.@Знаем.
+# NOTE
+Do I have a choice?@А у меня есть выбор?
+# NOTE
+You tell her about entering the portal with Lari. About seeing the realm's connections severed, made smaller.@Ты рассказываешь ей о том, как вошёл в портал с Лари. О том, как видел разорванные, ужатые связи царства.
+# NOTE
+You tell her about remaking the connections, About the monoliths, deactivated with intent, their light fading.@Ты рассказываешь ей о восстановлении связей. О монолитах, намеренно отключённых, чей свет угасал.
+# NOTE
+You tell her about crossing the bridge. About your encounter with the Scourge of Wynn. About his battle with Lari, from start to end.@Ты рассказываешь ей о том, как пересёк мост. О встрече с Бичом Винна. О его битве с Лари, от начала до конца.
+# NOTE
+You tell her about fighting through the nexus. About the battle between Light and Dark ongoing within.@Ты рассказываешь ей о том, как пробивался через нексус. О непрекращающейся внутри битве Света и Тьмы.
+# NOTE
+You tell her about Orphion. About the Parasite latched on, eating through his radiance. About the struggle to remove it.@Ты рассказываешь ей об Орфионе. О Паразите, что вцепился в него и выедал его сияние. О борьбе за то, чтобы его снять.
+# NOTE
+You tell her how you finally killed it. How it fought, and fought, and fought, but could not take you down. How the Light was freed from the Shadows.@Ты рассказываешь ей, как наконец убил его. Как он бился, и бился, и бился, но не смог тебя одолеть. Как Свет освободился от Теней.
+# NOTE
+Why does she care about all this?@Почему её всё это волнует?
+# NOTE
+Fruma seems so... detached from it.@Фрума кажется такой... отстранённой от всего этого.
+# NOTE
+So I'm free to leave?@Так я могу идти?
+# NOTE
+The plan was to meet back at The Crown Jewel Hotel.@По плану надо было встретиться обратно в отеле "Корона-Жемчужина".
+# NOTE
+Are you two alright?@Вы оба в порядке?
+# NOTE
+I'm glad you're safe.@Я рад, что вы целы.
+# NOTE
+She changed after Mora...@Она изменилась после Моры...
+# NOTE
+Are you doing okay?@Ты в порядке?
+# NOTE
+How was your time imprisoned?@Каково было в заточении?
+# NOTE
+Thoughts on the Blossom of Blades?@Что думаешь о Цветении Клинков?
+# NOTE
+So, what're your plans?@Так какие у тебя планы?
+# NOTE
+Is.. what true?@Что.. правда?
+# NOTE
+It... is.@Это... правда.
+# NOTE
+I was trying to find the right time.@Я искал подходящий момент.
+# NOTE
+It was... necessary. He-@Это было... необходимо. Он-
+# NOTE
+Are you sure?@Ты уверен?
+# NOTE
+Maybe you didn't know him at all.@Может, ты совсем его не знал.
+# NOTE
+But he's not here.@Но его здесь нет.

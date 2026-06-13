@@ -151,3 +151,23 @@ I have to be off though, lots of work to get to. Hm. It looks like the core you 
 # Nasea
 Suppose that's all, then! Here's your payment. I'll see you around.@Ну, вроде всё! Держи оплату. Ещё увидимся.
 
+
+# Достроено вручную по вики
+# NOTE
+Dado won't budge about the topic. Maybe Nasea has an idea to get him to confess.@Дадо ни в какую не хочет говорить на эту тему. Может, у Насеи есть идея, как вытащить признание.
+# NOTE
+You should head back to Dado with the flower.@Стоит вернуться к Дадо с цветком.
+# NOTE
+You press the flower up against his nose while he's laughing. Dado gets a big whiff of the petals, and immediately his expression goes slack.@Ты подносишь цветок к его носу, пока он смеётся. Дадо глубоко вдыхает запах лепестков, и его лицо тут же становится безвольным.
+# NOTE
+The door is locked. There has to be a way to get in...@Дверь заперта. Должен быть какой-то способ войти...
+# NOTE
+The door is locked shut, and there's no keyhole anyplace.@Дверь наглухо заперта, и никакого замочной скважины нет.
+# NOTE
+It's made of quartz, it looks like...the sign says not to overcharge the quartz.@Похоже, она из кварца... Надпись предупреждает не перезаряжать кварц.
+# NOTE
+Nasea mentioned that overcharging quartz was dangerous...maybe overcharging the door will destroy it.@Насеа говорила, что перезарядка кварца опасна... Может, если перезарядить дверь, она разрушится.
+# NOTE
+Is there a way to charge quartz anyplace nearby?@Есть ли поблизости что-то, чем можно зарядить кварц?
+# NOTE
+The quartz is charged! Use this to overcharge the door and destroy it!@Кварц заряжен! Используй его, чтобы перегрузить дверь и уничтожить её!

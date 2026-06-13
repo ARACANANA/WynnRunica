@@ -125,3 +125,45 @@ Ill-gotten gains from the scourge's sham of a toll-road scheme, no doubt. I thin
 # Norsten
 Of course! Here. And don't worry about the gate. It's supposed to be open for anyone, so use it as you like.@Конечно! Держи. И насчёт ворот не переживай. Они вообще-то должны быть открыты для всех, так что пользуйся как хочешь.
 
+
+# Достроено вручную по вики
+# NOTE
+Although the strange beings are now gone, some parts of them were left behind. They look very unstable.@Хоть странные существа теперь исчезли, некоторые их части остались. Они выглядят очень нестабильными.
+# NOTE
+Perhaps if you combine them in the right way you can cause an explosion and escape.@Возможно, если соединить их правильным образом, можно вызвать взрыв и сбежать.
+# NOTE
+Goal: Get 100 Explosive Power by combining the 6 different cores in the grid made of green particles.@Цель: набрать 100 Взрывной силы, соединив 6 разных ядер в сетке из зелёных частиц.
+# NOTE
+Right Click a core to select it, the Right Click one of the 6 green spots in the grid to place it there.@Кликни правой кнопкой по ядру, чтобы выбрать его, затем правой кнопкой по одному из 6 зелёных мест в сетке, чтобы поставить его туда.
+# NOTE
+Each core gains and loses explosive power based on its position in the grid, and what cores it's touching. Each core touches the cores that are above, below, and next to it.@Каждое ядро получает и теряет взрывную силу в зависимости от его положения в сетке и от того, каких ядер оно касается. Каждое ядро касается ядер сверху, снизу и сбоку от него.
+# NOTE
+Remember, you need to get 100 Explosive Power! If you need a hint, click on Hints and Rules and select "I want a hint."@Помни, тебе нужно набрать 100 Взрывной силы! Если нужна подсказка, нажми «Подсказки и правила» и выбери «Хочу подсказку».
+# NOTE
+Purple Core: +10 Explosive Power, x2 Power when touching blue@Фиолетовое ядро: +10 Взрывной силы, x2 силы при касании синего
+# NOTE
+Orange Core: +5 Explosive Power, -5 Power when touching blue, +5 Power when touching purple, x2 Power when on the left@Оранжевое ядро: +5 Взрывной силы, -5 силы при касании синего, +5 силы при касании фиолетового, x2 силы, если слева
+# NOTE
+Blue Core: +10 Explosive Power, +5 Power when touching purple, x2 Power when on the right@Синее ядро: +10 Взрывной силы, +5 силы при касании фиолетового, x2 силы, если справа
+# NOTE
+Gray Core: +0 Explosive Power, -20 Power per core it touches that isn't rainbow@Серое ядро: +0 Взрывной силы, -20 силы за каждое касаемое ядро, кроме радужного
+# NOTE
+Green Core: +25 Explosive Power, -10 Power when touching orange, -5 Power when touching blue, -5 Power when touching purple@Зелёное ядро: +25 Взрывной силы, -10 силы при касании оранжевого, -5 силы при касании синего, -5 силы при касании фиолетового
+# NOTE
+Rainbow Core: +0 Explosive Power, +20 Power when touching blue, +10 Power when touching orange, +10 Power when touching purple, +5 Power when touching green@Радужное ядро: +0 Взрывной силы, +20 силы при касании синего, +10 силы при касании оранжевого, +10 силы при касании фиолетового, +5 силы при касании зелёного
+# NOTE
+Do you want a hint or see the rules again?@Хочешь подсказку или снова посмотреть правила?
+# NOTE
+What core do you want a hint about?@О каком ядре ты хочешь подсказку?
+# NOTE
+The Gray Core loses a lot of Explosive Power for every core it's touching, except Rainbow. This means the best place for it is in a corner, where it's touching only 2 cores, and one of those should be the Rainbow Core, to minimize Explosive Power lost.@Серое ядро теряет много Взрывной силы за каждое касаемое ядро, кроме радужного. Значит, лучшее место для него - в углу, где оно касается лишь 2 ядер, и одним из них должно быть радужное ядро, чтобы свести потери Взрывной силы к минимуму.
+# NOTE
+The Rainbow Core gets big bonuses from touching other colored cores, so its best place would be in the middle, where it touches 3 different cores.@Радужное ядро получает большие бонусы от касания других цветных ядер, так что лучшее для него место - в середине, где оно касается 3 разных ядер.
+# NOTE
+The Green Core begins with a lot of power, but loses power when touching some of the other cores, especially Orange.So you'll want it in a corner, where it's touching only 2 cores, and it shouldn't be touching Orange.@Зелёное ядро начинает с большим запасом силы, но теряет её при касании некоторых других ядер, особенно оранжевого. Так что лучше поставить его в угол, где оно касается лишь 2 ядер, и оно не должно касаться оранжевого.
+# NOTE
+The Blue Core is pretty safe, as it doesn't lose a lot of power when touching any specific core. Rainbow also gets a ton of points from it, so ideally you'll want it on the right, touching Rainbow.@Синее ядро довольно безопасно, так как не теряет много силы при касании какого-либо конкретного ядра. К тому же радужное получает от него кучу очков, так что в идеале его стоит поставить справа, касаясь радужного.
+# NOTE
+The Orange Core doesn't have a lot of power on its own. However, Rainbow gets a big bonus when touching it, and Green loses a lot when touching it. So you'll want it on the left, and touching Rainbow, but not Green.@Оранжевое ядро само по себе слабовато. Однако радужное получает большой бонус при касании с ним, а зелёное много теряет при касании с ним. Так что его стоит поставить слева, касаясь радужного, но не зелёного.
+# NOTE
+The Purple Core is pretty safe, as it doesn't lose a lot of power when touching any specific core. Both Blue Core and Orange gain bonus when touching it, so you'll want it touching one or both of those.@Фиолетовое ядро довольно безопасно, так как не теряет много силы при касании какого-либо конкретного ядра. И синее, и оранжевое ядро получают бонус при касании с ним, так что его стоит поставить касаясь одного из них или обоих.

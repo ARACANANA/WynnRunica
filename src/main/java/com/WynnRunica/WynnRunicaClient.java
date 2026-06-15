@@ -52,7 +52,9 @@ public class WynnRunicaClient implements ClientModInitializer {
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
 
             long windowHandle = client.getWindow().getHandle();
-            boolean isDown = org.lwjgl.glfw.GLFW.glfwGetKey(windowHandle, GLFW.GLFW_KEY_H) == GLFW.GLFW_PRESS;
+
+            int toggle = InputUtil.fromTranslationKey(toggleKey.getBoundKeyTranslationKey()).getCode();
+            boolean isDown = GLFW.glfwGetKey(windowHandle, toggle) == GLFW.GLFW_PRESS;
 
             if (isDown && !toggleKeyWasDown) {
                 enabled = !enabled;
@@ -66,7 +68,9 @@ public class WynnRunicaClient implements ClientModInitializer {
             }
             toggleKeyWasDown = isDown;
 
-            boolean reloadDown = GLFW.glfwGetKey(windowHandle, GLFW.GLFW_KEY_F9) == GLFW.GLFW_PRESS;
+            int reload = InputUtil.fromTranslationKey(reloadKey.getBoundKeyTranslationKey()).getCode();
+            boolean reloadDown = GLFW.glfwGetKey(windowHandle, reload) == GLFW.GLFW_PRESS;
+
             if (reloadDown && !reloadKeyWasDown) {
                 if (client.player != null) {
                     TranslationPrinter.reload();

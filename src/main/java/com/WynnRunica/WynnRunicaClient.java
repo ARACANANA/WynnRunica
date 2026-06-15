@@ -98,5 +98,26 @@ public class WynnRunicaClient implements ClientModInitializer {
 
             }
         });
+
+        ClientCommandRegistrationCallback.EVENT.register((dispatcher, registryAccess) ->
+                dispatcher.register(literal("runicauntranslated")
+                        .then(literal("on").executes(ctx -> setUntranslated(ctx.getSource(), true)))
+                        .then(literal("off").executes(ctx -> setUntranslated(ctx.getSource(), false)))
+                        .then(literal("toggle").executes(ctx -> setUntranslated(ctx.getSource(), !UntranslatedLogger.ENABLED)))
+                        .executes(ctx -> {
+                            String status = UntranslatedLogger.ENABLED ? "§aвключён" : "§cвыключен";
+                            ctx.getSource().sendFeedback(Text.literal(
+                                    "[§3Wynn§fRunica] Лог непереведённого " + status
+                                            + " §8/runicauntranslated on | off | toggle"));
+                            return 1;
+                        })));
+    }
+
+    private static int setUntranslated(FabricClientCommandSource source, boolean on) {
+        UntranslatedLogger.setEnabled(on);
+        String status = on ? "§aвключён" : "§cвыключен";
+        source.sendFeedback(Text.literal(
+                "[§3Wynn§fRunica] Лог непереведённого " + status));
+        return 1;
     }
 }

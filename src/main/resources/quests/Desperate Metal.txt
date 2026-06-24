@@ -77,3 +77,6 @@ Phinas: You see, many of the Corkian people rely on their machines. Have done fo
 Phinas: So when the factory fell and the new laws were introduced, people's lives changed..@Так что когда фабрика пала и ввели новые законы, жизни людей изменились..
 # Финас
 Phinas: People don't like change. Anyway, I can't thank you enough. Have this for your troubles.@Люди не любят перемен. Ладно, не могу отблагодарить тебя в полной мере. Вот, за твои хлопоты.
+
+# добавлено с вики
+I was made to be angry. I can't stop myself...@Меня создали злым. Я не могу себя остановить...

@@ -1406,3 +1406,6 @@ Are you sure?@Ты уверен?
 Maybe you didn't know him at all.@Может, ты совсем его не знал.
 # NOTE
 But he's not here.@Но его здесь нет.
+
+# добавлено с вики
+Player!@<playername>!

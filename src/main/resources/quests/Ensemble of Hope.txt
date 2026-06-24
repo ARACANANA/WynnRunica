@@ -1549,3 +1549,8 @@ Three?@Три?
 I thought we'd heard from them?@Я думал, мы уже получили от них весть?
 # NOTE
 I'll go.@Я пойду.
+
+# добавлено с вики
+...oh, Player. Hi.@...о, <playername>. Привет.
+Hey Player.@Привет, <playername>.
+Hey, Player.@Эй, <playername>.

@@ -1411,3 +1411,20 @@ I didn't get enough sleep. Might as well nap for a bit longer.@Не выспал
 Tasim needs to do this alone.@Тасим должен сделать это в одиночку.
 # NOTE
 Tasim must be back...@Тасим, наверное, уже вернулся...
+
+# Queen's Recruit (добавлено с вики)
+...You already have them on your left, doctor.@...Они уже лежат у вас слева, доктор.
+What, you didn't test it on anyone else after we left?@Что, ты так и не испытал это ни на ком после того, как мы ушли?
+And is that... safe?@А это... безопасно?
+Now, I must return to the pages... I've some equations I need to perfect before the King arrives...@А теперь мне пора вернуться к записям... нужно довести до ума пару уравнений, пока не прибыл Король...
+Hm. I can't say I would have expected you to be here, Tasim.@Хм. Не сказал бы, что ожидал увидеть тебя здесь, Тасим.
+Well... fate has other plans, I guess. How about you? Did you stay in Elkurn?@Ну... видимо, у судьбы другие планы. А ты как? Остался в Элькурне?
+Mostly. Moved around for a few assignments here and there, but I kept coming back.@По большей части да. Помотало по паре заданий туда-сюда, но я всё время возвращался.
+...we haven't spoken in a while. Are you... doing well? How have you been managing the memories?@...мы давно не разговаривали. Ты... в порядке? Как справляешься с воспоминаниями?
+As well as I could be expected to, I guess. It was rough for the first few months. Eventually, I got used to it.@Насколько это вообще возможно, наверное. Первые несколько месяцев были тяжёлыми. Со временем привык.
+How about you? I also wouldn't have expected you to show for a mission like this.@А ты? Я тоже не ожидал, что ты явишься на такое задание.
+Same as you. Helped that Caid and I managed to talk it through. We meet every so often, talk about it. He talks about his sister, how he wants to find her one day.@Так же, как и ты. Помогло то, что мы с Кейдом сумели всё проговорить. Время от времени встречаемся, обсуждаем. Он рассказывает про свою сестру, как однажды хочет её найти.
+That's... good. Happy for you.@Это... хорошо. Рад за тебя.
+Hm. Nothing stopping you from stopping by, yourself. It might even help you.@Хм. Тебе ведь тоже ничто не мешает заглянуть. Может, тебе это даже поможет.
+I'll... consider it. Good to see you again, Reynauld.@Я... подумаю. Рад снова тебя видеть, Рейнальд.
+Hey, Player...@Эй, <playername>...

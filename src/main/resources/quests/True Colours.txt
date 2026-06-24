@@ -1023,3 +1023,84 @@ You didn't fail.@Ты не провалился.
 We'll get revenge.@Мы отомстим.
 # NOTE
 You have experience?@У тебя есть опыт?
+
+# Sovereign Tasim (добавлено с вики)
+<playername>. You've been busy haven't you?@<playername>. А ты времени зря не терял, да?
+Not as much as you'd think. I've only just recovered enough to start doing things around here.@Не так сильно, как кажется. Я только недавно оправился настолько, чтобы хоть что-то тут делать.
+Imagine my surprise when I found you were the one responsible for all the commotion. That you were even in Fruma in the first place!@Представь моё удивление, когда я узнал, что весь этот переполох - твоих рук дело. Что ты вообще оказался во Фруме!
+Usually, at least. I've cleared them out temporarily, so that we could have some privacy.@По крайней мере, обычно. Я их временно убрал, чтобы мы могли поговорить наедине.
+We didn't really get to talk back at the festival, after all. You... probably have questions.@Мы ведь так и не поговорили тогда, на фестивале. У тебя... наверное, есть вопросы.
+She gave me a choice.@Она дала мне выбор.
+She mentioned it to you too, didn't she? That ceaseless war over our world, fought by forces beyond our power?@Она ведь и тебе про это говорила, да? Про нескончаемую войну за наш мир, которую ведут силы, что нам не по зубам?
+She says it's only because of their stalemate that they haven't done worse, and... I believe it.@Она говорит, что лишь из-за их патовой ситуации не случилось чего похуже, и... я ей верю.
+...and there was the choice. Join her, and help ensure neither side in that war gets too much of an advantage... or... don't.@...и вот он, выбор. Примкнуть к ней и помочь следить, чтобы ни одна из сторон в этой войне не получила перевес... или... нет.
+At least, here... I could make a difference. Both in that war, and in Fruma.@По крайней мере, здесь... я мог что-то изменить. И в той войне, и во Фруме.
+If I was in this position anyway... at least I could push for change.@Раз уж я всё равно оказался в таком положении... я хотя бы мог продвигать перемены.
+Not that that's made actually being in Fruma any easier, ha. Everything here is a reminder of... well. You know.@Хотя легче от этого находиться во Фруме не стало, ха. Тут всё напоминает о... ну. Сам знаешь.
+...I am. I'm not sure how to feel about it still, honestly.@...так и есть. Я до сих пор не знаю, как к этому относиться, если честно.
+There's... two parts to it. Having authority and commanding soldiers, feels... strange. I don't know if I'll ever be used to it.@Тут... две стороны. Иметь власть и командовать солдатами - ощущение... странное. Не знаю, привыкну ли я когда-нибудь.
+I've never had that sort of power before. To be able to tell people what to do, and... have them just, do it.@У меня никогда не было такой власти. Возможности сказать людям, что делать, и... чтобы они просто взяли и сделали.
+I have a voice that can actually push for change, and improve things, and... it feels unearned, in a way.@Теперь у меня есть голос, которым можно добиваться перемен, что-то улучшать, и... как будто я этого и не заслужил.
+I'm still the same as I was before! But now, with this title given to me, suddenly people will actually listen to me.@Я всё тот же, что и раньше! Но теперь, с этим титулом, люди вдруг и правда меня слушают.
+... I don't like that that's all it took.@...и мне не нравится, что хватило всего лишь этого.
+...the blessing.@...благословение.
+It's a strange feeling. Not... unpleasant, exactly, but not comfortable, either. A constant weight on my shoulder, reminding me of what I've signed up for.@Странное чувство. Не то чтобы... неприятное, но и не сказать, что комфортное. Постоянный груз на плечах, напоминающий, на что я подписался.
+It's always there, a... a small push to react to things I haven't noticed yet, that I wouldn't notice without it.@Оно всегда рядом, такой... лёгкий толчок отреагировать на то, чего я ещё не заметил, чего без него и не заметил бы.
+And the more focus I put on it, the stronger it gets. More overwhelming to keep track of, but... stronger.@И чем сильнее я на нём сосредотачиваюсь, тем мощнее оно становится. Сложнее за ним уследить, но... сильнее.
+...I try not to use it unless I have to.@...я стараюсь не пользоваться им без необходимости.
+She mentioned it to you too, didn't she?@Она ведь и тебе про это говорила, да?
+That ceaseless war over our world, fought by forces beyond our power?@Про ту нескончаемую войну за наш мир, которую ведут силы, что нам не по зубам?
+...sigh. I thought... I thought I had it all figured out, but you being here is making things harder than I'd like.@...эх. Я думал... думал, что во всём разобрался, но твоё присутствие здесь всё усложняет сильнее, чем мне бы хотелось.
+Ha. Well... sort of, but not really. You've learned what it really means by now, then? Horrible, uncontrollable power... so they say.@Ха. Ну... вроде того, но не совсем. Ты, значит, уже понял, что это на самом деле такое? Жуткая, неконтролируемая сила... как говорят.
+It's all paper-thin, in the end. It's just a means to control the people, to keep all magic contained and monitored.@В конце концов, всё это - пустышка. Просто способ держать людей под контролем, а всю магию - взаперти и под надзором.
+...and knowing that it was all manufactured, that there was never anything actually... wrong...@...и осознавать, что всё это было подстроено, что на самом деле никогда ничего и не было... не так...
+...just another thing I want to change in Fruma. If I get the chance, that is.@...ещё одна вещь, которую я хочу изменить во Фруме. Если, конечно, выпадет шанс.
+...you being here is only making it harder for me to do anything about it of course.@...а твоё присутствие, само собой, только мешает мне хоть что-то с этим сделать.
+They didn't want us here. We were... disposable soldiers, just a resource to keep Wynn standing.@Мы были им здесь не нужны. Мы были... расходными солдатами, просто ресурсом, чтобы Винн держался.
+But now, all of a sudden... Now, they've changed their mind.@А теперь, ни с того ни с сего... теперь они передумали.
+But I can't just... forget. I had my memories discarded, and was shipped off to Wynn, for something beyond my control.@Но я не могу просто... забыть. У меня стёрли память и отправили в Винн за то, что было вне моей власти.
+For something I've learned to appreciate over time. For something that was never really a curse!!@За то, что я со временем научился ценить. За то, что на самом деле никогда и не было проклятием!!
+I did some digging when I got here, you know? I went looking for anyone I might have known here, before......@Я тут покопался, когда вернулся, знаешь? Искал хоть кого-то, кого мог знать раньше......
+No one. Not a single person who knew me. Not a single person left to miss me, or even notice my absence!@Никого. Ни единого человека, который бы меня знал. Никого, кто бы по мне скучал или хотя бы заметил, что меня нет!
+I had my self stripped away from me, and it doesn't even matter! Because there was nothing here for me anyway!!@У меня отняли меня самого, и это даже не важно! Потому что меня тут всё равно ничего не ждало!!
+I can't imagine the same for Aledar. He must have had... someone.@Не могу представить того же для Аледара. У него наверняка кто-то был... кто-то близкий.
+I guess it doesn't matter. He's gone anyway, isn't he?@Хотя, наверное, это не важно. Его ведь всё равно больше нет, да?
+Why? Because you've been causing the crown problems ever since you broke in.@Почему? Потому что ты создаёшь Короне проблемы с тех самых пор, как сюда пробрался.
+Nobody will listen to anything not related to you... and for good reason! You massacred a fort of soldiers, you've killed Sovereign Zhiraok twice now...@Никто не станет слушать ничего, что не касается тебя... и не без причины! Ты вырезал целый форт солдат, ты дважды убил Суверена Жираока...
+Fine. You've killed Sovereign Zhiraok once, and... helped a second time...?@Ладно. Ты убил Суверена Жираока один раз, и... помог во второй...?
+...okay. And that isn't to mention the plot to kill the Queen.@...хорошо. И это я ещё молчу про заговор с целью убить Королеву.
+I know. I know. I tried to warn you, to get you to call it off, but...sigh. It doesn't matter now. It's already done.@Знаю. Знаю. Я пытался тебя предупредить, отговорить, но... эх. Теперь уже не важно. Дело сделано.
+...I'm sorry about the rest of your friends. The Leaves in the Wind. They... they seem like nice people.@...мне жаль остальных твоих друзей. "Листья на ветру". Они... они вроде хорошие люди.
+I've gotten off track. I had something I needed to tell you.@Я отвлёкся. Мне нужно было кое-что тебе сказать.
+...I think you should hear her out, but that's your choice to make. I just thought you should know.@...думаю, тебе стоит её выслушать, но решать тебе. Я просто счёл, что ты должен знать.
+...okay. I can do that. Who first?@...хорошо. Это я могу. С кого начнём?
+...me? I... I guess I'm one now, too. I'm still not sure how to feel about it, honestly. There's... two parts to it.@...с меня? Я... наверное, теперь я тоже один из них. Я всё ещё не знаю, как к этому относиться, честно. Тут... две стороны.
+Having authority and commanding soldiers, feels... strange. I don't know if I'll ever be used to it.@Иметь власть и командовать солдатами - ощущение... странное. Не знаю, привыкну ли я когда-нибудь.
+...who else?@...кто ещё?
+When I was ascending... he was the only one who bothered telling me what to expect ahead of time.@Когда я возносился... он был единственным, кто потрудился заранее рассказать, чего ждать.
+...he's not perfect. Nobody in these positions of power is. But he's the best Fruma has to offer.@...он не идеал. В таких креслах идеальных не бывает. Но он - лучшее, что может предложить Фрума.
+...Zhiraok says she neglected her district, and left it on him to pick up the slack. Was that because of the project, or... did she just not care?@...Жираок говорит, что она забросила свой округ и спихнула всё на него. Это из-за проекта, или... ей просто было плевать?
+I don't know. And, now... she's gone, either way.@Не знаю. Да и теперь... её всё равно больше нет.
+Eugh. He's... frustrating. I mean we both saw him during that tournament, right? He really thinks he's better than everyone else around him.@Тьфу. Он... выбешивает. Мы же оба видели его на том турнире, да? Он реально считает себя выше всех вокруг.
+What's annoying is that he actually has the skill to back those claims up! There's a reason he leads the military, after all. Apparently, he even taught himself magic!@Бесит то, что у него и правда есть навыки, чтобы это подкрепить! Не зря же он командует армией. Говорят, он даже сам освоил магию!
+...truth be told, I'm not unfamiliar with dealing with this kind of person. You've seen Kymer. I just... wish it didn't get to me as much as it does.@...по правде, мне не впервой иметь дело с такими типами. Ты же видел Кимера. Просто... жаль, что меня это так цепляет.
+I don't know much about them. I've only met them a few times, but they're... off-putting. I get the sense this is all just a game for them.@О них я мало что знаю. Виделись всего пару раз, но они... отталкивают. У меня ощущение, что для них это всё просто игра.
+...to tell you the truth... they scare me. I don't think there's a boundary they're unwilling to cross, in order to achieve results.@...честно говоря... они меня пугают. Не думаю, что есть черта, которую они не переступят ради результата.
+You might end up running into them while you're here. If you do... be careful, alright?@Возможно, ты на них тут наткнёшься. Если так... будь осторожен, ладно?
+He's... dangerous. I've only met him once, when I was ascending, but once was enough.@Он... опасен. Я видел его всего раз, когда возносился, но и одного раза хватило.
+In terms of sheer brute power, he has the most of any of the Sovereigns. You can feel it radiating off of him. He could crush you with barely a second thought, if he wanted.@По чистой грубой силе он сильнее всех Суверенов. Это буквально чувствуешь, как оно от него исходит. Захотел бы - раздавил бы тебя, почти не задумываясь.
+...luckily he stays at Gravity's Monolith for the most part. He won't be a problem if you just... stay away.@...к счастью, большую часть времени он торчит у Монолита Гравитации. Не доставит проблем, если ты просто... держись подальше.
+I would recommend you stay away. Take it as a warning from a friend.@Советую держаться подальше. Считай это предупреждением от друга.
+There's... nothing much to say. Not because I don't want to, but because I just don't know that much about her.@Тут... особо нечего сказать. Не потому что не хочу, а потому что я мало что про неё знаю.
+She keeps her secrets to herself. I've only even spoken to her a few times, and all of it was about...@Свои секреты она держит при себе. Я и говорил-то с ней всего пару раз, и всё это было про...
+...the project.@...проект.
+It's what I received the blessing for.@Именно за него я и получил благословение.
+I... don't want to talk about it, right now. It won't matter until all of this resolves, either way.@Я... не хочу сейчас об этом говорить. Это всё равно не будет важно, пока всё это не разрешится.
+She's done awful, horrible things. All of Fruma's problems trace themselves back to her, in some way.@Она творила ужасные, чудовищные вещи. Все беды Фрумы так или иначе тянутся к ней.
+But... there's more to her than that.@Но... она не только это.
+She made Fruma, for herself.@Она создала Фруму. Для себя.
+...it's rare to find someone who understands, you know? Of course, I've had you, and... and Aledar, but it's isolating. Even others from Fruma, they just... don't get it.@...редко встретишь того, кто понимает, знаешь? Конечно, был ты, и... и Аледар, но всё равно чувствуешь себя одиноким. Даже остальные из Фрумы просто... не понимают.
+So to have found someone who knows what it's like, who managed to forge her own path forward... that connection feels worth holding onto.@Так что найти того, кто знает, каково это, кто сумел проложить собственный путь... за такую связь хочется держаться.
+I should be going. And... you should get back to your friends.@Мне пора. А тебе... тебе стоит вернуться к друзьям.
+...you should be able to warn everybody in time this time around. Make sure nobody gets captured. If they do... it- it won't be pretty.@...в этот раз ты должен успеть всех предупредить. Проследи, чтобы никого не схватили. Если схватят... будет- будет паршиво.
+Now... go. Save the friends you still have left with you.@А теперь... иди. Спаси тех друзей, что у тебя ещё остались.

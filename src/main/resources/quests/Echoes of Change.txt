@@ -1476,3 +1476,11 @@ Tasim, what do you want?@Тасим, чего ты хочешь?
 What was that?! Soldiers, investigate the commotion!@Что это было?! Солдаты, разберитесь с шумом!
 # NOTE
 We need to get out of here.@Надо валить отсюда.
+
+# добавлено с вики
+Player, hurry!@<playername>, скорее!
+Player... why are you here?@<playername>... почему ты здесь?
+There's... something bigger than Fruma at stake.@На кону... нечто большее, чем Фрума.
+Of course it matters! There's real people getting hurt by the crown, and you think it doesn't matter?!@Конечно это важно! Корона калечит реальных людей, а ты думаешь, это не важно?!
+We're still friends, aren't we? I don't want you to get hurt.@Мы ведь всё ещё друзья, да? Я не хочу, чтобы ты пострадал.
+If only you hadn't come after me, then... well, it doesn't matter now. You're here anyway. If you're still safe after this, then... I'll find a way to reach out to you.@Если бы только ты не отправился за мной, тогда... ну, теперь уже не важно. Ты всё равно здесь. Если после всего этого ты уцелеешь, то... я найду способ с тобой связаться.

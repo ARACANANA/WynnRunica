@@ -1,7 +1,7 @@
 ﻿# Gana
-Welcome to the Bantisu Temple, wandering human. We aid travelers such as yourself in navigating the capricious canyon walls.@Добро пожаловать в храм Бантису, странствующий человек. Мы помогаем таким путникам, как ты, не потеряться среди капризных стен каньона.
+Welcome to Bantisu Temple, wandering human. We aid travelers such as yourself in navigating the capricious canyon walls.@Добро пожаловать в храм Бантису, странствующий человек. Мы помогаем таким путникам, как ты, не потеряться среди капризных стен каньона.
 # Gana
-We commune with the wind, and she gives us her sight. Wherever the breeze blows, we may see.@Мы говорим с ветром, и она делится с нами своим зрением. Куда дует бриз, туда может смотреть и наш взор.
+We commune with the wind, and she gives us her sight. Wherever the breeze blows, we may see.@Мы говорим с ветром, и он делится с нами своим зрением. Куда дует бриз, туда может смотреть и наш взор.
 # Gana
 You appear to be quite strong, and well-kept by your wits. Might we ask you to aid us, then?@Ты выглядишь крепким и, похоже, не обделённым мозгами. Так можем ли мы попросить тебя о помощи?
 # Gana

@@ -70,6 +70,10 @@ You still have a long way to go. It is not easy to gain an audience with Mistres
 Your next objective is to clear the Earth division. Some of the most powerful, raw creatures ever hatched.@Твоя следующая цель - пройти Земное подразделение. Там сидят одни из самых грубых и мощных существ, когда-либо вылупившихся здесь.
 # Qira
 Begin, the Earth Division! You must withstand both sheer force and deadly toxins! Be quick on your feet, or you will return to the dust of the earth!@Начинается Земное подразделение! Тебе придётся выдержать и грубую силу, и смертельные токсины! Будь пошустрее, иначе сам вернёшься в пыль земную!
+# (повествование)
+Seems you can move on... All you hear is a bloodcurdling roar. What lies ahead...?@Похоже, можно идти дальше... Слышишь только леденящий душу рёв. Что же там впереди...?
+# (повествование)
+Well, now that you've destroyed that terrible thing, it seems prudent to tell Yansur and get your Earth Voucher.@Что ж, раз с этой жутью покончено, самое время рассказать Янсуру и забрать земляной ваучер.
 # Yansur
 Creatures of the earth were not enough for you... Mistress's most rawly powerful... Destroyed.@Значит, даже существа земли оказались для тебя недостаточно сильны... Самые грубые и мощные творения госпожи... уничтожены.
 # Qira
@@ -130,6 +134,10 @@ You will die...but consider it the greatest honour to die by her hand.@Ты ум
 I await you in my chambers...@Я жду тебя в своих покоях...
 # Qira
 So, you've arrived. You have proven yourself very capable... I am looking forward to this bout! Let's dance, mortal!!@Итак, ты пришёл. Ты уже доказал, что кое-что умеешь... Я с нетерпением жду этого боя! Потанцуем, смертный!!
+# Qira
+...you. You...ahaha...I like you. You're capable enough... perhaps we could be allies in the future...@...ты. Ты... ахаха... а ты мне нравишься. Силёнок у тебя хватает... может, однажды мы могли бы стать союзниками...
+# (повествование)
+You defeated Qira! All that's left to do is to tell Yansur!@Ты победил Киру! Осталось только рассказать Янсуру!
 # Yansur
 How cowardly! After defeating so many in the Hive, and receiving such praise, you've the gall to upstand Mistress's request?@Какой позор! После всех побед в Улье и всех похвал ты ещё смеешь отвергать просьбу госпожи?
 # Yansur
@@ -156,4 +164,8 @@ With her boundless knowledge and magic, she surely could have cured it. But she 
 She instead chose to create, obsessed with preparing for some sort of war.@Вместо этого она выбрала путь созидания, одержимая подготовкой к какой-то войне.
 # Yansur
 Mistress never elaborated, but it seems like she knows something we don't.@Госпожа так и не объяснила всё до конца, но, похоже, она знает что-то, чего не знаем мы.
+# Qira
+It is as I have always told you. The darkness is coming...but if you Wynn folk are all as strong as you have proven yourself to be, we may just be able to beat it back. Honour to you, warrior of Wynn.@Всё так, как я тебе всегда и говорила. Тьма приближается... но если все вы, люди Винна, так же сильны, как ты сейчас доказал, у нас ещё есть шанс дать ей отпор. Честь тебе, воин Винна.
+# (повествование)
+The mysterious box accepts your tokens. You're free to move on to the next room.@Загадочный сундук принимает твои жетоны. Можешь идти в следующую комнату.
 

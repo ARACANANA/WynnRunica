@@ -73,7 +73,7 @@
 
 §7<em> Click to Unlock @ §a<em> §aНажмите чтобы открыть
 §7<em> Click to unlock this ability @ §a<em> §aНажмите чтобы открыть способность
-§7<em> Right-Click to undo @ §7<em> §7ПКМ чтобы отменить
+§7<em> Right-Click to undo @ §7<em> §eПКМ чтобы отменить
 
 # ── Сведено из классовых файлов (общие шаблоны) ──
 Air Mastery @ Мастерство Воздуха
@@ -185,11 +185,11 @@ Earth Mastery @ Мастерство Земли
 §c✖ Quest Req: The Worm @ §c✖ Треб. квест: The Worm
 §7§7Use this to reset your @ §7§7Используй, чтобы сбросить
 §cto reset your skill points @ §cсвои очки навыков
-§cto remove skill points @ §cубрать очки навыков
+§cto remove skill points @ §cчтобы убрать очки навыков
 §7§7Grants access to the @ §7§7Открывает доступ к
 §7§fAbility Tree §7while in a town. @ §7§fДереву Навыков §7в городе.
 §cNot in a safe zone @ §cНе в безопасной зоне
-§cYou need to be inside a town @ §cНужно быть в городе
+§cYou need to be inside a town @ §cНужно быть в городе,
 §7Right-click to use @ §7ПКМ, чтобы использовать
 §7§a✔ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§a✔ §7Мин. Архетип Стрелка: §f§f<num>§7/<num>
 §7§c✖ §7Min Boltslinger Archetype: §f§f<num>§7/<num> @ §7§c✖ §7Мин. Архетип Стрелка: §f§f<num>§7/<num>

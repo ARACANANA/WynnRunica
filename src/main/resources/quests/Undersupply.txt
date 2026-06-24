@@ -213,3 +213,6 @@ Hm. Hm, hm, hm... I should keep better track of the ledgers. If I had noticed ea
 # Butler Hayn
 Stay out of trouble from now on. The beginning of strife is as when one lets out water.@Теперь постарайся не вляпываться в неприятности. Ведь начало раздора похоже на воду, которую однажды выпустили наружу.
 
+
+# добавлено с вики
+Time to clean...@Пора прибраться...

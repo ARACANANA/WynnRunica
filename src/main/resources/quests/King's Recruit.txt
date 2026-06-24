@@ -201,3 +201,17 @@ It also lets you track any content you want, which will create a beacon you can 
 # Tasim
 Well, there you go! I'm going to head off to the end of the Emerald Trail, to the entrance of the Nivla Woods. You should meet me there once you've gotten a little stronger.@Ну вот, теперь всё норм! А я двину к концу Изумрудной тропы, ко входу в лес Нивла. Подтягивайся туда, когда станешь чуть посильнее.
 
+
+# King's Recruit (добавлено с вики)
+Welcome to the Province of Wynn! By your ragged appearance, I gather your journey here must have been quite the adventure.@Добро пожаловать в провинцию Винн! Судя по вашему потрёпанному виду, путь сюда выдался для вас тем ещё приключением.
+This, recruits, is the noble fort of Ragni, one of the great cities of our province!@Это, новобранцы, благородный форт Рагни, один из великих городов нашей провинции!
+As soldiers of Wynn, it is your duty to stem the tide of corrupted monsters ravaging this land.@Как солдаты Винна, вы обязаны сдерживать натиск чудовищ, поражённых Порчей, что разоряют эту землю.
+Although, you may want to gain some experience beforehand. Many lives are tragically lost every day...@Хотя, возможно, сперва вам стоит набраться опыта. Каждый день трагически обрывается множество жизней...
+With that, I must bid you farewell, more recruits may arrive at any time. Good luck out there, soldiers of Wynn!@На этом я вынужден с вами проститься, в любой момент могут прибыть новые рекруты. Удачи вам там, солдаты Винна!
+So! Wynn, huh? It's pretty exciting to finally be here.@Ну что! Винн, да? Прикольно наконец-то тут оказаться.
+I can't wait to discover what it looks like for myself!@Жду не дождусь увидеть всё своими глазами!
+Ha, well, I think I'm going to head in the direction of Detlas soon, although there seems to be something called Nivla Woods on the way...@Ха, ну, я, наверное, скоро двину в сторону Детласа, хотя по пути вроде есть что-то под названием лес Нивла...
+Enough talking already! Let's get out there and help some people!@Хватит уже болтать! Пошли наружу, поможем людям!
+And he's gone again... Well, I'm sure we'll be seeing him soon enough. For now, let's just see what Wynn really is like.@И снова он умчался... Ну, уверен, скоро его увидим. А пока давай просто посмотрим, что из себя представляет Винн.
+It also lets you track any content you want, which will create beacons for you to follow.@А ещё он позволяет отслеживать любой контент по твоему выбору, создавая маяки, по которым можно идти.
+There you go! I'm going to head towards Nivla Woods, at the end of the Emerald Trail.@Ну вот! А я двину к лесу Нивла, в конце Изумрудной тропы.

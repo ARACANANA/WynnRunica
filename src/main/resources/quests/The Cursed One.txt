@@ -1061,3 +1061,6 @@ Zhiraok's speech.@Речь Жираока.
 They didn't mention Torann.@Они не упомянули Торанн.
 # NOTE
 The cursed.@Проклятые.
+
+# добавлено с вики
+Player, hey!@<playername>, эй!

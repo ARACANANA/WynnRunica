@@ -1451,3 +1451,9 @@ Tasim.@Тасим.
 There's a letter placed into the pot. Read it?@В горшок вложено письмо. Прочитать?
 # NOTE
 It seems there's more text on the other side. Read it?@Похоже, на обороте ещё текст. Прочитать?
+
+# добавлено с вики
+Player!!!@<playername>!!!
+Player.@<playername>.
+Ahem. Player.@Кхм. <playername>.
+...Player. Hey.@...<playername>. Эй.

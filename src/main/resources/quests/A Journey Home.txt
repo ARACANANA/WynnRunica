@@ -1,4 +1,4 @@
-﻿# NOTE
+# NOTE
 The <playername> knocks on the door.@<playername> стучит в дверь.
 # NOTE
 First attempt:@Первая попытка:
@@ -149,7 +149,7 @@ Good stuff. There's a loot chest in that cave there, so you should find everythi
 # Soldier
 Enter the cave and open the loot chest.@Зайди в пещеру и открой сундук с лутом.
 # Soldier
-That looks like the stuff. You can take that armor to an Item Identifier right there, and then you can wear it once identified.@Вот, уже лучше. Можешь отнести эту броню к опознавателю предметов вон там, а потом спокойно наденешь её после опознания.
+You can take that armor to an Item Identifier right there, and then you can wear it once identified.@Можешь отнести эту броню к опознавателю предметов вон там, а потом спокойно наденешь её после опознания.
 # Soldier
 Though... since you seem to be heading back to the border... I have to ask why. It's pretty unusual. Probably best you head back to Ragni.@Хотя... раз ты, похоже, идёшь обратно к границе... надо спросить, зачем. Это довольно странно. Лучше бы тебе вернуться в Рагни.
 # Soldier
@@ -171,7 +171,7 @@ We'll make it a point to ask as soon as we can. Information's key to fighting wa
 # Fruman Recruit
 ...rotten driver. I feel for the man, but he said he always hits that boulder. Sounds like his own fault to me.@...водила у нас, конечно, тот ещё. Мне его даже жаль, но он сам сказал, что всегда врезается в тот камень. По-моему, сам виноват.
 # Fruman Recruit
-I'm thinking about meals more than wheels. I feel like I haven't eaten in days. Hope the walk's short...@Я сейчас больше о жратве думаю, чем о колёсах. Такое чувство, будто не ел сто лет. Надеюсь, идти недалеко...
+I'm thinking about meals more than wheels. I feel like I haven't eaten in days. Hope the walk's short...@Я сейчас больше о жратве думаю, чем о колёсах. Такое чувство, будто не ела сто лет. Надеюсь, идти недалеко...
 # Fruman Recruit
 Well, if he was a more competent driver you wouldn't have to walk so far on an empty stomach! Let's hurry so we can get you a feast, huh?@Ну, будь он водителем получше, тебе не пришлось бы тащиться пешком на пустой желудок! Давай пошевелимся, глядишь, скоро и до еды доберёмся.
 # Fruman Recruit
@@ -395,3 +395,4 @@ Though, I certainly am no expert! But I can handle the tools well enough, and th
 Bye, for now.@Пока, до встречи.
 # Mora
 Farewell, stranger! I hope that you will return home safely.@Прощай, незнакомец! Надеюсь, ты благополучно вернёшься домой.
+That looks like the stuff. See? That wasn't so hard. Alright, now!@Вот, уже лучше. Видишь? Это было не так уж и сложно. Ладно, сейчас же!

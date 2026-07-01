@@ -1,5 +1,5 @@
-﻿# Excited Fan
-Hmm.. I might have just enough for one tier 3... Why are you standing there?@Хмм.. Кажется, мне как раз хватает на один тир 3... Чего встал?
+# Excited Fan
+Hmm... I might have just enough for one tier 3... Why are you standing there?@Хмм.. Кажется, мне как раз хватает на один тир 3... Чего встал?
 # Excited Fan
 What all these people are here for? Don't tell me you don't know about the Siegfried contest.@Не понимаешь, чего тут столько людей? Только не говори, что ты не знаешь про конкурс Зигфрида.
 # Excited Fan
@@ -379,3 +379,5 @@ Look over there! Those must be fireworks to celebrate my victory!@Гляньте
 Well, anyways! You had a really bad fall in that cave there. I carried you out myself, you must've had some wild hallucinations.@Ну, в общем! Ты там, в пещере, очень неудачно упал. Я сам вынес тебя, у тебя, должно быть, были дикие галлюцинации.
 # Зигфрид
 I must return to Ahmsord for the celebration now. Perhaps we will meet again at the next scavenger hunt!@Теперь мне пора вернуться в Амсорд на торжество. Быть может, мы снова встретимся на следующей охоте за сокровищами!
+The first two, they're for the common folk. But if you REALLY want to win, you need a tier 3 item.@Первые два, они для простых людей. Но если ты ДЕЙСТВИТЕЛЬНО хочешь выиграть, то тебе нужен предмет 3-го уровня.
+[+1 Scavenger Hunt Ticket]@[+1 Билет охотника сокровищ]

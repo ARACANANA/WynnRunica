@@ -1,4 +1,4 @@
-﻿# Barkeep Romu
+# Barkeep Romu
 Oho, now that's some dress I've not seen in many a moon! You're one of those Highlands folk, aren't ya? Quite some luxury ya must've lived with.@Охо, вот это прикид, такого я уже сто лун не видел! Ты ж из Нагорья, да? Видать, жил там с хорошим комфортом.
 # Barkeep Romu
 's a bit more humble down here in the shadow of the dam. Surprised someone like you would take the trip, but it ain't a complaint. Getting about to see the world is a fine endeavor!@Тут, в тени дамбы, всё куда поскромнее. Удивительно, что такой, как ты, вообще сюда забрёл, но я не жалуюсь. Мир посмотреть - дело хорошее!
@@ -216,3 +216,6 @@ Stay out of trouble from now on. The beginning of strife is as when one lets out
 
 # добавлено с вики
 Time to clean...@Пора прибраться...
+It seems like an issue is plaguing the villagers. Try asking around to see what you can do.@Похоже, местных жителей что-то беспокоит. Расспросите их и узнайте, чем можно помочь.
+The water should be active now. You should return back into the dam .@Вода снова должна течь. Возвращайтесь внутрь плотины.
+The water is flowing again. You should follow it to see where it goes.@Вода снова течёт. Проследите за потоком и узнайте, куда он ведёт.

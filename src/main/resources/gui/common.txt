@@ -187,7 +187,7 @@ Earth Mastery @ Мастерство Земли
 §cto reset your skill points @ §cсвои очки навыков
 §cto remove skill points @ §cчтобы убрать очки навыков
 §7§7Grants access to the @ §7§7Открывает доступ к
-§7§fAbility Tree §7while in a town. @ §7§fДереву Навыков §7в городе.
+§7§fAbility Tree §7while in a town. @ §7§fДерево Навыков §7в городе.
 §cNot in a safe zone @ §cНе в безопасной зоне
 §cYou need to be inside a town @ §cНужно быть в городе,
 §7Right-click to use @ §7ПКМ, чтобы использовать
